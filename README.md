@@ -1,2 +1,1 @@
-# sv
-Swedish OmegaT Localisation
+# Swedish OmegaT Localisation
