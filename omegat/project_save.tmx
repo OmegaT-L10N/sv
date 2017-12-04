@@ -419,6 +419,14 @@ unescape
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220157Z" creationid="Kos Ivantsov" creationdate="20171204T220157Z">
+        <seg>&amp;Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T193849Z">
@@ -739,6 +747,14 @@ unescape
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170729T080605Z">
         <seg>&amp;Anteckningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220153Z" creationid="Kos Ivantsov" creationdate="20171204T220153Z">
+        <seg>&amp;OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -1392,6 +1408,22 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220313Z" creationid="Kos Ivantsov" creationdate="20171204T220313Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220317Z" creationid="Kos Ivantsov" creationdate="20171204T220317Z">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 		Source- or target-language tokenizer to use (overrides project
@@ -1606,6 +1638,14 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200913Z">
         <seg>&lt;Inga förslag&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220203Z" creationid="Kos Ivantsov" creationdate="20171204T220203Z">
+        <seg>&lt;auto&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2154,6 +2194,14 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200455Z">
         <seg>Gör det möjligt att visa, lägga till, ta bort eller redigera en anteckning i det aktiva segmentet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alt+F2</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220434Z" creationid="Kos Ivantsov" creationdate="20171204T220434Z">
+        <seg>Alt+F2</seg>
       </tuv>
     </tu>
     <tu>
@@ -8527,6 +8575,14 @@ also --&gt; still
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220141Z" creationid="Kos Ivantsov" creationdate="20171204T220141Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Javadoc...</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T193319Z">
@@ -10918,6 +10974,14 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T124222Z">
         <seg>Se nedan för detaljer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220445Z" creationid="Kos Ivantsov" creationdate="20171204T220445Z">
+        <seg>Segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -14629,6 +14693,22 @@ Men kan inte förstå varför i SRC code
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220437Z" creationid="Kos Ivantsov" creationdate="20171204T220437Z">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220432Z" creationid="Kos Ivantsov" creationdate="20171204T220432Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T204012Z">
@@ -14711,6 +14791,14 @@ Men kan inte förstå varför i SRC code
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220150Z" creationid="Kos Ivantsov" creationdate="20171204T220150Z">
+        <seg>{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T060422Z">
@@ -14767,10 +14855,42 @@ Men kan inte förstå varför i SRC code
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220146Z" creationid="Kos Ivantsov" creationdate="20171204T220146Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220148Z" creationid="Kos Ivantsov" creationdate="20171204T220148Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220144Z" creationid="Kos Ivantsov" creationdate="20171204T220144Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}:	cleanup done!!</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T212226Z">
         <seg>{0}:	cleanup färdigt!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220143Z" creationid="Kos Ivantsov" creationdate="20171204T220143Z">
+        <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
     <tu>
