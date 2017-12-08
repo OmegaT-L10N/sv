@@ -1898,6 +1898,9 @@ Aktuell inställning är {0}MB;</seg>
       <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T193821Z">
+        <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introductionp</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
