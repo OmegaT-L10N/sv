@@ -3464,8 +3464,8 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T105348Z">
-        <seg>Gör '&amp;commit' på källfiler</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T183429Z">
+        <seg>Protokollför ('&amp;commit') ändringar i källfiler</seg>
       </tuv>
     </tu>
     <tu>
