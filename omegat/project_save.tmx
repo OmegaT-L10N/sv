@@ -3488,16 +3488,16 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171117T101026Z">
-        <seg>Gör 'commit' för källfiler</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T185616Z">
+        <seg>Protokollför ('commit') ändringar i källfiler</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T181558Z" creationid="mini-me" creationdate="20171208T181558Z">
-        <seg>Gör 'commit' på målfiler</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T185657Z" creationid="mini-me" creationdate="20171208T181558Z">
+        <seg>Protokollför ('commit') ändringar i målfiler</seg>
       </tuv>
     </tu>
     <tu>
@@ -5571,6 +5571,14 @@ inte "kompilera"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T212210Z">
         <seg>Kunde inte läsa översättningsminne {0} för projektet!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T185730Z" creationid="mini-me" creationdate="20171208T185730Z">
+        <seg>Det gick inte att uppdatera projekt properties</seg>
       </tuv>
     </tu>
     <tu>
