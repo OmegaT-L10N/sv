@@ -249,6 +249,13 @@
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
@@ -6108,6 +6115,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Glossary Matches</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Glossary auto-completer options</seg>
       </tuv>
@@ -7273,6 +7287,8 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
@@ -7739,6 +7755,13 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T062750Z">
         <seg>Markera som "Accepterad"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Mark Glossary Matches</seg>
       </tuv>
     </tu>
     <tu>
@@ -9034,6 +9057,13 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171037Z">
         <seg>Alternativ för OpenDocument-filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Opening team project</seg>
       </tuv>
     </tu>
     <tu>
