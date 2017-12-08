@@ -5526,8 +5526,8 @@ efterbearbetning	  91 k
       <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T180235Z" creationid="mini-me" creationdate="20171208T180235Z">
-        <seg>Det gick inte att göra 'commit' på källfiler!</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T185058Z" creationid="mini-me" creationdate="20171208T180235Z">
+        <seg>Det gick inte att protokollföra ('commit') källfiler!</seg>
       </tuv>
     </tu>
     <tu>
