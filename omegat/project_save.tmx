@@ -1741,6 +1741,14 @@ Aktuell inställning är {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Team projects&lt;/s1&gt; &lt;s2&gt;Team projects&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T192229Z" creationid="mini-me" creationdate="20171208T192229Z">
+        <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Teamprojekt&lt;/s1&gt; &lt;s2&gt;Teamprojekt&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T170952Z">
@@ -3462,6 +3470,10 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+
+denna har inget &amp; i Source
+</note>
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
@@ -3581,6 +3593,13 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T114323Z">
         <seg>Konflikt {0} av {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Conflicts - for instance alternative translations of the same segment or glossary entry - can be monitored, resolved and merged</seg>
       </tuv>
     </tu>
     <tu>
@@ -5306,6 +5325,13 @@ eskejpat tecken?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T192517Z">
         <seg>Händelse: projektet ändrades - "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Every three minutes by default, an updated version of data shared is available to the rest of the team</seg>
       </tuv>
     </tu>
     <tu>
@@ -8655,6 +8681,13 @@ also --&gt; still
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT Team Projects</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT User Interface Language</seg>
       </tuv>
@@ -8778,6 +8811,13 @@ installed on your system.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170808T173420Z">
         <seg>OmegaT kräver Java Runtime Environment (JRE) version 1.8 eller högre för att kunna
 installeras i ditt system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT supports two of the popular version control systems (VCS for short), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (often abbreviated SVN, after the command name svn) and &lt;u1&gt;Git&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9218,8 +9258,6 @@ consistency?
       </tuv>
     </tu>
     <tu>
-      <note>
-</note>
       <tuv lang="EN">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
@@ -11406,6 +11444,13 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
@@ -12539,6 +12584,20 @@ Försök att rätta till felet och ladda om projektet.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
@@ -12786,6 +12845,13 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The system maintains versioning for data shared</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
       </tuv>
@@ -12918,6 +12984,13 @@ konfigurationsmapp bestämmas säkert.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T102446Z">
         <seg>De är skyddade så att du inte kan ändra deras innehåll, men du kan radera dem, skriva in dem för hand eller flytta runt dem i målsegmentet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>They can share common material, like project translation memory and its glossary</seg>
       </tuv>
     </tu>
     <tu>
@@ -14056,6 +14129,13 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T183244Z">
         <seg>Varianter i följande språk kommer visas: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Version control - introduction</seg>
       </tuv>
     </tu>
     <tu>
