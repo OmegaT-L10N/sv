@@ -9209,14 +9209,16 @@ consistency?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171107T211535Z">
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T183249Z">
         <seg>Placera källfiler i ./source och tilläggsmaterial
-i ./tm, ./glossary och ./dictionary efter behov, och gör sedan "commit"
+i ./tm, ./glossary och ./dictionary efter behov, och gör sedan "commit" (protokollför)
 på allting.</seg>
       </tuv>
     </tu>
