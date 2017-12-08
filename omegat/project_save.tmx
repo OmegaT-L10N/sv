@@ -3472,8 +3472,8 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       <tuv lang="EN">
         <seg>Commit Target Files</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T105405Z" creationid="mini-me" creationdate="20171208T105242Z">
-        <seg>Gör 'commit' på målfiler</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T184620Z" creationid="mini-me" creationdate="20171208T105242Z">
+        <seg>Protokollför ('commit') ändringar i målfiler</seg>
       </tuv>
     </tu>
     <tu>
