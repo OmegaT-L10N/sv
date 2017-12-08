@@ -3494,6 +3494,14 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T181558Z" creationid="mini-me" creationdate="20171208T181558Z">
+        <seg>Gör 'commit' på målfiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T104355Z">
