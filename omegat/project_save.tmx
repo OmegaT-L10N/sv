@@ -5523,6 +5523,14 @@ efterbearbetning	  91 k
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T180258Z" creationid="mini-me" creationdate="20171208T180258Z">
+        <seg>Det gick inte att göra 'commit' på målfiler!!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>x misslyckas
 inte "kompilera"
 </note>
