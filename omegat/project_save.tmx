@@ -527,8 +527,8 @@ unescape
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T105609Z" creationid="mini-me" creationdate="20171208T105609Z">
-        <seg>&amp;Ignorera träffar med mycket annorlunda skiftläge (e.g. FOO vs foo)</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T112258Z" creationid="mini-me" creationdate="20171208T105609Z">
+        <seg>&amp;Ignorera träffar med mycket annorlunda skiftläge (t.ex. GRODA jfr groda)</seg>
       </tuv>
     </tu>
     <tu>
