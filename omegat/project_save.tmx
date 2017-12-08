@@ -9225,9 +9225,9 @@ consistency?
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T191453Z">
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T191538Z">
         <seg>Placera källfiler i ./source och tilläggsmaterial
-i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") sedan allting.</seg>
+i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") sedan alla ändringar.</seg>
       </tuv>
     </tu>
     <tu>
