@@ -830,7 +830,8 @@ unescape
       </tuv>
     </tu>
     <tu>
-      <note>
+      <note>Uppdatera engelska?
+Properties --&gt; Settings?
 </note>
       <tuv lang="EN">
         <seg>&amp;Properties...</seg>
@@ -5577,8 +5578,8 @@ inte "kompilera"
       <tuv lang="EN">
         <seg>Failed to update project properties</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T185730Z" creationid="mini-me" creationdate="20171208T185730Z">
-        <seg>Det gick inte att uppdatera projekt properties</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T191024Z" creationid="mini-me" creationdate="20171208T185730Z">
+        <seg>Det gick inte att uppdatera projektinställningar</seg>
       </tuv>
     </tu>
     <tu>
