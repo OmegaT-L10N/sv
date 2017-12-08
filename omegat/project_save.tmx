@@ -9218,17 +9218,16 @@ consistency?
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
+      <note>
 </note>
       <tuv lang="EN">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T183249Z">
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T191453Z">
         <seg>Placera källfiler i ./source och tilläggsmaterial
-i ./tm, ./glossary och ./dictionary efter behov, och gör sedan "commit" (protokollför)
-på allting.</seg>
+i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") sedan allting.</seg>
       </tuv>
     </tu>
     <tu>
