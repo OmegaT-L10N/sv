@@ -9517,6 +9517,13 @@ ytterligare åtgärder behöver vidtas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Predefined credentials was not passed.</seg>
       </tuv>
