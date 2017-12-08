@@ -11704,8 +11704,8 @@ GlossaryAutoCompleterOptionsPanel.java: 108
       <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171117T101115Z">
-        <seg>'commit' utförd för källfiler</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T191931Z">
+        <seg>Ändringar i källfiler har protokollförts ('commit')</seg>
       </tuv>
     </tu>
     <tu>
