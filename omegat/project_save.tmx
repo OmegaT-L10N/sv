@@ -522,13 +522,11 @@ unescape
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T121235Z" creationid="mini-me" creationdate="20171208T105609Z">
-        <seg>§§&amp;Ignorera träffar med mycket annorlunda skiftläge (t.ex. GRODA jfr groda)</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171208T175828Z" creationid="mini-me" creationdate="20171208T105609Z">
+        <seg>&amp;Ignorera träffar med stor skillnad i skiftläge (t.ex. GRODA / groda)</seg>
       </tuv>
     </tu>
     <tu>
