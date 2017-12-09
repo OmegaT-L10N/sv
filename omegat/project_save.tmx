@@ -2478,6 +2478,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>An error occurred</seg>
       </tuv>
@@ -3025,6 +3032,42 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Zhdanov</note>
+      <tuv lang="EN">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220431Z" creationid="mini-me" creationdate="20171209T220431Z">
+        <seg>Av Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220208Z" creationid="mini-me" creationdate="20171209T220208Z">
+        <seg>Av Susan Welsh (Open Document-format).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220223Z" creationid="mini-me" creationdate="20171209T220223Z">
+        <seg>Av Susan Welsh (PDF-format).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+
+kolla </note>
+      <tuv lang="EN">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220419Z" creationid="mini-me" creationdate="20171209T220419Z">
+        <seg>Av Vladimir Zjdanov (på Ryska).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6617,6 +6660,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>HTML user manual online</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>HTML, XHTML, ODF and Infix segmentation</seg>
       </tuv>
@@ -7469,6 +7519,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Issues/bugs tracking system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9346,6 +9403,13 @@ also --&gt; still
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
     </tu>
@@ -9409,6 +9473,13 @@ your home folder.</seg>
         <seg>OmegaT har nekats åtkomst till de systemegenskaper som
 innehåller namnet på ditt OS och/eller de systemegenskaper
 som innehåller din arbetsmapp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13348,6 +13419,13 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
@@ -13499,6 +13577,13 @@ användas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171129Z">
         <seg>Följande alternativ gäller endast 3.x-filtret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The following tutorials are available online/for download:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13796,6 +13881,13 @@ translated -&gt; target
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
@@ -14082,6 +14174,13 @@ från servern.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170805T201238Z">
         <seg>För att vara säker på att ingen översättning går förlorad måste du:
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14466,6 +14565,14 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T071018Z">
         <seg>Översättarens kommentarer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220142Z" creationid="mini-me" creationdate="20171209T220142Z">
+        <seg>Självstudier</seg>
       </tuv>
     </tu>
     <tu>
@@ -15052,6 +15159,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>User manual online</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>User manuals</seg>
       </tuv>
@@ -15545,6 +15659,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170724T190615Z">
         <seg>Du kan lägga till en ny term till gloslistan genom att trycka &lt;k0&gt;CTRL + SHIFT + G&lt;/k0&gt;, eller kopiera existerande gloslistor till undermappen &lt;f1&gt;/glossary/&lt;/f1&gt; i din projektmapp, så kommer OmegaT automatiskt att slå upp ord i dem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
       </tuv>
     </tu>
     <tu>
