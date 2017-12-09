@@ -8113,6 +8113,9 @@ ViewOptionsPanel.java: 113
       <tuv lang="EN">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T103734Z">
+        <seg>Ändringar av originaldokumentet hanteras därför lättare.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
