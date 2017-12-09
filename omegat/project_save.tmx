@@ -7847,6 +7847,14 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Left:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T111216Z" creationid="mini-me" creationdate="20171209T111216Z">
+        <seg>Vänster:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
