@@ -11917,6 +11917,13 @@ kanske reload istället?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Requirements</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Reset</seg>
       </tuv>
@@ -13593,6 +13600,14 @@ kan man skicka en flagga till OmegaT?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T195248Z">
         <seg>Synkroniseringsfel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System requirements</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221703Z" creationid="mini-me" creationdate="20171209T221703Z">
+        <seg>Systemkrav</seg>
       </tuv>
     </tu>
     <tu>
