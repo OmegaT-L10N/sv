@@ -13134,6 +13134,9 @@ konfigurationsmapp bestämmas säkert.</seg>
       <tuv lang="EN">
         <seg>These translation memories can be very useful when a document that has already been translated needs to be updated.</seg>
       </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T103013Z">
+        <seg>Dessa översättningsminnen kan vara väldigt användbara när ett dokument som redan har översatts behöver uppdateras.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -13863,6 +13866,9 @@ Exakta sökningar matchar hela söksträngen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T103131Z">
+        <seg>Meningar som inte har ädrats översätts automatiskt, medan uppdaterade meningar visas med översättningen av den mest lika, äldre meningen.</seg>
       </tuv>
     </tu>
     <tu>
