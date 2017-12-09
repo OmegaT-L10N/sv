@@ -1687,6 +1687,9 @@ Aktuell inställning är {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file.</seg>
       </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T102436Z">
+        <seg>&lt;e0&gt;Översättningsminne:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; sparar dina översättningar i en fil.</seg>
+      </tuv>
     </tu>
     <tu>
       <note>Not OK
