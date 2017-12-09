@@ -2023,6 +2023,20 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
@@ -4632,6 +4646,14 @@ denna har inget &amp; i Source
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221758Z" creationid="mini-me" creationdate="20171209T221758Z">
+        <seg>Detaljerade instruktioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Details unavailable</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T212407Z">
@@ -4644,6 +4666,13 @@ denna har inget &amp; i Source
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T054945Z">
         <seg>Identifierar…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Developer Version</seg>
       </tuv>
     </tu>
     <tu>
@@ -5042,6 +5071,13 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>DokuWiki</seg>
       </tuv>
@@ -5236,6 +5272,13 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T063053Z">
         <seg>Under SVN-fel({0}),
 laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6432,6 +6475,20 @@ inte "kompilera"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
@@ -6604,6 +6661,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T221510Z" creationid="mini-me" creationdate="20171209T221510Z">
         <seg>För installation på andra operativsystem (som FreeBSD och Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For most users, these are not of interest.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7153,6 +7217,13 @@ history historik
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
       </tuv>
     </tu>
@@ -7368,6 +7439,13 @@ till standard som följd av platsändringen.</seg>
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 Not OK
 </note>
       <tuv lang="EN">
@@ -7380,6 +7458,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170814T100146Z">
         <seg>Om du behöver komma åt andra inställningar i denna dialog, kan du återvända till den när som helst genom att trycka &lt;k0&gt;CTRL + E&lt;/k0&gt;-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7409,6 +7494,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"please enter here" --&gt; "please enter"
 </note>
       <tuv lang="EN">
@@ -7429,6 +7521,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If you have already Java installed on your system, one way to install OmegaT
 is to use Java Web Start.</seg>
@@ -7436,6 +7535,13 @@ is to use Java Web Start.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T122944Z">
         <seg>Om du redan har Java installerat i ditt system, är Java Web Start ett sätt att
 installera OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7580,6 +7686,20 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>In so&amp;urce</seg>
       </tuv>
@@ -7600,6 +7720,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
       </tuv>
     </tu>
     <tu>
@@ -7970,6 +8097,13 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>indentify?
 </note>
       <tuv lang="EN">
@@ -8003,6 +8137,13 @@ inuti konfigurationsmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170801T095559Z">
         <seg>Det gick inte att skapa översatta dokument eftersom några taggar saknas eller är skadade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It will however lack some of the features of the "Latest" version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8061,6 +8202,13 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T230034Z">
         <seg>Element</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8462,6 +8610,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221837Z" creationid="mini-me" creationdate="20171209T221837Z">
+        <seg>Senaste versionen - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launch the installation program.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170729T075359Z">
@@ -8537,6 +8693,20 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T111216Z" creationid="mini-me" creationdate="20171209T111216Z">
         <seg>Vänster:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Legacy versions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8711,6 +8881,14 @@ vid första körningen.</seg>
 </note>
       <tuv lang="EN">
         <seg>MS Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9151,6 +9329,13 @@ ViewOptionsPanel.java: 113
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
@@ -9386,6 +9571,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T175551Z">
         <seg>Därefter öppnas dialogen &lt;g0&gt;Projektfiler&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Nightly Builds</seg>
       </tuv>
     </tu>
     <tu>
@@ -9887,7 +10079,21 @@ also --&gt; still
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9945,6 +10151,13 @@ och översättningshantering till uppdaterade projekt.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T083320Z">
         <seg>OmegaT är ett fritt multiplattformsverktyg för datorstödd översättning baserat på öppen källkod, som har suddig matchning, översättningsminne, nyckelordssökning, gloslistor och översättningshantering till uppdaterade projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10117,6 +10330,13 @@ installeras i ditt system.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T045716Z">
         <seg>OmegaT öppnar upp ett segment åt gången, som du ska översätta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT will run on any system on which the JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10583,6 +10803,14 @@ i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") se
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221737Z" creationid="mini-me" creationdate="20171209T221737Z">
+        <seg>Plattform</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -10858,6 +11086,13 @@ ytterligare åtgärder behöver vidtas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Predefined credentials was not passed.</seg>
       </tuv>
@@ -10997,6 +11232,13 @@ ett lokalt projekt utan teamfunktioner.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T180456Z">
         <seg>Tidigare deltagare inkluderar:
 (alfabetisk ordning)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12977,6 +13219,14 @@ Visas i fönstret "Skriptverktyg"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Simple search and replace script</seg>
       </tuv>
@@ -13399,6 +13649,13 @@ entered vs. specified
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T165508Z">
         <seg>Dela text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14028,6 +14285,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The "/trunk" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
       </tuv>
     </tu>
@@ -14061,11 +14325,32 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T204245Z">
         <seg>Filtret för Java Resource Bundle kastade ett undantag:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Latest version is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14104,6 +14389,13 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T183143Z">
         <seg>PO-filtret kastade ett undantag:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Standard version has usually been in use for some time and is therefore proven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14151,7 +14443,28 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The application runs on your machine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14203,6 +14516,13 @@ användas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T075819Z">
         <seg>Aktuellt projekt måste läsas in på nytt för att ändringarna ska börja gälla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14329,6 +14649,13 @@ här heter det "memory"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T175132Z">
         <seg>Lösenorden stämmer inte överens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14581,6 +14908,13 @@ translated -&gt; target
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T204820Z">
         <seg>Det finns inga lokala arbetskopior i {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>There may be a delay in publishing signed versions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14881,6 +15215,13 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T182544Z">
         <seg>För att redigera vilka filer med vilken kodning som filtret processar, välj filtret i listan och klicka på Redigera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15285,6 +15626,13 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T071018Z">
         <seg>Översättarens kommentarer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Trunk</seg>
       </tuv>
     </tu>
     <tu>
@@ -15901,6 +16249,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>User requirements</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:</seg>
@@ -15916,6 +16271,20 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T170443Z">
         <seg>Användarnamn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16311,6 +16680,21 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With/without JRE</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221926Z" creationid="mini-me" creationdate="20171209T221926Z">
+        <seg>Med/utan JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Without JRE</seg>
       </tuv>
@@ -16540,6 +16924,13 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T085527Z">
         <seg>Men du kan få en snyggare och mer användarvänlig installation genom
 att använda installations-skriptet (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17071,6 +17462,22 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T064143Z">
         <seg>value (för 'button', '&amp;submit' och 'reset')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221827Z" creationid="mini-me" creationdate="20171209T221827Z">
+        <seg>{% else %} &lt;a0&gt;Ladda ner&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221818Z" creationid="mini-me" creationdate="20171209T221818Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Ladda ner&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
