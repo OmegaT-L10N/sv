@@ -1348,6 +1348,30 @@ inte ser ditt namn på listan är du välkommen att höra av dig.)</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>(In English)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221210Z" creationid="mini-me" creationdate="20171209T221210Z">
+        <seg>(på engelska)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In Italian)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221121Z" creationid="mini-me" creationdate="20171209T221121Z">
+        <seg>(på italienska)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In Russian)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221236Z" creationid="mini-me" creationdate="20171209T221236Z">
+        <seg>(på ryska)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>'Files to translate' &gt; 'File formats'?
 
 Detta refererar till manualen. När denna finns översatt ska detta segment kollas igen.
@@ -3008,6 +3032,22 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Blog pages on OmegaT.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221159Z" creationid="mini-me" creationdate="20171209T221159Z">
+        <seg>Bloggsidor om OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blogs</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221134Z" creationid="mini-me" creationdate="20171209T221134Z">
+        <seg>Bloggar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T093307Z">
@@ -3083,6 +3123,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Marco Cevoli and Sergio Alasia.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221107Z" creationid="mini-me" creationdate="20171209T221107Z">
+        <seg>Av Marco Cevoli och Sergio Alasia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7154,6 +7202,13 @@ den fullständiga sökvägen anges.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
@@ -7198,6 +7253,14 @@ till standard som följd av platsändringen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T080342Z">
         <seg>Om filtret har alternativ, kan du ändra dem genom att klicka på Alternativ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7547,6 +7610,14 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170723T194247Z">
         <seg>Installera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221304Z" creationid="mini-me" creationdate="20171209T221304Z">
+        <seg>Installationstyp</seg>
       </tuv>
     </tu>
     <tu>
@@ -8359,6 +8430,13 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T070114Z">
         <seg>Länkar (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9561,6 +9639,13 @@ also --&gt; still
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT Javadoc...</seg>
       </tuv>
@@ -10065,6 +10150,14 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>Opening team project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221320Z" creationid="mini-me" creationdate="20171209T221320Z">
+        <seg>Operativsystem</seg>
       </tuv>
     </tu>
     <tu>
@@ -12509,6 +12602,13 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Server (original)</seg>
       </tuv>
@@ -14226,6 +14326,13 @@ translated -&gt; target
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
@@ -14658,6 +14765,21 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
 </note>
       <tuv lang="EN">
         <seg>Tracking system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221326Z" creationid="mini-me" creationdate="20171209T221326Z">
+        <seg>Traditionell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Training</seg>
       </tuv>
     </tu>
     <tu>
@@ -15643,6 +15765,13 @@ sökbara utan prenumeration:</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Velior's corporate blog &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Version control - introduction</seg>
       </tuv>
     </tu>
@@ -15746,6 +15875,13 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170808T173456Z">
         <seg>Vi rekommenderar att man använder ett OmegaT-paket som redan innehåller JRE, för
 att bespara sig besväret med att välja, ladda ner och installera den.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Web Start</seg>
       </tuv>
     </tu>
     <tu>
@@ -16549,6 +16685,13 @@ Men kan inte förstå varför i SRC code
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>on translation and the &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
     </tu>
@@ -16642,6 +16785,13 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T070258Z">
         <seg>src (URL för &amp;bilder)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>translation industry</seg>
       </tuv>
     </tu>
     <tu>
