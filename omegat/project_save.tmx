@@ -1678,7 +1678,35 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Installing and running OmegaT: &lt;/e0&gt;this chapter is useful when you first begin using OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Learn to use OmegaT in 5 minutes!:&lt;/e0&gt; this chapter is intended as a quick tutorial for beginners as well as people who already know CAT tools, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Folders:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5934,6 +5962,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
@@ -6334,6 +6369,14 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T203132Z">
         <seg>Hjälp du söker&lt;p&gt;Ur din väg flyr den&lt;p&gt;Dess vinter har kommit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here is a short summary of the chapters and their contents.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T110758Z" creationid="mini-me" creationdate="20171209T110758Z">
+        <seg>Här är en kort sammanfattning av de olika kapitlen och deras innehåll.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7077,6 +7120,13 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T063555Z">
         <seg>Problem för {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12963,6 +13013,13 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>borde ha "language code"
 </note>
       <tuv lang="EN">
@@ -13225,6 +13282,13 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T064425Z">
         <seg>Detta anrop MÅSTE göras från en Swing-tråd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This chapter describes the project properties, such as the source and target languages.</seg>
       </tuv>
     </tu>
     <tu>
