@@ -2849,6 +2849,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Backspace*</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
@@ -4143,6 +4150,50 @@ denna har inget &amp; i Source
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Ctrl+Backspace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Ctrl+End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Ctrl+Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Left:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T214015Z" creationid="mini-me" creationdate="20171209T214015Z">
+        <seg>Ctrl+Vänster:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Ctrl+PgUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Right:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T214030Z" creationid="mini-me" creationdate="20171209T214030Z">
+        <seg>Ctrl+Höger:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
@@ -4222,6 +4273,13 @@ denna har inget &amp; i Source
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T181225Z">
         <seg>Standardinställning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Delete*</seg>
       </tuv>
     </tu>
     <tu>
@@ -5148,6 +5206,13 @@ ska det vara tag, som lite längre upp?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T192846Z">
         <seg>'rebase' avlutas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>End*</seg>
       </tuv>
     </tu>
     <tu>
@@ -6604,6 +6669,13 @@ history historik
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T203807Z">
         <seg>Förutsägelse från historik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Home*</seg>
       </tuv>
     </tu>
     <tu>
@@ -11079,6 +11151,14 @@ kanske reload istället?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T213958Z" creationid="mini-me" creationdate="20171209T213958Z">
+        <seg>Höger:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Row</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T104614Z">
@@ -15509,6 +15589,48 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>move to the beginning of the line in the segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>move to the end of the line in the segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>move to the end of the segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>move to the first segment of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>move to the last segment of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>move to the start of the segment</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>omegat</seg>
       </tuv>
@@ -15522,6 +15644,90 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T203900Z">
         <seg>omegat.kaptn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>one char left, but not further than the beginning of segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>one char right, but not further than the end of segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>one word left, but not further than the beginning of segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>one word right, but not further than the end of segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>open previous segment (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>page down through the document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>page up through the document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>remove char after cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>remove char before cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>remove chars up to the start of next word (Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>select complete segment (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
