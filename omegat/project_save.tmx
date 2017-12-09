@@ -4391,6 +4391,14 @@ denna har inget &amp; i Source
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T215846Z" creationid="mini-me" creationdate="20171209T215846Z">
+        <seg>Utvecklare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionar&amp;y</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T160702Z">
@@ -4760,6 +4768,13 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170717T080311Z">
         <seg>Docka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Documentation manager</seg>
       </tuv>
     </tu>
     <tu>
@@ -5272,6 +5287,13 @@ ska det vara tag, som lite längre upp?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T154527Z">
         <seg>Engelska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>English version translators</seg>
       </tuv>
     </tu>
     <tu>
@@ -7307,6 +7329,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Integration manager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Introduction to tokenizers and scripts</seg>
       </tuv>
     </tu>
@@ -7528,6 +7557,13 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T230034Z">
         <seg>Element</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7961,6 +7997,13 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Lead developer</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Learn</seg>
       </tuv>
@@ -8114,6 +8157,13 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
@@ -8151,6 +8201,13 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171522Z">
         <seg>Alternativ för maskinöversättning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Mailing lists</seg>
       </tuv>
     </tu>
     <tu>
@@ -9227,6 +9284,13 @@ also --&gt; still
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
@@ -9248,6 +9312,13 @@ also --&gt; still
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T175243Z">
         <seg>OmegaT krypterar känsliga lösenord och API-nycklar med ett huvudlösenord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9661,6 +9732,13 @@ consistency?
 	Enbart sökväg till projekt: Starta GUI och läs in angivet projekt
 	team
 		Verktyg för teamprojekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Original author of the OmegaT application</seg>
       </tuv>
     </tu>
     <tu>
@@ -10458,6 +10536,14 @@ När kör det?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T200836Z">
         <seg>Projektet är låst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T215759Z" creationid="mini-me" creationdate="20171209T215759Z">
+        <seg>Projektledare</seg>
       </tuv>
     </tu>
     <tu>
@@ -12182,6 +12268,13 @@ Visas i fönstret "Skriptverktyg"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Size</seg>
       </tuv>
@@ -13223,6 +13316,21 @@ kommer den aktuella mappen att användas.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T215729Z" creationid="mini-me" creationdate="20171209T215729Z">
+        <seg>OmegaT-projektet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T183143Z">
@@ -13435,6 +13543,21 @@ här heter det "memory"
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T215925Z">
+        <seg>Projektets filosofi beskrivs &lt;a0&gt;här&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The principal members of the project are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T213902Z">
@@ -13607,6 +13730,13 @@ translated -&gt; target
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200901Z">
         <seg>Översättningen har ändrats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The user group also serves as the main point of contact between users and the project team.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14830,6 +14960,14 @@ på rad {1}, kolumn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User group</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T215939Z" creationid="mini-me" creationdate="20171209T215939Z">
+        <seg>Användargrupp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User interface language for OmegaT</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170730T154334Z">
@@ -15019,6 +15157,27 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T072304Z">
         <seg>WebVTT-undertexter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Website content authors</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Website design</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Website manager</seg>
       </tuv>
     </tu>
     <tu>
@@ -15361,6 +15520,13 @@ saknar ellips</note>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T054151Z">
         <seg>Du kan hitta den fullständiga licenstexten i
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
       </tuv>
     </tu>
     <tu>
