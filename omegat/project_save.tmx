@@ -12254,6 +12254,13 @@ Visas i fönstret "Skriptverktyg"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Sorry</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
@@ -14986,6 +14993,14 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T072425Z">
         <seg>Varning: Att ändra taggordningen kan skapa problem med det översatta dokumentet!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T215339Z" creationid="mini-me" creationdate="20171209T215339Z">
+        <seg>Det gick inte att hitta sidan du söker.</seg>
       </tuv>
     </tu>
     <tu>
