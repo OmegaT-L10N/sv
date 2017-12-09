@@ -3021,6 +3021,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
@@ -4778,6 +4785,13 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>DokuWiki</seg>
       </tuv>
@@ -5985,6 +5999,13 @@ inte "kompilera"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T152840Z">
         <seg>Oåterkalleligt fel på rad {0}, kolumn {1} vid parsning:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Feature requests tracking system</seg>
       </tuv>
     </tu>
     <tu>
@@ -7441,6 +7462,13 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T063555Z">
         <seg>Problem för {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Issues/bugs tracking system</seg>
       </tuv>
     </tu>
     <tu>
@@ -9991,6 +10019,20 @@ för att bestämma orsaken till felet och försök igen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a2&gt;webmaster&lt;/a2&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
@@ -10008,6 +10050,13 @@ ytterligare åtgärder behöver vidtas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T065051Z">
         <seg>Rätta taggproblemen innan du använder "Skapa översatta dokument" igen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13315,6 +13364,13 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The OmegaT developers' list.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The OmegaT project</seg>
       </tuv>
@@ -13962,6 +14018,20 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
     </tu>
@@ -14137,6 +14207,13 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T094615Z">
         <seg>Totalt antal segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tracking system</seg>
       </tuv>
     </tu>
     <tu>
@@ -14972,6 +15049,14 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170730T154334Z">
         <seg>Språk för användargränssnittet i OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220110Z" creationid="mini-me" creationdate="20171209T220110Z">
+        <seg>Användarmanualer</seg>
       </tuv>
     </tu>
     <tu>
