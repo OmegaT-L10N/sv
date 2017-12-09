@@ -5,6 +5,13 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
@@ -2280,6 +2287,20 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Advanced feature HowTos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
@@ -3035,7 +3056,8 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Zhdanov</note>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
       </tuv>
@@ -3837,6 +3859,21 @@ denna har inget &amp; i Source
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Compatibility HowTos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compiling OmegaT from source</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220712Z" creationid="mini-me" creationdate="20171209T220712Z">
+        <seg>Att kompilera OmegaT från källkod</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
@@ -4228,6 +4265,14 @@ denna har inget &amp; i Source
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220737Z" creationid="mini-me" creationdate="20171209T220737Z">
+        <seg>Att skapa ett nytt filfilter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T155614Z">
@@ -4405,6 +4450,55 @@ denna har inget &amp; i Source
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170801T091220Z">
         <seg>Avgränsare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Déjà Vu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with selected other software products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's propagation and one-to-many matching features.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's spellchecking feature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5038,6 +5132,13 @@ laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T154518Z">
         <seg>Nederländska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Déjà Vu compatibility</seg>
       </tuv>
     </tu>
     <tu>
@@ -5853,6 +5954,13 @@ eskejpat tecken?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Explains how to compile OmegaT from the source code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Explicit thanks to:</seg>
       </tuv>
     </tu>
@@ -6042,6 +6150,13 @@ inte "kompilera"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T152840Z">
         <seg>Oåterkalleligt fel på rad {0}, kolumn {1} vid parsning:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Feature HowTos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6628,6 +6743,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Goto &amp;Line...</seg>
       </tuv>
@@ -6641,6 +6763,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T153658Z">
         <seg>HHC-filen är för stor!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>HOWTOs</seg>
       </tuv>
     </tu>
     <tu>
@@ -6878,6 +7007,13 @@ history historik
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T183139Z">
         <seg>En IOException inträffade:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Iceni Infix</seg>
       </tuv>
     </tu>
     <tu>
@@ -8265,6 +8401,13 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>MS Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
@@ -9392,6 +9535,13 @@ also --&gt; still
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT compatibility</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
@@ -9538,6 +9688,20 @@ installeras i ditt system.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT supports two of the popular version control systems (VCS for short), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (often abbreviated SVN, after the command name svn) and &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT text export function</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT tokenizer plugin</seg>
       </tuv>
     </tu>
     <tu>
@@ -9865,6 +10029,13 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T111624Z">
         <seg>Annan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Other HowTos</seg>
       </tuv>
     </tu>
     <tu>
@@ -10425,6 +10596,14 @@ ett lokalt projekt utan teamfunktioner.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220621Z" creationid="mini-me" creationdate="20171209T220621Z">
+        <seg>Förhandsgranskning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T111619Z">
@@ -10471,6 +10650,13 @@ ett lokalt projekt utan teamfunktioner.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T175418Z">
         <seg>Ett problem uppstod när projektet lästes in!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Procedure for configuring Microsoft Translator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10706,6 +10892,13 @@ När kör det?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T195103Z">
         <seg>Projektet kommer inte att uppdateras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Propagation and one-to-many matching</seg>
       </tuv>
     </tu>
     <tu>
@@ -12291,6 +12484,13 @@ A: finns i Redigera-menyn
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Setting up a preview function for use with OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
       </tuv>
     </tu>
@@ -12746,6 +12946,14 @@ entered vs. specified
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T120905Z">
         <seg>Konfiguration av stavningskontroll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecking</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220528Z" creationid="mini-me" creationdate="20171209T220528Z">
+        <seg>Stavningskontroll</seg>
       </tuv>
     </tu>
     <tu>
@@ -14762,6 +14970,13 @@ Exakta sökningar matchar hela söksträngen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Uncleaned RTF</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Undock</seg>
       </tuv>
@@ -15202,6 +15417,23 @@ sökbara utan prenumeration:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Using OmegaT in conjunction with Google Translate.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220606Z" creationid="mini-me" creationdate="20171209T220606Z">
+        <seg>Att använda OmegaT tillsammans med Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Using the OmegaT text export function (scripting interface).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Validate your tags</seg>
       </tuv>
@@ -15519,6 +15751,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T202029Z">
         <seg>Vinden fångar liljan&lt;p&gt;Sprider blomblad i vinden:&lt;p&gt;Din sida kan inte hittas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>With links to more detailed HOWTOs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15960,6 +16199,13 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T165920Z">
         <seg>cd &lt;mappen där filen OmegaT.jar finns&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>docx compatibility</seg>
       </tuv>
     </tu>
     <tu>
