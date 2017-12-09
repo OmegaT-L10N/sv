@@ -1662,8 +1662,8 @@ Aktuell inställning är {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171209T102018Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; är ett fritt, multiplattformsvarktyg för Datorassisterad Översättning (CAT), med följande  highlights:</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T102043Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; är ett fritt, multiplattformsvarktyg för Datorassisterad Översättning (CAT), med följande höjdpunkter:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8832,6 +8832,9 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>OmegaT highlights</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T102032Z">
+        <seg>OmegaT "höjdpunkter/highlights"</seg>
       </tuv>
     </tu>
     <tu>
