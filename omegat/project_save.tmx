@@ -2054,6 +2054,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
@@ -2291,6 +2298,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Administrative and technical procedure for localizating OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2677,6 +2691,14 @@ TMX-filen kommer inte att läsas in.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220955Z" creationid="mini-me" creationdate="20171209T220955Z">
+        <seg>En introduktionsvideo på engelska om OmegaT av John Moran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T192258Z">
@@ -2990,6 +3012,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T093307Z">
         <seg>Bokmärkes&amp;referenser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T221034Z" creationid="mini-me" creationdate="20171209T221034Z">
+        <seg>Böcker</seg>
       </tuv>
     </tu>
     <tu>
@@ -5961,6 +5991,13 @@ eskejpat tecken?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Explains how to create a filter for a new file format to be translated by OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Explicit thanks to:</seg>
       </tuv>
     </tu>
@@ -6045,6 +6082,14 @@ efterbearbetning	  91 k
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T081922Z">
         <seg>Externt kommando avbröts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220819Z" creationid="mini-me" creationdate="20171209T220819Z">
+        <seg>Extern dokumentation</seg>
       </tuv>
     </tu>
     <tu>
@@ -6511,6 +6556,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
@@ -6952,6 +7004,20 @@ history historik
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>How to translate Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
@@ -7381,6 +7447,13 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
@@ -7537,6 +7610,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Integration manager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Intended in particular for users who are new to Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8382,6 +8462,14 @@ vid första körningen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Localization manager, user group owner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localizing OmegaT</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220755Z" creationid="mini-me" creationdate="20171209T220755Z">
+        <seg>Att lokalisera OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -9592,6 +9680,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>vad betyder "leveraging into updated projects"?
  </note>
       <tuv lang="EN">
@@ -9760,6 +9855,13 @@ installeras i ditt system.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170801T095955Z">
         <seg>OmegaT-version {0}, uppdatering {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10227,6 +10329,13 @@ i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") se
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Please close search window.</seg>
       </tuv>
@@ -10657,6 +10766,27 @@ ett lokalt projekt utan teamfunktioner.</seg>
 </note>
       <tuv lang="EN">
         <seg>Procedure for configuring Microsoft Translator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14188,6 +14318,13 @@ konfigurationsmapp bestämmas säkert.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>sentence --&gt; segment?
 </note>
       <tuv lang="EN">
@@ -14524,6 +14661,13 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Training videos</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
@@ -14668,11 +14812,25 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Translating Project</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T183530Z">
         <seg>Översätter projektet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Translating with Rainbow and OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -15424,6 +15582,14 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T220606Z" creationid="mini-me" creationdate="20171209T220606Z">
         <seg>Att använda OmegaT tillsammans med Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using OmegaT on Linux</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T220808Z" creationid="mini-me" creationdate="20171209T220808Z">
+        <seg>Att använda OmegaT på Linux</seg>
       </tuv>
     </tu>
     <tu>
