@@ -6600,10 +6600,15 @@ till standard som följd av platsändringen.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
+      <note>src: mellanslag innan komma
+
+Not OK
 </note>
       <tuv lang="EN">
         <seg>If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171209T105014Z">
+        <seg>Om du får tag på tidigare skapade översättningsminnen, till exempel från din översättningsbyrå eller kund, så kan OmegaT använda dessa som referensminnen.</seg>
       </tuv>
     </tu>
     <tu>
