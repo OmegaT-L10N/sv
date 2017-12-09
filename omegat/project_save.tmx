@@ -13462,6 +13462,13 @@ GlossaryAutoCompleterOptionsPanel.java: 108
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>kolla i GUI (TaaS)
 </note>
       <tuv lang="EN">
@@ -15012,6 +15019,13 @@ konfigurationsmapp bestämmas säkert.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T102446Z">
         <seg>De är skyddade så att du inte kan ändra deras innehåll, men du kan radera dem, skriva in dem för hand eller flytta runt dem i målsegmentet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>They can be found in the folders of the corresponding compiled versions.</seg>
       </tuv>
     </tu>
     <tu>
