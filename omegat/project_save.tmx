@@ -8473,13 +8473,11 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171112T105804Z">
-        <seg>LanguageTool (LGPL License and others)</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T104514Z">
+        <seg>LanguageTool (LGPL License och andra)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9470,7 +9468,6 @@ lämplig plats såsom Programmappen.</seg>
     </tu>
     <tu>
       <note>https://github.com/mozilla-l10n/langchecker/wiki/.lang-files-format
-
 </note>
       <tuv lang="EN">
         <seg>Mozilla Lang</seg>
