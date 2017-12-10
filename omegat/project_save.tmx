@@ -12020,8 +12020,7 @@ och filen heter "replace_strip" och inte "remove_strip"
       </tuv>
     </tu>
     <tu>
-      <note>
-open the project vs. load the project?
+      <note>open the project vs. load the project?
 </note>
       <tuv lang="EN">
         <seg>Reopen the project now?</seg>
