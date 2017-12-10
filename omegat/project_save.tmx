@@ -15932,8 +15932,8 @@ Exakta sökningar matchar hela söksträngen.</seg>
       <tuv lang="EN">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171209T103131Z">
-        <seg>Meningar som inte har ädrats översätts automatiskt, medan uppdaterade meningar visas med översättningen av den mest lika, äldre meningen.</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T110904Z">
+        <seg>Meningar som inte har ändrats översätts automatiskt, medan uppdaterade meningar visas med översättningen av den mest lika, äldre meningen.</seg>
       </tuv>
     </tu>
     <tu>
