@@ -256,10 +256,11 @@
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T104756Z">
+        <seg>&amp;Kopiera supportinformation</seg>
       </tuv>
     </tu>
     <tu>
