@@ -2631,8 +2631,6 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>occur?
-</note>
       <tuv lang="EN">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
@@ -9051,10 +9049,11 @@ Not OK
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T110125Z">
+        <seg>Markera matchningar i gloslista</seg>
       </tuv>
     </tu>
     <tu>
@@ -11470,6 +11469,8 @@ När kör det?
     </tu>
     <tu>
       <note>Projekt skapas start
+
+Why not "begin" - "end"
 </note>
       <tuv lang="EN">
         <seg>Project creating start</seg>
