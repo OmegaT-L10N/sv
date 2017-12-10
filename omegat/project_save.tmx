@@ -15056,6 +15056,13 @@ från servern.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This ID is already being used.</seg>
       </tuv>
