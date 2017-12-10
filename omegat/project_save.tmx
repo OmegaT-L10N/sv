@@ -3951,6 +3951,8 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
+      <note>Saknar &amp;
+</note>
       <tuv lang="EN">
         <seg>Commit Target Files</seg>
       </tuv>
