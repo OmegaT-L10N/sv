@@ -6919,10 +6919,11 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Glossary Matches</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T110529Z">
+        <seg>Matchningar i gloslista</seg>
       </tuv>
     </tu>
     <tu>
@@ -9252,7 +9253,7 @@ Det skulle kunna översättas med "pågående"
     <tu>
       <note>Kolla i UI för Merge
 TMX_MERGE__MINE
-½½½</note>
+</note>
       <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
