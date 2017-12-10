@@ -9252,7 +9252,7 @@ Det skulle kunna översättas med "pågående"
     <tu>
       <note>Kolla i UI för Merge
 TMX_MERGE__MINE
-</note>
+½½½</note>
       <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
@@ -10569,10 +10569,11 @@ consistency?
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T110307Z">
+        <seg>Öppnar teamprojekt</seg>
       </tuv>
     </tu>
     <tu>
