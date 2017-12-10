@@ -9832,8 +9832,6 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>ja, det ska vara ett radslut här
-</note>
       <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
