@@ -2072,6 +2072,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A general observation: "compatibility" is rarely a black and white, "yes" or "no" issue.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>set --&gt; "pair" ?
 </note>
       <tuv lang="EN">
@@ -4185,6 +4192,13 @@ denna har inget &amp; i Source
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T180642Z">
         <seg>Deltagare
 ========</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Conversely, where products are clearly not directly compatible, it is often possible to find procedures by which they can work together.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6811,6 +6825,14 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General comments</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T102337Z" creationid="mini-me" creationdate="20171210T102337Z">
+        <seg>Allmänna kommentarer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generate the translated file</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170728T184729Z">
@@ -7697,6 +7719,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In other words, "compatibility" is not only about products, but also about workflows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10241,6 +10270,13 @@ installeras i ditt system.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT runs on any operating system on which a suitable version of the Java Runtime Environment (JRE) can be run.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
       </tuv>
     </tu>
@@ -10552,6 +10588,14 @@ consistency?
         <seg>Operating System</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T221320Z" creationid="mini-me" creationdate="20171209T221320Z">
+        <seg>Operativsystem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operating systems</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T102354Z" creationid="mini-me" creationdate="20171210T102354Z">
         <seg>Operativsystem</seg>
       </tuv>
     </tu>
@@ -13267,6 +13311,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
       </tuv>
     </tu>
@@ -14744,6 +14795,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The question which must be answered is whether these procedures are acceptable in terms of the result and the effort involved, and the answer is likely to vary from one user to another.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
     </tu>
@@ -15053,6 +15111,13 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T201730Z">
         <seg>Denna API-nyckel har spärrats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This HOWTO aims to provide information in this area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16630,6 +16695,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T122243Z">
         <seg>När du vill se hur din översättning kommer att se ut i sitt slutliga format, tryck &lt;k2&gt;CTRL + D&lt;/k2&gt; för att skapa de översatta filerna, vilka kommer att skapas i undermappen &lt;f3&gt;/target/&lt;/f3&gt; i din projektmapp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Where the vendor of a software product claims that his product is compatible with another piece of software, this compatibility is seldom 100%.</seg>
       </tuv>
     </tu>
     <tu>
