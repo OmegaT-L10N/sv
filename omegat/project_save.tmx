@@ -6039,8 +6039,6 @@ eskejpat tecken?
       </tuv>
     </tu>
     <tu>
-      <note>occurred
-</note>
       <tuv lang="EN">
         <seg>Exception occurred:</seg>
       </tuv>
@@ -9839,9 +9837,8 @@ lämplig plats såsom Programmappen.</seg>
       <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171121T063552Z">
-        <seg>Obs: Alla uppsättningar segmenteringsregler med ett matchande språkmönster tillämpas i den angivna ordningen.
-</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171210T105151Z">
+        <seg>Obs: Alla uppsättningar segmenteringsregler med ett matchande språkmönster tillämpas i den angivna ordningen.</seg>
       </tuv>
     </tu>
     <tu>
