@@ -3941,9 +3941,7 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-
-denna har inget &amp; i Source
+      <note>denna har inget &amp; i Source
 </note>
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
