@@ -1925,6 +1925,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout folder and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;administrator: &lt;/e0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
       </tuv>
     </tu>
@@ -2456,6 +2463,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
@@ -2635,6 +2649,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200455Z">
         <seg>Gör det möjligt att visa, lägga till, ta bort eller redigera en anteckning i det aktiva segmentet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Also &lt;f3&gt;ignored_words.txt&lt;/f3&gt; and &lt;f4&gt;learned_words.txt&lt;/f4&gt; in the &lt;f5&gt;omegat&lt;/f5&gt; folder may be worth sharing and maintaining on the team level.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3068,6 +3089,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T045210Z">
         <seg>Genomsnittligt resultat: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Avoid in any case adding &lt;f6&gt;bak&lt;/f6&gt; files, &lt;f7&gt;project_stats.txt&lt;/f7&gt; and &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, in the &lt;f9&gt;omegat&lt;/f9&gt; subfolder, as they would without any need or profit just bloat the repository.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4469,6 +4497,13 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Create an empty folder, where you will keep your project and right-click on it.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"pseudo-translated"?
 </note>
       <tuv lang="EN">
@@ -5761,6 +5796,13 @@ ska det vara tag, som lite längre upp?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Enter the URL, provided by ProjectLocker, into the field &lt;e0&gt;URL of repository&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
@@ -6816,6 +6858,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For the example shown here we decided for the one OmegaT project - one single repository for the simplicity reasons.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
@@ -7801,6 +7850,13 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Importing the project to SVN repository - Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>In Editor</seg>
       </tuv>
@@ -7874,6 +7930,13 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T065301Z">
         <seg>Gå till &lt;g0&gt;Projekt&lt;/g0&gt;menyn, välj &lt;m1&gt;&lt;g2&gt;Nytt…&lt;/g2&gt;&lt;/m1&gt; och skriv in ett namn för ditt projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the next step, we will add the OmegaT files to the local folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9096,6 +9159,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Make sure the field &lt;e1&gt;Checkout directory&lt;/e1&gt; is correct, i.e. specifies the empty folder you have created, and press &lt;e2&gt;OK&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
@@ -9969,6 +10039,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that the team members have to be registered first, before you can add them to the project (Note: in the free version of ProjectLocker you are allowed only two users per project).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that you can reassign the shortcuts to your own preferences.</seg>
       </tuv>
     </tu>
@@ -10570,6 +10647,13 @@ installeras i ditt system.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Once the operation has finished, you can check the said folder: it should now contain a subfolder .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>generera
 create/generate 
 consistency?
@@ -10683,6 +10767,13 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171144Z">
         <seg>Alternativ för Open XML-filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Open the&lt;e0&gt; Projects&lt;/e0&gt; view for your account.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11747,6 +11838,13 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T195103Z">
         <seg>Projektet kommer inte att uppdateras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Projects can be managed according to your development style and needs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13239,6 +13337,13 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Select&lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; The following dialog appears:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Selected Engine: {0}</seg>
       </tuv>
@@ -13467,6 +13572,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Signed/Unsigned</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Similar as in the case of OmegaT projects, you will need to have separate repositories for different language pairs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14700,6 +14812,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
@@ -14714,7 +14833,21 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The administrator may decide to include following folders and their contents as well: &lt;f0&gt;tm&lt;/f0&gt;, &lt;f1&gt;glossary&lt;/f1&gt; and &lt;f2&gt;dictionary&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The alternative is to have one single repository with subfolders &lt;l0&gt;Project1&lt;/l0&gt;, &lt;l1&gt;Project2&lt;/l1&gt;, etc., and share the common material via common &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; and &lt;l4&gt;dictionary&lt;/l4&gt; folders.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14798,6 +14931,13 @@ användas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The following files are to be shared among the members of the team and thus have to be included in any case:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The following options apply to the 3.x filter only</seg>
       </tuv>
@@ -14817,6 +14957,13 @@ användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The following two steps will bring the server version up to date:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14988,6 +15135,14 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The question which must be answered is whether these procedures are acceptable in terms of the result and the effort involved, and the answer is likely to vary from one user to another.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The repository is empty at this moment.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171216T061721Z" creationid="Dorothy" creationdate="20171216T061721Z">
+        <seg>Arkivet är tomt i detta läge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15427,6 +15582,13 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T213208Z">
         <seg>Detta är en giltig projektfil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is also the place to add members of the team to the project and assign them their rights.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17065,6 +17227,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Within a given language pair it is best to keep different subjects and/or clients as separate repositories as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Without JRE</seg>
       </tuv>
@@ -17312,6 +17481,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You create first an empty client folder on your disk.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You have reached the daily limit for requests</seg>
       </tuv>
@@ -17357,6 +17533,13 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T174705Z">
         <seg>Du kan försöka lösa det här problemet på ett av följande sätt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You might want to apply the same to the &lt;f10&gt;target&lt;/f10&gt; folder and its contents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17824,6 +18007,34 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T070258Z">
         <seg>src (URL för &amp;bilder)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>the contents of the source folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>the omegat project file - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>the project-specific filters definition - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>the translation memory - &lt;f0&gt;omegat\project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
