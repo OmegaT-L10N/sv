@@ -1897,6 +1897,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;VCS client: &lt;/e0&gt;To interface with the server an SVN or Git client must be installed on computers of "project managers" involved in the OmegaT project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;VCS server - &lt;/e0&gt;i.e. SVN or Git server is the environment where the common material is kept and maintained on the net.</seg>
       </tuv>
     </tu>
@@ -1905,6 +1912,41 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Working with plain text&lt;/e0&gt; and &lt;e1&gt;Working with formatted text&lt;/e1&gt;: these two chapters explain certain important points concerning texts to be translated, such as the encoding set (in the case of plain text files) and tag handling (in the case of formatted text).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;administrator: &lt;/e0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;repository: &lt;/e0&gt;the place where the shared material is saved and maintained, either on a local access network or in Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;user&lt;/e0&gt;: a member of the team, collaborating on the common project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2017,6 +2059,14 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T170952Z">
         <seg>&lt;p0&gt;Projekt&lt;/p0&gt; &lt;s1&gt;Skapa / öppna nytt&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Team projects&lt;/p0&gt; &lt;s1&gt;Subversion&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171216T061205Z" creationid="Dorothy" creationdate="20171216T061205Z">
+        <seg>&lt;p0&gt;Teamprojekt&lt;/p0&gt; &lt;s1&gt;Subversion&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2584,6 +2634,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200610Z">
         <seg>Alternativt språk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6605,6 +6662,26 @@ inte "kompilera"
       </tuv>
     </tu>
     <tu>
+      <note>use iOS istället för Mac?
+
+
+</note>
+      <tuv lang="EN">
+        <seg>For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171216T061330Z" creationid="Dorothy" creationdate="20171216T061330Z">
+        <seg>För Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, För Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Windows we recommend &lt;u0&gt;TortoiseSVN&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171216T061301Z" creationid="Dorothy" creationdate="20171216T061301Z">
+        <seg>För Windows rekommenderar vi &lt;u0&gt;TortoiseSVN&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
       </tuv>
@@ -10429,6 +10506,13 @@ installeras i ditt system.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>generera
 create/generate 
 consistency?
@@ -10703,6 +10787,13 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T123359Z">
         <seg>Övriga bidrag av</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Other operating systems (Linux, OS X) offer similar packages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11550,6 +11641,13 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T215759Z" creationid="mini-me" creationdate="20171209T215759Z">
         <seg>Projektledare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Project members connect with it via their VCS client.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13216,6 +13314,14 @@ A: finns i Redigera-menyn
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sharing a project using SVN</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171216T061222Z" creationid="Dorothy" creationdate="20171216T061222Z">
+        <seg>Att dela ett projekt med SVN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T070932Z">
@@ -14854,6 +14960,20 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The server makes sure that any conflicting changes, due to two members working on the same checked-out contents, will be resolved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The shortcuts &lt;k2&gt;Ctrl+A&lt;/k2&gt; and &lt;k3&gt;Ctrl+C&lt;/k3&gt; work in panes, allowing to copy all or some of the information to the clipboard.</seg>
       </tuv>
     </tu>
@@ -15023,6 +15143,13 @@ translated -&gt; target
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T204820Z">
         <seg>Det finns inga lokala arbetskopior i {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>There are two possibilities to run an SVN server: you can install SVN on your own server or you can use a hosted service.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15311,6 +15438,13 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T102119Z">
         <seg>Därför ska till exempel reglerna för kanadafranska (FR-CA) ligga högre upp i listan än reglerna för franska (FR.*) och högre än standardreglerna (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To avoid any problems, one person only should have these rights at least initially.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16514,6 +16648,13 @@ sökbara utan prenumeration:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Very popular clients for Windows environment are &lt;u1&gt;TortoiseSVN&lt;/u1&gt; and &lt;u2&gt;TortoiseGit&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>View</seg>
       </tuv>
@@ -16688,6 +16829,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171120T065750Z">
         <seg>När det är otillgängligt används ID istället</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>When using an external service you must be aware of the possible implications in terms of confidentiality, since you are loading the original document on a server outside of your direct control.</seg>
       </tuv>
     </tu>
     <tu>
