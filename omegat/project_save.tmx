@@ -1326,6 +1326,13 @@ Properties --&gt; Settings?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>( &lt;l0&gt;OmegaT&lt;/l0&gt; and &lt;l1&gt;OmegaT SL Localization &lt;/l1&gt;in the example used here)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>(+{0} more)</seg>
       </tuv>
@@ -2059,6 +2066,16 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T170952Z">
         <seg>&lt;p0&gt;Projekt&lt;/p0&gt; &lt;s1&gt;Skapa / öppna nytt&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Team projects&lt;/p0&gt; &lt;s1&gt;Creating SVN repository&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171216T061400Z" creationid="Dorothy" creationdate="20171216T061400Z">
+        <seg>&lt;p0&gt;Teamprojekt&lt;/p0&gt; &lt;s1&gt;Skapa SVN-repository&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3795,6 +3812,14 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171216T061450Z" creationid="Dorothy" creationdate="20171216T061450Z">
+        <seg>Välj&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T181215Z">
@@ -3807,6 +3832,16 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T104156Z">
         <seg>Avmarkera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"Create project" är på ProjectLocker site?
+</note>
+      <tuv lang="EN">
+        <seg>Click &lt;g0&gt;Create Project&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171216T061532Z" creationid="Dorothy" creationdate="20171216T061532Z">
+        <seg>Klicka på &lt;g0&gt;Create Project&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4426,6 +4461,14 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Create a new project on ProjectLocker</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20171216T061431Z">
+        <seg>Skapa ett nytt projekt på ProjectLocker</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"pseudo-translated"?
 </note>
       <tuv lang="EN">
@@ -4473,6 +4516,13 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T220737Z" creationid="mini-me" creationdate="20171209T220737Z">
         <seg>Att skapa ett nytt filfilter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Creating a repository</seg>
       </tuv>
     </tu>
     <tu>
@@ -9912,6 +9962,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that you can reassign the shortcuts to your own preferences.</seg>
       </tuv>
     </tu>
@@ -13399,6 +13456,13 @@ Visas i fönstret "Skriptverktyg"</note>
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Sign in to the site first or - if it is your first time on the site, register for it and note your user name and password for the future projects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 Not OK
 </note>
       <tuv lang="EN">
@@ -14881,6 +14945,13 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
@@ -15929,6 +16000,13 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T183338Z">
         <seg>Skriv in nytt regel-ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Type the name and description of the repository.</seg>
       </tuv>
     </tu>
     <tu>
