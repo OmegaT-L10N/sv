@@ -1946,6 +1946,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout folder and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team.</seg>
       </tuv>
     </tu>
@@ -1954,6 +1961,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;repository: &lt;/e0&gt;the place where the shared material is saved and maintained, either on a local access network or in Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;update local files from the local repository copy&lt;/e0&gt; - the changes received from the server repository reside within the .svn subfolder but not yet in the files and folders themselves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3773,6 +3787,20 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check the changes to be made - i.e. the folders and files added in this case.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check the contents of the folder to confirm that the local copy of the repository and the corresponding files and folders correspond to the latest server version:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Check whole project</seg>
       </tuv>
@@ -4582,6 +4610,13 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T215725Z">
         <seg>Skapad av</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Credentials are stored, so it isn't needed to enter them each time.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5799,6 +5834,13 @@ ska det vara tag, som lite längre upp?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Enter an appropriate message into the message window and press &lt;g0&gt;OK&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Enter the URL, provided by ProjectLocker, into the field &lt;e0&gt;URL of repository&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
@@ -6688,6 +6730,13 @@ inte "kompilera"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>First, they need to use &lt;g1&gt;Project &gt; Download Team Project&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Flash XML Export</seg>
       </tuv>
@@ -6855,6 +6904,13 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>For most users, these are not of interest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For subsequent use, all is needed is opening the project like any other &lt;a0&gt;OmegaT&lt;/a0&gt; project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8375,6 +8431,13 @@ inuti konfigurationsmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170801T095559Z">
         <seg>Det gick inte att skapa översatta dokument eftersom några taggar saknas eller är skadade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10598,6 +10661,13 @@ installeras i ditt system.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT will recognize it is a team project, and will synchronize everything automatically, every three minutes by default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT will run on any system on which the JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
     </tu>
@@ -10651,6 +10721,13 @@ installeras i ditt system.</seg>
 </note>
       <tuv lang="EN">
         <seg>Once the operation has finished, you can check the said folder: it should now contain a subfolder .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14697,6 +14774,20 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The Add Finished!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Commit window will open and show the progress of the commit command.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
     </tu>
@@ -14895,6 +14986,13 @@ instead.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170812T151715Z">
         <seg>Konfigurationsmappen kommer att användas
 istället.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The contents of the checkout folder will be marked accordingly:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15658,6 +15756,13 @@ från servern.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This will actually do a checkout of the project in a local folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This will discard all changes you have made so far.</seg>
       </tuv>
@@ -15755,6 +15860,13 @@ finns inget menu entry called that
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T052605Z">
         <seg>När du ska använda OmegaT, skapar du först ett projekt som kommer att innehålla alla dina filer, såsom källfilen, översättningsminnen, gloslistor och till slut din översatta fil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To update the local files, right-click on the checkout folder and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16347,6 +16459,14 @@ Exakta sökningar matchar hela söksträngen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Under Linux, if &lt;a2&gt;OmegaT&lt;/a2&gt; is still asking for your credentials, you can checking the &lt;g3&gt;Force saving password as plain text&lt;/g3&gt; checkbox.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Undock</seg>
       </tuv>
@@ -16830,6 +16950,13 @@ sökbara utan prenumeration:</seg>
 </note>
       <tuv lang="EN">
         <seg>Using the OmegaT text export function (scripting interface).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Using the team project in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -18058,6 +18185,13 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T064143Z">
         <seg>value (för 'button', '&amp;submit' och 'reset')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>window, similar to the one below will appear:</seg>
       </tuv>
     </tu>
     <tu>
