@@ -6655,16 +6655,16 @@ inte "kompilera"
       <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171218T054605Z">
-        <seg>Fil: översatta / antal segment (projekt: unika översatta / unika, sammanlagt antal segment)</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T054712Z">
+        <seg>Fil: översatta / antal segment (projekt: unika översatta / unika, totalt antal segment)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171115T225456Z">
-        <seg>Fil: unika översatta % (unika återstående) / projekt: unika översatta % (unika återstående), sammanlagt antal segment</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T054721Z">
+        <seg>Fil: unika översatta % (unika återstående) / projekt: unika översatta % (unika återstående), totalt antal segment</seg>
       </tuv>
     </tu>
     <tu>
