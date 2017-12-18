@@ -814,6 +814,14 @@ unescape
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060519Z" creationid="mini-me" creationdate="20171218T060519Z">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Presentation notes</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170729T083540Z">
@@ -2906,6 +2914,22 @@ TMX-filen kommer inte att läsas in.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060353Z" creationid="mini-me" creationdate="20171218T060353Z">
+        <seg>Android Resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apertium</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060622Z" creationid="mini-me" creationdate="20171218T060622Z">
+        <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171108T210200Z">
@@ -3196,6 +3220,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Belazar</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060618Z" creationid="mini-me" creationdate="20171218T060618Z">
+        <seg>Belazar</seg>
       </tuv>
     </tu>
     <tu>
@@ -6236,6 +6268,14 @@ eskejpat tecken?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060419Z" creationid="mini-me" creationdate="20171218T060419Z">
+        <seg>Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception occurred:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171116T135829Z">
@@ -7157,6 +7197,14 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060427Z" creationid="mini-me" creationdate="20171218T060427Z">
+        <seg>Global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T121247Z">
@@ -7278,6 +7326,14 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Translate v2</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060615Z" creationid="mini-me" creationdate="20171218T060615Z">
+        <seg>Google Translate v2</seg>
       </tuv>
     </tu>
     <tu>
@@ -8082,6 +8138,22 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Infix</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060323Z" creationid="mini-me" creationdate="20171218T060323Z">
+        <seg>Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060546Z" creationid="mini-me" creationdate="20171218T060546Z">
+        <seg>Info</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -8609,6 +8681,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java: {0} ver.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060552Z" creationid="mini-me" creationdate="20171218T060552Z">
+        <seg>Java: {0} ver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (localization manager)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T123744Z">
@@ -8620,6 +8700,14 @@ vid första körningen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060442Z" creationid="mini-me" creationdate="20171218T060442Z">
+        <seg>Jmyspell (LGPL License)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8784,6 +8872,14 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T071219Z">
         <seg>Språk har inte angivits för översättningsenhetsvariant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060609Z" creationid="mini-me" creationdate="20171218T060609Z">
+        <seg>LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -9271,6 +9367,14 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060401Z" creationid="mini-me" creationdate="20171218T060401Z">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -9563,6 +9667,14 @@ Det skulle kunna översättas med "pågående"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T212330Z">
         <seg>Slå samman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060409Z" creationid="mini-me" creationdate="20171218T060409Z">
+        <seg>Microsoft Open XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -10951,6 +11063,14 @@ consistency?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OpenDocument</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060405Z" creationid="mini-me" creationdate="20171218T060405Z">
+        <seg>OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171037Z">
@@ -11543,6 +11663,14 @@ ytterligare åtgärder behöver vidtas.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060423Z" creationid="mini-me" creationdate="20171218T060423Z">
+        <seg>Power Point</seg>
       </tuv>
     </tu>
     <tu>
@@ -12886,6 +13014,14 @@ kanske reload istället?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171106T063119Z" creationid="Dorothy" creationdate="20171106T063119Z">
         <seg>SVN - Cleanup (rekursiv)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060447Z" creationid="mini-me" creationdate="20171218T060447Z">
+        <seg>SVNKit (TMate License)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16495,6 +16631,14 @@ Exakta sökningar matchar hela söksträngen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060600Z" creationid="mini-me" creationdate="20171218T060600Z">
+        <seg>URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URLs</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T163435Z">
@@ -17113,6 +17257,14 @@ sökbara utan prenumeration:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060438Z" creationid="mini-me" creationdate="20171218T060438Z">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validate your tags</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T060134Z">
@@ -17213,6 +17365,14 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T123651Z">
         <seg>Vincent Bidaux (dokumentationsansvarig)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Visio</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060330Z" creationid="mini-me" creationdate="20171218T060330Z">
+        <seg>Visio</seg>
       </tuv>
     </tu>
     <tu>
@@ -17546,6 +17706,38 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060416Z" creationid="mini-me" creationdate="20171218T060416Z">
+        <seg>Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060433Z" creationid="mini-me" creationdate="20171218T060433Z">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060327Z" creationid="mini-me" creationdate="20171218T060327Z">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordpress</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060333Z" creationid="mini-me" creationdate="20171218T060333Z">
+        <seg>Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Words</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T133325Z">
@@ -17610,6 +17802,14 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170803T192032Z">
         <seg>Fel användarnamn/lösenord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060511Z" creationid="mini-me" creationdate="20171218T060511Z">
+        <seg>XHTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -18523,5 +18723,15 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">DocBook_FILTER_NAME</prop>
+      <tuv lang="EN">
+        <seg>DocBook</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060348Z" creationid="mini-me" creationdate="20171218T060348Z">
+        <seg>DocBook</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
