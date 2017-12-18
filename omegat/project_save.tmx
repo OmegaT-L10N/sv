@@ -15949,14 +15949,6 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Total:</seg>
-      </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171218T053336Z" creationid="mini-me" creationdate="20171218T053336Z">
-        <seg>Sammanlagt:</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
