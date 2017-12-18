@@ -8585,6 +8585,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java Properties XML</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060250Z" creationid="mini-me" creationdate="20171218T060250Z">
+        <seg>Java Properties XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T204310Z">
@@ -9770,6 +9778,14 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T175502Z">
         <seg>Flytta mappen till en
 lämplig plats såsom Programmappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060202Z" creationid="mini-me" creationdate="20171218T060202Z">
+        <seg>Mozilla DTD</seg>
       </tuv>
     </tu>
     <tu>
@@ -12029,6 +12045,14 @@ Why not "begin" - "end"
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060232Z" creationid="mini-me" creationdate="20171218T060232Z">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T173243Z">
@@ -12041,6 +12065,14 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T154508Z">
         <seg>&amp;Ersätt med matchning eller markering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RELAX NG</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060259Z" creationid="mini-me" creationdate="20171218T060259Z">
+        <seg>RELAX NG</seg>
       </tuv>
     </tu>
     <tu>
@@ -12626,6 +12658,14 @@ kanske reload istället?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ResX</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060243Z" creationid="mini-me" creationdate="20171218T060243Z">
+        <seg>ResX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T172044Z">
@@ -12973,6 +13013,14 @@ franska: résultat
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T093907Z">
         <seg>Sparar projektet…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schematron</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060255Z" creationid="mini-me" creationdate="20171218T060255Z">
+        <seg>Schematron</seg>
       </tuv>
     </tu>
     <tu>
@@ -15984,32 +16032,32 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       <tuv lang="EN">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171112T160440Z">
-        <seg>Sammanlagt antal tecken (inklusive mellanslag)</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060136Z">
+        <seg>Totalt antal tecken (inklusive mellanslag)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171112T160318Z">
-        <seg>Sammanlagt antal tecken (utan mellanslag)</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060126Z">
+        <seg>Totalt antal tecken (utan mellanslag)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Total Segments</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171113T062549Z">
-        <seg>Sammanlagt antal segment</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060109Z">
+        <seg>Totalt antal segment</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Total Words</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171112T160349Z">
-        <seg>Sammanlagt antal ord</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060117Z">
+        <seg>Totalt antal ord</seg>
       </tuv>
     </tu>
     <tu>
@@ -16371,6 +16419,22 @@ Exact searches match the whole search string.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T140907Z">
         <seg>Typer:
 Exakta sökningar matchar hela söksträngen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060304Z" creationid="mini-me" creationdate="20171218T060304Z">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060310Z" creationid="mini-me" creationdate="20171218T060310Z">
+        <seg>Typo3 l10nmgr</seg>
       </tuv>
     </tu>
     <tu>
@@ -17380,6 +17444,14 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WiX Localization</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060316Z" creationid="mini-me" creationdate="20171218T060316Z">
+        <seg>WiX Localization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
@@ -17546,6 +17618,14 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171253Z">
         <seg>Alternativ för XHTML-filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T060237Z" creationid="mini-me" creationdate="20171218T060237Z">
+        <seg>XLIFF</seg>
       </tuv>
     </tu>
     <tu>
