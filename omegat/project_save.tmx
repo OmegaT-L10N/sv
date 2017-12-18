@@ -6699,10 +6699,26 @@ inte "kompilera"
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T055634Z" creationid="mini-me" creationdate="20171218T055634Z">
+        <seg>Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T080632Z">
         <seg>Filter '{0}' kunde inte läsas in från '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T055649Z" creationid="mini-me" creationdate="20171218T055649Z">
+        <seg>Filter:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7089,6 +7105,14 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T163408Z">
         <seg>Hämta API-nyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T055712Z" creationid="mini-me" creationdate="20171218T055712Z">
+        <seg>Git</seg>
       </tuv>
     </tu>
     <tu>
@@ -15949,6 +15973,14 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T055522Z" creationid="mini-me" creationdate="20171218T055522Z">
+        <seg>Totalt:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -16299,6 +16331,14 @@ Exakta sökningar matchar hela söksträngen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T205226Z">
         <seg>E&amp;j översatta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T055659Z" creationid="mini-me" creationdate="20171218T055659Z">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -18112,6 +18152,14 @@ Men kan inte förstå varför i SRC code
 </note>
       <tuv lang="EN">
         <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment 0000</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171218T055620Z" creationid="mini-me" creationdate="20171218T055620Z">
+        <seg>segment 0000</seg>
       </tuv>
     </tu>
     <tu>
