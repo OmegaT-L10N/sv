@@ -9835,8 +9835,6 @@ ViewOptionsPanel.java: 113
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Moses Server URL:</seg>
       </tuv>
