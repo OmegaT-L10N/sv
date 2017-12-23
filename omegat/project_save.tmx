@@ -9840,6 +9840,9 @@ ViewOptionsPanel.java: 113
       <tuv lang="EN">
         <seg>Moses Server URL:</seg>
       </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171223T085359Z">
+        <seg>URL för Moses-Server URL:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -11671,8 +11674,8 @@ ytterligare åtgärder behöver vidtas.</seg>
       <tuv lang="EN">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171111T064834Z">
-        <seg>Skriv eller klistra in adressen till MediaWiki-sidan</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171223T085305Z">
+        <seg>Skriv eller klistra in URL för MediaWiki-sidan</seg>
       </tuv>
     </tu>
     <tu>
