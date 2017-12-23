@@ -13732,10 +13732,11 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171223T090534Z">
+        <seg>Servern förstår inte metoden "translate"</seg>
       </tuv>
     </tu>
     <tu>
