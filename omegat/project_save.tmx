@@ -9840,8 +9840,8 @@ ViewOptionsPanel.java: 113
       <tuv lang="EN">
         <seg>Moses Server URL:</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171223T085359Z">
-        <seg>URL för Moses-Server URL:</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171223T090215Z">
+        <seg>URL för Moses-server:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14950,15 +14950,15 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
+      <note>verb eller subst
+kolla vid runtime
 
-verb eller subst
 </note>
       <tuv lang="EN">
         <seg>Test</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171111T071403Z">
-        <seg>Test</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171223T090347Z">
+        <seg>Testa</seg>
       </tuv>
     </tu>
     <tu>
@@ -15138,10 +15138,11 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171223T090325Z">
+        <seg>URL för Moses-server har inte angivits</seg>
       </tuv>
     </tu>
     <tu>
