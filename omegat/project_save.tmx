@@ -15751,6 +15751,13 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tahitian</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Tajik</seg>
       </tuv>
@@ -15822,6 +15829,14 @@ till skillnad från internt minne
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170801T091232Z">
         <seg>Mål:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tatar</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095331Z" creationid="mini-me" creationdate="20171230T095331Z">
+        <seg>Tatariska</seg>
       </tuv>
     </tu>
     <tu>
@@ -17215,6 +17230,14 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tonga (Tonga Islands)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095311Z" creationid="mini-me" creationdate="20171230T095311Z">
+        <seg>Tonganska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Too big HTML file!</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T143119Z">
@@ -17573,6 +17596,22 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tswana</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095258Z" creationid="mini-me" creationdate="20171230T095258Z">
+        <seg>Setswana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turkish</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095317Z" creationid="mini-me" creationdate="20171230T095317Z">
+        <seg>Turkiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Turkmen</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T095237Z" creationid="mini-me" creationdate="20171230T095237Z">
@@ -17708,6 +17747,22 @@ Exakta sökningar matchar hela söksträngen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T163435Z">
         <seg>URL:er</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uighur, Uyghur</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095359Z" creationid="mini-me" creationdate="20171230T095359Z">
+        <seg>Uiguriska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ukrainian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095406Z" creationid="mini-me" creationdate="20171230T095406Z">
+        <seg>Ukrainska</seg>
       </tuv>
     </tu>
     <tu>
@@ -18322,6 +18377,14 @@ sökbara utan prenumeration:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uzbek</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095419Z" creationid="mini-me" creationdate="20171230T095419Z">
+        <seg>Uzbekiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VLDocking Framework (LGPL License)</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060438Z" creationid="mini-me" creationdate="20171218T060438Z">
@@ -18376,6 +18439,13 @@ sökbara utan prenumeration:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Venda</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Version control - introduction</seg>
       </tuv>
@@ -18396,6 +18466,14 @@ sökbara utan prenumeration:</seg>
 </note>
       <tuv lang="EN">
         <seg>Very popular clients for Windows environment are &lt;u1&gt;TortoiseSVN&lt;/u1&gt; and &lt;u2&gt;TortoiseGit&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vietnamese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095436Z" creationid="mini-me" creationdate="20171230T095436Z">
+        <seg>Vietnamesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -18448,6 +18526,13 @@ sökbara utan prenumeration:</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200742Z">
         <seg>VARNING: all osparad data kommer att förloras
 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Walloon</seg>
       </tuv>
     </tu>
     <tu>
@@ -18542,6 +18627,22 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
 </note>
       <tuv lang="EN">
         <seg>Website manager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Welsh</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095506Z" creationid="mini-me" creationdate="20171230T095506Z">
+        <seg>Kymriska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Western Frisian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095525Z" creationid="mini-me" creationdate="20171230T095525Z">
+        <seg>Frisiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -18915,6 +19016,14 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T201634Z">
         <seg>Yandex Translate - Ingen API-nyckel har angivits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yiddish</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095542Z" creationid="mini-me" creationdate="20171230T095542Z">
+        <seg>Jiddisch</seg>
       </tuv>
     </tu>
     <tu>
