@@ -2272,14 +2272,6 @@ Aktuell inställning är {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>ANTLR (ANTLR 3 License)</seg>
-      </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171230T082457Z" creationid="mini-me" creationdate="20171230T082457Z">
-        <seg>ANTLR (ANTLR 3-licens)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T201449Z">
@@ -13721,14 +13713,6 @@ A: finns i Redigera-menyn
 </note>
       <tuv lang="EN">
         <seg>Self-paced online training course in English (for purchase)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Sequence Library (Sequence Library License)</seg>
-      </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171230T082326Z" creationid="mini-me" creationdate="20171230T082309Z">
-        <seg>Sequence Library (Sequence Library-licens)</seg>
       </tuv>
     </tu>
     <tu>
