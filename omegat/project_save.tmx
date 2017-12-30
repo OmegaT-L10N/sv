@@ -9956,6 +9956,14 @@ Not OK
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macedonian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094007Z" creationid="mini-me" creationdate="20171230T094007Z">
+        <seg>Makedonska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T204207Z">
@@ -9994,10 +10002,41 @@ Not OK
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Malagasy</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094024Z" creationid="mini-me" creationdate="20171230T094024Z">
+        <seg>Madagaskiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malay</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094035Z" creationid="mini-me" creationdate="20171230T094035Z">
+        <seg>Malajiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094107Z" creationid="mini-me" creationdate="20171230T094107Z">
+        <seg>Maltesiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T183306Z">
         <seg>Manuellt definierade regler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Manx</seg>
       </tuv>
     </tu>
     <tu>
@@ -10014,6 +10053,14 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T164721Z">
         <seg>Markera &amp;blanktecken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marathi (Marāṭhī)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094130Z" creationid="mini-me" creationdate="20171230T094130Z">
+        <seg>Marathi</seg>
       </tuv>
     </tu>
     <tu>
@@ -10110,6 +10157,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T164705Z">
         <seg>Markera segment med &amp;anteckningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Marshallese</seg>
       </tuv>
     </tu>
     <tu>
@@ -10393,6 +10447,14 @@ ViewOptionsPanel.java: 113
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mongolian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094146Z" creationid="mini-me" creationdate="20171230T094146Z">
+        <seg>Mongoliska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T094135Z">
@@ -10566,6 +10628,14 @@ lämplig plats såsom Programmappen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Māori</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094113Z" creationid="mini-me" creationdate="20171230T094113Z">
+        <seg>Maori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170722T071923Z">
@@ -10586,6 +10656,21 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T070028Z">
         <seg>Namn: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nauru</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094152Z" creationid="mini-me" creationdate="20171230T094152Z">
+        <seg>Nauriska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Navajo, Navaho</seg>
       </tuv>
     </tu>
     <tu>
@@ -10846,6 +10931,20 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T181342Z">
         <seg>Ingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>North Ndebele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Norwegian Bokmål</seg>
       </tuv>
     </tu>
     <tu>
