@@ -9181,6 +9181,13 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Kanuri</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Kazakh</seg>
       </tuv>
@@ -9286,6 +9293,66 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T141112Z">
         <seg>Nyckelordssökningar matchar alla nyckelord (åtskilda av mellanslag) oavsett deras ordning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Khmer</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093705Z" creationid="mini-me" creationdate="20171230T093705Z">
+        <seg>Kambodjanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Kikuyu, Gikuyu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kirghiz, Kyrgyz</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093738Z" creationid="mini-me" creationdate="20171230T093738Z">
+        <seg>Kirgiziska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Komi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Kongo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Korean</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093801Z" creationid="mini-me" creationdate="20171230T093801Z">
+        <seg>Koreanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kurdish</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093808Z" creationid="mini-me" creationdate="20171230T093808Z">
+        <seg>Kurdiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Kwanyama, Kuanyama</seg>
       </tuv>
     </tu>
     <tu>
@@ -9506,6 +9573,14 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Lao</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093904Z" creationid="mini-me" creationdate="20171230T093904Z">
+        <seg>Laotiska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -9550,6 +9625,14 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T221837Z" creationid="mini-me" creationdate="20171209T221837Z">
         <seg>Senaste versionen - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latvian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093934Z" creationid="mini-me" creationdate="20171230T093934Z">
+        <seg>Lettiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -9663,6 +9746,13 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Limburgish, Limburgan, Limburger</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Line length:</seg>
       </tuv>
@@ -9691,6 +9781,14 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T114338Z">
         <seg>Listvy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093918Z" creationid="mini-me" creationdate="20171230T093918Z">
+        <seg>Litauiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -9810,6 +9908,27 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T124641Z">
         <seg>Logg:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Luba-Katanga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Luganda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Luxembourgish, Letzeburgesch</seg>
       </tuv>
     </tu>
     <tu>
