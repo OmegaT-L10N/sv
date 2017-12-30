@@ -15220,6 +15220,14 @@ entered vs. specified
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spanish, Castilian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094941Z" creationid="mini-me" creationdate="20171230T094941Z">
+        <seg>Spanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T070432Z">
@@ -15496,10 +15504,26 @@ kan man skicka en flagga till OmegaT?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sundanese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095002Z" creationid="mini-me" creationdate="20171230T095002Z">
+        <seg>Sundanesiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Supported Files</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T093424Z">
         <seg>Filer som stöds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swati</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095023Z" creationid="mini-me" creationdate="20171230T095023Z">
+        <seg>Siswati</seg>
       </tuv>
     </tu>
     <tu>
@@ -15724,6 +15748,14 @@ till skillnad från internt minne
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T120247Z">
         <seg>Taggar - mellanslag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tajik</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095141Z" creationid="mini-me" creationdate="20171230T095141Z">
+        <seg>Tadzjikiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -15957,6 +15989,14 @@ Omfånget för en textersättning är projektets målsegment, oavsett om de reda
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200815Z">
         <seg>Text som ska tas bort</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thai</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095154Z" creationid="mini-me" creationdate="20171230T095154Z">
+        <seg>Thailändska</seg>
       </tuv>
     </tu>
     <tu>
@@ -17036,6 +17076,22 @@ från servern.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Tibetan Standard, Tibetan, Central</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095213Z" creationid="mini-me" creationdate="20171230T095213Z">
+        <seg>Tibetanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tigrinya</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095202Z" creationid="mini-me" creationdate="20171230T095202Z">
+        <seg>Tigrinska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -17513,6 +17569,14 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
 </note>
       <tuv lang="EN">
         <seg>Trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turkmen</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T095237Z" creationid="mini-me" creationdate="20171230T095237Z">
+        <seg>Turkmenska</seg>
       </tuv>
     </tu>
     <tu>
