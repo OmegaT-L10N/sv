@@ -8033,6 +8033,14 @@ history historik
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Icelandic</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093454Z" creationid="mini-me" creationdate="20171230T093454Z">
+        <seg>Isländska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -8045,6 +8053,13 @@ history historik
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171120T063358Z">
         <seg>Identifierare att använda för alternativa översättningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Ido</seg>
       </tuv>
     </tu>
     <tu>
@@ -8352,6 +8367,13 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Igbo</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Ignore</seg>
       </tuv>
@@ -8535,6 +8557,14 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T062523Z">
         <seg>Statistik för enskilda filer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Indonesian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093350Z" creationid="mini-me" creationdate="20171230T093350Z">
+        <seg>Indonesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -8743,6 +8773,14 @@ på den genvägen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inupiaq</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093435Z" creationid="mini-me" creationdate="20171230T093435Z">
+        <seg>Iñupiaq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid API key</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T201606Z">
@@ -8779,6 +8817,14 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T183055Z">
         <seg>Anropa `team -h` för fler detaljer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093402Z" creationid="mini-me" creationdate="20171230T093402Z">
+        <seg>Iriska</seg>
       </tuv>
     </tu>
     <tu>
@@ -9089,6 +9135,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Javanese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093519Z" creationid="mini-me" creationdate="20171230T093519Z">
+        <seg>Javanesiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (localization manager)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T123744Z">
@@ -9116,6 +9170,22 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T061220Z">
         <seg>Hoppar till senast redigerade segment…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kalaallisut, Greenlandic</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093539Z" creationid="mini-me" creationdate="20171230T093539Z">
+        <seg>Grönländska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kazakh</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093606Z" creationid="mini-me" creationdate="20171230T093606Z">
+        <seg>Kazakiska</seg>
       </tuv>
     </tu>
     <tu>
