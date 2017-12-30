@@ -13717,6 +13717,14 @@ A: finns i Redigera-menyn
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sequence Library (Sequence Library License)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T082309Z" creationid="mini-me" creationdate="20171230T082309Z">
+        <seg>Sequence Library (Sequence Library-Licens)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Server (original)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T102545Z">
@@ -14049,10 +14057,11 @@ Not OK
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T081249Z">
+        <seg>Tyvärr,</seg>
       </tuv>
     </tu>
     <tu>
