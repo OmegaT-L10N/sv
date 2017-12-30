@@ -3732,6 +3732,13 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+hittar inte</note>
+      <tuv lang="EN">
+        <seg>Chamorro</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Change date</seg>
       </tuv>
@@ -3825,6 +3832,13 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T081948Z">
         <seg>Tecken (utan mellanslag)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Chechen</seg>
       </tuv>
     </tu>
     <tu>
@@ -4049,6 +4063,13 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Chichewa, Chewa, Nyanja</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
@@ -4094,6 +4115,14 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171216T061450Z" creationid="Dorothy" creationdate="20171216T061450Z">
         <seg>Välj&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chuvash</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092835Z" creationid="mini-me" creationdate="20171230T092835Z">
+        <seg>Tjuvasjiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -4633,6 +4662,21 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Cornish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Corsican</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092904Z" creationid="mini-me" creationdate="20171230T092904Z">
+        <seg>Korsikanska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
@@ -4845,6 +4889,21 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Cree</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092929Z" creationid="mini-me" creationdate="20171230T092929Z">
+        <seg>Kroatiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Ctrl+Backspace</seg>
       </tuv>
     </tu>
@@ -4953,10 +5012,26 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092950Z" creationid="mini-me" creationdate="20171230T092950Z">
+        <seg>Tjeckiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>D&amp;iagrams</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T181619Z">
         <seg>D&amp;iagram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092955Z" creationid="mini-me" creationdate="20171230T092955Z">
+        <seg>Danska</seg>
       </tuv>
     </tu>
     <tu>
@@ -5371,6 +5446,13 @@ lite längre ner "show"</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T104629Z">
         <seg>Avstånd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Divehi, Dhivehi, Maldivian</seg>
       </tuv>
     </tu>
     <tu>
