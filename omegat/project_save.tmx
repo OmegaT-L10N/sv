@@ -6467,6 +6467,14 @@ eskejpat tecken?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093046Z" creationid="mini-me" creationdate="20171230T093046Z">
+        <seg>Estniska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T195307Z">
@@ -6520,6 +6528,13 @@ eskejpat tecken?
 </note>
       <tuv lang="EN">
         <seg>Every three minutes by default, an updated version of data shared is available to the rest of the team</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Ewe</seg>
       </tuv>
     </tu>
     <tu>
@@ -6832,6 +6847,14 @@ inte "kompilera"
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Faroese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093112Z" creationid="mini-me" creationdate="20171230T093112Z">
+        <seg>Färöiska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Why "backup extension"?
 </note>
       <tuv lang="EN">
@@ -6873,6 +6896,14 @@ inte "kompilera"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170728T185052Z">
         <seg>Några ytterligare saker att komma ihåg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fijian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093120Z" creationid="mini-me" creationdate="20171230T093120Z">
+        <seg>Fijianska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7337,6 +7368,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Fula, Fulah, Pulaar, Pular</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
@@ -7389,6 +7427,14 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Galician</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093139Z" creationid="mini-me" creationdate="20171230T093139Z">
+        <seg>Galiciska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171108T205553Z">
@@ -7409,6 +7455,14 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170728T184729Z">
         <seg>Skapa den översatta filen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Georgian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093153Z" creationid="mini-me" creationdate="20171230T093153Z">
+        <seg>Georgiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7618,6 +7672,22 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Greek, Modern</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093219Z" creationid="mini-me" creationdate="20171230T093219Z">
+        <seg>Grekiska, modern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Guaraní</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093232Z" creationid="mini-me" creationdate="20171230T093232Z">
+        <seg>Guarani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T153658Z">
@@ -7679,6 +7749,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Haitian, Haitian Creole</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Has note</seg>
       </tuv>
@@ -7699,6 +7776,14 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>Heapwise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hebrew (modern)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093301Z" creationid="mini-me" creationdate="20171230T093301Z">
+        <seg>Hebreiska, modern</seg>
       </tuv>
     </tu>
     <tu>
@@ -7744,6 +7829,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Herero</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
@@ -7773,6 +7865,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T062901Z">
         <seg>Mönster för markering…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Hiri Motu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7859,6 +7958,14 @@ history historik
 </note>
       <tuv lang="EN">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T093331Z" creationid="mini-me" creationdate="20171230T093331Z">
+        <seg>Ungerska</seg>
       </tuv>
     </tu>
     <tu>
