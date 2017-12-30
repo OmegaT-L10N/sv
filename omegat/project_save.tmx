@@ -10677,6 +10677,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Ndonga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
     </tu>
@@ -10941,10 +10948,25 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Norwegian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094318Z" creationid="mini-me" creationdate="20171230T094318Z">
+        <seg>Norska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
         <seg>Norwegian Bokmål</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Norwegian Nynorsk</seg>
       </tuv>
     </tu>
     <tu>
@@ -11163,6 +11185,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Nuosu</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>O&amp;ptions...</seg>
       </tuv>
@@ -11179,6 +11208,14 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Occitan</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094342Z" creationid="mini-me" creationdate="20171230T094342Z">
+        <seg>Occitanska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>In source:
 also --&gt; still
 </note>
@@ -11187,6 +11224,20 @@ also --&gt; still
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T122320Z">
         <seg>Dokument har också ofta taggar som inte har något med formatering att göra, men som ändå är viktiga i källdokument (och i de översatta filerna).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Ojibwe, Ojibwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic</seg>
       </tuv>
     </tu>
     <tu>
@@ -11869,6 +11920,14 @@ consistency?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Oromo</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094420Z" creationid="mini-me" creationdate="20171230T094420Z">
+        <seg>Afan oromo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Orphan segments</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T170531Z">
@@ -11884,6 +11943,13 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T055941Z">
         <seg>Föräldralös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Ossetian, Ossetic</seg>
       </tuv>
     </tu>
     <tu>
@@ -11983,6 +12049,14 @@ consistency?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Panjabi, Punjabi</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094436Z" creationid="mini-me" creationdate="20171230T094436Z">
+        <seg>Punjabi</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -12002,6 +12076,14 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>Parsewise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pashto, Pushto</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094513Z" creationid="mini-me" creationdate="20171230T094513Z">
+        <seg>Pashto</seg>
       </tuv>
     </tu>
     <tu>
@@ -12089,6 +12171,14 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>Periodic builds are available on CloudBees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Persian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094455Z" creationid="mini-me" creationdate="20171230T094455Z">
+        <seg>Persiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -12404,6 +12494,14 @@ ytterligare åtgärder behöver vidtas.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094524Z" creationid="mini-me" creationdate="20171230T094524Z">
+        <seg>Portugisiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -12902,6 +13000,13 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T053514Z">
         <seg>Push misslyckades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Pāli</seg>
       </tuv>
     </tu>
     <tu>
@@ -13634,6 +13739,14 @@ kanske reload istället?
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T213958Z" creationid="mini-me" creationdate="20171209T213958Z">
         <seg>Höger:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Romansh</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094554Z" creationid="mini-me" creationdate="20171230T094554Z">
+        <seg>Rumantsch</seg>
       </tuv>
     </tu>
     <tu>
@@ -14984,6 +15097,13 @@ entered vs. specified
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171118T072811Z">
         <seg>Käll-/översättningslängder (tecken)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>South Ndebele</seg>
       </tuv>
     </tu>
     <tu>
