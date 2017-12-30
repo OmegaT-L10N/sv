@@ -10949,6 +10949,14 @@ lämplig plats såsom Programmappen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Northern Sami</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094714Z" creationid="mini-me" creationdate="20171230T094714Z">
+        <seg>Nordsamiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Norwegian</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T094318Z" creationid="mini-me" creationdate="20171230T094318Z">
@@ -13743,6 +13751,14 @@ kanske reload istället?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Romanian, Moldavian, Moldovan</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094623Z" creationid="mini-me" creationdate="20171230T094623Z">
+        <seg>Rumänska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Romansh</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T094554Z" creationid="mini-me" creationdate="20171230T094554Z">
@@ -13894,6 +13910,14 @@ kanske reload istället?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Samoan</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094724Z" creationid="mini-me" creationdate="20171230T094724Z">
+        <seg>Samoanska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>inte säker på denna ...
 </note>
       <tuv lang="EN">
@@ -13924,6 +13948,30 @@ kanske reload istället?
 </note>
       <tuv lang="EN">
         <seg>Samuel Murray: for the introductory chapter "Learn to use OmegaT in 5 minutes".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sango</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094733Z" creationid="mini-me" creationdate="20171230T094733Z">
+        <seg>Sangho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sanskrit (Saṁskṛta)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094643Z" creationid="mini-me" creationdate="20171230T094643Z">
+        <seg>Sanskrit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sardinian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094657Z" creationid="mini-me" creationdate="20171230T094657Z">
+        <seg>Sardiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -14028,6 +14076,14 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T140825Z">
         <seg>Omfång:
 Omfånget för en sökning är som standard projektet och kan sättas till att vara godtyckliga filer i en angiven mapphierarki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scottish Gaelic, Gaelic</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094806Z" creationid="mini-me" creationdate="20171230T094806Z">
+        <seg>Gaeliska</seg>
       </tuv>
     </tu>
     <tu>
@@ -14538,6 +14594,14 @@ A: finns i Redigera-menyn
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Serbian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094748Z" creationid="mini-me" creationdate="20171230T094748Z">
+        <seg>Serbokroatiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Server (original)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T102545Z">
@@ -14799,6 +14863,14 @@ Not OK
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sinhala, Sinhalese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094833Z" creationid="mini-me" creationdate="20171230T094833Z">
+        <seg>Singalesiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Size</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T192703Z">
@@ -14843,6 +14915,30 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T181610Z">
         <seg>Bildla&amp;youter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094841Z" creationid="mini-me" creationdate="20171230T094841Z">
+        <seg>Slovakiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slovene</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094848Z" creationid="mini-me" creationdate="20171230T094848Z">
+        <seg>Slovenska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Somali</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094902Z" creationid="mini-me" creationdate="20171230T094902Z">
+        <seg>Somaliska</seg>
       </tuv>
     </tu>
     <tu>
@@ -15104,6 +15200,14 @@ entered vs. specified
 </note>
       <tuv lang="EN">
         <seg>South Ndebele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Southern Sotho</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T094921Z" creationid="mini-me" creationdate="20171230T094921Z">
+        <seg>Sesotho</seg>
       </tuv>
     </tu>
     <tu>
