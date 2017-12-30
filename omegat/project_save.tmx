@@ -3091,10 +3091,11 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Assamese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092410Z">
+        <seg>Assamesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3221,7 +3222,7 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
     </tu>
     <tu>
       <note>Not OK
-</note>
+hittar inte</note>
       <tuv lang="EN">
         <seg>Avaric</seg>
       </tuv>
@@ -3236,6 +3237,7 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
     </tu>
     <tu>
       <note>Not OK
+hittar inte
 </note>
       <tuv lang="EN">
         <seg>Avestan</seg>
@@ -3249,17 +3251,16 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Aymara</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Azerbaijani</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092456Z">
+        <seg>Azerbajdzjanska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3335,7 +3336,7 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
     </tu>
     <tu>
       <note>Not OK
-</note>
+hittar inte</note>
       <tuv lang="EN">
         <seg>Bambara</seg>
       </tuv>
@@ -3353,6 +3354,30 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bashkir</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092523Z" creationid="mini-me" creationdate="20171230T092523Z">
+        <seg>Basjkiriska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Basque</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092541Z" creationid="mini-me" creationdate="20171230T092541Z">
+        <seg>Baskiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Belarusian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092550Z" creationid="mini-me" creationdate="20171230T092550Z">
+        <seg>Vitryska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3406,6 +3431,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+hittar inte
+</note>
+      <tuv lang="EN">
+        <seg>Bosnian</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Both</seg>
       </tuv>
@@ -3419,6 +3452,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T154313Z">
         <seg>Brytning/Undantag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Breton</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092639Z" creationid="mini-me" creationdate="20171230T092639Z">
+        <seg>Bretonska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3466,6 +3507,22 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092646Z" creationid="mini-me" creationdate="20171230T092646Z">
+        <seg>Bulgariska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Burmese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092714Z" creationid="mini-me" creationdate="20171230T092714Z">
+        <seg>Burmesiska</seg>
       </tuv>
     </tu>
     <tu>
