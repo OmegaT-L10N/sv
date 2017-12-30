@@ -2117,6 +2117,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Team projects&lt;/p0&gt; &lt;s1&gt;Creating SVN repository&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171216T061400Z" creationid="Dorothy" creationdate="20171216T061400Z">
@@ -2292,6 +2299,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T123718Z">
         <seg>Aaron Madlon-Kay (integrationsansvarig)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Abkhaz</seg>
       </tuv>
     </tu>
     <tu>
@@ -2504,6 +2518,20 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Afar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Afrikaans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
       </tuv>
     </tu>
@@ -2539,6 +2567,20 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T165015Z">
         <seg>Aggressiv &amp;hantering av alternativ för teckensnitt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Akan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Albanian</seg>
       </tuv>
     </tu>
     <tu>
@@ -2717,6 +2759,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Amharic</seg>
       </tuv>
     </tu>
     <tu>
@@ -2964,6 +3013,21 @@ TMX-filen kommer inte att läsas in.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arabic</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T091733Z" creationid="mini-me" creationdate="20171230T091733Z">
+        <seg>Arabiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Aragonese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T083826Z">
@@ -2986,6 +3050,13 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T083819Z">
         <seg>Är det säkert att du vill återställa huvudlösenordet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Armenian</seg>
       </tuv>
     </tu>
     <tu>
@@ -3013,6 +3084,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Assamese</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,6 +3216,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Avaric</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Average Score: {0}</seg>
       </tuv>
@@ -3149,7 +3234,28 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Avestan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Avoid in any case adding &lt;f6&gt;bak&lt;/f6&gt; files, &lt;f7&gt;project_stats.txt&lt;/f7&gt; and &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, in the &lt;f9&gt;omegat&lt;/f9&gt; subfolder, as they would without any need or profit just bloat the repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Aymara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Azerbaijani</seg>
       </tuv>
     </tu>
     <tu>
@@ -3221,6 +3327,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T204529Z">
         <seg>Ogiltigt reguljärt uttryck!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Bambara</seg>
       </tuv>
     </tu>
     <tu>
@@ -7659,6 +7772,20 @@ history historik
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>ISO 639-1/639-2 Language code list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>ISO language codes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Iceni Infix</seg>
       </tuv>
     </tu>
@@ -8891,6 +9018,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language name</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T091710Z" creationid="mini-me" creationdate="20171230T091710Z">
+        <seg>Språknamn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T071219Z">
@@ -9041,6 +9176,13 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T060952Z">
         <seg>Språk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Languages - ISO 639 code list</seg>
       </tuv>
     </tu>
     <tu>
@@ -11451,6 +11593,13 @@ i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") se
 </note>
       <tuv lang="EN">
         <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18372,6 +18521,13 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T203938Z">
         <seg>http://www.omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
       </tuv>
     </tu>
     <tu>
