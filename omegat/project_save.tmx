@@ -2302,10 +2302,11 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Abkhaz</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171230T092119Z">
+        <seg>Abchaziska</seg>
       </tuv>
     </tu>
     <tu>
@@ -2515,14 +2516,12 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Afar</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
+      <note>OK
 </note>
       <tuv lang="EN">
         <seg>Afrikaans</seg>
