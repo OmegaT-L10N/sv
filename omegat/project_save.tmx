@@ -7439,6 +7439,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>är det algoritmen för alignment?
+</note>
+      <tuv lang="EN">
+        <seg>Heapwise</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Help &amp; Manual</seg>
       </tuv>
@@ -11308,6 +11315,13 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171108T203432Z">
         <seg>Ett parsningsfel inträffade när inställningsfilen lästes in!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>är det algoritmen för alignment?
+</note>
+      <tuv lang="EN">
+        <seg>Parsewise</seg>
       </tuv>
     </tu>
     <tu>
