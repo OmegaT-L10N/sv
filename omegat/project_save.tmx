@@ -2703,6 +2703,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
       </tuv>
     </tu>
@@ -3969,6 +3983,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;global vs project file filters&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;File formats&lt;/p0&gt; &lt;s1&gt;Unformatted&lt;/s1&gt; &lt;s2&gt;Source files&lt;/s2&gt;</seg>
       </tuv>
     </tu>
@@ -4597,6 +4618,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt; &lt;s2&gt;Searching&lt;/s2&gt;</seg>
@@ -4775,6 +4797,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt; &lt;t2&gt;INI file&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;global vs project rules&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5589,6 +5618,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A command line window is also referred to as a "terminal window".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A copy of the changed filters configuration will be stored with the project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6894,6 +6930,13 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An ignored file or folder:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>An introductory video to OmegaT in English by John Moran.</seg>
       </tuv>
@@ -7396,6 +7439,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Auto-propagation of Translations</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Auto-sync with Editor</seg>
       </tuv>
@@ -7629,6 +7679,13 @@ hittar inte</note>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T092541Z" creationid="mini-me" creationdate="20171230T092541Z">
         <seg>Baskiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8224,6 +8281,20 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
@@ -8676,6 +8747,15 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T104156Z">
         <seg>Avmarkera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"Click"
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11484,6 +11564,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Enable Sentence-level segmentation</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
@@ -12261,6 +12348,8 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>External Post-processing Command</seg>
       </tuv>
@@ -12553,6 +12642,7 @@ inte "kompilera"
     </tu>
     <tu>
       <note>Not OK
+	Not OK
 </note>
       <tuv lang="EN">
         <seg>File Filters...</seg>
@@ -12633,6 +12723,8 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
@@ -13537,6 +13629,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Generalities</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Generate the translated file</seg>
       </tuv>
@@ -14126,6 +14225,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Here is an example of the regular expression: &lt;f1&gt;test\.html&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14887,6 +14993,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
     </tu>
@@ -15289,6 +15402,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
       </tuv>
     </tu>
@@ -15297,6 +15417,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If you do not wish &lt;a0&gt;OmegaT&lt;/a0&gt; to send your source segments to Google to get translated, untick the Google Translate menu entry in Options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15717,6 +15844,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In a similar fashion as above the user can create project-specific File filters, which will be stored together with the project and will be valid for the current project only.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
       </tuv>
     </tu>
@@ -15773,7 +15907,21 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In case you decide to modify project folders, keep in mind that this will not move existing files from old folders to the new location.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15931,6 +16079,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In such cases, an existing translation, found in the file, is included in the &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
@@ -15961,6 +16116,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16871,6 +17033,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It is possible to modify the project properties during a translation session.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
@@ -16886,6 +17055,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It is possible to use Apertium to build machine translation systems for a variety of language pairs; to that end, Apertium uses simple XML-based standard formats to encode the linguistic data needed (either by hand or by converting existing data), which are compiled using the provided tools into the high-speed formats used by the engine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17721,6 +17897,8 @@ LanguageTool will find errors for which a rule has been defined in its language-
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
@@ -19038,6 +19216,13 @@ TMX_MERGE__MINE
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Mixing RTL and LTR strings in segments</seg>
       </tuv>
     </tu>
@@ -19902,6 +20087,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is retained in target documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>None</seg>
       </tuv>
@@ -20066,6 +20258,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that changes to the project setup may have some consequences, especially, when the project has already been started.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that default segmentation rules and file filters can be overridden by project-specific setup (see above).</seg>
       </tuv>
     </tu>
@@ -20102,6 +20301,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note that in the menu &lt;g2&gt;Options-&gt;File Filters&lt;/g2&gt;, the global user filters are changed, not the project filters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21743,6 +21949,7 @@ Not OK
     <tu>
       <note>Not OK
 Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Options</seg>
@@ -23234,6 +23441,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Project properties</seg>
@@ -23932,6 +24140,8 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Remove Tags</seg>
       </tuv>
@@ -25247,6 +25457,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>See &lt;l0&gt;Tokenizers Appendix&lt;/l0&gt; for details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
     </tu>
@@ -25351,6 +25568,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>See chapter &lt;l1&gt;Source Segmentation&lt;/l1&gt; for more information on segmentation rules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>See chapter &lt;l2&gt;Installing and Running&lt;/l2&gt;, section Launch command arguments, for details on how to add this key to the OmegaT environment.</seg>
       </tuv>
     </tu>
@@ -25359,6 +25583,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>See chapter &lt;l2&gt;Menu and Keyboard shortcuts&lt;/l2&gt; for details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>See chapter &lt;l3&gt;File filters&lt;/l3&gt;for more on the subject.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25415,6 +25646,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>See the chapter&lt;e3&gt; &lt;l4&gt;Searches&lt;/l4&gt; &lt;/e3&gt;for more information about the search window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>See the section Preventing data loss for ways and means of protecting your work.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28242,6 +28480,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties...&lt;/g6&gt; &lt;/m0&gt; dialog is used to define and modify the project folders and languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</seg>
       </tuv>
     </tu>
@@ -29620,6 +29865,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The newline (line feed) character ('\u000A')</seg>
       </tuv>
     </tu>
@@ -29765,6 +30017,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30037,6 +30296,20 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The segmentation rules are generally valid across all the projects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30482,6 +30755,13 @@ translated -&gt; target
 </note>
       <tuv lang="EN">
         <seg>The user manual is located in the docs subfolder under the OmegaT installation folder, so you may can, for instance, view the English documentation by opening the &lt;f0&gt;docs/en/index.html &lt;/f0&gt;file in your browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30986,6 +31266,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This bar gives the user feedback on specific operations that are in progress.</seg>
       </tuv>
     </tu>
@@ -31115,6 +31402,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31265,6 +31559,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31599,6 +31900,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
     </tu>
@@ -31760,6 +32068,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
       </tuv>
     </tu>
@@ -31775,6 +32090,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To customize the work with tags, one can set down some of the rules in the &lt;g0&gt;Options &gt; Tag validation...&lt;/g0&gt; window:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To delete project specific file filters, uncheck the check box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To delete project specific segmentation rules, uncheck the check box.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32110,6 +32439,13 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
 </note>
       <tuv lang="EN">
         <seg>Tokenizers are included in OmegaT and active by default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33118,6 +33454,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Until you have some experience with OmegaT, it is safest to consider all settings final once the translation has started – unless of course you realize a major mistake has been made.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Untranslated segment</seg>
       </tuv>
@@ -33431,6 +33774,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Use these Help texts to get started.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34220,6 +34570,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T055744Z">
         <seg>Om ikryssad kommer elementen i gloslistans auto-kompletteringsvy även att innehålla källtexten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+	</note>
+      <tuv lang="EN">
+        <seg>When enabled, all the formatting tags are removed from source segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35212,6 +35569,13 @@ saknar ellips</note>
 </note>
       <tuv lang="EN">
         <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can either enter the source and target languages by hand or use the drop down menus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36229,6 +36593,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>https://datamarket.azure.com/account</seg>
       </tuv>
     </tu>
@@ -36418,6 +36789,27 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>is a single tag and does not affect any surrounding text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>is not copied in /target folder during the translated files creation process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>is not displayed in the Editor pane,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>is not taken into account in statistics,</seg>
       </tuv>
     </tu>
     <tu>
