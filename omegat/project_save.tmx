@@ -97,6 +97,13 @@
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>$&gt; java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
@@ -1635,6 +1642,7 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>--config-dir=/path/to/config-files/ \</seg>
@@ -1797,6 +1805,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>--source-pattern={regexp} \</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
@@ -1804,6 +1819,13 @@ Not OK
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T060055Z">
         <seg>--tag-validation=[abort|warn]
 		Validera taggar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>--tag-validation=[block|warn]</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,6 +2020,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;User Home&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;i1/&gt;OmegaT&lt;/a0&gt; Console Mode</seg>
       </tuv>
     </tu>
     <tu>
@@ -3175,6 +3204,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl+C&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
       </tuv>
     </tu>
@@ -3836,6 +3872,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;View&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Miscellanea&lt;/p0&gt; &lt;s1&gt;OmegaT console mode&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT console mode&lt;/p0&gt; &lt;s1&gt;Miscellanea&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5743,6 +5793,13 @@ processing = behandling?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T111243Z">
         <seg>Ett fel uppstod när konsolprocessen {0} skulle köras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An example would be a software project, with GUI localized in a number of languages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9079,6 +9136,13 @@ lite längre ner "show"</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Displays the &lt;a0&gt;OmegaT&lt;/a0&gt; help files in a separate window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Displays the &lt;l0&gt;File filters&lt;/l0&gt; dialog to configure file handling and parsing.</seg>
       </tuv>
     </tu>
@@ -10577,6 +10641,7 @@ eskejpat tecken?
       <note>Not OK
 Not OK
 Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Example:</seg>
@@ -10693,10 +10758,11 @@ Not OK
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Explanation:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T142255Z">
+        <seg>Förklaring:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10719,6 +10785,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Export the segment to text files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Exports the current selection or the current source, if no text has been selected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12421,6 +12494,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Help files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Help menu</seg>
       </tuv>
     </tu>
@@ -13390,6 +13470,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you are unable to run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
     </tu>
@@ -13547,6 +13634,13 @@ installera OmegaT.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you need non-standard settings, the corresponding configuration files (&lt;l0&gt;filters.conf&lt;/l0&gt; and &lt;l1&gt;segmentation.conf&lt;/l1&gt;) must be present.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
       </tuv>
     </tu>
@@ -13593,6 +13687,13 @@ installera OmegaT.</seg>
 </note>
       <tuv lang="EN">
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the settings you configured.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15699,6 +15800,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Launching OmegaT in console mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Launching this function – &lt;g0&gt;Ctrl+Shift+V&lt;i1/&gt;&lt;/g0&gt; - opens a window containing all segments in the file containing suspected broken or bad tags in the translation.</seg>
       </tuv>
     </tu>
@@ -16702,6 +16810,20 @@ TMX_MERGE__MINE
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170808T173847Z">
         <seg>Minuter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Miscellanea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Miscellaneous subjects</seg>
       </tuv>
     </tu>
     <tu>
@@ -18054,6 +18176,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Of interest for advanced users only!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>In source:
 also --&gt; still
 </note>
@@ -19056,6 +19185,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Opens a new Search window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Opens a new window and displays the project statistics, i.e. the project totals and totals for every file in the project.</seg>
       </tuv>
     </tu>
@@ -19989,6 +20125,7 @@ ytterligare åtgärder behöver vidtas.</seg>
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Prerequisites</seg>
@@ -21705,6 +21842,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and set the settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and specify the settings.</seg>
       </tuv>
     </tu>
@@ -22187,6 +22331,13 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T065711Z">
         <seg>Sök ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Search Project</seg>
       </tuv>
     </tu>
     <tu>
@@ -25829,6 +25980,13 @@ i /lib/licenses/Licenses.txt.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The location does not matter, since you can add it to the command line at startup.</seg>
       </tuv>
     </tu>
@@ -25837,6 +25995,13 @@ i /lib/licenses/Licenses.txt.</seg>
 </note>
       <tuv lang="EN">
         <seg>The location does not matter, since you have to add it to the command line at the start-up anyway.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The location is irrelevant, since it must be specified explicitly on the command-line at launch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25919,6 +26084,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The most important is &lt;l1&gt;&lt;project-dir&gt;&lt;/l1&gt;, and optionally&lt;l2&gt; --config-dir=&lt;config-dir&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The most important of these is &lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt;, and optionally &lt;l1&gt;--config-dir=&lt;config-dir&gt;&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26123,6 +26295,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The purpose of the console (i.e. command line) mode is to permit the use &lt;a0&gt;of OmegaT&lt;/a0&gt; as translation tool in a scripting environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The purpose of the console mode is to use OmegaT as a translation tool in a scripting environment.</seg>
       </tuv>
     </tu>
@@ -26151,6 +26330,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The recognized extensions are &lt;f1&gt;TXT&lt;/f1&gt; and &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The relevant files &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; can be found in the user home folder (E.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26452,6 +26638,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The text is exported to a plain text file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26945,6 +27138,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>This can be achieved in two ways:</seg>
@@ -27638,6 +27832,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To launch OmegaT in console mode, additional parameters must be specified at launch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To launch OmegaT, you must launch this file either from the command line or from your file manager, usually by double-clicking it.</seg>
       </tuv>
     </tu>
@@ -27692,6 +27893,13 @@ finns inget menu entry called that
 </note>
       <tuv lang="EN">
         <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To run OmegaT, a valid OmegaT project must be available.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29315,6 +29523,13 @@ sökbara utan prenumeration:</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Using the console mode, one can make generating a localized interface a part of the build process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Using the team project in OmegaT</seg>
       </tuv>
     </tu>
@@ -29771,6 +29986,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
 </note>
       <tuv lang="EN">
         <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>When launched in console mode, no GUI is loaded ( it will work therefore on any console) and the given project is automatically translated.</seg>
       </tuv>
     </tu>
     <tu>
