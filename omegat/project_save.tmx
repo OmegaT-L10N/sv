@@ -4880,6 +4880,27 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A non-whitespace character: [^\s]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A non-word boundary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A non-word character: [^\w]</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>set --&gt; "pair" ?
 </note>
       <tuv lang="EN">
@@ -4974,6 +4995,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A word boundary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A word character: [a-zA-Z_0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -21412,6 +21447,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Regex - Boundary matchers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Regex - Character</seg>
       </tuv>
     </tu>
@@ -21434,6 +21476,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Regex - Flags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Regex - Greedy quantifiers</seg>
       </tuv>
     </tu>
     <tu>
@@ -25947,6 +25996,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The beginning of a line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The behaviour, stated here, applies to all the source files and not just to some of the file types, like formatted text.</seg>
       </tuv>
     </tu>
@@ -26277,6 +26333,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The encoding of glossaries is determined automatically.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The end of a line</seg>
       </tuv>
     </tu>
     <tu>
@@ -31246,6 +31309,30 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170803T192032Z">
         <seg>Fel användarnamn/lösenord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, once or not at all</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T145141Z">
+        <seg>X, en gång eller inte alls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, one or more times</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T145123Z" creationid="mini-me" creationdate="20171231T145123Z">
+        <seg>X, en eller flera gånger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, zero or more times</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T145106Z" creationid="mini-me" creationdate="20171231T145106Z">
+        <seg>X, noll eller flera gånger</seg>
       </tuv>
     </tu>
     <tu>
