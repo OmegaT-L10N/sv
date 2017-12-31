@@ -3369,6 +3369,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; enables OmegaT to be instructed in which folder the configuration files are stored.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; in which folder the configuration files are stored.</seg>
       </tuv>
     </tu>
@@ -3390,7 +3397,28 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--mode=console-translate &lt;/l0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; launches in console mode and translates the given project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--source-pattern={regexp} &lt;/l0&gt;The files to be translated can be specified this way.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--tag-validation=[abort|warn] &lt;/l0&gt; On abort, the program is aborted when tag validation finds errors.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3412,6 +3440,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat is a folder, the dot preceding its name makes it invisible unless you type ls -a or an equivalent command)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to be translated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3872,6 +3907,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;View&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Miscellanea&lt;/p0&gt; &lt;s1&gt;Automatic aligner for Java properties&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5830,6 +5872,13 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>An introductory video to OmegaT in English by John Moran.</seg>
       </tuv>
@@ -5890,6 +5939,13 @@ TMX-filen kommer inte att läsas in.</seg>
 </note>
       <tuv lang="EN">
         <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; When this parameter is added, tag validation is done prior to translation/aligning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6269,6 +6325,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T060529Z">
         <seg>Autotext-fil (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Automatic Java Properties Aligner</seg>
       </tuv>
     </tu>
     <tu>
@@ -12528,6 +12591,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Here is an example of the regular expression: &lt;f1&gt;test\.html&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"custom locations"?
 </note>
       <tuv lang="EN">
@@ -13064,6 +13134,13 @@ den fullständiga sökvägen anges.)</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If given, &lt;a2&gt;OmegaT&lt;/a2&gt; launches in console mode and translates the given project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If given, &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode and will translate the given project.</seg>
       </tuv>
     </tu>
@@ -13154,6 +13231,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If not given, &lt;a2&gt;OmegaT&lt;/a2&gt; reverts to default values (&lt;a3&gt;OmegaT&lt;/a3&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working folder).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13300,6 +13384,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
@@ -13307,6 +13392,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>If the value is &lt;l2&gt;warn&lt;/l2&gt; then the errors are printed but OmegaT continues.</seg>
@@ -13592,6 +13678,13 @@ installera OmegaT.</seg>
 </note>
       <tuv lang="EN">
         <seg>If you have made changes to your&lt;f0&gt; OmegaT.l4J.ini &lt;/f0&gt;file and/or are using a .bat file, you must copy these over.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you have the source and the target Properties files for one and the same contents in your language pair, this procedure will create a corresponding tmx file for these contents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13897,6 +13990,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In all other cases no tag validation is done.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
       </tuv>
     </tu>
@@ -14106,6 +14206,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In the next step, we will add the OmegaT files to the local folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the quiet mode, less info is logged to the screen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18298,6 +18405,13 @@ also --&gt; still
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT can align Java .properties in console mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
@@ -18824,6 +18938,13 @@ installeras i ditt system.</seg>
 </note>
       <tuv lang="EN">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>On warn the errors are printed but the program continues.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20786,6 +20907,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Quiet option</seg>
@@ -29082,6 +29204,14 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Usage:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T142614Z" creationid="mini-me" creationdate="20171231T142614Z">
+        <seg>Användning:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -29090,6 +29220,7 @@ på rad {1}, kolumn {2}.</seg>
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Usage: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
@@ -30064,6 +30195,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>When this file is executed, the commands within it are automatically carried out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>When this parameter is added, tag validation is done prior to translation/aligning.</seg>
       </tuv>
     </tu>
     <tu>
