@@ -1751,6 +1751,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>(where "xxxxx" is the API key provided by Google).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
       </tuv>
     </tu>
@@ -2143,6 +2150,11 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -2188,6 +2200,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>27/27</seg>
       </tuv>
     </tu>
@@ -2199,8 +2218,6 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>3.</seg>
       </tuv>
@@ -2364,6 +2381,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Document Cleaner&lt;/a0&gt; (free)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Follow this link to apply to Google&lt;/a0&gt; for the Google Translate API v2 key.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7590,6 +7614,15 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>"line head"
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>And remove "#" at the line head of -Dgoogle.api.key.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Android Resources</seg>
       </tuv>
@@ -7728,6 +7761,13 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171116T141630Z">
         <seg>Tillämpa &amp;fix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Apply styles to delimiters</seg>
       </tuv>
     </tu>
     <tu>
@@ -7873,6 +7913,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>As of December 2011, Google has required payment from users for use of this service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>As of version 2.1.8, by default, these multiple tags are now aggregated (condensed) into a single tag.</seg>
       </tuv>
     </tu>
@@ -7918,6 +7965,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T092410Z">
         <seg>Assamesiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Assign the key to OmegaT's launch procedure as follows, depending upon whether you are using Windows, Mac, or launching OmegaT from the command line or by means of a script:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8449,6 +8503,13 @@ hittar inte</note>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060618Z" creationid="mini-me" creationdate="20171218T060618Z">
         <seg>Belazar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Besides the web page into which users can simply paste text for translation, Google Translate also provides an interface (API) which can be used by CAT tools to access the service.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10731,7 +10792,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Create target documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Create the macro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Create the target documents as usual and convert the file to Microsoft Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14067,6 +14142,23 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and select your preferred editor to open the file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>semikolon -&gt; kolon
+</note>
+      <tuv lang="EN">
+        <seg>Find the following lines;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T220543Z">
+        <seg>Leta upp följande rader;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Find the line</seg>
       </tuv>
     </tu>
@@ -15351,6 +15443,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060615Z" creationid="mini-me" creationdate="20171218T060615Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Google will generate your API key, a string with approximately 39 characters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16929,6 +17028,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you don't already have one, open an account with google.com.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
       </tuv>
     </tu>
@@ -17386,6 +17492,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In KMenuEditor select &lt;e3&gt;File -&gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In Microsoft Word, run the following macro to apply the relevant styles to the target document(s):</seg>
       </tuv>
     </tu>
     <tu>
@@ -18262,6 +18375,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Insert Trados segment delimiters</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Insert Unicode Control Character</seg>
       </tuv>
@@ -18755,6 +18875,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It does not enable them to "translate" bilingual files supplied by their customers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It does not include spell checking.</seg>
       </tuv>
     </tu>
@@ -19014,6 +19141,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170805T201025Z">
         <seg>Det behöver konverteras till ett nytt teamprojekt, men detta kan inte göras i konsol-läge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It only enables translators to generate (i.e. deliver) Trados uncleaned files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20248,6 +20382,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Locate the configuration file OmegaT.l4J.ini (the default location is C:\Program Files (x86)\OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
@@ -20375,6 +20516,14 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Mac users should instead use the &lt;g2&gt;cmd+key.&lt;/g2&gt; On Apple keyboards the &lt;g3&gt;cmd&lt;/g3&gt; key either has a command label or an Apple icon on it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac users:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T220504Z" creationid="mini-me" creationdate="20171231T220504Z">
+        <seg>Mac-användare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20556,6 +20705,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Make sure that you have a free Yandex account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Make sure that you have your credit card details handy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23957,6 +24113,13 @@ consistency?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Open OmegaT.l4J.ini in a plain-text editor</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Open Project</seg>
       </tuv>
@@ -25179,6 +25342,13 @@ ytterligare åtgärder behöver vidtas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Points to note:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Polish</seg>
       </tuv>
@@ -25468,6 +25638,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Private Sub AddTw4winStyles()&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27159,6 +27336,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Right-click on OmegaT.app and select "Show Package Contents".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
     </tu>
@@ -27492,6 +27676,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T063818Z">
         <seg>Spara aktuell uppsättning…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Save OmegaT.l4J.ini (and if necessary, move it back to the OmegaT folder).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33227,6 +33418,13 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The script is available for the Windows platform only.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The script will quit now.</seg>
       </tuv>
@@ -34409,7 +34607,21 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This HowTo describes how to configure the function in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This HowTo describes how to use OmegaT in conjunction with Atril's Déjà Vu CAT tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This HowTo explains how to produce an "uncleaned RTF" file from an OmegaT project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34546,6 +34758,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This code/procedure combination has not yet been thoroughly tested (though initial reports are promising).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34702,6 +34921,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This format is the same as the tab separated one: source term, target term.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This format may be a practical interchange format for users of other CAT tools, particularly Trados and Wordfast Classic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35499,6 +35725,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To edit this file, you may need Administrator mode, or to move it temporarily to a different location on your hard drive.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
@@ -35665,6 +35898,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To open a new search window, use &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; in the Main window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To produce a bilingual OpenOffice.Org file containing the Trados segment delimiters, close the OmegaT project, then run the following AutoIt script (requires Windows) on the project's project_save.tmx file:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38575,6 +38815,14 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows users:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T220410Z" creationid="mini-me" creationdate="20171231T220410Z">
+        <seg>Windows-användare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With 64-bit JRE</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T221608Z" creationid="mini-me" creationdate="20171209T221608Z">
@@ -41462,6 +41710,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>window, similar to the one below will appear:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>www.leuce.com/autoit/uncleanifyTMX.zip</seg>
       </tuv>
     </tu>
     <tu>
