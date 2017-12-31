@@ -8,6 +8,13 @@
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>"Google Translate returned HTTP response code: 403 ...": check that the 38-characters key, entered in the pinfo.list file, is correct.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
       </tuv>
     </tu>
@@ -3291,7 +3298,28 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Microsoft Translator&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;MyMemory&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Troubleshooting&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Yandex Translate&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5308,6 +5336,13 @@ hittar inte
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Are you online?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
@@ -6518,7 +6553,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Check if the selected service offers it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check in Options &gt; Machine Translate, that Google Translate V2 is checked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6576,6 +6625,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T151149Z">
         <seg>Kontrollera inledande skiftläge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check that &lt;u0&gt;Translate API service &lt;/u0&gt;has been activated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6770,6 +6826,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Click on &lt;g1&gt;File Filters&lt;/g1&gt; button and activate the check box &lt;g2&gt;Enable project specific filters&lt;/g2&gt;&lt;i3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Click on the My Account option at the top of the page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7727,6 +7790,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Custom tag(s) regular expression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Customer ID (corresponds to &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; command-line parameter)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11114,6 +11184,27 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Google Translate V2 reports "Bad request" - check the source and target languages for your project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Google Translate does not work: - with the Google API key entered as requested.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Google Translate does not work: have you applied &lt;u0&gt;Translate API service&lt;/u0&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Google Translate is a payable service offered by Google, for translating sentences, web sites and complete texts between an ever-growing number of languages.</seg>
       </tuv>
     </tu>
@@ -11245,6 +11336,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T115528Z">
         <seg>Har anteckning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Having no languages defined elicits this kind or a response.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11962,6 +12060,13 @@ till standard som följd av platsändringen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If there's nothing appearing in the Machine Translate pane, then check the following:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If they are accidentally changed, the formatting of the final file may be corrupted.</seg>
       </tuv>
     </tu>
@@ -12137,6 +12242,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12540,6 +12652,20 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170810T145406Z">
         <seg>För att ändringarna ska träda i kraft måste OmegaT avslutas och projektet öppnas på nytt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In order to be able to use Yandex Translate in OmegaT, you need to &lt;u0&gt;obtain an API key from Yandex&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In order to get credentials for MS Translator, follow these steps:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14500,6 +14626,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Log into Microsoft Azure Marketplace: &lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Log...</seg>
       </tuv>
     </tu>
@@ -14619,6 +14752,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171522Z">
         <seg>Alternativ för maskinöversättning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Machine translation - trouble shooting</seg>
       </tuv>
     </tu>
     <tu>
@@ -15134,6 +15274,7 @@ Det skulle kunna översättas med "pågående"
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Microsoft Translator</seg>
@@ -15506,6 +15647,20 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>MyMemory offers also the possibility to manage &lt;e0&gt;private TMs&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>MyMemory provides also &lt;e0&gt;Human translations&lt;/e0&gt; originating from professional translators, LSPs, customers and multilingual web content.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>MyMemory your@email-address.com</seg>
       </tuv>
     </tu>
@@ -15561,6 +15716,13 @@ lämplig plats såsom Programmappen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Ndonga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Near the bottom you will see entries and values for:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15995,6 +16157,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that Google Translate service is not free of charge, see chapter &lt;l1&gt;Installing and Running&lt;/l1&gt; (runtime parameters) for more on that.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that all parameters start with a double - character.</seg>
       </tuv>
     </tu>
@@ -16124,6 +16293,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T081832Z">
         <seg>Obs: DocBook-filer känns inte bara igen på filnamnstillägget, de måste dessutom ha en DOCTYPE-deklaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML… för DocBook 4, eller deklaration av en namnrymd: xmlns="http://docbook.org/ns/docbook" för DocBook 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note: OmegaT does not interact dynamically with them (you must export/import TMX files manually).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18294,6 +18470,13 @@ ett lokalt projekt utan teamfunktioner.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T180456Z">
         <seg>Tidigare deltagare inkluderar:
 (alfabetisk ordning)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Primary Account Key (corresponds to &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; command-line parameter)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23651,6 +23834,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The obtained API key needs to be passed to OmegaT at startup through &lt;c0&gt;yandex.api.key&lt;/c0&gt; command-line parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The online version of Google Translate allows the user to correct the suggestion and send the corrected segment in.</seg>
       </tuv>
     </tu>
@@ -24258,6 +24448,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T164649Z">
         <seg>När du sedan översätter från kanadafranska kommer ditt projekt använda alla regler som definierats för hela språkkedjan i rätt ordning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Then you must put this TMX file in the /tm/ or /tm/auto/ folder of your OmegaT project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25151,6 +25348,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To do that edit OmegaT launcher or see chapter &lt;l1&gt;Installing and Running&lt;/l1&gt; to learn how to start OmegaT from the command line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To duplicate tag groups, just copy them in the position of your choice.</seg>
       </tuv>
     </tu>
@@ -25173,7 +25377,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To enable MS Translator in OmegaT edit its launcher or see chapter &lt;l0&gt;Installing and Running&lt;/l0&gt; to learn how to start OmegaT from the command line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To get these translations, you must upload your source file &lt;u1&gt;on their site&lt;/u1&gt; that generates a TMX file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27186,6 +27404,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>What is the language pair you need?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>What you expected to see</seg>
       </tuv>
     </tu>
@@ -28197,6 +28422,13 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You need to be online to be able to use an MT tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>dir vs. folder
 </note>
       <tuv lang="EN">
@@ -28630,6 +28862,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>http://datamarket.azure.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
       </tuv>
     </tu>
@@ -28652,6 +28891,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://mymemory.translated.net/</seg>
       </tuv>
     </tu>
     <tu>
@@ -28746,6 +28992,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>https://developers.google.com/translate/v2/faq</seg>
       </tuv>
     </tu>
     <tu>
@@ -28887,6 +29140,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>import the file into ODF writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>in the Kaptain launcher (Linux only), enter the address in the corresponding field on the "Online Services" tab.</seg>
       </tuv>
     </tu>
     <tu>
