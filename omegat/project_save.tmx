@@ -2835,6 +2835,34 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;C&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;D&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;E&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;L&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;O&lt;/k1&gt;</seg>
       </tuv>
     </tu>
@@ -2842,7 +2870,56 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Q&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;S&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;D&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;V&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;X&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Z&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3398,6 +3475,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T172023Z">
         <seg>&lt;p0&gt;Meny Projekt&lt;/p0&gt; &lt;s1&gt;Nytt…&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Edit&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4398,6 +4482,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Access Configuration Folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Access Project Contents</seg>
       </tuv>
     </tu>
     <tu>
@@ -6939,6 +7030,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Closes or opens the &lt;l0&gt;Project files window&lt;/l0&gt; (depending on whether it is open or closed).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Co&amp;mments</seg>
       </tuv>
@@ -7417,6 +7515,22 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Copies the selected text to the clipboard and deletes the selected text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Copies the selected text to the clipboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Copy</seg>
       </tuv>
@@ -7446,6 +7560,13 @@ This one is a title for the dialog and shouldn't have ellipsis
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T063722Z">
         <seg>Kopiera filer till källfilsmappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Copy/cut/paste shortcuts</seg>
       </tuv>
     </tu>
     <tu>
@@ -7565,6 +7686,13 @@ This one is a title for the dialog and shouldn't have ellipsis
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Create Current Translated Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Create Current Translated Documents</seg>
       </tuv>
     </tu>
@@ -7596,6 +7724,7 @@ This one is a title for the dialog and shouldn't have ellipsis
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Create Translated Documents</seg>
@@ -7678,6 +7807,20 @@ This one is a title for the dialog and shouldn't have ellipsis
 </note>
       <tuv lang="EN">
         <seg>Creates and opens a new project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Creates the target document corresponding to the current document in translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Creates the target documents based on your translation of the documents' text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7879,6 +8022,8 @@ This one is a title for the dialog and shouldn't have ellipsis
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Cut</seg>
       </tuv>
@@ -8311,6 +8456,13 @@ lite längre ner "show"</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T202847Z">
         <seg>Visa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8971,6 +9123,7 @@ laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Edit</seg>
@@ -9070,6 +9223,13 @@ global sök "highlight"
 </note>
       <tuv lang="EN">
         <seg>Edit filter dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Edit menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -10633,6 +10793,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For example:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>For installation on Linux.</seg>
       </tuv>
@@ -11074,6 +11241,13 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>Give access to the five last edited projects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Gives access to the project folders.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12104,6 +12278,13 @@ till standard som följd av platsändringen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If the documents are not available, the entry is greyed out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
     </tu>
@@ -12436,6 +12617,13 @@ installera OmegaT.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
     </tu>
@@ -12680,6 +12868,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In addition, two menu entries allow opening directly the current source and target documents and the writable glossary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16457,6 +16652,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note: Items that are found in most applications (copy/cut/paste) are not displayed in this menu, but are available using your system shortcuts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note: OmegaT does not interact dynamically with them (you must export/import TMX files manually).</seg>
       </tuv>
     </tu>
@@ -16764,6 +16966,13 @@ also --&gt; still
 </note>
       <tuv lang="EN">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT automatically saves translations every 10 minutes as well as when you close the project or quit OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18019,11 +18228,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Paste</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T201034Z">
         <seg>Klistra in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Pastes the text from the clipboard at the cursor position.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18793,6 +19011,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Project Files...</seg>
@@ -19036,6 +19255,7 @@ Why not "begin" - "end"
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Properties...</seg>
@@ -19133,6 +19353,7 @@ Why not "begin" - "end"
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Quit</seg>
@@ -19353,6 +19574,13 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171108T063229Z">
         <seg>Ladda om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Reloads the project to take external changes in source files, legacy translation memories, glossaries and project settings into account.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19944,6 +20172,13 @@ kanske reload istället?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Restores the status before the last editing action was taken.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Result:</seg>
       </tuv>
@@ -20254,10 +20489,11 @@ Not OK
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Save</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T135236Z">
+        <seg>Spara</seg>
       </tuv>
     </tu>
     <tu>
@@ -20328,6 +20564,27 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Saves the internal translation memory to the hard disk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Saves the project and quits &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Saves the translation and closes the project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23179,6 +23436,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The Edit menu itself contains the following items:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The GNU GENERAL PUBLIC LICENSE.</seg>
       </tuv>
     </tu>
@@ -23564,6 +23828,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The created target documents are located in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The current folder will be used
 instead.</seg>
@@ -23663,6 +23934,13 @@ användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The documentation is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The documents are opened by the application chosen by the operating system.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25032,6 +25310,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This command does not work once the modified segment has been validated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26573,6 +26858,7 @@ Exakta sökningar matchar hela söksträngen.</seg>
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Undo Last Action</seg>
