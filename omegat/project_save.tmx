@@ -65,6 +65,13 @@
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>$ ant jar release</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>$ tar xf downloaded_file.tar.gz</seg>
       </tuv>
     </tu>
@@ -2937,6 +2944,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
       </tuv>
     </tu>
@@ -3459,6 +3473,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Right to left languages&lt;/p0&gt; &lt;s1&gt;Target files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Building OmegaT from source&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5054,6 +5075,13 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet.&lt;/l0&gt; In the quiet mode, less info is logged to the screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>An introductory video to OmegaT in English by John Moran.</seg>
       </tuv>
@@ -5107,6 +5135,13 @@ TMX-filen kommer inte att läsas in.</seg>
 </note>
       <tuv lang="EN">
         <seg>Android resource (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; When this parameter is added, tag validation is done prior to translation/aligning.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5807,6 +5842,13 @@ hittar inte
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Building &lt;a0&gt;OmegaT&lt;/a0&gt; From Source</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Bulgarian</seg>
       </tuv>
@@ -5900,6 +5942,13 @@ kolla </note>
 </note>
       <tuv lang="EN">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>By default, under Windows, &lt;l1&gt;omegat.project&lt;/l1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11747,6 +11796,20 @@ till standard som följd av platsändringen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If the value is &lt;l2&gt;warn&lt;/l2&gt; then the errors are printed but OmegaT continues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
       </tuv>
     </tu>
@@ -15802,6 +15865,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note that you will need the ant program (&lt;e0&gt;http://ant.apache.org/bindownload.cgi&lt;/e0&gt;) to build your own version of OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
@@ -17631,6 +17701,13 @@ ytterligare åtgärder behöver vidtas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Please make sure that a build.xml file is present in that folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Please redo tag validation.</seg>
       </tuv>
@@ -18426,6 +18503,13 @@ Why not "begin" - "end"
 </note>
       <tuv lang="EN">
         <seg>QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Quiet option</seg>
       </tuv>
     </tu>
     <tu>
@@ -21901,6 +21985,13 @@ till skillnad från internt minne
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Tag validation option</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Tag validation options</seg>
       </tuv>
     </tu>
@@ -23222,6 +23313,13 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The messages you would usually find in the status bar are not displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The most current info about OmegaT can be found at:</seg>
       </tuv>
@@ -23855,6 +23953,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New&lt;/e0&gt; Submenu and &lt;e1&gt;File - New Item&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Then, on the command line, type:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24538,6 +24643,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This will actually do a checkout of the project in a local folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This will create a full distribution of &lt;a0&gt;OmegaT&lt;/a0&gt; in the ./dist/ folder, where you will find all the files necessary to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25804,6 +25916,13 @@ Exakta sökningar matchar hela söksträngen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Unpack the &lt;e1&gt;OmegaT_3.n.n_Source.zip&lt;/e1&gt; file and enter the OmegaT_3.n.n_Source folder or enter the &lt;e2&gt;./omegat/&lt;/e2&gt; folder of the SVN checked out code.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
 documentation file and the OmegaT application.</seg>
@@ -25959,6 +26078,20 @@ på rad {1}, kolumn {2}.</seg>
 </note>
       <tuv lang="EN">
         <seg>Usage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Usage: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Usage: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27066,6 +27199,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
 </note>
       <tuv lang="EN">
         <seg>With links to more detailed HOWTOs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>With that option, no locking occurs.</seg>
       </tuv>
     </tu>
     <tu>
