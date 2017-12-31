@@ -2026,6 +2026,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; users and Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; works with three types of files.</seg>
       </tuv>
@@ -2373,6 +2380,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type "java -version".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Important: &lt;/e0&gt;Google Translate API v2 requires billing information for all accounts before you can start using the service (see &lt;u1&gt;Pricing and Terms of Service&lt;/u1&gt; for more).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3235,6 +3249,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Google Translate&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Introduction&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Converting numbers&lt;/t2&gt;</seg>
       </tuv>
     </tu>
@@ -3620,6 +3648,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Machine Translate - Ctrl+M&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5299,6 +5334,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>As opposed to user-generated translation memories (as in the case of &lt;a0&gt;OmegaT&lt;/a0&gt;) Machine translation (MT) tools use rule-based linguistic tools to create a translation of the source segment without the need for a translation memory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
     </tu>
@@ -5348,6 +5390,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T102520Z">
         <seg>Samtidigt kan det använda minnesfiler från tidigare översättningar som referens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>At the time of writing the list includes more than 50 languages, from Albanian to Yiddish, including of course all the major languages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10960,6 +11009,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Google Translate</seg>
@@ -10969,7 +11019,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Google Translate - example</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Google Translate V2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Google Translate is a payable service offered by Google, for translating sentences, web sites and complete texts between an ever-growing number of languages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11852,6 +11916,13 @@ till standard som följd av platsändringen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If used, neither the user's decision to accept the translation nor the final translation are made available to Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
       </tuv>
     </tu>
@@ -11992,6 +12063,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If you export using the system option "Tab-delimited export", you will need to delete the first 5 columns (Seq.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you find the suggestion acceptable, press &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; to replace the target part of the opened segment with the suggestion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12445,7 +12523,21 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In the Slovenian version both words have been translated as nouns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the above segment, for instance, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; would replace the Spanish version with the Slovenian suggestion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12841,6 +12933,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Introduction</seg>
@@ -13082,6 +13175,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is actually quite probable that the Spanish translation is based at least partially on the actual translation of the book.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
@@ -13101,6 +13201,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is pretty much certain that while the quality may be insufficient in some cases, it will definitely get better with time and not worse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14417,6 +14524,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171522Z">
         <seg>Alternativ för maskinöversättning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Machine translation services have been achieving good and steadfastly improving results in research evaluations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15763,6 +15877,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note &lt;e0&gt;interesar&lt;/e0&gt; and&lt;e1&gt; navegar&lt;/e1&gt; in Spanish, are correctly translated as the verbs interest and sail respectively.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note double - character</seg>
       </tuv>
     </tu>
@@ -15848,6 +15969,13 @@ lämplig plats såsom Programmappen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Note that the team members have to be registered first, before you can add them to the project (Note: in the free version of ProjectLocker you are allowed only two users per project).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note that they are all web-based: you will have to be on-line if you want to use them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16783,6 +16911,13 @@ installeras i ditt system.</seg>
 </note>
       <tuv lang="EN">
         <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Once you have activated the service, a suggestion for the translation will appear in the Machine Translate pane every time a new source segment is opened.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20065,6 +20200,13 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>See chapter &lt;l2&gt;Installing and Running&lt;/l2&gt;, section Launch command arguments, for details on how to add this key to the OmegaT environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
     </tu>
@@ -21455,6 +21597,13 @@ entered vs. specified
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Statistical learning techniques, based on source and target texts, are used to build a translation model.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
@@ -22444,6 +22593,16 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The &lt;a0&gt;OmegaT&lt;/a0&gt; user is not forced to use Google Translate.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T131817Z" creationid="mini-me" creationdate="20171231T131817Z">
+        <seg>'The &lt;a0&gt;OmegaT&lt;/a0&gt; user is not forced to use Google Translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The &lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; argument causes &lt;a1&gt;OmegaT&lt;/a1&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
     </tu>
@@ -22626,6 +22785,13 @@ kommer den aktuella mappen att användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Spanish translation is better than the Slovenian.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22907,6 +23073,13 @@ användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The current version of the service is based on usage, with the price of 20 USD per million characters at the time of writing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The data are exported when the segment is opened.</seg>
       </tuv>
     </tu>
@@ -23128,6 +23301,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The following two steps will bring the server version up to date:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The following window shows an example of a) the English source b) Spanish and c) Slovenian Google Translate translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23501,6 +23681,13 @@ här heter det "memory"
       <note>v</note>
       <tuv lang="EN">
         <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The quality of the Google Translate translation depends on one side on the reservoir of target-language texts and the availability of their bilingual versions, on the other hand on the quality of the models built.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24709,6 +24896,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To activate any of the Machine Translation services, go to &lt;g0&gt;Options &gt; Machine Translate ...&lt;/g0&gt; and activate the service desired.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
@@ -24841,6 +25035,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To identify yourself as a valid user for the Google services, you use your private unique key sent to you by Google, when you have registered for the service.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28378,6 +28579,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
       </tuv>
     </tu>
     <tu>
