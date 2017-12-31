@@ -4889,6 +4889,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
     </tu>
@@ -11620,6 +11627,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Finds the following:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21517,6 +21531,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Regex - Examples of regular expressions in translations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Regex - Flags</seg>
       </tuv>
     </tu>
@@ -21578,6 +21599,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T183945Z">
         <seg>&amp;Registrera identisk översättning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Regular expression</seg>
       </tuv>
     </tu>
     <tu>
@@ -26545,6 +26573,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The following options apply to the 3.x filter only</seg>
       </tuv>
@@ -28160,6 +28195,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This is how it works:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is much the same as the above example.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32277,6 +32319,13 @@ Men kan inte förstå varför i SRC code
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>comma or a period, followed by spaces and yet another comma or period</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>contains the current statistics of the current project.</seg>
       </tuv>
     </tu>
@@ -32320,6 +32369,13 @@ Men kan inte förstå varför i SRC code
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>double words</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>en</seg>
       </tuv>
     </tu>
@@ -32336,6 +32392,13 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T194656Z">
         <seg>filnamnstillägg:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>extra spaces after the period at the end of the line</seg>
       </tuv>
     </tu>
     <tu>
