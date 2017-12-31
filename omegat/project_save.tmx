@@ -8341,8 +8341,8 @@ hittar inte
       <tuv lang="EN">
         <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171231T213006Z" creationid="mini-me" creationdate="20171209T220431Z">
-        <seg>Av Sheila Gomes (på Brasiliansk Portugisiska).</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T213208Z" creationid="mini-me" creationdate="20171209T220431Z">
+        <seg>Av Sheila Gomes (på brasiliansk portugisiska).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13881,13 +13881,11 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>For installation on Windows System.</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171209T221409Z" creationid="mini-me" creationdate="20171209T221409Z">
-        <seg>För installation på Windows System.</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T213251Z" creationid="mini-me" creationdate="20171209T221409Z">
+        <seg>För installation på Windows-system.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16017,7 +16015,6 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
-Not OK
 </note>
       <tuv lang="EN">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
