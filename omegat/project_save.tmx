@@ -19,6 +19,13 @@
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
@@ -1871,6 +1878,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
@@ -2727,6 +2741,27 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;File format&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt; &lt;t2&gt;multiple-words entries&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;TBX format&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2879,6 +2914,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Glossary subfolder&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Source subfolder&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2901,6 +2943,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Translation project files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;User files&lt;/s1&gt; &lt;s2&gt;Glossaries&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2993,6 +3042,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Tag validation - Ctrl+T&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3105,6 +3161,23 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Group overlapping&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Group validation&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Hints&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T113146Z" creationid="mini-me" creationdate="20171231T113146Z">
+        <seg>'&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Hints&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3231,6 +3304,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
@@ -3322,6 +3402,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A general observation: "compatibility" is rarely a black and white, "yes" or "no" issue.</seg>
       </tuv>
     </tu>
@@ -3347,6 +3434,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A number of rule sets are provided while additional rules can be defined by the user, as described in this chapter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A regular expression entered here will cause OmegaT treat the detected instances as customer tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3619,6 +3713,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T190424Z">
         <seg>Åtgärder &amp; Inställningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Activating this check box will cause OmegaT to check if simple java MessageFormat tags (like {0}) are processed correctly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4050,6 +4151,13 @@ hittar inte denna!
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Also supported is the CSV format.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Alt+F2</seg>
       </tuv>
@@ -4343,6 +4451,13 @@ TMX-filen kommer inte att läsas in.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Any matches in the target segment will then be painted red, i.e. easy to identify and correct.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
     </tu>
@@ -4467,6 +4582,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5549,6 +5671,13 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check simple java MessageFormat patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Check spaces around tags</seg>
       </tuv>
@@ -5755,6 +5884,13 @@ hittar inte</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Click on the link to activate the segment in the Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
     </tu>
@@ -5918,6 +6054,13 @@ hittar inte</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T070926Z">
         <seg>Kommentar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Comment fields are separated by a comma ','.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6288,6 +6431,13 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Correct the error if necessary (in the case above it is the missing &lt;i2&gt;&lt;/i2&gt; pair) and press &lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Corsican</seg>
       </tuv>
@@ -6650,6 +6800,13 @@ hittar inte</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170729T072024Z">
         <seg>Anpassad tabell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Custom tag(s) regular expression</seg>
       </tuv>
     </tu>
     <tu>
@@ -8883,6 +9040,13 @@ File filters dialog</seg>
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>File format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 Not OK
 </note>
       <tuv lang="EN">
@@ -9434,6 +9598,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Fragment(s) that should be removed from the translation regular expression</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>French</seg>
       </tuv>
@@ -9660,6 +9831,27 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Glossaries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Glossaries, Glossary pane</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
@@ -9720,6 +9912,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
@@ -9733,6 +9932,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170812T144531Z">
         <seg>Mapp {0} för gloslistor finns inte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Glossary pane</seg>
       </tuv>
     </tu>
     <tu>
@@ -10057,6 +10263,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Hints for tags management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Hiri Motu</seg>
       </tuv>
     </tu>
@@ -10331,6 +10551,13 @@ den fullständiga sökvägen anges.)</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If an Internet connection is available, various MT services such as Google Translate and Microsoft Translator can be used from within OmegaT.</seg>
       </tuv>
     </tu>
@@ -10475,6 +10702,13 @@ till standard som följd av platsändringen.</seg>
 </note>
       <tuv lang="EN">
         <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10720,6 +10954,13 @@ installera OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you need to see tags in OmegaT but do not need to retain most of the formatting in the translated document you are free not to include tags in the translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>här heter det "translation memory file"
 </note>
       <tuv lang="EN">
@@ -10902,6 +11143,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
       </tuv>
     </tu>
@@ -11034,6 +11282,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In the next step, we will add the OmegaT files to the local folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In this case pay extra attention to tag pairs since deleting one side of the pair but forgetting to delete the other is guaranteed to corrupt your document's formatting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11530,6 +11785,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It checks that the number of tags and their order is identical, just like it is the case for omegat-tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12481,6 +12743,13 @@ LanguageTool will find errors for which a rule has been defined in its language-
       <tuv lang="SV" changeid="Dorothy" changedate="20170801T100459Z">
         <seg>Starta OmegaT från kommandoraden (alla system)
 ==========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Launching this function – &lt;g0&gt;Ctrl+Shift+V&lt;i1/&gt;&lt;/g0&gt; - opens a window containing all segments in the file containing suspected broken or bad tags in the translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13759,6 +14028,20 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
@@ -14130,6 +14413,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
       </tuv>
     </tu>
@@ -14352,6 +14642,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T094342Z" creationid="mini-me" creationdate="20171230T094342Z">
         <seg>Occitanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14632,6 +14929,13 @@ och översättningshantering till uppdaterade projekt.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT is not yet able to detect mistakes in formatting fully automatically, so it will not prompt you if you make an error or change formatting to fit your target language better.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15001,6 +15305,13 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170801T070308Z">
         <seg>När du har sett till att det inte finns några taggfel i din översättning, tryck &lt;k0&gt;CTRL + D&lt;/k0&gt; för att skapa målfilerna, vilka kommer att skapas i undermappen &lt;f1&gt;/target/&lt;/f1&gt; i din projektmapp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>One can enter a regular expression for unwanted contents in the target.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15603,6 +15914,13 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T165405Z">
         <seg>Mönster…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Pay extra attention to tag pairs</seg>
       </tuv>
     </tu>
     <tu>
@@ -16649,6 +16967,13 @@ Why not "begin" - "end"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Read the tag operations section to see what can be done with tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Read-only</seg>
       </tuv>
@@ -16833,6 +17158,13 @@ Why not "begin" - "end"
 </note>
       <tuv lang="EN">
         <seg>Remember that every good bug report needs just three things:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Remember that if you find tags a problem in OmegaT and formatting is not extremely relevant for the current translation, removing tags may be the easiest way out of problems.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17066,6 +17398,13 @@ kanske reload istället?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T093937Z">
         <seg>Öppna projektet på nytt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Repairing the tags and recreating the target documents is easy with the validate tags function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18739,6 +19078,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Simplify the original text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Simplifying the original formatting greatly contributes to reducing the number of tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Simplifying the original text formatting greatly contributes to reducing the number of tags.</seg>
       </tuv>
     </tu>
@@ -18747,6 +19100,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Since tags are included in the text itself, it is possible to use segmentation rules to create segments with fewer tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18843,6 +19203,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Somali</seg>
       </tuv>
@@ -18881,6 +19255,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Some tag manipulations are necessary and are benign, others will cause problems when the translated document is created.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
       </tuv>
@@ -18893,6 +19274,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Sometimes, however, your translated file may look strange, and – in the worst case – may even refuse to open.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19412,6 +19800,13 @@ entered vs. specified
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Strip BiDi Marks</seg>
       </tuv>
@@ -19801,6 +20196,13 @@ till skillnad från internt minne
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Tag errors are tag sequences in the translation in which the same tag order and number as in the original segment is not reproduced.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Tag group deletion:</seg>
       </tuv>
     </tu>
@@ -19816,6 +20218,13 @@ till skillnad från internt minne
 </note>
       <tuv lang="EN">
         <seg>Tag group overlapping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tag group validation</seg>
       </tuv>
     </tu>
     <tu>
@@ -19845,6 +20254,13 @@ till skillnad från internt minne
 </note>
       <tuv lang="EN">
         <seg>Tag operations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tag validation entry</seg>
       </tuv>
     </tu>
     <tu>
@@ -19918,6 +20334,13 @@ till skillnad från internt minne
 </note>
       <tuv lang="EN">
         <seg>Tags are numbered incrementally by tag group.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tags generally represent formatting in some form of the original text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20116,6 +20539,13 @@ till skillnad från internt minne
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171116T134521Z">
         <seg>Terminologiproblem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Terms in the current segment which &lt;a3&gt;OmegaT&lt;/a3&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20760,7 +21190,21 @@ användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The encoding of glossaries is determined automatically.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The entry &lt;e3&gt;Remove translation&lt;/e3&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20776,6 +21220,13 @@ användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The file can usually be extracted by double-clicking on the downloaded package.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20889,6 +21340,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The group archives are public and can be viewed without subscription to the group.</seg>
       </tuv>
     </tu>
@@ -20942,6 +21400,20 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170729T075045Z">
         <seg>Licensen för varje bibliotek finns angiven
 i /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The location of the &lt;f1&gt;.tbx&lt;/f1&gt; file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21261,6 +21733,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The source text</seg>
       </tuv>
     </tu>
@@ -21309,6 +21788,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The system maintains versioning for data shared</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The tags are highlighted in bold blue for easy comparison between the original and the translated contents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21372,6 +21858,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The third column can be used for additional information.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>borde ha "language code"
 translated -&gt; target
 </note>
@@ -21401,6 +21894,13 @@ translated -&gt; target
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The user group also serves as the main point of contact between users and the project team.</seg>
       </tuv>
     </tu>
@@ -21415,7 +21915,21 @@ translated -&gt; target
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The validate tags function detects changes to tag sequences (whether deliberate or accidental), and shows the affected segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21425,6 +21939,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The window that opens when &lt;g2&gt;Ctrl+Shift+V&lt;/g2&gt; is pressed features a 3-column table with a link to the segment, the original segment and the target segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21800,6 +22328,13 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This format is the same as the tab separated one: source term, target term.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This formatting has been deleted.&lt;segment 0001&gt;</seg>
       </tuv>
     </tu>
@@ -21839,6 +22374,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>This is also the place to add members of the team to the project and assign them their rights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is an advanced feature and some experience is required in order for it to be applied properly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22252,6 +22794,13 @@ finns inget menu entry called that
 </note>
       <tuv lang="EN">
         <seg>To update the local files, right-click on the checkout folder and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To use an existing glossary, simply place it in the&lt;i0/&gt; &lt;f1&gt;/glossary&lt;/f1&gt; folder after creating the project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23280,6 +23829,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Usage</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
@@ -24040,6 +24596,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>When looking for fuzzy matches, the remove pattern is ignored.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>When moving between segments, you may wish to populate the editing field with an existing translation in the fuzzy match pane or with the source text.</seg>
       </tuv>
     </tu>
@@ -24128,6 +24691,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T122243Z">
         <seg>När du vill se hur din översättning kommer att se ut i sitt slutliga format, tryck &lt;k2&gt;CTRL + D&lt;/k2&gt; för att skapa de översatta filerna, vilka kommer att skapas i undermappen &lt;f3&gt;/target/&lt;/f3&gt; i din projektmapp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Where circumstances permit, unifying used fonts, font sizes, colors, etc. should be considered, as it could simplify the translation and reduce the potential for tag errors.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24710,6 +25280,13 @@ saknar ellips</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can have the source text inserted automatically into the editing field.</seg>
       </tuv>
     </tu>
@@ -24792,6 +25369,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
 </note>
       <tuv lang="EN">
         <seg>You create first an empty client folder on your disk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You define its location and name in the project properties dialog.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25588,6 +26172,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>move to the start of the segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>multiple words entries in glossaries - example</seg>
       </tuv>
     </tu>
     <tu>
