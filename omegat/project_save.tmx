@@ -15229,6 +15229,13 @@ Det skulle kunna översättas med "pågående"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Menu and Keyboard shortcuts</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
