@@ -50,6 +50,20 @@
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>"\." stands for the period character.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg># MyMemory email</seg>
       </tuv>
     </tu>
@@ -2280,7 +2294,21 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has by default the following short list available to make it easier for you to deal with some plain text files:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2354,6 +2382,14 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; users and Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; uses the following sequence of steps:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3103,6 +3139,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Warning!&lt;/e0&gt; Should you change filter options whilst a project is open, you must reload the project in order for the changes to take effect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Warning: &lt;/e0&gt;because the text will segment differently after filter options have been changed, so you may have to start translating from scratch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4704,6 +4747,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Pretranslation&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -4716,6 +4766,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt;</seg>
@@ -4937,6 +4988,62 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Searches&lt;/p0&gt; &lt;s1&gt;Using wild cards&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Creating a new rule&lt;/s1&gt; &lt;s2&gt;Regular expressions&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Examples&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules priority&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt; &lt;t2&gt;Break rule&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Rules&lt;/s1&gt; &lt;t2&gt;Exception rule&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Sentence level segmentation&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Segmentation&lt;/p0&gt; &lt;s1&gt;Source level segmentation&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5820,6 +5927,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A few simple examples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A file might have no matching entries, so it will show empty.</seg>
       </tuv>
     </tu>
@@ -5842,6 +5956,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A good starting point will always be the existing rules.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6371,6 +6492,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Add the &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
@@ -6479,6 +6607,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>After</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>After a bad manipulation:</seg>
       </tuv>
     </tu>
@@ -6508,6 +6643,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>After nesting:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6701,6 +6843,13 @@ hittar inte denna!
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171108T204738Z">
         <seg>Alla inställningar som skyddas av huvudlösenordet kommer att återställas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6920,6 +7069,13 @@ hittar inte denna!
 </note>
       <tuv lang="EN">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7473,6 +7629,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
       </tuv>
     </tu>
@@ -7482,6 +7645,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170722T070642Z">
         <seg>När du är färdig med översättningen exporterar OmegaT tre översättningsminnen med namnen &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; och &lt;f2&gt;omegat&lt;/f2&gt; till din projektmapp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>At the same time the previous valid segments in the project translation memory will turn into orphan segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7888,6 +8058,13 @@ hittar inte</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Before</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Before proceeding with such conversions, be sure to test all options.</seg>
       </tuv>
     </tu>
@@ -7986,6 +8163,13 @@ hittar inte
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T071613Z">
         <seg>Både och</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Break rule</seg>
       </tuv>
     </tu>
     <tu>
@@ -8420,6 +8604,13 @@ hittar inte</note>
 </note>
       <tuv lang="EN">
         <seg>Change the file extension from &lt;l1&gt;.txt&lt;/l1&gt; to &lt;l2&gt;.utf8.&lt;/l2&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; will automatically interpret the file as a UTF-8 file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code (see &lt;x1/&gt; for a list of language codes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10046,6 +10237,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Creating a new rule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Creating a repository</seg>
       </tuv>
     </tu>
@@ -10399,6 +10597,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170801T091220Z">
         <seg>Avgränsare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11446,6 +11651,13 @@ laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>During this process it is only the structure of the source file that is used to produce segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>During translation additional files may get created in this subfolder as follows</seg>
       </tuv>
     </tu>
@@ -12474,6 +12686,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Exception rule</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Exception while editing options:</seg>
       </tuv>
@@ -13078,6 +13297,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
       </tuv>
     </tu>
@@ -13391,6 +13617,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
     </tu>
@@ -13462,6 +13695,20 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13666,6 +13913,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>For this reason, the two commands described above are contained in a file (a "script", also called a ".bat file" on Windows systems).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14780,6 +15034,13 @@ history historik
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
@@ -15294,6 +15555,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
     </tu>
@@ -15423,6 +15691,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If the project language codes and the tmx language codes fully match, the segments are loaded in memory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15711,6 +15986,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16021,6 +16303,13 @@ installera OmegaT.</seg>
 </note>
       <tuv lang="EN">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e2&gt;Move Up&lt;/e2&gt; button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16351,6 +16640,20 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In order to edit or expand an existing set of rules, simply click on it in the top table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In order to get credentials for MS Translator, follow these steps:</seg>
       </tuv>
     </tu>
@@ -16366,6 +16669,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt; &lt;g4&gt;Properties...&lt;/g4&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16416,6 +16726,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16648,6 +16965,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In this mode, OmegaT will attempt to translate the files in /source/ with the available translation memories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17056,6 +17380,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Intended in particular for users who are new to Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Intention</seg>
       </tuv>
     </tu>
     <tu>
@@ -18923,6 +19254,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Make a slight change anywhere in the project.</seg>
       </tuv>
     </tu>
@@ -20541,6 +20879,8 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Note</seg>
       </tuv>
@@ -21859,6 +22199,13 @@ installeras i ditt system.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>On the other hand this functionality can be very useful in special cases, where you can increase your productivity by tuning the segmentation rules to the text to be translated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>On warn the errors are printed but the program continues.</seg>
       </tuv>
     </tu>
@@ -22684,6 +23031,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T094436Z" creationid="mini-me" creationdate="20171230T094436Z">
         <seg>Punjabi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25210,6 +25564,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Rule priority</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Rules</seg>
       </tuv>
@@ -26117,6 +26478,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>See the chapter on &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>See the chapter&lt;e3&gt; &lt;l4&gt;Searches&lt;/l4&gt; &lt;/e3&gt;for more information about the search window.</seg>
       </tuv>
     </tu>
@@ -26244,6 +26612,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T152342Z">
         <seg>Segmenteringsmetod: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Segmentation rules</seg>
       </tuv>
     </tu>
     <tu>
@@ -26582,6 +26957,20 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Sentence level segmentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Separates the source text into segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Serbian</seg>
       </tuv>
@@ -26675,6 +27064,13 @@ A: finns i Redigera-menyn
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T183937Z">
         <seg>Sätt t&amp;om översättning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27864,6 +28260,13 @@ kan man skicka en flagga till OmegaT?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T165736Z">
         <seg>Ta bort taggar i aktuellt segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Structure level segmentation</seg>
       </tuv>
     </tu>
     <tu>
@@ -30537,6 +30940,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The predefined break rules should be sufficient for most European languages and Japanese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
       </tuv>
     </tu>
@@ -30566,6 +30976,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30752,6 +31169,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The rules for that set will appear in the bottom half of the window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31062,6 +31486,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The syntax of the language pattern conforms to regular expression syntax.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The system maintains versioning for data shared</seg>
       </tuv>
     </tu>
@@ -31247,6 +31678,13 @@ translated -&gt; target
 </note>
       <tuv lang="EN">
         <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The two types of rules behave as follows:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32489,6 +32927,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Thus, when translating from Canadian French the rules for Canadian French - if any - will be applied first, followed by the rules for French and lastly, by the Default rules.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Tibetan Standard, Tibetan, Central</seg>
       </tuv>
@@ -32602,6 +33047,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To check their syntax and their applicability, it is advisable to use tools which allow you to see their effect directly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
       </tuv>
     </tu>
@@ -32653,6 +33105,21 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To customize the work with tags, one can set down some of the rules in the &lt;g0&gt;Options &gt; Tag validation...&lt;/g0&gt; window:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To define a rule as an exception rule, leave the Break/Exception check box unticked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33177,6 +33644,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Translate the file</seg>
       </tuv>
@@ -33430,6 +33904,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170812T144537Z">
         <seg>Mapp {0} för översättningsminnen finns inte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Translation memory tools work with textual units called segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38030,6 +38511,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>some version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>specify what parts of text should NOT be separated.</seg>
       </tuv>
     </tu>
     <tu>
