@@ -2165,6 +2165,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;/g0&gt;The window features a 3 column table with a link to the segment and its source and target contents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;/l2&gt;Example:</seg>
       </tuv>
     </tu>
@@ -4096,6 +4103,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Match Statistics&lt;/p0&gt; &lt;s1&gt;Menu Tools&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches pane - figure&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -4111,6 +4125,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Matches&lt;/p0&gt; &lt;s1&gt;Matches statistics&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Help&lt;/p0&gt; &lt;s1&gt;Help browser&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Help&lt;/p0&gt; &lt;s1&gt;User Manual...&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4683,11 +4711,19 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Copy text - Ctrl+C&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Help - F1&lt;/s1&gt;</seg>
@@ -4705,6 +4741,14 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Machine Translate - Ctrl+M&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Paste text - Ctrl+V&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4730,6 +4774,14 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Select All - Ctrl+A&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Selecting the match - Ctrl+N&lt;/s1&gt;</seg>
@@ -4747,6 +4799,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Tag validation - Ctrl+T&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;copy text - Ctrl+C&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4844,6 +4903,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Statistics&lt;/p0&gt; &lt;s1&gt;Menu Tools&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -4853,6 +4919,20 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171231T150030Z" creationid="mini-me" creationdate="20171231T150030Z">
         <seg>&lt;p0&gt;TMX&lt;/p0&gt;-&lt;s1&gt;översättningsminnen&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tag validation&lt;/p0&gt; &lt;s1&gt;Shortcuts, Tags&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tag validation&lt;/p0&gt; &lt;s1&gt;Window - figure&lt;/s1&gt; &lt;s2&gt;Tags&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5294,6 +5374,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Search pane&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Tag validation&lt;/s1&gt; &lt;s2&gt;Tags&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6997,6 +7084,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>As far as categories are concerned, the de facto industry standard of classifying matches into the following groups is used: Repetitions, Exact match, 95%-100%, 85%-94%, 75%-84%, 50%-74% and No match.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
     </tu>
@@ -8564,7 +8658,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Click on the link to jump to the segment in the Editor pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Clicking on a link as you would do in a web browser brings the desired page to the front.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9244,6 +9352,13 @@ This one is a title for the dialog and shouldn't have ellipsis
 </note>
       <tuv lang="EN">
         <seg>Correct the error if necessary (in the case above it is the missing &lt;i2&gt;&lt;/i2&gt; pair) and press &lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Correct the error if necessary and press &lt;g0&gt;Ctrl+T&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13246,6 +13361,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Fuzzy matches can come from the &lt;f0&gt;/tm&lt;/f0&gt; folder as well - and not just from the internal translation memory in &lt;f1&gt;/omegaT,&lt;/f1&gt; as is the case for repetitions and exact matches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Fuzzy matches pane</seg>
       </tuv>
     </tu>
@@ -13829,6 +13951,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Help browser</seg>
@@ -14595,6 +14718,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If one does not wish to use external TMs for counting, one will either have to empty the /tm folder or change the project setup (temporarily) so that the value for /tm points to a different location.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
     </tu>
@@ -14745,6 +14875,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If the translation for several identical source segments already exists in the translation memory of the project, these segments, together with other, already translated unique segments, will be classified as an "Exact match".</seg>
       </tuv>
     </tu>
     <tu>
@@ -15745,6 +15882,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In the first and third case above tags are paired incorrectly, and in the second case the &lt; sign is missing from the starting tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
       </tuv>
     </tu>
@@ -15774,6 +15918,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In the target document, nothing will appear for this segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the window, the manual and two buttons are displayed: Back and Contents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18467,6 +18618,14 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Match statistics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 </note>
       <tuv lang="EN">
         <seg>Match statistics window</seg>
@@ -19878,6 +20037,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that there could be minor differences between the OmegaT counts and the numbers, provided by other CAT tools.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note that these totals are a good (or as good as they can be) approximation of the work involved in the project and thus can serve as a basis for your cost and price calculations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that they are all web-based: you will have to be on-line if you want to use them.</seg>
       </tuv>
     </tu>
@@ -21003,6 +21176,13 @@ installeras i ditt system.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Once computed, the data also available in &lt;f6&gt;omegat/project_stats_match.txt.&lt;/f6&gt; Note that the file is time-stamped, as the calculation (contrary to the standard statistics) is not instantaneous and can thus quickly become obsolete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
     </tu>
@@ -21260,6 +21440,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Open the window with &lt;g0&gt;Ctrl+T.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Open the&lt;e0&gt; Projects&lt;/e0&gt; view for your account.</seg>
       </tuv>
     </tu>
@@ -21331,6 +21518,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171210T110307Z">
         <seg>Öppnar teamprojekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Opening the user manual in this way also enables you to follow external links, as the built-in help browser does not accept external Internet links.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23762,6 +23956,13 @@ kanske reload istället?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Repetitions stand for identical segments present several times in the text.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Repetitions within this file:</seg>
       </tuv>
@@ -25072,6 +25273,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>See the chapter&lt;e3&gt; &lt;l4&gt;Searches&lt;/l4&gt; &lt;/e3&gt;for more information about the search window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
       </tuv>
     </tu>
@@ -25895,6 +26103,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Simplifying the original text formatting in the source file before commencing translation greatly contributes to reducing the number of tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products.</seg>
       </tuv>
     </tu>
@@ -26084,6 +26299,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Some tag manipulations are necessary and are benign, others will cause problems when the translated document is created.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Some tag scenarios flagged in the tag validation window are necessary and are benign, others will cause problems when the translated document is created.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26424,6 +26646,13 @@ entered vs. specified
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Spaces between segments are not taken into account in the last column.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Spanish</seg>
       </tuv>
@@ -26649,6 +26878,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Statistics</seg>
@@ -27160,6 +27390,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Tag errors are cases in which the tags in the translation do not correspond in order and number to the original segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Tag errors are tag sequences in the translation in which the same tag order and number as in the original segment is not reproduced.</seg>
       </tuv>
     </tu>
@@ -27218,6 +27455,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Tag operations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tag validation</seg>
       </tuv>
     </tu>
     <tu>
@@ -27311,6 +27555,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Tags are highlighted in bold blue for easy comparison between the original and the translated contents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Tags are numbered incrementally by tag group.</seg>
       </tuv>
     </tu>
@@ -27319,6 +27570,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Tags generally represent formatting in some form of the original text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tags generally represent some kind of formatting in the original text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27964,6 +28222,13 @@ kommer den aktuella mappen att användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The Match Display Template area also allows changing how fuzzy matches are displayed, through the use of pre-configured variables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Match Statistics are tab-separated and you can use &lt;g0&gt;Ctrl+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, Ctrl+C &lt;i3/&gt;&lt;/g2&gt;, &lt;g4&gt;Ctrl+V &lt;i5/&gt;&lt;/g4&gt; to copy/paste them, for instance into a spreadsheet or into your cost-accounting application.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28707,6 +28972,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The first segment and its contents will be classified as "no match", and the rest of them as a repetition of the first.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The folder contains 2 files: index.html and &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app.&lt;/e3&gt; Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
     </tu>
@@ -28870,6 +29142,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The group archives are public and can be viewed without subscription to the group.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The help browser (which displays this manual) can be opened by pressing &lt;k0&gt;&lt;i1/&gt;F1&lt;/k0&gt; or navigating to &lt;g2&gt;&lt;i3/&gt;Help → User Manual...&lt;/g2&gt; in the main menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29082,6 +29361,13 @@ i /lib/licenses/Licenses.txt.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The match statistics are accessed via&lt;g0&gt;Tools&gt;Match Statistics.&lt;/g0&gt; The evaluation is rather CPU intensive and can be time-consuming, so a progress bar is shown during the calculation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
     </tu>
@@ -29179,6 +29465,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The number of unique segments, if needed, is provided in the standard statistics window, regardless of whether they have been translated or not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
     </tu>
@@ -29208,6 +29501,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The online version of Google Translate allows the user to correct the suggestion and send the corrected segment in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The only difference with matches from the &lt;f2&gt;project_save&lt;/f2&gt; translation memory is that external TMs cannot give exact matches, only 100%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29460,6 +29760,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The rest of the categories (50-100%) involves untranslated segments with a fuzzy match.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The result will thus depend on the order in which the source segments have been loaded.</seg>
       </tuv>
     </tu>
@@ -29526,6 +29833,13 @@ här heter det "memory"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T204903Z">
         <seg>Skriptet kommer nu att avslutas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The search window consists of a text field for search strings or keywords, flags and radio buttons for setting up the search and a display area containing the results of the search.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29743,6 +30057,20 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The statistics shown is available as a tab-separated &lt;f1&gt;project_stats.txt&lt;/f1&gt; file (subfolder &lt;f2&gt;omegat&lt;/f2&gt;), ready to be loaded into a spreadsheet program for the user's convenience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The statistics window - accessed via &lt;e0&gt;Tools&gt;Statistics &lt;/e0&gt;- shows the statistics of the current OmegaT project, both in the summary form as well as in detail for every file to be translated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The status bar displays work-flow related messages at the bottom of the main window.</seg>
       </tuv>
     </tu>
@@ -29758,6 +30086,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The tab character ('\u0009')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The tag validation window detects and lists any tag errors and inconsistencies in the translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29964,6 +30299,20 @@ translated -&gt; target
 </note>
       <tuv lang="EN">
         <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The user manual is an HTML document with links to different chapters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The user manual is located in the docs subfolder under the OmegaT installation folder, so you may can, for instance, view the English documentation by opening the &lt;f0&gt;docs/en/index.html &lt;/f0&gt;file in your browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30653,6 +31002,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This information applies to systems such as Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This information is computed for segments as well as for words and for characters (without and including spaces).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31377,6 +31733,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To open a new search window, use &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; in the Main window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34520,6 +34883,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can also have several search windows open simultaneously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
       </tuv>
     </tu>
@@ -34802,6 +35172,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
 </note>
       <tuv lang="EN">
         <seg>You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can use &lt;g3&gt;Ctrl+A &lt;i4/&gt;&lt;/g3&gt;&lt;g5&gt;, Ctrl+C &lt;i6/&gt;&lt;/g5&gt;, &lt;g7&gt;Ctrl+V &lt;i8/&gt;&lt;/g7&gt; to copy/paste the contents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36212,6 +36589,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>page up through the document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>project statistics</seg>
       </tuv>
     </tu>
     <tu>
