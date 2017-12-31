@@ -1477,6 +1477,20 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>, one can find:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>---- Localization Notes ----</seg>
       </tuv>
@@ -1755,6 +1769,20 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
     </tu>
@@ -1820,6 +1848,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
       </tuv>
     </tu>
@@ -1828,6 +1863,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Installing and running OmegaT: &lt;/e0&gt;this chapter is useful when you first begin using OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): is a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2166,6 +2208,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Team projects&lt;/p0&gt; &lt;s1&gt;Creating SVN repository&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171216T061400Z" creationid="Dorothy" creationdate="20171216T061400Z">
@@ -2214,6 +2263,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2735,6 +2791,13 @@ hittar inte denna!
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
@@ -3035,6 +3098,13 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060353Z" creationid="mini-me" creationdate="20171218T060353Z">
         <seg>Android Resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3422,6 +3492,13 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Belarusian</seg>
       </tuv>
@@ -3617,6 +3694,13 @@ kolla </note>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T220419Z" creationid="mini-me" creationdate="20171209T220419Z">
         <seg>Av Vladimir Zjdanov (på Ryska).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4214,6 +4298,13 @@ hittar inte</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170812T143254Z">
         <seg>Klicka på &lt;g1&gt;Kopiera filer till källfilsmappen…&lt;/g1&gt; för att välja dina källfiler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6065,6 +6156,13 @@ global sök "highlight"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Empty lines are accepted and comment lines should start with "//".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
@@ -7289,6 +7387,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For example, in the default OmegaT shortcuts</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>For installation on Linux.</seg>
       </tuv>
@@ -8282,6 +8387,13 @@ till standard som följd av platsändringen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
@@ -8306,6 +8418,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170814T100146Z">
         <seg>Om du behöver komma åt andra inställningar i denna dialog, kan du återvända till den när som helst genom att trycka &lt;k0&gt;CTRL + E&lt;/k0&gt;-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8416,6 +8535,13 @@ installera OmegaT.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171106T062251Z" creationid="Dorothy" creationdate="20171106T062251Z">
         <seg>Om du använde skriptet linux-install.sh, ska du kunna starta OmegaT med:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8582,6 +8708,13 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T065301Z">
         <seg>Gå till &lt;g0&gt;Projekt&lt;/g0&gt;menyn, välj &lt;m1&gt;&lt;g2&gt;Nytt…&lt;/g2&gt;&lt;/m1&gt; och skriv in ett namn för ditt projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9002,6 +9135,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It can also be obtained using the subversion command:</seg>
       </tuv>
     </tu>
@@ -9031,6 +9171,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>It does not include spell checking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9954,6 +10101,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Loading Project</seg>
       </tuv>
@@ -10644,6 +10798,13 @@ ViewOptionsPanel.java: 113
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171223T090215Z">
         <seg>URL för Moses-server:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11461,6 +11622,13 @@ also --&gt; still
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
     </tu>
@@ -11822,7 +11990,21 @@ installeras i ditt system.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12918,6 +13100,13 @@ När kör det?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Project Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Project Specific External Search</seg>
       </tuv>
@@ -13903,6 +14092,13 @@ kanske reload istället?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Right:</seg>
       </tuv>
@@ -14192,6 +14388,13 @@ kanske reload istället?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Saving and Output</seg>
       </tuv>
@@ -14301,6 +14504,13 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T132906Z">
         <seg>Skriptverktyg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Scripting languages</seg>
       </tuv>
     </tu>
     <tu>
@@ -14931,6 +15141,13 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
@@ -15121,6 +15338,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T094902Z" creationid="mini-me" creationdate="20171230T094902Z">
         <seg>Somaliska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16370,6 +16594,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The Standard version has usually been in use for some time and is therefore proven.</seg>
       </tuv>
     </tu>
@@ -16532,6 +16763,13 @@ användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
       </tuv>
     </tu>
@@ -16575,6 +16813,20 @@ användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The following files are to be shared among the members of the team and thus have to be included in any case:</seg>
       </tuv>
     </tu>
@@ -16584,6 +16836,13 @@ användas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171129Z">
         <seg>Följande alternativ gäller endast 3.x-filtret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The following scripting languages have been implemented:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16605,6 +16864,13 @@ användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The following two steps will bring the server version up to date:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16729,6 +16995,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The principal members of the project are:</seg>
       </tuv>
     </tu>
@@ -16842,6 +17115,20 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The server makes sure that any conflicting changes, due to two members working on the same checked-out contents, will be resolved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
       </tuv>
     </tu>
     <tu>
@@ -17381,6 +17668,13 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T083900Z">
         <seg>För att konvertera det till ett nytt teamprojekt, öppna det i OmegaT grafiska gränssnitt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To customize the script feature, do the following:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18380,6 +18674,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
@@ -18970,6 +19271,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>When you left-click on the number, the selected script will run.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
       </tuv>
     </tu>
@@ -19330,6 +19638,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
       </tuv>
     </tu>
@@ -19353,6 +19668,13 @@ from there.</seg>
         <seg>Du kan också manuellt dra filen
 OmegaT.exe till Start-menyn, skrivbordet eller snabbstart-området för att länka det
 därifrån.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19408,6 +19730,13 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T085527Z">
         <seg>Men du kan få en snyggare och mer användarvänlig installation genom
 att använda installations-skriptet (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19552,6 +19881,13 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Your operating system refused to let OmegaT
 create its configuration folder.</seg>
@@ -19628,6 +19964,13 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T094348Z">
         <seg>alla matchande segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
       </tuv>
     </tu>
     <tu>
@@ -19711,6 +20054,16 @@ Men kan inte förstå varför i SRC code
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T160821Z">
@@ -19723,6 +20076,20 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T070229Z">
         <seg>href (URL för &amp;länkar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -19777,6 +20144,13 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T204005Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
     </tu>
     <tu>
