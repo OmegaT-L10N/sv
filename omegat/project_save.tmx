@@ -1947,6 +1947,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>27/27</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>50%-74%:</seg>
       </tuv>
@@ -1968,6 +1975,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T134349Z">
         <seg>85 %-94 %:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>9319/16338</seg>
       </tuv>
     </tu>
     <tu>
@@ -2123,6 +2137,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; main window</seg>
       </tuv>
     </tu>
     <tu>
@@ -3999,6 +4020,27 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Tools&lt;/p0&gt; &lt;s1&gt;Match statistics&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Tools&lt;/p0&gt; &lt;s1&gt;statistics&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Edit&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -4127,6 +4169,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;SourceForge Project&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT windows&lt;/p0&gt; &lt;s1&gt;Restoring to factory setup&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT windows&lt;/p0&gt; &lt;s1&gt;Windows and panes in OmegaT&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4480,6 +4536,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Help - F1&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Machine Translate - Ctrl+M&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -4488,6 +4551,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Tag validation - Ctrl+Shift+V&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4908,7 +4978,42 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;User interface&lt;/p0&gt; &lt;s1&gt;Other windows&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;User interface&lt;/p0&gt; &lt;s1&gt;Settings dialogs&lt;/s1&gt; &lt;s2&gt;Project Settings&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Counters&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Main window&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Pane widgets&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8368,6 +8473,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Comments by the author in PO files, or the name of the attribute being translated (in XHTML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Comments pane</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>denna har inget &amp; i Source
 </note>
       <tuv lang="EN">
@@ -9391,6 +9510,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170801T091220Z">
         <seg>Avgränsare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10639,6 +10765,13 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Editing Behavior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 Not OK
 Not OK
 </note>
@@ -10696,6 +10829,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Editor pane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11842,6 +11982,13 @@ inte "kompilera"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>File filters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>File filters are pieces of code capable of:</seg>
       </tuv>
     </tu>
@@ -12132,6 +12279,8 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
@@ -12705,6 +12854,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>GNOME Users</seg>
       </tuv>
     </tu>
@@ -12960,6 +13116,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Glossary pane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13270,6 +13433,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Help Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Help browser</seg>
       </tuv>
     </tu>
     <tu>
@@ -14405,6 +14575,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If you believe you have lost translation data, follow the following procedure:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15885,6 +16062,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T081035Z">
         <seg>Det är ofta användbart att söka efter ord och fraser i källtexten och i din översättning, så när som helst kan du trycka &lt;k0&gt;CTRL + F&lt;/k0&gt; för att öppna dialogen &lt;g1&gt;Textsökning&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is possible to drag and drop files to each pane, which will react accordingly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17380,6 +17564,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Main Window - counters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Make a slight change anywhere in the project.</seg>
       </tuv>
     </tu>
@@ -17726,6 +17917,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Match pane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Match statistics window</seg>
       </tuv>
     </tu>
     <tu>
@@ -19224,6 +19422,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Notes pane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
     </tu>
@@ -19815,6 +20020,13 @@ att startas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T105318Z">
         <seg>OmegaT-licens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT main window</seg>
       </tuv>
     </tu>
     <tu>
@@ -20728,6 +20940,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Other file formats</seg>
       </tuv>
     </tu>
@@ -20764,6 +20983,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Other translations, identified specifically in the TMX, can be displayed using different colours.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Other windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -20878,6 +21104,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Pairs and singles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Pane widgets</seg>
       </tuv>
     </tu>
     <tu>
@@ -24172,6 +24405,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Segmentation</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Segmentation Rules...</seg>
       </tuv>
@@ -24663,6 +24903,13 @@ A: finns i Redigera-menyn
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Settings dialogs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
     </tu>
@@ -24723,6 +24970,13 @@ A: finns i Redigera-menyn
 </note>
       <tuv lang="EN">
         <seg>Should OmegaT appear to be behaving erratically, it is important to include this file or the relevant part in any bug report</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25626,6 +25880,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Statistics window</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>global: number
 </note>
       <tuv lang="EN">
@@ -26086,6 +26347,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Tag Processing...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tag Validation window</seg>
       </tuv>
     </tu>
     <tu>
@@ -27303,6 +27571,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The counters in the lower right corner keep track of the progress of the translation (numbers in the left hand column refer to the figure above):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The created target documents are located in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
       </tuv>
     </tu>
@@ -27906,6 +28181,13 @@ i /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The main window consists of several panes, the main menu and a status bar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>
 här heter det "memory"
 </note>
@@ -28353,6 +28635,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The separators between the panes can be dragged to resize panes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29156,6 +29445,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This allows them for instance to check at any moment, whether the target version for the complete project is still OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31519,6 +31815,69 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Used to adjust the handling of supported file formats (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;File Filters...&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Used to change how &lt;a0&gt;OmegaT&lt;/a0&gt; behaves when you iterate between the segments (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Behavior...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Used to change the way your text is segmented into sentences (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Segmentation&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Used to display the match statistics of the project, select &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Match statistics&lt;/g3&gt; &lt;/m0&gt; to open it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Used to display the user manual (open with &lt;k0&gt;F1&lt;/k0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Used to modify the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; to display source, translation, matches and glossary terms, (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Used to modify the project folders and languages (access via &lt;g0&gt;Ctrl+E &lt;/g0&gt;shortcut or &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;properties...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc)&lt;/k4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Used to open the window with the statistics of the project, display it, using &lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;Tools&lt;/g1&gt; &lt;g3&gt;Statistics.&lt;/g3&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Used to validate tags (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, close with &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Useful links
 ============</seg>
@@ -32306,6 +32665,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>When this file is executed, the commands within it are automatically carried out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>When this is done the panes display a tab at the top.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33100,6 +33466,13 @@ därifrån.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
@@ -33215,6 +33588,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
 </note>
       <tuv lang="EN">
         <seg>You can open them in an Internet browser to obtain access to external links.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can overlap panes if desired.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34462,6 +34842,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>maximizes the pane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>more than one space</seg>
       </tuv>
     </tu>
@@ -34526,6 +34920,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>non-greedy quantifiers will match as little as they can.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>notes pertaining to the current segment, e.g. alternative translations or the current key in case of key=value file formats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>number of segments - translated vs total for the current file</seg>
       </tuv>
     </tu>
     <tu>
@@ -34639,6 +35047,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>puts the pane back within the main window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>readme.txt</seg>
       </tuv>
     </tu>
@@ -34682,6 +35097,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>restores the layout before the maximizing step</seg>
       </tuv>
     </tu>
     <tu>
@@ -34910,6 +35332,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>uiLayout.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>undocks the pane from the main window</seg>
       </tuv>
     </tu>
     <tu>
