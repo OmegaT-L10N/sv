@@ -1727,6 +1727,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;/e1&gt; Empty translations are now allowed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
       </tuv>
     </tu>
@@ -2177,6 +2184,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Britannica&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Downloading and installing&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2184,7 +2198,35 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Longman&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Merriam Webster&lt;/s1&gt; &lt;s2&gt;Dictionaries&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Problems with&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;StarDict&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Webster&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2209,11 +2251,60 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Converting numbers&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Empty translation&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Exporting the current segment&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Inserting fuzzy matches&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Segments with alternative translation&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Translation equal to source&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T172023Z">
         <seg>&lt;p0&gt;Meny Projekt&lt;/p0&gt; &lt;s1&gt;Nytt…&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt; &lt;t2&gt;Editing behavior...&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2303,6 +2394,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2991,6 +3089,20 @@ hittar inte denna!
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Allow tag editing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Allow the translation to be equal to source</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Allow to save password as plain text</seg>
       </tuv>
@@ -3441,6 +3553,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T190038Z">
         <seg>Försök konvertera &amp;tal när en suddig matchning infogas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
       </tuv>
     </tu>
     <tu>
@@ -3941,6 +4060,13 @@ kolla </note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
       </tuv>
     </tu>
@@ -4347,6 +4473,13 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Check number of tags</seg>
       </tuv>
@@ -4400,6 +4533,13 @@ hittar inte</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Check the changes to be made - i.e. the folders and files added in this case.</seg>
       </tuv>
     </tu>
@@ -4408,6 +4548,20 @@ hittar inte</note>
 </note>
       <tuv lang="EN">
         <seg>Check the contents of the folder to confirm that the local copy of the repository and the corresponding files and folders correspond to the latest server version:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6035,6 +6189,20 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Documents for translation may contain trade marks, names or other proper nouns that will be the same in translated documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>DokuWiki</seg>
       </tuv>
@@ -6442,6 +6610,20 @@ global sök "highlight"
 </note>
       <tuv lang="EN">
         <seg>Editing Behavior...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Editing behavior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Editing behavior options</seg>
       </tuv>
     </tu>
     <tu>
@@ -7166,6 +7348,13 @@ eskejpat tecken?
 </note>
       <tuv lang="EN">
         <seg>Export Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Export the segment to text files</seg>
       </tuv>
     </tu>
     <tu>
@@ -8170,6 +8359,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
@@ -8745,6 +8941,13 @@ den fullständiga sökvägen anges.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
@@ -8761,6 +8964,13 @@ till standard som följd av platsändringen.</seg>
 </note>
       <tuv lang="EN">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If only one file is present, check its extension.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8789,7 +8999,28 @@ till standard som följd av platsändringen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8887,6 +9118,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9041,6 +9279,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Importing the project to SVN repository - Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; offers you the following alternatives:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9242,6 +9487,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Initially load this many segments</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Initially load this many segments:</seg>
       </tuv>
@@ -9334,6 +9586,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T082212Z">
         <seg>Infoga &amp;källtexten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Insert the best fuzzy match</seg>
       </tuv>
     </tu>
     <tu>
@@ -10463,6 +10722,13 @@ LanguageTool will find errors for which a rule has been defined in its language-
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Leave the segment empty</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Left:</seg>
       </tuv>
@@ -10686,6 +10952,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T124641Z">
         <seg>Logg:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Longman Dictionary of Contemporary English</seg>
       </tuv>
     </tu>
     <tu>
@@ -11173,6 +11446,13 @@ Det skulle kunna översättas med "pågående"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T212330Z">
         <seg>Slå samman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Merriam Webster dictionary - use</seg>
       </tuv>
     </tu>
     <tu>
@@ -11953,6 +12233,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
       </tuv>
     </tu>
@@ -12355,6 +12642,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT introduction tutorial</seg>
       </tuv>
     </tu>
@@ -12378,6 +12672,13 @@ och översättningshantering till uppdaterade projekt.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T083320Z">
         <seg>OmegaT är ett fritt multiplattformsverktyg för datorstödd översättning baserat på öppen källkod, som har suddig matchning, översättningsminne, nyckelordssökning, gloslistor och översättningshantering till uppdaterade projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12422,6 +12723,13 @@ to be launched.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170729T075810Z">
         <seg>OmegaT är sedan färdigt
 att startas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12603,6 +12911,13 @@ installeras i ditt system.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT will then report these segments as not translated.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
@@ -12707,6 +13022,13 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T205732Z">
         <seg>Bara om (X)HTML-filen har en &amp;kodningsdeklaration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Only integers and simple floats (using the period as a decimal character, e.g. 5.4, but not 5,4 or 54E-01) are considered.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13706,6 +14028,13 @@ ett lokalt projekt utan teamfunktioner.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Procedure for configuring Microsoft Translator.</seg>
       </tuv>
     </tu>
@@ -14513,6 +14842,13 @@ och filen heter "replace_strip" och inte "remove_strip"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>open the project vs. load the project?
 </note>
       <tuv lang="EN">
@@ -15132,6 +15468,13 @@ kanske reload istället?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Save auto-populated status</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Save changes to filter settings?</seg>
       </tuv>
@@ -15420,6 +15763,13 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T050547Z">
         <seg>Se &lt;l1&gt;Filfilter&lt;/l1&gt; för en lista med filformat som OmegaT kan hantera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>See &lt;u0&gt;Using the OmegaT text export function&lt;/u0&gt; for specifics, examples and suggestions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16201,6 +16551,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171123T163310Z">
         <seg>Några linjeringar behöver fortfarande granskning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17416,6 +17773,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The Britannica Concise Encyclopedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The Commit window will open and show the progress of the commit command.</seg>
       </tuv>
     </tu>
@@ -17602,6 +17966,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The alternative is to enter a translation that is identical to the source text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The alternative is to have one single repository with subfolders &lt;l0&gt;Project1&lt;/l0&gt;, &lt;l1&gt;Project2&lt;/l1&gt;, etc., and share the common material via common &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; and &lt;l4&gt;dictionary&lt;/l4&gt; folders.</seg>
       </tuv>
     </tu>
@@ -17624,6 +17995,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
 </note>
       <tuv lang="EN">
         <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The check boxes in the lower half of the dialog window serve the following purpose:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17661,6 +18039,28 @@ istället.</seg>
     </tu>
     <tu>
       <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The content of the segment target text (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 </note>
       <tuv lang="EN">
         <seg>The contents of the checkout folder will be marked accordingly:</seg>
@@ -17688,7 +18088,21 @@ användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The data are exported when the segment is opened.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The dialog in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; enables the user to select, how the current segment in the editing field is to be initialized and handled:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17727,11 +18141,33 @@ användas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The entry &lt;e3&gt;Remove translation&lt;/e3&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T093535Z">
         <seg>Filen "{0}" stöds inte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The files are unformatted plain text files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17746,6 +18182,13 @@ användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
     </tu>
     <tu>
@@ -17874,6 +18317,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The numbers must be exactly the same between the source and the target matches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
       </tuv>
     </tu>
@@ -17921,6 +18371,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18074,6 +18531,20 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The source text</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
@@ -18144,6 +18615,21 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The text export function exports data from within the current &lt;a0&gt;OmegaT&lt;/a0&gt; project to plain text files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The text size exceeds the maximum</seg>
       </tuv>
@@ -18192,6 +18678,15 @@ translated -&gt; target
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
@@ -18223,6 +18718,13 @@ translated -&gt; target
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>There are a number of restrictions:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
@@ -18249,7 +18751,21 @@ translated -&gt; target
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>There are two strategies for segments that contain only such invariable text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18316,6 +18832,13 @@ konfigurationsmapp bestämmas säkert.</seg>
 </note>
       <tuv lang="EN">
         <seg>They also improve glossary matching.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18473,11 +18996,25 @@ från servern.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is the default.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T101434Z">
         <seg>Så här kommer texten att se ut när den visas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is useful for texts containing many trade marks or other proper nouns you which must be left unchanged.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18499,6 +19036,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18627,6 +19171,13 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To customize the script feature, do the following:</seg>
       </tuv>
     </tu>
@@ -18650,6 +19201,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To make this possible, go to &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; and check the box &lt;e3&gt;Allow translation to be equal to source&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19419,6 +19977,13 @@ Exakta sökningar matchar hela söksträngen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Uncleaned RTF</seg>
       </tuv>
     </tu>
@@ -20011,6 +20576,13 @@ sökbara utan prenumeration:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Validate tags when leaving a segment</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Validate your tags</seg>
       </tuv>
@@ -20271,6 +20843,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Welsh</seg>
       </tuv>
@@ -20343,6 +20922,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
 </note>
       <tuv lang="EN">
         <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>When moving between segments, you may wish to populate the editing field with an existing translation in the fuzzy match pane or with the source text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20703,6 +21289,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
@@ -20811,6 +21404,13 @@ saknar ellips</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can decide not to translate such segments at all.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
@@ -20835,6 +21435,13 @@ saknar ellips</note>
 </note>
       <tuv lang="EN">
         <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can have the source text inserted automatically into the editing field.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20969,6 +21576,13 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T195232Z">
         <seg>Ange deras nya placering eller återskapa dem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You translate your files by moving from segment to segment, editing each current segment in turn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21159,6 +21773,13 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>etc...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>extensions:</seg>
       </tuv>
@@ -21271,6 +21892,13 @@ Men kan inte förstå varför i SRC code
 </note>
       <tuv lang="EN">
         <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
       </tuv>
     </tu>
     <tu>
