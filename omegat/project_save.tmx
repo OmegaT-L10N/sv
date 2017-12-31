@@ -79,6 +79,13 @@
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>#N is a digit from 1 to 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>$ ant jar release</seg>
       </tuv>
     </tu>
@@ -2875,6 +2882,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;#N&lt;/k1&gt;</seg>
@@ -2889,6 +2897,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;D&lt;/k1&gt;</seg>
@@ -2896,6 +2905,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;E&lt;/k1&gt;</seg>
@@ -2910,6 +2920,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;I&lt;/k1&gt;</seg>
@@ -2945,6 +2956,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;O&lt;/k1&gt;</seg>
@@ -2959,6 +2971,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;R&lt;/k1&gt;</seg>
@@ -2966,9 +2979,31 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;S&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+I&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+R&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift+T&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3085,6 +3120,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Y&lt;/k1&gt;</seg>
@@ -3102,6 +3138,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;k0&gt;F1:&lt;/k0&gt; Opens this manual in the default browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;C&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3536,6 +3586,27 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Keyboard shortcuts&lt;/p0&gt; &lt;s1&gt;Editing&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Keyboard shortcuts&lt;/p0&gt; &lt;s1&gt;Goto&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Keyboard shortcuts&lt;/p0&gt; &lt;s1&gt;Project&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -3872,6 +3943,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Match statistics&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Project management shortcuts&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7407,6 +7485,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Close Project</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Close the current OmegaT instance
 3.</seg>
@@ -7421,6 +7506,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Closes or opens the &lt;l0&gt;Project files window&lt;/l0&gt; (depending on whether it is open or closed).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Closes the current project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8121,6 +8213,7 @@ Not OK
     <tu>
       <note>Not OK
 Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Create Translated Documents</seg>
@@ -8217,6 +8310,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Creates the target documents based on your translation of the documents' text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Creates the translated documents in the project's Target folder and creates translation memory files (level1, level2 and omegat tmx files) in the project's root folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8894,6 +8994,20 @@ lite längre ner "show"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Displays a dialog to conduct searches in the project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Displays a dialog to locate an existing project.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
@@ -8989,6 +9103,13 @@ lite längre ner "show"</note>
 </note>
       <tuv lang="EN">
         <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Displays the project's settings for modification, if required.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9726,6 +9847,7 @@ global sök "highlight"
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Editing</seg>
@@ -9752,6 +9874,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Editing behavior options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Editing shortcuts</seg>
       </tuv>
     </tu>
     <tu>
@@ -10527,6 +10656,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Export Selection</seg>
@@ -10541,6 +10671,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Exports the current selection to a text file for processing.</seg>
@@ -14047,6 +14178,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Insert Source Tags</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Insert Tag {0}</seg>
       </tuv>
@@ -14060,6 +14198,20 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T183746Z">
         <seg>Infoga Unicode-st&amp;yrtecken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Insert match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Insert source</seg>
       </tuv>
     </tu>
     <tu>
@@ -14103,6 +14255,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Inserts the selected match at the cursor position in the current target segment (the first match is inserted by default)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Inserts the source at the cursor position.</seg>
       </tuv>
     </tu>
@@ -14111,6 +14270,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Inserts the source tags (if they where missing) at the cursor position.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Inserts the source tags into the target segment at the cursor position</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Inserts the source text contents into the target segment at the cursor position</seg>
       </tuv>
     </tu>
     <tu>
@@ -16802,6 +16975,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Moving around</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
@@ -17118,6 +17298,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>No action is taken, if no Machine Translation service has been activated (see Menu &gt; Options below).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>No action, if machine tools are deactivated (see Menu &gt; Options &gt; Machine Translate)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18661,6 +18848,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Open project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Open the&lt;e0&gt; Projects&lt;/e0&gt; view for your account.</seg>
       </tuv>
     </tu>
@@ -20138,9 +20332,17 @@ Why not "begin" - "end"
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Project management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Project management shortcuts</seg>
       </tuv>
     </tu>
     <tu>
@@ -20163,6 +20365,13 @@ Why not "begin" - "end"
 </note>
       <tuv lang="EN">
         <seg>Project menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Project properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -20471,6 +20680,27 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Redo Last Action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Redo last action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Redoes the last editing actions in the current target segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Reference windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -20976,9 +21206,24 @@ Not OK
     <tu>
       <note>Not OK
 Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Replace with Machine Translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Replace with match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Replace with source</seg>
       </tuv>
     </tu>
     <tu>
@@ -20987,6 +21232,27 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T074409Z">
         <seg>Ersätt med:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Replaces the current target segment contents with the selected match (the first match is selected by default)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Replaces the current target segment contents with the source text contents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Replaces the target segment with the machine translation of the source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21517,6 +21783,8 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Save</seg>
       </tuv>
@@ -21592,6 +21860,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Saves the current work to the internal translation memory (file project_save.tmx located in the project's &lt;f0&gt;omegat&lt;/f0&gt; folder).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21843,6 +22118,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T065559Z">
         <seg>Sök i</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Search project</seg>
       </tuv>
     </tu>
     <tu>
@@ -22369,6 +22651,13 @@ A: finns i Redigera-menyn
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T213427Z">
         <seg>Välj languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Select match #N</seg>
       </tuv>
     </tu>
     <tu>
@@ -25884,6 +26173,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The shortcut selects the Nth match displayed in the match window (the first match is selected by default)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The shortcuts &lt;k2&gt;Ctrl+A&lt;/k2&gt; and &lt;k3&gt;Ctrl+C&lt;/k3&gt; work in panes, allowing to copy all or some of the information to the clipboard.</seg>
       </tuv>
     </tu>
@@ -28152,11 +28448,25 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Undo last action</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Undock</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170717T080417Z">
         <seg>Koppla från</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Undoes the last editing actions in the current target segment</seg>
       </tuv>
     </tu>
     <tu>
