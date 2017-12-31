@@ -12,6 +12,13 @@
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>"Tag groups" in this context are a single tag (such as &lt;i0&gt; and &lt;/i0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
@@ -1773,6 +1780,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;&lt;l0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
@@ -1808,6 +1822,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171231T111128Z" creationid="mini-me" creationdate="20171231T111128Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Filer och Mappar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; creates its tags before the process of sentence segmenting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1862,6 +1883,83 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt; and &lt;/b0&gt; below are paired and affect the text log.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b1&gt;&lt;/b0&gt; has been nested inside formatting zero.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Formatting&lt;/b0&gt; &lt;b1&gt;one&lt;/b1&gt; is going to be messed up.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Formatting&lt;/b0&gt; &lt;b1&gt;one&lt;/b1&gt; is going to be nested inside formatting zero.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;This formatting&lt;/b0&gt; has been &lt;b0&gt;duplicated here&lt;/b0&gt;.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;This formatting&lt;/b0&gt; is going to be deleted.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;This formatting&lt;/b0&gt; is going to be duplicated here.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2929,6 +3027,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Formatted text&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Mixing RTL and LTR strings&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2978,6 +3083,62 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Duplication&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Group deletion&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Group nesting&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Group overlapping&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Naming&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Numbering&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Operations&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Pairs and singles&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Encoding&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -3007,6 +3168,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Formatted text files&lt;/s1&gt; &lt;s2&gt;Tagged text&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Formatted text&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3609,7 +3777,35 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>After a bad manipulation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>After deletion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>After duplication:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>After nesting:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4888,6 +5084,13 @@ kolla </note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>By deleting a tag group you will remove the related formatting from the translated file.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
@@ -5046,6 +5249,13 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T080158Z">
         <seg>Kan inte återställa filtret till standardmönster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Care must be exercised with tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6541,6 +6751,13 @@ hittar inte</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170801T091220Z">
         <seg>Avgränsare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Depending upon the segmenting rules, the pair of tags may get separated into two consecutive segments and the tag validation will err on the side of caution and mark the two segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8181,6 +8398,15 @@ eskejpat tecken?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Example:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Excel</seg>
       </tuv>
@@ -9174,6 +9400,20 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Formatting information present in the source file usually needs to be reproduced in the target file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Formatting tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Forward in history...</seg>
       </tuv>
     </tu>
@@ -9903,6 +10143,13 @@ history historik
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>However, it is possible, if certain rules are strictly followed, to deviate from this basic rule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
       </tuv>
     </tu>
@@ -10257,6 +10504,13 @@ till standard som följd av platsändringen.</seg>
 </note>
       <tuv lang="EN">
         <seg>If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If they are accidentally changed, the formatting of the final file may be corrupted.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10736,6 +10990,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In other words, "compatibility" is not only about products, but also about workflows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In other words, when moving paired tags, ensure that both the opening and the closing tag are both either inside or outside other tag pairs, or the translated file may be corrupted and fail to open.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11712,6 +11973,20 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T111636Z">
         <seg>Behåll annan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Keep in mind that a pair group must have both its opening and its closing tag deleted to ensure that all traces of the formatting are properly erased, otherwise the translated file may become corrupted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Keep in mind that in a pair group, the opening tag must come before the closing tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13168,6 +13443,13 @@ ViewOptionsPanel.java: 113
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Modifying tag group order may result in the nesting of a tag group within another tag group.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Mongolian</seg>
       </tuv>
@@ -13744,6 +14026,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Normally tags are ignored when considering the similarity between different texts for matching purposes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>North Ndebele</seg>
       </tuv>
     </tu>
@@ -13842,6 +14131,13 @@ lämplig plats såsom Programmappen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note that the opening tag must always come before the corresponding closing tag:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14172,6 +14468,13 @@ also --&gt; still
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T051720Z">
         <seg>OmegaT kan också kontrollera programmeringsvariabler (printf-funktionsvariabler), som '%s'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT can check that programming variables (like %s for instance) in the source exist in the translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15091,6 +15394,13 @@ consistency?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Overlapping is the result of bad manipulations of tag pairs and is guaranteed to result in formatting corruption and sometimes in the translated file not opening at all.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>PDF Input</seg>
       </tuv>
@@ -15163,6 +15473,20 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T202142Z">
         <seg>Sidan glider mellan fingrarna&lt;p&gt;Pulsen slår hårt&lt;p&gt;Försvinner som dimman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Paired tags usually indicate style information that applies to the text between the opening tag and the closing tag of a pair.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Pairs and singles:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15825,6 +16149,13 @@ ett lokalt projekt utan teamfunktioner.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T180456Z">
         <seg>Tidigare deltagare inkluderar:
 (alfabetisk ordning)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Printf variables - do not check, check simple, check all</seg>
       </tuv>
     </tu>
     <tu>
@@ -18426,6 +18757,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Single tags indicate formatting information that does not affect the surrounding text (an extra space or line break for example).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Sinhala, Sinhalese</seg>
       </tuv>
@@ -19453,11 +19791,60 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tag duplication:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tag group deletion:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tag group nesting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tag group overlapping</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T063203Z">
         <seg>Taggnamn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tag naming:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tag numbering:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tag operations</seg>
       </tuv>
     </tu>
     <tu>
@@ -19469,6 +19856,13 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tag validation options</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Tag:</seg>
       </tuv>
@@ -19477,6 +19871,8 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Tags</seg>
       </tuv>
@@ -19508,6 +19904,27 @@ till skillnad från internt minne
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T120247Z">
         <seg>Taggar - mellanslag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tags are always either singles or paired.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tags are numbered incrementally by tag group.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tags reproduced in the translated segment will be present in the translated document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20151,6 +20568,20 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The basic rule is that the sequence of tags must be preserved in the same order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The behaviour, stated here, applies to all the source files and not just to some of the file types, like formatted text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
       </tuv>
     </tu>
@@ -20366,6 +20797,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The first example below has 3 tag groups (a pair, a single, and then another pair), the second example has one group only (a pair).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
@@ -20437,6 +20875,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The formatting represented by the group you have duplicated will be applied to both sections.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
@@ -20453,6 +20898,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T202459Z">
         <seg>Hjälpsidan du söker&lt;p&gt;Ligger bortom vår varseblivning&lt;p&gt;Men andra väntar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The in-line formatting information made possible by the supported formats (in particular DocBook, HTML, XHTML, Open Document Format(ODF) and Office Open XML (MS Office 2007 and later) at the time of writing) is presented as tags in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20757,6 +21209,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The shortcut characters used try to reflect the underlying meaning of the tag (e.g. b for bold, i for italics, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
     </tu>
@@ -20850,6 +21309,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The system maintains versioning for data shared</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The tags consist of one to three characters and a number.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21331,6 +21797,13 @@ från servern.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This formatting has been deleted.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
@@ -21352,6 +21825,13 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T213208Z">
         <seg>Detta är en giltig projektfil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is acceptable, provided the enclosing group totally encloses the enclosed group.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21629,6 +22109,27 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>To customize the script feature, do the following:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To customize the work with tags, one can set down some of the rules in the &lt;g0&gt;Options &gt; Tag validation...&lt;/g0&gt; window:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To delete tag groups, just remove them from the segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To duplicate tag groups, just copy them in the position of your choice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22615,6 +23116,13 @@ Exakta sökningar matchar hela söksträngen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T133543Z">
         <seg>Unika ord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Unique numbering allows tags, corresponding to each other to be grouped together and differentiates between tags, that have the same shortcut character, but are in fact different.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23809,6 +24317,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Within a segment, the first group (pair or single) receives the number 0, the second the number 1 etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Without JRE</seg>
       </tuv>
@@ -23861,6 +24376,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T133325Z">
         <seg>Ord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Working with formatted text</seg>
       </tuv>
     </tu>
     <tu>
@@ -24134,6 +24656,13 @@ saknar ellips</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T072655Z">
         <seg>Du kan skapa poster i gloslistan med "Skapa post i gloslista" i Redigera-menyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can decide not to check at all, check for simple printf variables (like %s %d etc) or for print variables of all types.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24910,6 +25439,13 @@ Not OK
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T182409Z">
         <seg>init &lt;källspråk&gt; &lt;målspråk&gt;
 		Starta ett minimalt teamprojekt med angivna språk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>is a single tag and does not affect any surrounding text.</seg>
       </tuv>
     </tu>
     <tu>
