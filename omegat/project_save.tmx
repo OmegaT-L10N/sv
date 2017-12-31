@@ -33038,8 +33038,8 @@ Not OK
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171111T212926Z">
-        <seg>Syntax: java -jar OmegaT.jar [&lt;alternativ&gt;] [&lt;projektsökväg&gt;]</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T153709Z">
+        <seg>Användning: java -jar OmegaT.jar [&lt;alternativ&gt;] [&lt;projektsökväg&gt;]</seg>
       </tuv>
     </tu>
     <tu>
