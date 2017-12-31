@@ -1660,6 +1660,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
     </tu>
@@ -2125,6 +2132,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>31175</seg>
       </tuv>
     </tu>
@@ -2412,6 +2426,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;a0&gt;You can use OmegaT&lt;/a0&gt; to translate files in a number of file formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; can also be used for this purpose.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6128,6 +6149,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A script (for Windows only) and procedure was recently (2008) developed enabling OmegaT users to produce Trados uncleaned RTF files for delivery at the end of their translation stage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
     </tu>
@@ -7125,6 +7153,13 @@ hittar inte denna!
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>An &lt;a0&gt;OmegaT plugin&lt;/a0&gt; is now available by means of which this format can be handled in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>An &lt;a0&gt;OmegaT&lt;/a0&gt; translation project consists of a number of files and folders.</seg>
       </tuv>
     </tu>
@@ -7353,6 +7388,20 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An interesting feature of Déjà Vu DVX is its "External View" file format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An international standard exists for translation memories: TMX, or Translation Memory eXchange.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>An introductory video to OmegaT in English by John Moran.</seg>
       </tuv>
@@ -7376,6 +7425,13 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T211853Z">
         <seg>Ett objekt med namnet "{0}" finns redan på denna plats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An understanding of the processes involved is however important.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7434,6 +7490,13 @@ TMX-filen kommer inte att läsas in.</seg>
 </note>
       <tuv lang="EN">
         <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Another possible source of incompatibility are three-digit language codes, which are not supported by OmegaT at all.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7643,6 +7706,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>As far as categories are concerned, the de facto industry standard of classifying matches into the following groups is used: Repetitions, Exact match, 95%-100%, 85%-94%, 75%-84%, 50%-74% and No match.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>As its name suggests, it is an XML-based format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8196,6 +8266,13 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Bilingual CAT-tool formats</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
@@ -8651,6 +8728,13 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T154352Z">
         <seg>Katalanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Certain other CAT tools (such as TRADOS) are able to export different TMX files in different versions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9695,6 +9779,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Compatibility problems may be caused by differences in the language codes employed.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Compiling OmegaT from source</seg>
       </tuv>
@@ -10056,6 +10147,13 @@ This one is a title for the dialog and shouldn't have ellipsis
 </note>
       <tuv lang="EN">
         <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2009-2014</seg>
       </tuv>
     </tu>
     <tu>
@@ -11813,6 +11911,13 @@ laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Déjà Vu "External View"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Déjà Vu compatibility</seg>
       </tuv>
     </tu>
@@ -12694,6 +12799,13 @@ eskejpat tecken?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T074431Z">
         <seg>Undantaget decimalttecken innehåller data i ogiltigt format ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Essentially, this format consists of an RTF file in which the source and target segments alternate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13749,6 +13861,20 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For details, see the &lt;a0&gt;Déjà Vu "External View" HOWTO&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For details, see the &lt;a0&gt;"Exporting from OmegaT to uncleaned RTF" HOWTO&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For easier navigation in the search result set, you can apply the search to the editor.</seg>
       </tuv>
     </tu>
@@ -14275,6 +14401,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Further points to note regarding TMX files:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
@@ -14531,6 +14664,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170724T192342Z">
         <seg>Fil med gloslista: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Glossary files</seg>
       </tuv>
     </tu>
     <tu>
@@ -15775,6 +15915,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If the checker's changes are to be included in a translation memory repository maintained by the customer, the changes need to be made &lt;i0&gt;before&lt;/i0&gt; the final documents are created.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
       </tuv>
     </tu>
@@ -16688,6 +16835,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In addition to Trados, however, several other CAT tools also support the "uncleaned RTF" format, notably Wordfast Classic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
       </tuv>
     </tu>
@@ -16859,6 +17013,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In order for this process to be as automatic as possible, two conditions must in particular be met: firstly, the translation memory must contain formatting information (see above); and secondly, the segmentation rules applied to the text must be the same as those applied when the translation memory (or part of it) was produced.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In order to be able to use Yandex Translate in OmegaT, you need to &lt;u0&gt;obtain an API key from Yandex&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
@@ -16922,6 +17083,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In other words, if an OmegaT user finds a 100% match in a Level 2 OmegaT TMX file, it can be accepted without requiring adaptation, but the same would not be true for a Level 2 TMX file produced by a different CAT tool (or vice-versa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In other words, when moving paired tags, ensure that both the opening and the closing tag are both either inside or outside other tag pairs, or the translated file may be corrupted and fail to open.</seg>
       </tuv>
     </tu>
@@ -16936,7 +17104,21 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In practice, it is therefore possible for translators to deliver translation memories to customers and vice-versa, and for the recipient to use these files for immediate or future reference; if the files are to be used within an automated workflow, however, the constraint described above applies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In practice, this command will therefore be something like this:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In practice, working with the XLIFF workflow often requires the use of tools that are not very user-friendly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17918,6 +18100,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It has been widely adopted and is supported by almost all current CAT tools.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
       </tuv>
     </tu>
@@ -17947,6 +18136,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It is displayed automatically when OmegaT loads a project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is however worth customizing the filter settings for optimum results.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18053,6 +18249,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It is supported by OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is supported by several CAT tools, and in fact some CAT tools are effectively "designed around" the XLIFF standard: Heartsome and Swordfish are examples.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It is the recommended version for first-time users.</seg>
       </tuv>
     </tu>
@@ -18114,6 +18324,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170805T201025Z">
         <seg>Det behöver konverteras till ett nytt teamprojekt, men detta kan inte göras i konsol-läge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It owes its origins to the use of MS Word as an interface for the Trados CAT tool.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19094,7 +19311,28 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Level 1 TMX files contain no formatting information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Level 2 TMX files contain formatting information, but these files are typically only compatible when the same CAT tool is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Level 3 TMX files contain formatting information in a form that can be read by other CAT tools.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19105,6 +19343,13 @@ Not OK
       <tuv lang="SV" changeid="Dorothy" changedate="20170724T191024Z">
         <seg>Licensinformation
 ===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Like OpenOffice.org files, these file formats can be translated in OmegaT with very little risk of corruption.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19646,6 +19891,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Manx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Many CAT tools make use of an intermediate bilingual file format, i.e. a file containing both source and target language segments, and in some cases also the structure of the original file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21175,6 +21427,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Not all CAT tools are equally strict in their observance of these definitions; consequently, some CAT tools are unable to open TMX files produced by certain other CAT tools directly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Not all CAT tools exhibit the same tolerance and some may not therefore display the expected matches if the language codes are not sufficiently compliant.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Not present</seg>
       </tuv>
@@ -21969,6 +22235,13 @@ also --&gt; still
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT cannot import or read glossary files in proprietary binary formats, such as Trados Multiterm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT compatibility</seg>
       </tuv>
     </tu>
@@ -22088,6 +22361,13 @@ also --&gt; still
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT has rudimentary support for XLIFF, and a procedure for using XLIFF in OmegaT in conjunction with the Rainbow tools can be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>höjdpunkter
 
 Not OK
@@ -22174,7 +22454,21 @@ och översättningshantering till uppdaterade projekt.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT is also capable of reading glossaries in TBX, the industry-standard format for glossary files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT is capable of handling the current Microsoft Office formats directly, without conversion to or from other formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT is generally observant of the conditions and tolerant of other tools' failure to observe them; should problems arise here, however, they can generally be resolved fairly easily by a search &amp; replace in a text editor of the illegal character in the TMX file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22240,6 +22534,13 @@ to be launched.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170729T075810Z">
         <seg>OmegaT är sedan färdigt
 att startas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT is tolerant when reading TMX files: it will accept files with en-GB, en-US, en, EN, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22349,7 +22650,21 @@ installeras i ditt system.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT supports all current versions of TMX, but is likely to deliver better match results if the TMX file is version 1.4b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT supports language codes in the format "xx", "XX", "xx-YY" and "XX-YY", where xx or XX is the language, yy or YY the region.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22410,6 +22725,13 @@ installeras i ditt system.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T202857Z">
         <seg>OmegaT använder följande bibliotek:
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT uses the international TMX standard as its native translation memory format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22524,6 +22846,13 @@ installeras i ditt system.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT's glossary files are plain-text files in the format:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23142,6 +23471,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Original author of the OmegaT application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Originally, these bilingual file formats may have been a by-product of the tool's architecture.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23967,6 +24303,13 @@ ytterligare åtgärder behöver vidtas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T111817Z">
         <seg>Plugin-program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Points regarding proprietary translation memory files:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27594,6 +27937,13 @@ A: finns i Redigera-menyn
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Several of the bilingual file formats can be handled by OmegaT, and not necessarily with great effort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
       </tuv>
     </tu>
@@ -27823,6 +28173,13 @@ Visas i fönstret "Skriptverktyg"</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Since it is a standard, an advantage of XLIFF is that file filters provided by one CAT tool vendor for conversion between a certain format and XLIFF (and, following completion of the translation workflow, back again) can in theory be used to prepare files in the format concerned for translation in any CAT tool capable of supporting XLIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products.</seg>
       </tuv>
     </tu>
@@ -27973,6 +28330,20 @@ Visas i fönstret "Skriptverktyg"</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Some CAT tools still employ dedicated proprietary translation memory formats, but virtually all support the import and export of TMX files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Some CAT tools, notably TRADOS, are able to import a wide range of file formats, including desktop publishing formats, and to prepare them for translation in the tool concerned.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
@@ -27996,6 +28367,13 @@ Visas i fönstret "Skriptverktyg"</note>
 </note>
       <tuv lang="EN">
         <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Some other CAT tools are able to import and export glossary files in this format, or in a similar plain-text format which can be produced from it very easily (for example by a search &amp; replace operation in Microsoft Word).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28694,6 +29072,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Strictly speaking, the ISO standard for language codes requires "xx-YY" (for example: "en-GB" for British English); although this variant is supported by OmegaT, the default convention offered by OmegaT is "XX-YY", e.g. "EN-GB".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
       </tuv>
     </tu>
@@ -28881,6 +29266,13 @@ kan man skicka en flagga till OmegaT?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Support for Level 3 in CAT tools is rare.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Supported Files</seg>
       </tuv>
@@ -29039,6 +29431,13 @@ till skillnad från internt minne
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>TMX files are in the Unicode encoding, but may be UTF-8 or UTF-16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
       </tuv>
     </tu>
@@ -29047,6 +29446,20 @@ till skillnad från internt minne
 </note>
       <tuv lang="EN">
         <seg>TMX files can generally contain translation units with several candidate languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>TMX files produced on Windows systems may begin with a byte-order mark (BOM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>TTX is an XML-based format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29740,6 +30153,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The "prepared" form is typically the tool's bilingual file format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The '?' character matches exactly one character.</seg>
       </tuv>
     </tu>
@@ -30146,7 +30566,28 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The TMX standard contains definitions of what characters are permissible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The TMX standard exists both in different &lt;s0&gt;versions&lt;/s0&gt; and in different &lt;s1&gt;levels&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Trados "uncleaned" RTF file format, often referred to simply as "uncleaned files", has for many years been the most common bilingual file format used in translation workflows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30549,6 +30990,13 @@ användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The customer wishes to receive a translation memory against which texts can be run in the future: in other words, to "pretranslate" future texts against an existing translation memory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The data are exported when the segment is opened.</seg>
       </tuv>
     </tu>
@@ -30634,6 +31082,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The distinction is important for compatibility purposes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
       </tuv>
     </tu>
@@ -30670,6 +31125,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The easiest way for a customers to ensure that these two conditions are met is for them to pretranslate the text themselves before passing it to the translator (thereby defining how it is segmented), and to create the translation memory in the CAT tool of their choice after receiving the translated intermediate bilingual file from the translator (thereby ensuring that the formatting information contained within the translation memory will be compatible with future projects).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30770,6 +31232,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The files are unformatted plain text files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The filters available are mainly for file formats peculiar to the IT industry rather than end-user files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30924,6 +31393,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The formatting information contained in the higher levels will be meaningless to the "other" tool, but the textual information can still be viewed, fuzzy matches found, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The formatting represented by the group you have duplicated will be applied to both sections.</seg>
       </tuv>
     </tu>
@@ -31009,6 +31485,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The individual bilingual file formats are described below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The information below summarizes their use and how they are invoked:</seg>
       </tuv>
     </tu>
@@ -31079,6 +31562,13 @@ xx eller xxx är språkkoden och YY är regions- eller landskoden (valfri).</seg
 </note>
       <tuv lang="EN">
         <seg>The level2 file encapsulates &lt;a0&gt;OmegaT&lt;/a0&gt; specific tags in correct tmx tags so that the file can be used with its formatting information in a translation tool that supports tmx level 2 memories, or &lt;a1&gt;OmegaT&lt;/a1&gt; itself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The levels refer to the formatting information that is contained in the TMX file:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32015,6 +32505,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The standard is still undergoing development; this is what the different versions refer to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The statistics shown is available as a tab-separated &lt;f1&gt;project_stats.txt&lt;/f1&gt; file (subfolder &lt;f2&gt;omegat&lt;/f2&gt;), ready to be loaded into a spreadsheet program for the user's convenience.</seg>
       </tuv>
     </tu>
@@ -32177,6 +32674,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The traditional Wordfast translation memory file format is of particular interest owing to its simplicity: it consists of a plain-text file with a translation unit (segment) on each line in which the source and target are separated by a tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>borde ha "language code"
 translated -&gt; target
 </note>
@@ -32207,6 +32711,20 @@ translated -&gt; target
 </note>
       <tuv lang="EN">
         <seg>The translation in this tmx can be either</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The translation may for example be passed to a checker for editing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The translation stage is only part of the customer's workflow.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32450,6 +32968,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>There are at least three reasons why a customer may request delivery of a translation in a particular bilingual file format (rather than simply delivery of the translated file and possibly also the translation memory):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>There are basically three ways to address this problem in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
@@ -32615,6 +33140,13 @@ konfigurationsmapp bestämmas säkert.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>These segments are marked and delimited by special characters and MS Word formatting styles.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
@@ -32759,6 +33291,13 @@ konfigurationsmapp bestämmas säkert.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>They have however become an important phenomenon in translation workflows involving CAT tools, and they often present the greatest obstacle to compatibility between OmegaT and other CAT tools (or for that matter between CAT tools in general).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>They have the meaning, familiar to Word users:</seg>
       </tuv>
     </tu>
@@ -32801,6 +33340,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This HowTo describes how to use OmegaT in conjunction with Atril's Déjà Vu CAT tool.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32901,6 +33447,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This can be done either within the CAT tool concerned, or in some cases in an external bilingual file format which the tool is capable of reading.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
       </tuv>
     </tu>
@@ -32987,6 +33540,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This differences do not generally lead to compatibility problems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
     </tu>
@@ -33029,6 +33589,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This file format enables OmegaT users to deliver bilingual files to users of Déjà Vu DVX, who are then able to edit them further or to incorporate them into automated workflows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This file is very important and you should make sure you read it before launching OmegaT.</seg>
       </tuv>
     </tu>
@@ -33050,6 +33617,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This format can be converted easily to the TMX format by third-party utilities such as &lt;a0&gt;Wf2TMX&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This format is the same as the tab separated one: source term, target term.</seg>
       </tuv>
     </tu>
@@ -33064,7 +33638,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This has repercussions for workflows in which CAT tool users (typically customers) expect to receive translation memory files and to have 100% matches inserted automatically.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your&lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (.bat file), if you are using one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This incompatibility can be resolved by searching for and replacing the relevant language codes in the TMX file in a suitable text editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34175,6 +34763,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Tools which support different levels of TMX files are in principle still compatible with each other.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Top folder</seg>
       </tuv>
     </tu>
@@ -34246,6 +34841,27 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T221326Z" creationid="mini-me" creationdate="20171209T221326Z">
         <seg>Traditionell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Trados "uncleaned RTF"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Trados TTX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Trados TTX format is the counterpart to the "uncleaned RTF" format for Trados Tag Editor, which unlike Trados Workbench, does not work in direct combination with MS Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34499,6 +35115,8 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Translation memories</seg>
       </tuv>
@@ -36834,6 +37452,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Without preparation in this way, the original file format may be accessible to the translator.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Word</seg>
       </tuv>
@@ -36850,6 +37475,8 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Wordfast TXML</seg>
       </tuv>
@@ -36862,6 +37489,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
 </note>
       <tuv lang="EN">
         <seg>Wordfast TXML (*.txml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Wordfast TXML is the native internal format of Wordfast's new Wordfast Professional (also known as Wordfast 6.0).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37010,6 +37644,8 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>XLIFF</seg>
       </tuv>
@@ -37030,6 +37666,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171051Z">
         <seg>Alternativ för XLIFF-filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>XLIFF is the industry-standard bilingual file format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39194,6 +39837,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>some version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>source term    &lt;tab&gt;    target term    &lt;tab&gt;    additional information</seg>
       </tuv>
     </tu>
     <tu>
