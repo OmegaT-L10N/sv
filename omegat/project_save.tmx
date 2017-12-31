@@ -29,6 +29,20 @@
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>"XX" in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>"ZZ" stands for the amount of memory assigned, in megabytes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory
@@ -1686,6 +1700,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>-&lt;e0&gt;Dmicrosoft.api.client_secret=XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>-h, --help
 		Show usage information.</seg>
@@ -2065,6 +2086,56 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;-Dgoogle.api.key=A123456789B123456789C123456789D12345678 &lt;/e0&gt;&lt;e1&gt;&lt;i2/&gt;&lt;/e1&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;-Dhttp.proxyPort=NNNN&lt;/e0&gt; &lt;i1/&gt; The port number your system uses to access the proxy server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;-Dmicrosoft.api.client_id=&lt;/e0&gt;&lt;e1&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; Besides the language, you can also specify the country, for example CN or TW in case of the Chinese language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;&lt;i1/&gt; Normally, i.e. when &lt;a2&gt;OmegaT&lt;/a2&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;-Dyandex.api.key=&lt;/e0&gt;&lt;e1&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;-XmxZZM &lt;/e0&gt;&lt;i1/&gt;This command assigns more memory to &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2016 Keith Godfrey, Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
     </tu>
@@ -2073,6 +2144,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; can be accessed from the Mac OS X Services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;e1&gt;-Dhttp.proxyHost=nnn.nnn.nnn.nnn&lt;/e1&gt; &lt;i2/&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3266,7 +3344,77 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Command line mode&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Drag and drop&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Google Translate V2&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Memory assignment&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Microsoft Translator&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Proxy host IP address&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Proxy host port number&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;User country&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;User interface language&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Launch script arguments&lt;/s1&gt; &lt;t2&gt;Yandex Translate&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3736,6 +3884,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A list of possible arguments is given below.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>set --&gt; "pair" ?
 </note>
       <tuv lang="EN">
@@ -3855,6 +4010,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T201449Z">
         <seg>API-nyckel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4190,6 +4352,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Advanced feature HowTos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4891,6 +5060,20 @@ hittar inte
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Arguments are added after the initial &lt;e0&gt;"java"&lt;/e0&gt;, and before the &lt;e1&gt;"-jar &lt;a2&gt;OmegaT&lt;/a2&gt;.jar"&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Arguments can be combined: to launch &lt;a0&gt;OmegaT&lt;/a0&gt; with all the examples described above, the command would be:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Armenian</seg>
       </tuv>
     </tu>
@@ -5546,6 +5729,13 @@ kolla </note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>By default, 512 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
     </tu>
@@ -5799,6 +5989,13 @@ hittar inte</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T214246Z">
         <seg>Ändrad av</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6631,6 +6828,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T053751Z">
         <seg>Anslutning tillgänglig, projeket är i teamprojektläge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10059,6 +10263,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For this reason, the two commands described above are contained in a file (a "script", also called a ".bat file" on Windows systems).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
     </tu>
@@ -10540,6 +10751,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Google Translate V2</seg>
       </tuv>
     </tu>
     <tu>
@@ -11117,6 +11335,13 @@ den fullständiga sökvägen anges.)</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If a user interface in this language is available, &lt;a3&gt;OmegaT&lt;/a3&gt; uses it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
     </tu>
@@ -11290,6 +11515,13 @@ till standard som följd av platsändringen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T080342Z">
         <seg>Om filtret har alternativ, kan du ändra dem genom att klicka på Alternativ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If the language of the user's system is not available, &lt;a6&gt;OmegaT&lt;/a6&gt; defaults to English.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11470,6 +11702,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
       </tuv>
     </tu>
@@ -11540,6 +11779,13 @@ installera OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you need altered settings, the configuration files must be available.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
@@ -11569,6 +11815,13 @@ installera OmegaT.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T185822Z">
         <seg>Om du placerar sådana översättningsminnesfiler i undermappen &lt;f6&gt;/tm/&lt;/f6&gt; till ett projekt, kommer OmegaT att automatiskt genomsöka dem för liknande segment, så kallade "suddiga matchningar".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11801,6 +12054,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In its most basic form, this command is:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
       </tuv>
     </tu>
@@ -11859,6 +12119,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In other platforms, you can modify &lt;f4&gt;Configuration.properties&lt;/f4&gt; file on the Mac, or &lt;f5&gt;OmegaT&lt;/f5&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In other words, "compatibility" is not only about products, but also about workflows.</seg>
       </tuv>
     </tu>
@@ -11867,6 +12134,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In other words, when moving paired tags, ensure that both the opening and the closing tag are both either inside or outside other tag pairs, or the translated file may be corrupted and fail to open.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In practice, this command will therefore be something like this:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13408,6 +13682,13 @@ LanguageTool will find errors for which a rule has been defined in its language-
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Launch command arguments</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Launch the installation program.</seg>
       </tuv>
@@ -13875,6 +14156,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Make sure that you have a free Microsoft account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Make sure that you have a free Yandex account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Make sure that your &lt;e2&gt;PATH &lt;/e2&gt;settings are correct and that .&lt;e3&gt;jar&lt;/e3&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
     </tu>
@@ -14271,6 +14566,13 @@ Det skulle kunna översättas med "pågående"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Memory assignment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Menu Item</seg>
       </tuv>
     </tu>
@@ -14323,6 +14625,13 @@ Det skulle kunna översättas med "pågående"
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060409Z" creationid="mini-me" creationdate="20171218T060409Z">
         <seg>Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Microsoft Translator</seg>
       </tuv>
     </tu>
     <tu>
@@ -15179,6 +15488,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that in Windows you can change the &lt;f3&gt;OmegaT.l4J.ini&lt;/f3&gt; file to reflect your preferences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
     </tu>
@@ -15200,6 +15516,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that the key is 38 characters long.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that the opening tag must always come before the corresponding closing tag:</seg>
       </tuv>
     </tu>
@@ -15215,6 +15538,13 @@ lämplig plats såsom Programmappen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Note that the team members have to be registered first, before you can add them to the project (Note: in the free version of ProjectLocker you are allowed only two users per project).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note that up to 2M characters per month are free of charge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15672,6 +16002,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT in the command line mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
     </tu>
@@ -16038,6 +16375,27 @@ installeras i ditt system.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>On Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>On Mac OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>On Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -16784,6 +17142,13 @@ consistency?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;e0&gt;omegat&lt;/e0&gt; instead of &lt;e1&gt;OmegaT &lt;/e1&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Pay extra attention to tag pairs</seg>
       </tuv>
     </tu>
@@ -17208,6 +17573,13 @@ ytterligare åtgärder behöver vidtas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T081339Z">
         <seg>Premium Edition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Prerequisites</seg>
       </tuv>
     </tu>
     <tu>
@@ -17741,6 +18113,20 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170803T191929Z">
         <seg>Användarnamn och lösenord för proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Proxy host IP address</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Proxy host port number</seg>
       </tuv>
     </tu>
     <tu>
@@ -18708,6 +19094,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T104509Z">
         <seg>Regler…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and specify the settings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20151,6 +20544,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>So, if the user's operating system is Russian and &lt;a4&gt;OmegaT&lt;/a4&gt; has been localized in Russian, &lt;a5&gt;OmegaT&lt;/a5&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21685,6 +22085,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The &lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; argument causes &lt;a1&gt;OmegaT&lt;/a1&gt; to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</seg>
       </tuv>
     </tu>
@@ -21800,6 +22207,13 @@ kommer den aktuella mappen att användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Mac OS X equivalent is the application Terminal located in Applications → Utilities.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21921,6 +22335,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The above method somewhat impractical way of launching a program routinely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The administrator may decide to include following folders and their contents as well: &lt;f0&gt;tm&lt;/f0&gt;, &lt;f1&gt;glossary&lt;/f1&gt; and &lt;f2&gt;dictionary&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
@@ -21977,6 +22398,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The basic command has already been mentioned above.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The basic rule is that the sequence of tags must be preserved in the same order.</seg>
       </tuv>
     </tu>
@@ -22014,6 +22442,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T094345Z">
         <seg>Kommandot måste innehålla "{target}", vilket kommer att ersättas med söktexten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The command to launch &lt;a3&gt;OmegaT&lt;/a3&gt; with assignment of 1024 MB (1 gigabyte) of memory is therefore:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22255,6 +22690,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The first of these is:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The folder contains 2 files: index.html and &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app.&lt;/e3&gt; Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
     </tu>
@@ -22442,6 +22884,13 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170729T075045Z">
         <seg>Licensen för varje bibliotek finns angiven
 i /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The location does not matter, since you have to add it to the command line at the start-up anyway.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22655,6 +23104,13 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The purpose of the console mode is to use OmegaT as a translation tool in a scripting environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>v</note>
       <tuv lang="EN">
         <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
@@ -22724,6 +23180,13 @@ här heter det "memory"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T204903Z">
         <seg>Skriptet kommer nu att avslutas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The second command is the command which actually launches &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22972,6 +23435,13 @@ translated -&gt; target
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200901Z">
         <seg>Översättningen har ändrats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23384,6 +23854,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This can be achieved in two ways:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
       </tuv>
     </tu>
@@ -23392,6 +23869,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This chapter describes the project properties, such as the source and target languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23563,7 +24047,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This is necessary even if there's only one combination available, like pt_BR in case of Portuguese / Brazil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This is the default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is the standard behavior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23621,6 +24119,14 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23869,6 +24375,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To duplicate tag groups, just copy them in the position of your choice.</seg>
       </tuv>
     </tu>
@@ -23913,6 +24426,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To launch &lt;a0&gt;OmegaT&lt;/a0&gt;, you must normally type two commands.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To launch &lt;a2&gt;OmegaT&lt;/a2&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23966,6 +24493,13 @@ finns inget menu entry called that
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T172633Z">
         <seg>För att friska upp minnet när det gäller projektets startinställningar, öppna dialogen projektinställningar genom att trycka &lt;k0&gt;CTRL + E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25292,6 +25826,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>User country</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>User denied credentials</seg>
       </tuv>
@@ -25312,6 +25853,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T215939Z" creationid="mini-me" creationdate="20171209T215939Z">
         <seg>Användargrupp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>User interface language</seg>
       </tuv>
     </tu>
     <tu>
@@ -25899,7 +26447,21 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>When this file is executed, the commands within it are automatically carried out.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26370,6 +26932,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T115107Z">
         <seg>XML Kalkylblad 2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Yandex Translate</seg>
       </tuv>
     </tu>
     <tu>
@@ -26897,6 +27466,20 @@ konfigurationsmapp.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You’ll need this to be able to obtain and use Yandex Translate API key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>ZIP files</seg>
       </tuv>
@@ -27012,11 +27595,39 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>cd /usr/local/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>cd &lt;&lt;a0&gt;OmegaT&lt;/a0&gt;.app location&gt;/&lt;a1&gt;OmegaT&lt;/a1&gt;.app/Contents/Resources/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T165920Z">
         <seg>cd &lt;mappen där filen OmegaT.jar finns&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>cd {folder}</seg>
       </tuv>
     </tu>
     <tu>
@@ -27151,6 +27762,27 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
     </tu>
@@ -27246,6 +27878,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>https://datamarket.azure.com/account</seg>
       </tuv>
     </tu>
     <tu>
@@ -27404,6 +28043,34 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>is a single tag and does not affect any surrounding text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>java -Duser.language=fr -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>java -Xmx1024M -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -27841,6 +28508,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T064143Z">
         <seg>value (för 'button', '&amp;submit' och 'reset')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>where&lt;e0&gt; {folder}&lt;/e0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jar&lt;/e2&gt; - is located.</seg>
       </tuv>
     </tu>
     <tu>
