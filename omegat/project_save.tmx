@@ -1877,6 +1877,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; contains the Java JRE 1.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; creates its tags before the process of sentence segmenting.</seg>
       </tuv>
     </tu>
@@ -2740,6 +2747,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Customizing OmegaT&lt;/p0&gt; &lt;s1&gt;OS X&lt;/s1&gt; &lt;t2&gt;Launch parameters&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Britannica&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2910,6 +2924,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Installing OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Installing OmegaT&lt;/p0&gt; &lt;s1&gt;OS X&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3182,6 +3203,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Right to left languages&lt;/p0&gt; &lt;s1&gt;Target files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;OS X&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4028,6 +4063,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T220738Z">
         <seg>Tillagda: {1}, Borttagna: {2}, Ändrade: {3} (Konflikter: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to the Dock</seg>
       </tuv>
     </tu>
     <tu>
@@ -5723,6 +5765,13 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check "Command line launching" below for more information.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
@@ -6102,6 +6151,20 @@ hittar inte</note>
 </note>
       <tuv lang="EN">
         <seg>Click on &lt;g1&gt;File Filters&lt;/g1&gt; button and activate the check box &lt;g2&gt;Enable project specific filters&lt;/g2&gt;&lt;i3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Click on the icon button, then hit &lt;e0&gt;Browse...&lt;/e0&gt; and navigate to the /images subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7775,6 +7838,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Double click on &lt;e0&gt;OmegaT_3.n.n_Mac.zip&lt;/e0&gt; to unpack it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Double clicking the item with the OmegaT icon is sufficient to open the project.</seg>
       </tuv>
     </tu>
@@ -7784,6 +7854,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171106T061543Z" creationid="Dorothy" creationdate="20171106T061543Z">
         <seg>Dubbelklicka på programmet OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Double-click on&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; or click on its location in the Dock.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7815,6 +7892,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T212316Z">
         <seg>Ladda ner &amp;Teamprojekt…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Download &lt;e0&gt;OmegaT_3.n.n_Mac.zip.&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7875,6 +7959,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Downloading the package</seg>
@@ -7893,6 +7978,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T181738Z">
         <seg>R&amp;itningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Drag and drop &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; onto the Dock.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8385,6 +8477,20 @@ ska det vara tag, som lite längre upp?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T163308Z">
         <seg>Se till att du anger rätt API-version (URL:n ska innehålla "/v2/").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9451,6 +9557,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Finished</seg>
       </tuv>
@@ -9634,6 +9747,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For example, &lt;f1&gt;LANGUAGE="-Duser.language=ja"&lt;/f1&gt; (without the #) will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with the user interface in Japanese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
     </tu>
@@ -9724,6 +9844,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For instance, &lt;string&gt;-Xmx2048M&lt;/string&gt; will launch OmegaT with 2 gigas of memory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
       </tuv>
     </tu>
@@ -9739,6 +9866,13 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>For most users, these are not of interest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For pre-defined options, remove the # before a parameter to enable it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9976,6 +10110,20 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T190247Z">
         <seg>Suddiga matchningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>GNOME Users</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;a4&gt;OmegaT&lt;/a4&gt;.png can be selected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11438,6 +11586,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In KMenuEditor select &lt;e3&gt;File -&gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
     </tu>
@@ -11562,6 +11717,13 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T074641Z" creationid="Dorothy" creationdate="20170709T074641Z">
         <seg>I kä&amp;lla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11856,6 +12018,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 Not OK
 Not OK
 </note>
@@ -13433,6 +13596,13 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Mac OS X Users</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 Not OK
 </note>
       <tuv lang="EN">
@@ -13505,6 +13675,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Make sure that your &lt;e2&gt;PATH &lt;/e2&gt;settings are correct and that .&lt;e3&gt;jar&lt;/e3&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13916,6 +14093,13 @@ Det skulle kunna översättas med "pågående"
 </note>
       <tuv lang="EN">
         <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Methods differ depending on the distribution.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15698,6 +15882,13 @@ installeras i ditt system.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Once you have done this, you can delete the &lt;e5&gt;OmegaT_3.n.n_Mac.zip&lt;/e5&gt; file, it is no longer needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>generera
 create/generate 
 consistency?
@@ -15957,6 +16148,13 @@ consistency?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Options are changed by modifying &lt;e0&gt;Configuration.properties&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Options to set the line length in target documents (0 = no limit)</seg>
       </tuv>
@@ -16034,6 +16232,13 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>Other HowTos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Other Icons - Browse, and navigate to the /images subfolder in the &lt;a0&gt;OmegaT&lt;/a0&gt; application folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18185,6 +18390,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Right:</seg>
       </tuv>
@@ -18258,6 +18470,8 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Running &lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt;</seg>
@@ -19204,11 +19418,32 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Select it and confirm with OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T213427Z">
         <seg>Välj languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Select the &lt;a1&gt;OmegaT&lt;/a1&gt;.png icon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Select the &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt; icon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21271,6 +21506,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The KMenuEditor appears.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The LanguageTool in OmegaT</seg>
       </tuv>
     </tu>
@@ -21735,6 +21977,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The folder contains 2 files: index.html and &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app.&lt;/e3&gt; Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22546,6 +22795,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New&lt;/e0&gt; Submenu and &lt;e1&gt;File - New Item&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>There are a number of restrictions:</seg>
       </tuv>
     </tu>
@@ -22858,6 +23114,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T065041Z">
         <seg>Detta kommando kommer att köras efter "Skapa översatta dokument".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This creates a folder called &lt;e1&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; &lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23190,6 +23453,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To access &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file in Contents/Resources by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
@@ -23222,6 +23492,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and change the content of &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23329,6 +23606,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To launch OmegaT, you must launch this file either from the command line or from your file manager, usually by double-clicking it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To launch multiple instances of &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-click the file &lt;e2&gt;OmegaT.sh&lt;/e2&gt; located in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23929,6 +24213,13 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T073040Z" creationid="Dorothy" creationdate="20170709T073040Z">
         <seg>Typ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Type &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; to run the command.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24624,6 +24915,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T214145Z">
         <seg>Använd termer som &amp;förekommer separat i källtexten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use the &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; file located in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; to launch &lt;a4&gt;OmegaT&lt;/a4&gt; from the command line.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25803,6 +26101,7 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>You can add &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus as follows:</seg>
@@ -25828,6 +26127,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
 </note>
       <tuv lang="EN">
         <seg>You can add the files to it later.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can also "cd" there directly from the command line and open &lt;a4&gt;&lt;e5&gt;Configuration.properties&lt;/e5&gt; in a command line editor like emacs or vi&lt;/a4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25975,6 +26281,20 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T085527Z">
         <seg>Men du kan få en snyggare och mer användarvänlig installation genom
 att använda installations-skriptet (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; to launch it directly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;Configuration.properties&lt;/e1&gt; file in the package.</seg>
       </tuv>
     </tu>
     <tu>
