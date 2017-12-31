@@ -1768,6 +1768,14 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Folders</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T111128Z" creationid="mini-me" creationdate="20171231T111128Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Filer och Mappar</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -1782,6 +1790,14 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; sites and &lt;a1&gt;OmegaT&lt;/a1&gt; SourceForge project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; works with three types of files.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T111142Z" creationid="mini-me" creationdate="20171231T111142Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; arbetar med tre filtyper.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2295,6 +2311,14 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T111059Z" creationid="mini-me" creationdate="20171231T111059Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Dokument.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -2313,6 +2337,30 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - target file encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T111032Z" creationid="mini-me" creationdate="20171231T111032Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T111039Z" creationid="mini-me" creationdate="20171231T111039Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Dokument.xx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T111047Z" creationid="mini-me" creationdate="20171231T111047Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Dokument.xx.docx</seg>
       </tuv>
     </tu>
     <tu>
@@ -2632,6 +2680,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;File omegat.project&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Translation project files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
@@ -2868,6 +2930,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A translation project &lt;e0&gt;Example_Project&lt;/e0&gt; created with the default settings will be created as a new subfolder with the following structure:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3471,6 +3540,13 @@ hittar inte denna!
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Alternate locations for some of the folders can be chosen at project creation or during the translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Alternative Language</seg>
       </tuv>
@@ -3498,6 +3574,13 @@ hittar inte denna!
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T092320Z">
         <seg>Amhariska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An &lt;a0&gt;OmegaT&lt;/a0&gt; translation project consists of a number of files and folders.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3738,6 +3821,13 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171108T210200Z">
         <seg>Utseende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Application files: These are included in the package you download.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,6 +6696,13 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Double clicking the item with the OmegaT icon is sufficient to open the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
@@ -9393,6 +9490,13 @@ den fullständiga sökvägen anges.)</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If for some reason these files are lost or corrupted, simply download and/or reinstall OmegaT to restore them all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If in doubt, select this option.</seg>
       </tuv>
     </tu>
@@ -9839,6 +9943,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In a file manager a translation project looks and acts just like any other folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
       </tuv>
     </tu>
@@ -9922,6 +10033,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10030,6 +10148,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T183345Z">
         <seg>Startar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Initially empty, this folder will contain dictionaries you have added to the project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10486,6 +10611,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is therefore possible to select existing folders or create folders in locations that reflect your work flow and project management habits.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>indentify?
 </note>
       <tuv lang="EN">
@@ -10526,6 +10658,13 @@ inuti konfigurationsmappen.</seg>
 </note>
       <tuv lang="EN">
         <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It will contain glossaries you will be using in the project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11526,6 +11665,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Losing them may affect the project's integrity and your ability to complete a job.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Losing them usually results in OmegaT reverting to its "factory settings".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Luba-Katanga</seg>
       </tuv>
     </tu>
@@ -12228,6 +12381,13 @@ ViewOptionsPanel.java: 113
 </note>
       <tuv lang="EN">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Most of them are required in order for OmegaT to function properly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13348,6 +13508,20 @@ att startas.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT on the web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT projects and subfolders</seg>
       </tuv>
     </tu>
     <tu>
@@ -14877,6 +15051,13 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T084031Z">
         <seg>Projektfilen ska vara tillgänglig via http-protokollet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Project files are the most important files in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16438,6 +16619,13 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
@@ -17844,6 +18032,20 @@ kan man skicka en flagga till OmegaT?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T072259Z">
         <seg>SubRip-undertexter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Subfolder dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Subfolder glossary</seg>
       </tuv>
     </tu>
     <tu>
@@ -19690,6 +19892,13 @@ konfigurationsmapp bestämmas säkert.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>They are the files you deal with on a daily basis while translating.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>They can be found in the folders of the corresponding compiled versions.</seg>
       </tuv>
     </tu>
@@ -19698,6 +19907,13 @@ konfigurationsmapp bestämmas säkert.</seg>
 </note>
       <tuv lang="EN">
         <seg>They can share common material, like project translation memory and its glossary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>They contain the one and the same translation memory contents in different forms, to be used in future projects.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19781,6 +19997,13 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This chapter describes the project properties, such as the source and target languages.</seg>
       </tuv>
     </tu>
@@ -19811,6 +20034,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This folder is initially empty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20006,6 +20236,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To change the location of folders after a project has been created, open &lt;g0&gt;Project &gt; Properties...&lt;/g0&gt; in the menu or with &lt;g1&gt;Ctrl+E&lt;/g1&gt; and make the necessary changes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20232,6 +20469,20 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
 </note>
       <tuv lang="EN">
         <seg>Tools Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Top folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Top folder of a project always contains the file&lt;f0&gt; OmegaT.Project&lt;/f0&gt;, containing project parameters as defined in the Project properties window (&lt;g1&gt;Project &gt; Properties&lt;/g1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20550,6 +20801,20 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170812T144537Z">
         <seg>Mapp {0} för översättningsminnen finns inte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Translation project files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Translation project files: These constitute a translation project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21359,6 +21624,13 @@ på rad {1}, kolumn {2}.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>User settings files: These are created when OmegaT's behavior is modified by user preference settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>User support is provided on a volunteer basis at the &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!</seg>
       </tuv>
     </tu>
@@ -21877,6 +22149,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>When you create a translation project, OmegaT automatically creates a folder with the specified name, and a list of folders:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>When you left-click on the number, the selected script will run.</seg>
       </tuv>
     </tu>
@@ -21915,6 +22194,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T111610Z">
         <seg>Vilken version vill du behålla?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>While the translation is progressing, additional files (&lt;e2&gt;&lt;f3&gt;project_name&lt;/f3&gt;&lt;/e2&gt;&lt;f4&gt;-omegat.tmx, project_name-level1.tmx and project_name-level2.tmx&lt;/f4&gt;) are created (and updated during the process of translation) in this folder.</seg>
       </tuv>
     </tu>
     <tu>
