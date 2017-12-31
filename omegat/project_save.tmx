@@ -2175,6 +2175,8 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Team projects&lt;/s1&gt; &lt;s2&gt;Team projects&lt;/s2&gt;</seg>
       </tuv>
