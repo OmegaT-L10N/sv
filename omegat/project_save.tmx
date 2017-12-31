@@ -2033,6 +2033,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Warning!&lt;/e0&gt; Should you change filter options whilst a project is open, you must reload the project in order for the changes to take effect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Working with plain text&lt;/e0&gt; and &lt;e1&gt;Working with formatted text&lt;/e1&gt;: these two chapters explain certain important points concerning texts to be translated, such as the encoding set (in the case of plain text files) and tag handling (in the case of formatted text).</seg>
       </tuv>
     </tu>
@@ -2227,6 +2234,20 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Webster&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Dialog&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Project specific file filters&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2500,6 +2521,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171106T061424Z" creationid="Dorothy" creationdate="20171106T061424Z">
         <seg>===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A copy of the filters configuration will be stored with the project in this case.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3655,6 +3683,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Autotext entries</seg>
       </tuv>
@@ -4670,6 +4705,13 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"Create project" är på ProjectLocker site?
 </note>
       <tuv lang="EN">
@@ -4693,6 +4735,13 @@ hittar inte</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170812T143254Z">
         <seg>Klicka på &lt;g1&gt;Kopiera filer till källfilsmappen…&lt;/g1&gt; för att välja dina källfiler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Click on &lt;g1&gt;File Filters&lt;/g1&gt; button and activate the check box &lt;g2&gt;Enable project specific filters&lt;/g2&gt;&lt;i3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7464,6 +7513,13 @@ efterbearbetning	  91 k
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Extracting the translatable content out of the file.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>testa vid körning
 </note>
       <tuv lang="EN">
@@ -7666,6 +7722,25 @@ inte "kompilera"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T133430Z">
         <seg>Filnamn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>File filters are pieces of code capable of:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>File filters dialog</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T105857Z" creationid="mini-me" creationdate="20171231T105857Z">
+        <seg>
+File filters dialog</seg>
       </tuv>
     </tu>
     <tu>
@@ -7968,6 +8043,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T221510Z" creationid="mini-me" creationdate="20171209T221510Z">
         <seg>För installation på andra operativsystem (som FreeBSD och Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For instance, plain text files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9001,6 +9083,13 @@ till standard som följd av platsändringen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If this is not the case, open the main dialog by selecting&lt;e0&gt; Options → File Filters...&lt;/e0&gt; from the main menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
     </tu>
@@ -9147,6 +9236,13 @@ installera OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you later change filters, only the project filters will be updated, while the user filters stay unchanged.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
@@ -9243,6 +9339,13 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Ignore glossary case</seg>
       </tuv>
@@ -9318,6 +9421,13 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T074149Z">
         <seg>I kommentarer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11658,6 +11768,13 @@ ViewOptionsPanel.java: 113
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Most users will find the default file filter options sufficient.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
@@ -12588,6 +12705,13 @@ also --&gt; still
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT features highly customizable filters, enabling you to configure numerous aspects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT for Beginners tutorial</seg>
       </tuv>
     </tu>
@@ -12910,6 +13034,13 @@ installeras i ditt system.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170728T173134Z">
         <seg>OmegaT kommer sedan att kopiera de markerade filerna till undermappen &lt;f2&gt;/source/&lt;/f2&gt; i ditt nyligen skapade projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT will then omit the appropriate files while loading projects, and will copy them unmodified when creating target documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13906,6 +14037,13 @@ ytterligare åtgärder behöver vidtas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces (for layout matters) that must not be ignored.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
@@ -14497,6 +14635,13 @@ Why not "begin" - "end"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Reading the document in some specific file format.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Realign Pending</seg>
       </tuv>
@@ -14788,6 +14933,20 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T105156Z">
         <seg>Ta bort inledande och avslutande &amp;blanktecken i icke-segmenterade projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags including the leading and trailing ones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16345,6 +16504,13 @@ A: finns i Redigera-menyn
 </note>
       <tuv lang="EN">
         <seg>Shortcuts customization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Should you wish not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18104,6 +18270,13 @@ användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The dialog allows to enable or disable the following options:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The dialog in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; enables the user to select, how the current segment in the editing field is to be initialized and handled:</seg>
       </tuv>
     </tu>
@@ -18956,6 +19129,13 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This dialog lists available file filters, where the filters used by the current project are displayed in bold.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
       </tuv>
     </tu>
@@ -19195,6 +19375,13 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To edit which files in which encodings the filter is to process, select the filter from the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
       </tuv>
     </tu>
@@ -19236,6 +19423,13 @@ finns inget menu entry called that
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170728T185950Z">
         <seg>För att se en lista med filerna i projektet, öppna dialogen &lt;g1&gt;Projektfiler&lt;/g1&gt; genom att trycka &lt;k2&gt;CTRL + L&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To see which file formats can be handled by OmegaT, see the menu &lt;g0&gt;Options &gt; File Filters ... &lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20784,6 +20978,13 @@ sökbara utan prenumeration:</seg>
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT write text before the first tag (it is a technical tag that must always begin the segment).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 Not OK
 </note>
       <tuv lang="EN">
@@ -20975,6 +21176,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
 </note>
       <tuv lang="EN">
         <seg>When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>When you wish to use the filter again, just tick the check box.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21355,6 +21563,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can also enable project-specific file filters, which will only be used on the current project, by selecting the &lt;e1&gt;File Filters...&lt;/e1&gt; option in Project Properties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can also file &lt;u6&gt;bug reports&lt;/u6&gt; and &lt;u7&gt;requests for enhancements.&lt;/u7&gt;</seg>
       </tuv>
     </tu>
@@ -21410,6 +21625,13 @@ saknar ellips</note>
 </note>
       <tuv lang="EN">
         <seg>You can decide not to translate such segments at all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can enable project specific filters via the &lt;e0&gt;Project → Properties...&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21972,6 +22194,13 @@ Men kan inte förstå varför i SRC code
 </note>
       <tuv lang="EN">
         <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>if the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments, or some sort of ID depending on the file format) matches.</seg>
       </tuv>
     </tu>
     <tu>
