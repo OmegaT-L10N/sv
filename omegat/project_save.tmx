@@ -2856,7 +2856,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;I&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;L&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;M&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2877,6 +2891,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;R&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;S&lt;/k1&gt;</seg>
       </tuv>
     </tu>
@@ -2891,7 +2912,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;I&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;R&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2913,6 +2948,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;X&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Y&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12257,6 +12299,27 @@ till standard som följd av platsändringen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
       </tuv>
     </tu>
@@ -13245,6 +13308,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Insert Match or Selection</seg>
@@ -13293,6 +13357,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Insert Source</seg>
@@ -13335,6 +13400,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Insert the best fuzzy match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Inserts the source at the cursor position.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16243,6 +16322,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T140114Z">
         <seg>Inga förslag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>No action is taken, if no Machine Translation service has been activated (see Menu &gt; Options below).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19945,6 +20031,7 @@ kanske reload istället?
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Replace With Match or Selection</seg>
@@ -19952,6 +20039,7 @@ kanske reload istället?
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Replace With Source</seg>
@@ -19991,6 +20079,7 @@ kanske reload istället?
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Replace with Machine Translation</seg>
@@ -20002,6 +20091,27 @@ kanske reload istället?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T074409Z">
         <seg>Ersätt med:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Replaces the target segment with the translation, provided by the selected Machine Translation service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Replaces the whole target segment with the source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20169,6 +20279,13 @@ kanske reload istället?
 </note>
       <tuv lang="EN">
         <seg>Restore Main Window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Restores the status before the last editing action was cancelled.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25314,6 +25431,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>This command does not work once the modified segment has been validated.</seg>
