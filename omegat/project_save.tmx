@@ -2690,7 +2690,49 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Source subfolder&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Subfolder omegat&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Target subfolder&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Translation project files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;User settings files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;ignored_words and learned_words&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;statistics file&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3785,6 +3827,13 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An xml file with all the GUI accessible option settings</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
@@ -4190,6 +4239,13 @@ hittar inte
 </note>
       <tuv lang="EN">
         <seg>Backspace*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6642,6 +6698,11 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Documents and Settings\&lt;User Name&gt;\Application Data\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -6878,6 +6939,13 @@ laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg
 </note>
       <tuv lang="EN">
         <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>During translation additional files may get created in this subfolder as follows</seg>
       </tuv>
     </tu>
     <tu>
@@ -8239,6 +8307,13 @@ File filters dialog</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Filter</seg>
       </tuv>
@@ -9582,6 +9657,13 @@ till standard som följd av platsändringen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
@@ -9636,6 +9718,13 @@ till standard som följd av platsändringen.</seg>
 </note>
       <tuv lang="EN">
         <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12975,6 +13064,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that default segmentation rules and file filters can be overridden by project-specific setup (see above).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
     </tu>
@@ -12983,6 +13079,13 @@ lämplig plats såsom Programmappen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note that the structure of the source subfolder may take any form you like.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13508,6 +13611,13 @@ att startas.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT on the web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT preferences</seg>
       </tuv>
     </tu>
     <tu>
@@ -16626,6 +16736,13 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;chapter Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
@@ -17225,6 +17342,13 @@ A: finns i Redigera-menyn
 </note>
       <tuv lang="EN">
         <seg>Shortcuts customization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Should OmegaT appear to be behaving erratically, it is important to include this file or the relevant part in any bug report</seg>
       </tuv>
     </tu>
     <tu>
@@ -18049,6 +18173,27 @@ kan man skicka en flagga till OmegaT?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Subfolder omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Subfolder source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Subfolder target</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Subscription Key:</seg>
       </tuv>
@@ -18736,6 +18881,13 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
@@ -19069,6 +19221,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The current folder will be used
 instead.</seg>
@@ -19303,6 +19462,13 @@ i /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The location of user files depends upon the platform you use:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>
 här heter det "memory"
 </note>
@@ -19319,6 +19485,13 @@ här heter det "memory"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170803T190950Z">
         <seg>Den mest aktuella informationen om OmegaT finns på:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19565,6 +19738,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The source subfolder contains files to be translated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20040,6 +20220,13 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This file records Java error messages while &lt;a0&gt;OmegaT&lt;/a0&gt; is running.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This folder is initially empty.</seg>
       </tuv>
     </tu>
@@ -20165,6 +20352,13 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This subfolder is initially empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
       </tuv>
     </tu>
@@ -20173,6 +20367,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This way an inadvertent data loss is averted - see Preventing Data Loss in chapter &lt;l2&gt;Miscellanea.&lt;/l2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20212,6 +20413,13 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T095202Z" creationid="mini-me" creationdate="20171230T095202Z">
         <seg>Tigrinska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21377,6 +21585,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Untranslated segments will hereby remain in the source language.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Updated</seg>
       </tuv>
@@ -21583,6 +21798,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>User files contain the information, applicable to all the projects for a given user;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>User group</seg>
       </tuv>
@@ -21618,6 +21840,13 @@ på rad {1}, kolumn {2}.</seg>
 </note>
       <tuv lang="EN">
         <seg>User requirements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>User settings files</seg>
       </tuv>
     </tu>
     <tu>
@@ -22278,10 +22507,28 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows 2000 and XP</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T111631Z">
+        <seg>Windows 2000 och XP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Windows Resources</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T055801Z" creationid="mini-me" creationdate="20171218T055801Z">
         <seg>Windows Resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Windows Vista and 7</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T111616Z">
+        <seg>Windows Vista och 7</seg>
       </tuv>
     </tu>
     <tu>
@@ -22558,6 +22805,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can add the files to it later.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
       </tuv>
     </tu>
@@ -22728,6 +22982,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
 </note>
       <tuv lang="EN">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can view it by selecting &lt;g0&gt;Tools &gt; Statistics&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22980,6 +23241,13 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>are created and used by the spell checker.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>attributes.</seg>
       </tuv>
@@ -23009,6 +23277,20 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T165920Z">
         <seg>cd &lt;mappen där filen OmegaT.jar finns&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>contains the current statistics of the current project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>contains the latest project match statistics, generated by &lt;g0&gt;Tools &gt; Match Statistics&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23056,6 +23338,14 @@ Men kan inte förstå varför i SRC code
     </tu>
     <tu>
       <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>filters.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 </note>
       <tuv lang="EN">
         <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
@@ -23066,6 +23356,13 @@ Men kan inte förstå varför i SRC code
 </note>
       <tuv lang="EN">
         <seg>first read the &lt;u0&gt;Localizing and Customizing &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt; guide, and join the &lt;a2&gt;OmegaT&lt;/a2&gt; translators' group via web or by sending an email to &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3&gt; with subject "subscribe".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>folder, containing script files for the script plugin, if installed</seg>
       </tuv>
     </tu>
     <tu>
@@ -23237,6 +23534,27 @@ Men kan inte förstå varför i SRC code
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>if existing, it contains project-specific GUI settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>if existing, it contains project-specific file filters, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>if existing, it contains project-specific segmentation rules, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>if sentence segmentation rules are active, the text will further be segmented according to the option selected here.</seg>
       </tuv>
     </tu>
@@ -23245,6 +23563,13 @@ Men kan inte förstå varför i SRC code
 </note>
       <tuv lang="EN">
         <seg>if the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments, or some sort of ID depending on the file format) matches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>ignored_words.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23276,6 +23601,13 @@ Men kan inte förstå varför i SRC code
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>learned_words.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>lep, lepa, lepo - singular, masculine, feminine, neutral</seg>
       </tuv>
     </tu>
@@ -23292,6 +23624,13 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T073931Z">
         <seg>inläst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>logs/OmegaT.log</seg>
       </tuv>
     </tu>
     <tu>
@@ -23384,6 +23723,13 @@ Men kan inte förstå varför i SRC code
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>on translation and the &lt;br1/&gt;</seg>
       </tuv>
     </tu>
@@ -23447,6 +23793,13 @@ Men kan inte förstå varför i SRC code
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>remove char after cursor</seg>
       </tuv>
     </tu>
@@ -23472,11 +23825,26 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>script/</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>segment 0000</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T055620Z" creationid="mini-me" creationdate="20171218T055620Z">
         <seg>segment 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>segmentation.conf</seg>
       </tuv>
     </tu>
     <tu>
@@ -23499,6 +23867,13 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T070258Z">
         <seg>src (URL för &amp;bilder)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>stats.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -23537,11 +23912,33 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>uiLayout.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>unknown</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T071633Z">
         <seg>okänd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>user's default file filters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>user's default segmentation rules</seg>
       </tuv>
     </tu>
     <tu>
