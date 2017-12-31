@@ -3847,6 +3847,13 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Encoding&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 Not OK
 </note>
       <tuv lang="EN">
@@ -4817,6 +4824,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Encoding&lt;/s1&gt;</seg>
@@ -33046,8 +33054,8 @@ Not OK
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170806T124540Z">
-        <seg>Syntax: java -jar OmegaT.jar team &lt;kommando&gt; [&lt;alternativ&gt;]]</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T153720Z">
+        <seg>Användning: java -jar OmegaT.jar team &lt;kommando&gt; [&lt;alternativ&gt;]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -34576,6 +34584,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
 </note>
       <tuv lang="EN">
         <seg>Working with formatted text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Working with plain text</seg>
       </tuv>
     </tu>
     <tu>
