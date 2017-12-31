@@ -15,6 +15,34 @@
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>"HELPANDMANUAL" with "TMX"&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>"Help &amp; Manual" with "TMX"&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>"Help&amp;Manual" with "TMX"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>"HelpAndManual" with "TMX"&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
       </tuv>
     </tu>
@@ -79,6 +107,13 @@
 </note>
       <tuv lang="EN">
         <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>"helpandmanual" with "tmx"&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1907,7 +1942,21 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>- Add the following options to launch OmegaT (where Client ID: my_clientid1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- After editing OmegaT.sh (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1935,7 +1984,21 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>- Before editing OmegaT.sh&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- Check [Microsoft Translator]&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1963,6 +2026,27 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>- Ctrl+M (or Command+M on Mac) will replace the current segment translation with that machine translation.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and edit the following lines with your preferred plain-text editor:&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- Launch OmegaT and open your project.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:&lt;br0/&gt;</seg>
       </tuv>
     </tu>
@@ -1982,9 +2066,17 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>- Remove "#" at the line heads, and replace "xxxxx" with your "Client ID" and "Client secret."&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- Right-click on OmegaT.app and select "Show Package Contents."&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1996,10 +2088,39 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>- Save OmegaT.sh.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T222410Z" creationid="mini-me" creationdate="20171231T222410Z">
+        <seg>- Spara OmegaT.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- Select [Options] &gt; [Machine Translate]&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
         <seg>- To use Microsoft Translator API, you need to register your Application in Microsoft Azure Marketplace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- When you select any segments, its translation will be displayed in Machine Translation window of OmegaT.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- You can check your usage limit in your account by accessing the above page.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2759,6 +2880,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;a0&gt;You can use OmegaT&lt;/a0&gt; to translate files in a number of file formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/account/datasets&lt;/a0&gt; &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7625,6 +7753,13 @@ hittar inte denna!
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Although it might seem strange to want to translate TMX files (the usual reason for creating a file filter), the addition of a TMX filter has the interesting effect that it enables TMX files in any location to be searched for from within any OmegaT project using the "Search Files" function, something not possible in the standard OmegaT build.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Although not essential, we recommend that you also join the &lt;a0&gt;OmegaT localizers' mailing list&lt;/a0&gt; (also known as "OmT-l10n").</seg>
       </tuv>
     </tu>
@@ -8924,6 +9059,20 @@ hittar inte</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Below these lines, insert the lines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Beneath these lines, you can also insert the code:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Besides the web page into which users can simply paste text for translation, Google Translate also provides an interface (API) which can be used by CAT tools to access the service.</seg>
       </tuv>
     </tu>
@@ -9464,6 +9613,13 @@ hittar inte</note>
 </note>
       <tuv lang="EN">
         <seg>Change the file extension from &lt;l1&gt;.txt&lt;/l1&gt; to &lt;l2&gt;.utf8.&lt;/l2&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; will automatically interpret the file as a UTF-8 file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Change the file extension, in this case to .tmx, by changing the line:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11043,6 +11199,13 @@ This one is a title for the dialog and shouldn't have ellipsis
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Copyright Will Helton and OmegaT Japanese Localization Team 2012-2015&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Copyright information</seg>
       </tuv>
@@ -11749,6 +11912,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Default shortcut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Define the paragraph tags, in this case by changing the line:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14990,6 +15160,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For compiling OmegaT from the source code, see &lt;a0&gt;Compiling OmegaT from Source HowTo&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation tool.</seg>
       </tuv>
     </tu>
@@ -16522,6 +16699,13 @@ history historik
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>How will I know when I reach my monthly usage limit?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
     </tu>
@@ -16717,6 +16901,13 @@ history historik
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171120T063358Z">
         <seg>Identifierare att använda för alternativa översättningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Identify the paragraph-level tag(s) for your new file format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18342,6 +18533,27 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In TMX, the paragraph-level tag corresponding to a segment is "tu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In TMXDialect.java:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In TMXFilter.java:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In a file manager a translation project looks and acts just like any other folder.</seg>
       </tuv>
     </tu>
@@ -18399,6 +18611,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In both files, search for (matching the case) and replace:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18837,6 +19056,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In the folder /src/org/omegat, open the file Bundle.properties in a text editor and find the lines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In the folder &lt;c0&gt;/src/org/omegat/util&lt;/c0&gt; open the file &lt;c1&gt;OConsts.java&lt;/c1&gt; in a text editor.</seg>
       </tuv>
     </tu>
@@ -18971,6 +19197,20 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In this dialog one can define the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; in the following windows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In this example, the Help &amp; Manual filter has been selected as a basis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In this folder, rename the two files HelpandManualDialect.java and HelpandManualFilter.java to TmxDialect.java and TmxFilter.java respectively.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21355,6 +21595,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Locate the configuration file OmegaT.l4J.ini (the default location is C:\Program Files (x86)\OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Locate the folder src/org/omegat/filters3/xml, and make a copy the subfolder /helpandmanual, naming it /tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25361,6 +25608,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Open the files TMXDialect.java and TMX filter in a text editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30023,6 +30277,13 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Select an existing filter for a format similar to that for the new filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Select issue types to check.</seg>
       </tuv>
@@ -32624,6 +32885,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The "Status" field displays the limit like as "1,998,890 Characters remaining" for example.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
     </tu>
@@ -33859,6 +34127,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The files are unformatted plain text files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The filter will however still work if you do not do this.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35980,6 +36255,13 @@ konfigurationsmapp bestämmas säkert.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>These define subsegments that are presented outside the segment in which they are contained (footnotes are a good example).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>These file filters are excellent, and the risk of damaging the formatting of a LibreOffice, OpenOffice.org, etc. file during translation in OmegaT is extremely low.</seg>
       </tuv>
     </tu>
@@ -36261,6 +36543,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>This HowTo describes how to use OmegaT in conjunction with Atril's Déjà Vu CAT tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This HowTo explains how to create a new file filter for use with OmegaT by describing the creation of a rudimentary file filter for the TMX format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37205,6 +37494,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This will make the display of the TMX files neater, but again, it is not absolutely essential.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
       </tuv>
     </tu>
@@ -37479,6 +37775,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To do this for the TMX filter, insert the line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To do this, click the main "Office" button, then Word options (bottom right of the dialog).</seg>
       </tuv>
     </tu>
@@ -37530,6 +37833,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To find out what the paragraph tags should be, examine a sample file in a text editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39733,6 +40043,13 @@ sökbara utan prenumeration:</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Using Microsoft Translator machine translation in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Using OmegaT in conjunction with Google Translate.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T220606Z" creationid="mini-me" creationdate="20171209T220606Z">
@@ -41462,6 +41779,20 @@ saknar ellips</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can define out-of-turn tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can delete the line:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
     </tu>
@@ -42246,11 +42577,25 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>as it is irrelevant to TMX, although the new filter will still work if you do not.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>attributes.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171105T161056Z">
         <seg>attribut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>beneath the line</seg>
       </tuv>
     </tu>
     <tu>
@@ -42373,6 +42718,42 @@ Men kan inte förstå varför i SRC code
 </note>
       <tuv lang="EN">
         <seg>default justification, that is as defined by the language</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>defineIntactTags(new String[]&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>defineOutOfTurnTags(new String[] { "sub", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>defineParagraphTags(new String[] { "caption", "config-value", "variable", "para", "title", "keyword", "li", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>defineParagraphTags(new String[] { "tu", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>defineShortcut("link", "li");</seg>
       </tuv>
     </tu>
     <tu>
@@ -42964,6 +43345,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>java -jar -Dmicrosoft.api.client_id=my_clientid1 -Dmicrosoft.api.client_secret=your Client secret OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
     </tu>
@@ -43374,6 +43762,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>public Instance[] getDefaultInstances() {&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>puts the pane back within the main window</seg>
       </tuv>
     </tu>
@@ -43651,6 +44046,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>tmx folders - location and purpose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>to</seg>
       </tuv>
     </tu>
     <tu>
@@ -43984,6 +44386,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>   - If you find a message including "Bad Request" in Machine Translation window, check if the values "Client ID" and "Client secret" are appropriate.&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>   - Name: Any string ex.) my_application01&lt;br9/&gt;</seg>
       </tuv>
     </tu>
@@ -43992,6 +44401,21 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>   - Redirect URI: Any URI (Invalid URL required when using Microsoft Translator) ex.) http://dummy/&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   TMX_FILTER_NAME=TMX files</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T222653Z" creationid="mini-me" creationdate="20171231T222653Z">
+        <seg>   TMX_FILTER_NAME=TMX-filer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>   return new Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
       </tuv>
     </tu>
     <tu>
