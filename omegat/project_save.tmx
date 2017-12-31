@@ -1652,6 +1652,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>(Infix is also reported to work on WINE.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>(OmegaT is far from unique in this respect: many other CAT tools convert source files to a different format, in some cases in the background without the translator being aware of the fact, before they are translated.)</seg>
       </tuv>
     </tu>
@@ -1660,6 +1667,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
 </note>
       <tuv lang="EN">
         <seg>(Record as described above, but only recording the command Ctrl+C followed by Ctrl+V.) You can then highlight text between the points at which formatting changes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>(See screenshot: only the first three segments have been translated.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2548,6 +2562,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;Specific information on running Iceni Infix on Crossover Linux or Crossover Macintosh&lt;/a1&gt; is also available.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3522,6 +3543,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170724T194138Z">
         <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Gloslistor:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;i0&gt;If you changed the file extension to .html, change the extension of the translated file back to .xml.&lt;/i0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6106,6 +6134,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A demonstration version is available; at the time of writing, the full version costs around US$150.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
     </tu>
@@ -6842,6 +6877,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>After completing your translation, create the translated document in the usual way (Ctrl+S, Ctrl+D).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
       </tuv>
     </tu>
@@ -6930,6 +6972,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Again, click the main "Office" button, then Word options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Again, free demonstration versions are available.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7055,6 +7104,13 @@ hittar inte denna!
 </note>
       <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>All being well, your translation will come out looking like the original, but translated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7288,7 +7344,28 @@ hittar inte denna!
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Alternatively, you should be able to translate the Infix XML file with good results using earlier versions of OmegaT by means of the HTML filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Although Infix is a Windows application, Iceni has made efforts to cater for Linux and Macintosh users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Although it is debatable whether the results of this procedure will be comparable to re-layouting of the translation by a DTP professional, they are likely to be much better than conversion to completely different formats (such as RTF).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7921,6 +7998,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>As is so often the case with things technical (and things translation), there are catches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>As its name suggests, it is an XML-based format.</seg>
       </tuv>
     </tu>
@@ -8314,6 +8398,13 @@ hittar inte
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T194420Z">
         <seg>B&amp;läddra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Back in Iceni Infix, import the translated XML file back into &lt;i0&gt;the PDF from which you exported it&lt;/i0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9866,6 +9957,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Clicking on the text in question will display a text box and formatting marks.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Clo&amp;se</seg>
       </tuv>
@@ -10819,6 +10917,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Create an OmegaT project in the usual way.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Create an empty folder, where you will keep your project and right-click on it.</seg>
       </tuv>
     </tu>
@@ -11014,6 +11119,20 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T092929Z" creationid="mini-me" creationdate="20171230T092929Z">
         <seg>Kroatiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Crossover Linux and Crossover Macintosh can be obtained from the &lt;a0&gt;Codeweavers' website&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Crossover Linux and Crossover Macintosh cost approximately €40.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13614,6 +13733,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Export the text from the PDF in Infix's XML format with Document &gt; Translate &gt; Export XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Exports the current selection or the current source, if no text has been selected.</seg>
       </tuv>
     </tu>
@@ -14834,6 +14960,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>For translation of PDF files "for information", translators often resort to converting the PDF file to some other file format before translation, such as RTF; the results may be adequate for this purpose, but will not meet the professional standards of the original DTP process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For translations intended "for information", this may not be a problem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16118,6 +16251,13 @@ history historik
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Iceni Infix also enables you to save PDF files in RTF format, but in this case the demonstration version really is only suitable for demonstration purposes, as it contains random character substitutions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Iceni Infix offers a further option.</seg>
       </tuv>
     </tu>
@@ -17007,6 +17147,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you are using Linux or Macintosh, obtain and install the relevant Crossover version before installing Iceni Infix Professional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you are using OmegaT version 2.3 or later, simply place the XML file exported from Infix as described above in the /source folder of your OmegaT project.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"please enter here" --&gt; "please enter"
 </note>
       <tuv lang="EN">
@@ -17014,6 +17168,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T064946Z">
         <seg>Om du använder en autentiserad proxy, ange ditt användarnamn och lösenord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you are using an earlier version of OmegaT, upgrading your OmegaT installation is recommended.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18311,6 +18472,27 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060323Z" creationid="mini-me" creationdate="20171218T060323Z">
         <seg>Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Infix Professional can be used on these platforms in conjunction with Crossover Linux and Crossover Macintosh respectively.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Infix has functions for dealing with this and other problems that are beyond the scope of this HowTo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Infix is a PDF editor, i.e. the text in the PDF can be edited directly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20075,6 +20257,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Launch Iceni Infix and open the PDF file you wish to translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Launch OmegaT</seg>
       </tuv>
@@ -20481,6 +20670,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Locate the configuration file OmegaT.l4J.ini (the default location is C:\Program Files (x86)\OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Locate the translated XML file in the OmegaT project's /target folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22606,6 +22802,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that if you use the demonstration version of Iceni Infix in this procedure, your translated PDF file will bear an Iceni watermark.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that in Windows you can change the &lt;f3&gt;OmegaT.l4J.ini&lt;/f3&gt; file to reflect your preferences.</seg>
       </tuv>
     </tu>
@@ -22805,6 +23008,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Note: OmegaT does not interact dynamically with them (you must export/import TMX files manually).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note: OmegaT's Infix filter maps the &lt;BR/&gt; of Infix to &lt;brx/&gt; tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23086,6 +23296,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060822Z" creationid="mini-me" creationdate="20171218T060822Z">
         <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Obtain and install Iceni Infix Professional from the &lt;a0&gt;Iceni webpage&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23530,6 +23747,13 @@ och översättningshantering till uppdaterade projekt.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT is also capable of reading glossaries in TBX, the industry-standard format for glossary files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT is among the CAT tools for which this process can be used.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25184,6 +25408,14 @@ i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") se
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Platforms</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T220910Z" creationid="mini-me" creationdate="20171231T220910Z">
+        <seg>Plattformar</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -26698,6 +26930,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Reload your OmegaT project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Reloads the project to take external changes in source files, legacy translation memories, glossaries and project settings into account.</seg>
       </tuv>
     </tu>
@@ -27870,6 +28109,22 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Save the PDF.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T221003Z" creationid="mini-me" creationdate="20171231T221003Z">
+        <seg>Spara PDF:en.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save the changes.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T221044Z" creationid="mini-me" creationdate="20171231T221044Z">
+        <seg>Spara ändringarna.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -28854,6 +29109,13 @@ A: finns i Redigera-menyn
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T084527Z">
         <seg>Välj TaaS-domän</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Select Tools &gt; Text tool.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31411,6 +31673,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The "Professional" version of Infix has a further function of interest to translators: XML text export.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
       </tuv>
     </tu>
@@ -32508,6 +32777,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The example in the screenshot is the &lt;a0&gt;European Commission's SME user guide in Hungarian&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder (see &lt;x2/&gt;).</seg>
       </tuv>
     </tu>
@@ -33350,6 +33626,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The procedure is described in this HowTo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
@@ -34069,6 +34352,13 @@ translated -&gt; target
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The translated text can then be re-imported into Infix Professional.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The translation has changed.</seg>
       </tuv>
@@ -34432,6 +34722,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>There are two ways of launching &lt;a1&gt;OmegaT&lt;/a1&gt; using the command line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>There is a strong possibility that at some points, your translation will be longer than the original.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35029,6 +35326,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This enables the HTML segmentation rule to be used to choose whether or not segmentation should occur at these points.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This enables the text to be exported to an XML file which can be translated in a CAT tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
       </tuv>
     </tu>
@@ -35249,6 +35560,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This is important: when you export the XML file from the PDF, Infix makes a note in the file of where all the pieces of text ("stories") belong, so you must use this version of the file when re-importing the translated XML file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This is much the same as the above example.</seg>
       </tuv>
     </tu>
@@ -35454,6 +35772,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This needs to be dealt with in Infix, for example by enlarging the box containing the text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This number is displayed in brackets, next to the "Project file" title</seg>
       </tuv>
     </tu>
@@ -35528,6 +35853,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This situation will probably be familiar to you if you have translated Powerpoint files in OmegaT, or for that matter other CAT tools.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36108,6 +36440,13 @@ finns inget menu entry called that
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To resolve this, open the original PDF file again in Infix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To reuse it in &lt;a5&gt;OmegaT&lt;/a5&gt; rename it to &lt;e6&gt;project_save.tmx &lt;/e6&gt; and place it in the &lt;l7&gt;omegat&lt;/l7&gt;-folder of your project.</seg>
       </tuv>
     </tu>
@@ -36226,6 +36565,13 @@ finns inget menu entry called that
 </note>
       <tuv lang="EN">
         <seg>To use the selected match in your translation, use &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; to replace the target field with the match or use &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; to insert it at the cursor position.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To use this filter, simply change the file extension of the XML file exported by Infix from .xml to .html.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36636,6 +36982,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T183530Z">
         <seg>Översätter projektet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Translating a PDF file: procedure</seg>
       </tuv>
     </tu>
     <tu>
@@ -39822,6 +40175,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can now translate the text (see screenshot).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can open them in an Internet browser to obtain access to external links.</seg>
       </tuv>
     </tu>
@@ -39830,6 +40190,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
 </note>
       <tuv lang="EN">
         <seg>You can overlap panes if desired.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can presumably resolve this by obtaining and installing the necessary fonts; or you can select a different font for this purpose – which may or may not be an adequate solution.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40046,6 +40413,20 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
 </note>
       <tuv lang="EN">
         <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You may find that segments are broken by hard line breaks at inconvenient places.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You may find that the embedded fonts in the PDF do not contain all the characters you need.</seg>
       </tuv>
     </tu>
     <tu>
