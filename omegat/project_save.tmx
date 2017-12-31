@@ -4820,6 +4820,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A currency symbol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A default script called Switch Colour Themes provides a default "Dark".</seg>
       </tuv>
     </tu>
@@ -4828,6 +4835,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A digit: [0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4856,6 +4870,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A list of possible arguments is given below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A non-digit: [^0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4946,6 +4967,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A translation project &lt;e0&gt;Example_Project&lt;/e0&gt; created with the default settings will be created as a new subfolder with the following structure:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
     </tu>
     <tu>
@@ -6060,6 +6088,34 @@ TMX-filen kommer inte att läsas in.</seg>
 </note>
       <tuv lang="EN">
         <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Any character (except for line terminators)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Any character except a, b, or c (negation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Any character except one in the Greek block (negation)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Any letter except an uppercase letter (subtraction)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21363,6 +21419,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Regex - Character classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
     </tu>
@@ -21371,6 +21434,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Regex - Flags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Regex - Predefined character classes</seg>
       </tuv>
     </tu>
     <tu>
@@ -31891,6 +31961,21 @@ Men kan inte förstå varför i SRC code
 </note>
       <tuv lang="EN">
         <seg>a language-independent machine translation engine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>a through z or A through Z, inclusive (range)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a, b, or c (simple class)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T144740Z" creationid="mini-me" creationdate="20171231T144740Z">
+        <seg>a, b eller c (enkel klass)</seg>
       </tuv>
     </tu>
     <tu>
