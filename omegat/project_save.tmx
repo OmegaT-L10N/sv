@@ -2835,6 +2835,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;O&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</seg>
       </tuv>
     </tu>
@@ -6899,6 +6906,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Clicking on one will save the current project, close it and open the other project.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Clo&amp;se</seg>
       </tuv>
@@ -7396,6 +7410,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Copy</seg>
       </tuv>
@@ -7414,7 +7435,8 @@ Not OK
       </tuv>
     </tu>
     <tu>
-      <note>This one is a title for the dialog and shouldn't have ellipsis
+      <note>Not OK
+This one is a title for the dialog and shouldn't have ellipsis
 
 (source has ellipsis now)
 
@@ -8730,6 +8752,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Downloading the right package</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Downloads units from MediaWiki pages, based on the URL entered.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11038,6 +11067,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T191047Z">
         <seg>Git '{0}'-körning startas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Give access to the five last edited projects.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17462,6 +17498,7 @@ consistency?
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Open Recent Project</seg>
@@ -17590,6 +17627,13 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171210T110307Z">
         <seg>Öppnar teamprojekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Opens a previously created project.</seg>
       </tuv>
     </tu>
     <tu>
