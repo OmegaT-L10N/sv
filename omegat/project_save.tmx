@@ -7633,6 +7633,8 @@ inte "kompilera"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>File Filters</seg>
       </tuv>
