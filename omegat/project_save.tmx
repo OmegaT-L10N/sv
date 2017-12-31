@@ -2053,6 +2053,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>/** Number of fuzzy matches to display */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>/docs/</seg>
       </tuv>
     </tu>
@@ -2097,6 +2104,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>1st example modification: changing the colour of segment highlighting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>2 letters (e.g. JA for Japanese), or</seg>
       </tuv>
     </tu>
@@ -2126,6 +2140,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>27/27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>2nd example modification: increasing the number of fuzzy matches displayed from five to ten</seg>
       </tuv>
     </tu>
     <tu>
@@ -6713,6 +6734,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;i0&gt;target&lt;/i0&gt; column of the original file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
       </tuv>
     </tu>
@@ -8220,6 +8248,13 @@ hittar inte</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Be careful to preserve these in the same way that you would handle OmegaT's own inline tags (the inline tag functionality of OmegaT, such as the tag validation function, is not available in this case, however).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
       </tuv>
     </tu>
@@ -8615,6 +8650,13 @@ document --&gt; file</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T200600Z">
         <seg>A&amp;ktuellt måldokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>C:\Program Files\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</seg>
       </tuv>
     </tu>
     <tu>
@@ -9807,11 +9849,25 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Compile the code</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Compiling OmegaT from source</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T220712Z" creationid="mini-me" creationdate="20171209T220712Z">
         <seg>Att kompilera OmegaT från källkod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Compiling OmegaT is relevant for developers who wish to make modifications of their own to its code.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10062,6 +10118,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Convert the file back to RTF format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Convert the file from RTF to OpenOffice.org format.</seg>
       </tuv>
     </tu>
@@ -10175,6 +10238,13 @@ This one is a title for the dialog and shouldn't have ellipsis
 </note>
       <tuv lang="EN">
         <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2009-2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -11747,6 +11817,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Download and install the Java Development Kit (JDK)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>global: collection
 </note>
       <tuv lang="EN">
@@ -12021,6 +12098,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Earlier versions of OmegaT require &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13665,6 +13749,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Find the line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Find the lines:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Finds the following:</seg>
       </tuv>
     </tu>
@@ -13826,6 +13924,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171216T061330Z" creationid="Dorothy" creationdate="20171216T061330Z">
         <seg>För Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, För Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For OmegaT 4.0 and later, no additional software is required.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14370,6 +14475,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>From within the root folder, execute Apache Ant by entering the ant executable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15867,6 +15979,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If not, debugging messages will be shown which will (hopefully) provide some idea of where the problem is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
     </tu>
@@ -15945,6 +16064,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If the checker's changes are to be included in a translation memory repository maintained by the customer, the changes need to be made &lt;i0&gt;before&lt;/i0&gt; the final documents are created.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If the code compiles successfully, you will see the &lt;c0&gt;BUILD SUCCESSFUL&lt;/c0&gt; message.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16166,6 +16292,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If this is all you're interested in, you can skip to step 3a.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16683,6 +16816,13 @@ installera OmegaT.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If your code has compiled successfully, the compiled OmegaT is placed in:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
     </tu>
@@ -17049,6 +17189,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In order for this procedure to be used, the Déjà Vu user must prepare the source text file and supply it to the translator in the Déjà Vu "External View" format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In order for this process to be as automatic as possible, two conditions must in particular be met: firstly, the translation memory must contain formatting information (see above); and secondly, the segmentation rules applied to the text must be the same as those applied when the translation memory (or part of it) was produced.</seg>
       </tuv>
     </tu>
@@ -17290,6 +17437,27 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In the first and third case above tags are paired incorrectly, and in the second case the &lt; sign is missing from the starting tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;/src/org/omegat/util&lt;/c0&gt; open the file &lt;c1&gt;OConsts.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;src/org/omegat/gui/editor&lt;/c0&gt; open the file &lt;c1&gt;SegmentBuilder.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;src/org/omegat/util/gui&lt;/c0&gt; open the file &lt;c1&gt;Styles.java&lt;/c1&gt; in a text editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17560,6 +17728,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Inline tags within segments take the form of serial numbers within curly brackets, i.e. {1}, {2}, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18352,6 +18527,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T181413Z">
         <seg>Det används för att markera dina översättningar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It may be necessary to enter the full path, e.g.:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19845,6 +20027,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Make a copy of the External View file, and delete from it the content of all columns except the source-text column.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Make a slight change anywhere in the project.</seg>
       </tuv>
     </tu>
@@ -20669,6 +20858,13 @@ ViewOptionsPanel.java: 113
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>More information on the format and the procedure for its creation, for both users of Déjà Vu and of other CAT tools, can be found on the &lt;a0&gt;relevant Atril page&lt;/a0&gt;, and on the helpful &lt;a1&gt;blog maintained by Kevin Lossner&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
       </tuv>
     </tu>
@@ -21037,6 +21233,13 @@ lämplig plats såsom Programmappen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Navigate to and select the folder you created for dictionaries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Navigate to the root of the OmegaT source code (the folder containing the file &lt;c0&gt;build.gradle&lt;/c0&gt;), e.g.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22148,6 +22351,13 @@ also --&gt; still
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Older versions of OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
@@ -22160,6 +22370,14 @@ also --&gt; still
 </note>
       <tuv lang="EN">
         <seg>OmegaT 3.5 - User's Guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 4.0 or later</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T215409Z" creationid="mini-me" creationdate="20171231T215409Z">
+        <seg>OmegaT 4.0 eller senare</seg>
       </tuv>
     </tu>
     <tu>
@@ -22559,6 +22777,13 @@ som innehåller din arbetsmapp.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT is supplied as a package that can be downloaded from SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT is supplied ready-compiled for a number of platforms, including a cross-platform version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23245,6 +23470,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171144Z">
         <seg>Alternativ för Open XML-filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Open a command-line window (console, DOS window).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25933,6 +26165,14 @@ kanske reload istället?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170724T191451Z">
         <seg>Ersätt träffar i &amp;gloslista vid infogning av källtext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt; and &lt;c2&gt;192, 255, 192&lt;/c2&gt; with &lt;c3&gt;225, 225, 255&lt;/c3&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T215551Z" creationid="mini-me" creationdate="20171231T215551Z">
+        <seg>Ersätt &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; med &lt;c1&gt;COLOR_BLUE&lt;/c1&gt; och &lt;c2&gt;192, 255, 192&lt;/c2&gt; med &lt;c3&gt;225, 225, 255&lt;/c3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29122,6 +29362,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Still in your command-line window, change to this folder, e.g. with:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Strictly speaking, the ISO standard for language codes requires "xx-YY" (for example: "en-GB" for British English); although this variant is supported by OmegaT, the default convention offered by OmegaT is "XX-YY", e.g. "EN-GB".</seg>
       </tuv>
     </tu>
@@ -30232,6 +30479,13 @@ kommer den aktuella mappen att användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The 3 other options are described in the specific page concerning &lt;l0&gt;TaaS&lt;/l0&gt; (Terminology as a Service).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The &lt;a0&gt;Java Development Kit&lt;/a0&gt; is required.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32244,6 +32498,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The results will be in the &lt;c0&gt;build\install\OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
     </tu>
@@ -33403,6 +33664,13 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This HowTo describes how to use OmegaT in conjunction with Atril's Déjà Vu CAT tool.</seg>
       </tuv>
     </tu>
@@ -34291,6 +34559,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To build the OmegaT program and all associated files, instead do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
     </tu>
@@ -35000,6 +35275,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T093240Z">
         <seg>Översätt följande element:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Translate this file in OmegaT in the usual way.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36391,6 +36673,13 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T170443Z">
         <seg>Användarnamn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Users do not therefore need to compile OmegaT themselves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38186,6 +38475,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can run OmegaT directly from the command line with</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can select a file with &lt;k0&gt;Up&lt;/k0&gt; and &lt;k1&gt;Down&lt;/k1&gt; keys, and open it for translation by pressing &lt;k2&gt;Enter&lt;/k2&gt;</seg>
       </tuv>
     </tu>
@@ -38361,6 +38657,13 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
 </note>
       <tuv lang="EN">
         <seg>You may have several Search windows open at the same time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You may have to set your &lt;c0&gt;JAVA_HOME&lt;/c0&gt; environment variable to point to the location of the JDK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38656,10 +38959,25 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>and</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T215505Z" creationid="mini-me" creationdate="20171231T215505Z">
+        <seg>och</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
         <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>and launch OmegaT with:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38668,6 +38986,21 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T064625Z">
         <seg>och många, många fler mycket hjälpsamma människor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and replace &lt;c0&gt;= 5&lt;/c0&gt; with &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T215623Z" creationid="mini-me" creationdate="20171231T215623Z">
+        <seg>och ersätt &lt;c0&gt;= 5&lt;/c0&gt; med &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>and replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
