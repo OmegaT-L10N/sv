@@ -1491,6 +1491,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>---- Localization Notes ----</seg>
       </tuv>
@@ -1743,10 +1750,24 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;i1/&gt;OmegaT&lt;/a0&gt; on the web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T102043Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; är ett fritt, multiplattformsvarktyg för Datorassisterad Översättning (CAT), med följande höjdpunkter:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; sites and &lt;a1&gt;OmegaT&lt;/a1&gt; SourceForge project</seg>
       </tuv>
     </tu>
     <tu>
@@ -2156,6 +2177,20 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Downloading and installing&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;StarDict&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2167,11 +2202,61 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T172023Z">
         <seg>&lt;p0&gt;Meny Projekt&lt;/p0&gt; &lt;s1&gt;Nytt…&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Contributing to OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Development, Localizing&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Donating to OmegaT&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Financial support&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Reporting bugs&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;SourceForge Project&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2303,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2358,6 +2450,20 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T050300Z">
         <seg>En mening i källtexten kan se ut så här:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3679,6 +3785,13 @@ hittar inte</note>
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 hittar inte
 </note>
       <tuv lang="EN">
@@ -3739,6 +3852,13 @@ hittar inte
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170723T191108Z">
         <seg>Bläddra…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Bug reports</seg>
       </tuv>
     </tu>
     <tu>
@@ -4843,6 +4963,13 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
@@ -5486,11 +5613,25 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Dictionaries</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Dictionaries already installed:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170723T190505Z">
         <seg>Redan installerade ordlistor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6011,6 +6152,13 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T212410Z">
         <seg>Ladda ner samling {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7667,6 +7815,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For the latest version of OmegaT, refer to the downloads page at www.omegat.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
@@ -8344,6 +8499,13 @@ history historik
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>How to download and install dictionaries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>How to translate Magento</seg>
       </tuv>
     </tu>
@@ -8786,6 +8948,20 @@ installera OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you wish to keep track of what is happening to the report, register as a SourceForge user, login and file a bug report or simply click Monitor at the top of the report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you would like to help support the continued development of OmegaT, it would be very much appreciated - click on this link to go to the &lt;u0&gt; OmegaT PayPal account&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
       </tuv>
@@ -8880,6 +9056,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8989,6 +9172,7 @@ på den genvägen.</seg>
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Incompatibilities</seg>
@@ -9246,6 +9430,8 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
@@ -9449,6 +9635,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10119,6 +10312,13 @@ LanguageTool will find errors for which a rule has been defined in its language-
 </note>
       <tuv lang="EN">
         <seg>Languages - ISO 639 code list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Languages selection</seg>
       </tuv>
     </tu>
     <tu>
@@ -11142,6 +11342,13 @@ ViewOptionsPanel.java: 113
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>More can be found in the &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; article by Joel Spolsky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
       </tuv>
     </tu>
@@ -11739,6 +11946,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that bug reports and requests for enhancements are publicly visible, so you should not add any sensitive files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that the creator of the repository has implicitly the administrator rights for the repository created.</seg>
       </tuv>
     </tu>
@@ -12037,6 +12251,13 @@ also --&gt; still
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
@@ -12212,6 +12433,13 @@ att startas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT on the web</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
@@ -12327,6 +12555,13 @@ installeras i ditt system.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14080,6 +14315,13 @@ Why not "begin" - "end"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Remember that every good bug report needs just three things:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
       </tuv>
@@ -14182,6 +14424,13 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T165429Z">
         <seg>Ta bort taggar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15093,6 +15342,13 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T183540Z">
         <seg>Sök och Ers&amp;ätt…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16438,6 +16694,13 @@ entered vs. specified
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Steps to reproduce</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Strip BiDi Marks</seg>
       </tuv>
@@ -17133,6 +17396,13 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T192926Z">
         <seg>&lt;f3&gt;level1&lt;/f3&gt;- och &lt;f4&gt;level2&lt;/f4&gt;-minnena kan delas med användare som använder andra översättningsprogram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17938,6 +18208,13 @@ translated -&gt; target
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; web site &lt;/u0&gt;contains links to numerous &lt;a2&gt;OmegaT&lt;/a2&gt; resources.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
@@ -18032,6 +18309,13 @@ konfigurationsmapp bestämmas säkert.</seg>
 </note>
       <tuv lang="EN">
         <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>They also improve glossary matching.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18182,6 +18466,13 @@ från servern.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
@@ -18318,6 +18609,13 @@ från servern.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To contribute to &lt;a0&gt;OmegaT&lt;/a0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
       </tuv>
@@ -18338,6 +18636,20 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T182544Z">
         <seg>För att redigera vilka filer med vilken kodning som filtret processar, välj filtret i listan och klicka på Redigera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18381,6 +18693,20 @@ finns inget menu entry called that
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To support the OmegaT project financially</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To translate &lt;a0&gt;OmegaT&lt;/a0&gt;'s user interface, user manual or other related documents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To update the local files, right-click on the checkout folder and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
@@ -18413,6 +18739,27 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T062848Z">
         <seg>Växla valda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tokenizers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tokenizers are included in OmegaT and active by default.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19077,7 +19424,6 @@ Exakta sökningar matchar hela söksträngen.</seg>
     </tu>
     <tu>
       <note>Not OK
-Not OK
 </note>
       <tuv lang="EN">
         <seg>Under Linux, if &lt;a2&gt;OmegaT&lt;/a2&gt; is still asking for your credentials, you can checking the &lt;g3&gt;Force saving password as plain text&lt;/g3&gt; checkbox.</seg>
@@ -19477,6 +19823,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Useful links
 ============</seg>
@@ -19484,6 +19837,13 @@ på rad {1}, kolumn {2}.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20171106T062718Z">
         <seg>Användbara länkar
 ===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>User Group&lt;/u3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19537,6 +19897,13 @@ på rad {1}, kolumn {2}.</seg>
 </note>
       <tuv lang="EN">
         <seg>User requirements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>User support is provided on a volunteer basis at the &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19925,6 +20292,20 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T052130Z">
         <seg>Vad är OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>What you expected to see</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>What you saw instead</seg>
       </tuv>
     </tu>
     <tu>
@@ -20376,6 +20757,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can also file &lt;u6&gt;bug reports&lt;/u6&gt; and &lt;u7&gt;requests for enhancements.&lt;/u7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You can also launch
 it from the Spotlight search field.</seg>
@@ -20566,6 +20954,13 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200540Z">
         <seg>Du måste uppdatera JDK 1.6 till senaste versionen, eller bara ta bort jaxb-*.jar-filerna från OmegaT:s /lib mapp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20785,6 +21180,20 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>first read the &lt;u0&gt;Localizing and Customizing &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt; guide, and join the &lt;a2&gt;OmegaT&lt;/a2&gt; translators' group via web or by sending an email to &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3&gt; with subject "subscribe".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
@@ -20820,11 +21229,48 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/database?method=reportRows&amp;tbl=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>http://www.omegat.org/</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T203938Z">
         <seg>http://www.omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
       </tuv>
     </tu>
     <tu>
@@ -20851,6 +21297,8 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
@@ -20866,6 +21314,8 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
@@ -20877,7 +21327,21 @@ Men kan inte förstå varför i SRC code
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
       </tuv>
     </tu>
     <tu>
@@ -20899,11 +21363,46 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>lep, lepa, lepo - singular, masculine, feminine, neutral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>lepši, lepša, lepše .</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>loaded</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T073931Z">
         <seg>inläst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>mailto:OmegaT-subscribe@yahoogroups.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>mailto:omegat-development-request@list.sourceforge.net?subject=subscribe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>mailto:omegat-development-request@lists.sourceforge.net?subject=subscribe</seg>
       </tuv>
     </tu>
     <tu>
@@ -20946,6 +21445,13 @@ Men kan inte förstå varför i SRC code
 </note>
       <tuv lang="EN">
         <seg>move to the start of the segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>najlepših - superlative, plural, genitive for M,F,N</seg>
       </tuv>
     </tu>
     <tu>
