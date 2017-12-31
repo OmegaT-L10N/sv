@@ -2454,11 +2454,25 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>About...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T161051Z">
         <seg>Öppna &amp;konfigurationsmappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Access Configuration Folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -2939,6 +2953,13 @@ hittar inte denna!
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Always Confirm Quit</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Amharic</seg>
       </tuv>
@@ -3352,6 +3373,34 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T065049Z">
         <seg>Automatisk komplettering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
       </tuv>
     </tu>
     <tu>
@@ -5222,6 +5271,13 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Custom Colours...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Custom table</seg>
       </tuv>
@@ -6232,6 +6288,13 @@ global sök "highlight"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Editing Behavior...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Editor</seg>
       </tuv>
@@ -7015,6 +7078,13 @@ efterbearbetning	  91 k
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>External TMXs...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
@@ -7232,6 +7302,8 @@ inte "kompilera"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>File Filters...</seg>
       </tuv>
@@ -7436,6 +7508,13 @@ inte "kompilera"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T192723Z">
         <seg>Teckensnitt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Font...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7927,6 +8006,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
@@ -8113,6 +8199,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T065057Z">
         <seg>Hjälp &amp; Manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Help Menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -10038,6 +10131,13 @@ LanguageTool will find errors for which a rule has been defined in its language-
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Last Changes...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
       </tuv>
     </tu>
@@ -10372,6 +10472,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Log:</seg>
       </tuv>
@@ -10597,6 +10704,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Mark Auto-Populated Segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Mark Glossary Matches</seg>
       </tuv>
@@ -10628,6 +10749,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Mark Non-breakable Spaces</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
@@ -10654,6 +10782,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Mark Untranslated Segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
       </tuv>
     </tu>
     <tu>
@@ -10895,6 +11030,27 @@ TMX_MERGE__MINE
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170724T193544Z">
         <seg>Saknade taggar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Modification Info/Display All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Modification Info/Display None</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Modification Info/Display Selected</seg>
       </tuv>
     </tu>
     <tu>
@@ -12492,6 +12648,13 @@ consistency?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Options Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Options to set the line length in target documents (0 = no limit)</seg>
       </tuv>
@@ -13626,6 +13789,13 @@ Why not "begin" - "end"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Proxy Login...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
@@ -14393,6 +14563,13 @@ kanske reload istället?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Restore Main Window</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Result:</seg>
       </tuv>
@@ -14746,6 +14923,13 @@ franska: résultat
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T072559Z">
         <seg>Alternativ för Sparande och Utdata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Saving and Output...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15130,6 +15314,13 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T082105Z">
         <seg>Segmenteringsregler tillämpas i följande ordning:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Segmentation...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16057,6 +16248,13 @@ entered vs. specified
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Spell checking...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Spellcheck</seg>
       </tuv>
@@ -16540,6 +16738,13 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tag Processing...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
@@ -16739,6 +16944,13 @@ till skillnad från internt minne
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T054802Z">
         <seg>Teamsynkronisering: Väntar på att du ska göra färdigt detta segment…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Team...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18218,6 +18430,13 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tools Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
@@ -18300,6 +18519,13 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T205219Z">
         <seg>Över&amp;satta eller ej översatta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>TransTips/Enable Transtips</seg>
       </tuv>
     </tu>
     <tu>
@@ -19169,6 +19395,20 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use TAB To Advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Use all mine</seg>
       </tuv>
@@ -19242,6 +19482,13 @@ på rad {1}, kolumn {2}.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20171106T062718Z">
         <seg>Användbara länkar
 ===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>User Manual...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19381,6 +19628,20 @@ sökbara utan prenumeration:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Validate Tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Validate your tags</seg>
       </tuv>
@@ -19496,6 +19757,13 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T080310Z">
         <seg>Visa eller redigera filfilter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>View...</seg>
       </tuv>
     </tu>
     <tu>
