@@ -43,6 +43,13 @@
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg># MyMemory email</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory
@@ -1786,6 +1793,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>-Dmymemory.api.email=your@email-address.com</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>-h, --help
 		Show usage information.</seg>
@@ -3249,6 +3263,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Apertium&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Belazar&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Google Translate&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -3257,6 +3285,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Introduction&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;MyMemory&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3994,6 +4029,20 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171120T065405Z">
         <seg>&lt;trans-unit&gt;-I&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;u0&gt;Apertium&lt;/u0&gt; is a free/open-source machine translation platform, initially aimed at related-language pairs, like CA, ES, GA, PT, OC and FR but recently expanded to deal with more divergent language pairs (such as English-Catalan).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;u0&gt;Belazar&lt;/u0&gt; is a Machine language translation tool for the Russian-Belarusian language pair.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5194,11 +5243,20 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Apertium</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060622Z" creationid="mini-me" creationdate="20171218T060622Z">
         <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Apertium uses a shallow-transfer machine translation engine which processes the input text in stages, as in an assembly line: de-formatting, morphological analysis, part-of-speech disambiguation, shallow structural transfer, lexical transfer, morphological generation, and re-formatting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5748,6 +5806,8 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Belazar</seg>
       </tuv>
@@ -5976,6 +6036,13 @@ kolla </note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>By default, MyMemory allows a maximum of 100 requests per day.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
     </tu>
@@ -6005,6 +6072,13 @@ kolla </note>
 </note>
       <tuv lang="EN">
         <seg>By deleting a tag group you will remove the related formatting from the translated file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>By specifying an email address, it is possible to use 1000 requests per day instead of 100 ones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6530,6 +6604,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Check the contents of the folder to confirm that the local copy of the repository and the corresponding files and folders correspond to the latest server version:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check the web site for the latest list of implemented language pairs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12062,6 +12143,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you do not wish &lt;a0&gt;OmegaT&lt;/a0&gt; to send your source segments to Google to get translated, untick the Google Translate menu entry in Options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you export using the system option "Tab-delimited export", you will need to delete the first 5 columns (Seq.</seg>
       </tuv>
     </tu>
@@ -13201,6 +13289,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is possible to use Apertium to build machine translation systems for a variety of language pairs; to that end, Apertium uses simple XML-based standard formats to encode the linguistic data needed (either by hand or by converting existing data), which are compiled using the provided tools into the high-speed formats used by the engine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15398,11 +15493,20 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>MyMemory (machine)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T201123Z">
         <seg>MyMemory (maskin)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>MyMemory your@email-address.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -15934,6 +16038,13 @@ lämplig plats såsom Programmappen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note that nothing but your source segment is sent to the MT service.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23540,6 +23651,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The online version of Google Translate allows the user to correct the suggestion and send the corrected segment in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
       </tuv>
     </tu>
@@ -23594,6 +23712,13 @@ här heter det "memory"
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T215925Z">
         <seg>Projektets filosofi beskrivs &lt;a0&gt;här&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The platform provides</seg>
       </tuv>
     </tu>
     <tu>
@@ -24160,6 +24285,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>There are at least 3 ways to specify your address:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>There are basically two types of file formats, plain text and formatted text.</seg>
       </tuv>
     </tu>
@@ -24521,6 +24653,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This feature, however, is not implemented in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27134,6 +27273,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>When starting OmegaT from the command line, specify in the command:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
       </tuv>
     </tu>
@@ -28227,6 +28373,13 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>a language-independent machine translation engine</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>all matching segments</seg>
       </tuv>
@@ -28470,6 +28623,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>http://belazar.info/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
       </tuv>
     </tu>
@@ -28513,6 +28673,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://www.apertium.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -28726,6 +28893,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>in the OmegaT.l4J.ini file (Windows only), change:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), sheet names</seg>
       </tuv>
     </tu>
@@ -28836,6 +29010,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>linguistic data for a growing number of language pairs</seg>
       </tuv>
     </tu>
     <tu>
@@ -29164,6 +29345,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>the translation memory - &lt;f0&gt;omegat\project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>to:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>tools to manage the linguistic data necessary to build a machine translation system for a given language pair</seg>
       </tuv>
     </tu>
     <tu>
