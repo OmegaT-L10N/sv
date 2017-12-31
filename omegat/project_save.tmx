@@ -1665,6 +1665,13 @@ inte ser ditt namn på listan är du välkommen att höra av dig.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>(If you wish to launch OmegaT with a user interface language other than English, make the same change in the relevant localized Bundle.properties file.)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>(In English)</seg>
       </tuv>
@@ -2733,6 +2740,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download Abiword here&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Follow this link to apply to Google&lt;/a0&gt; for the Google Translate API v2 key.</seg>
       </tuv>
     </tu>
@@ -2901,6 +2915,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; can also be used for this purpose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;Download Chrome from www.google.com/chrome&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;Download it from www.opera.com&lt;/a1&gt; (or for Linux users: through your distribution's repository).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6832,6 +6860,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Abiword and LibreOffice are a word processor and an office suite respectively.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Abiword is a relatively small download and is very fast in use.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
@@ -7307,6 +7349,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>After selecting and installing a suitable browser (and/or the required add-on), open your translated file in the /target folder of your project:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>After the initial installation you can, of course, also use &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; also when you are offline.</seg>
       </tuv>
     </tu>
@@ -7761,6 +7810,13 @@ hittar inte denna!
 </note>
       <tuv lang="EN">
         <seg>Although not essential, we recommend that you also join the &lt;a0&gt;OmegaT localizers' mailing list&lt;/a0&gt; (also known as "OmT-l10n").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Although this has many advantages, it can be very useful for the translator to be able to see the ultimate layout and formatting whilst translating.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9059,6 +9115,13 @@ hittar inte</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Below them, insert the lines:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Below these lines, insert the lines</seg>
       </tuv>
     </tu>
@@ -9152,6 +9215,13 @@ hittar inte
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Both are free, available for a number of different platforms, and can convert .docx and .odt files to .html format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Break rule</seg>
       </tuv>
     </tu>
@@ -9211,6 +9281,14 @@ hittar inte
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Browser</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T222828Z">
+        <seg>Webbläsare</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -9253,6 +9331,13 @@ hittar inte
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T092714Z" creationid="mini-me" creationdate="20171230T092714Z">
         <seg>Burmesiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>But it will at least stay at the same point in the text when the view is updated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9960,6 +10045,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Check in Options &gt; File Filters that the new filter is present.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Check in Options &gt; Machine Translate, that Google Translate V2 is checked.</seg>
       </tuv>
     </tu>
@@ -10177,6 +10269,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171216T061450Z" creationid="Dorothy" creationdate="20171216T061450Z">
         <seg>Välj&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Chrome is also available for all platforms.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10747,6 +10846,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Compatibility problems may be caused by differences in the language codes employed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Compile as described in the Compiling OmegaT from Source HowTo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14133,6 +14239,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Examples of browsers with an automatic refresh function:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Excel</seg>
       </tuv>
@@ -14905,6 +15018,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Find the lines:</seg>
@@ -15545,6 +15659,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T212227Z">
         <seg>För detta syfte, ladda ner följande fil och kör den:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For this reason, many CAT tools provide a preview function that shows the layout and formatting without the translator having to create the final document and open it in a separate application (usually a word processor).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16896,6 +17017,13 @@ history historik
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Ideally, a viewer should do two things:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
@@ -17812,6 +17940,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you are translating .html files, a convenient solution is to use a browser with an automatic refresh function to provide a ready-made preview function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you are unable to run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
     </tu>
@@ -18610,6 +18745,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In both Firefox and Opera, this can be done by right-clicking in the translated .html file you have opened, then Reload every &gt; select a desired interval (e.g. 5 seconds).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
     </tu>
@@ -19092,6 +19234,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the main folder of the source code, open the file manifest-template.mf in a text editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19949,6 +20098,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It can also be used to convert .docx and .odt files to .html format, but to do so from the command line, it also requires Unoconv, a plug-in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
     </tu>
@@ -20020,6 +20176,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It enables editors who do not possess Déjà Vu to edit translations produced in Déjà Vu in such a way that amendments can be reincorporated easily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It has a command-line function for converting .docx and .odt files to .html format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20255,6 +20418,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It is very easy for Linux users and fairly easy for Windows users to install.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It may be necessary to do this for each document, in which case the procedure in Word 2007 is: Click the Page Layout tab; in the Page Setup group, click Hyphenation; then click None.</seg>
       </tuv>
     </tu>
@@ -20306,6 +20476,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It should be updated continually.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It should display the text with something approaching the final layout and formatting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21198,6 +21382,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Launch the newly compiled version.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Launching OmegaT (Linux)
 ========================</seg>
@@ -21372,6 +21563,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Levelling the character formatting of a paragraph manually</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>LibreOffice is a fully featured office suite similar to Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22802,6 +23000,13 @@ ViewOptionsPanel.java: 113
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Most modern CAT tools display the text in segment-oriented form rather than with its ultimate layout and formatting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Most of the OmegaT documentation is licensed for re-use under the GNU Public License (GPL) or GNU Free Documentation License (GFDL).</seg>
       </tuv>
     </tu>
@@ -23131,6 +23336,20 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T170755Z" creationid="Dorothy" creationdate="20170709T170755Z">
         <seg>Namn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Name: org.omegat.filters3.xml.helpandmanual.HelpAndManualFilter&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Name: org.omegat.filters3.xml.tmx.TMXFilter&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24219,6 +24438,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Now enable automatic refreshing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Now simply place the cursor anywhere in the paragraph and press Ctrl+Shift+9 (or whatever other keyboard shortcut you selected), and you should see the formatting disappear.</seg>
       </tuv>
     </tu>
@@ -24551,6 +24777,13 @@ also --&gt; still
 </note>
       <tuv lang="EN">
         <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT does not have an integral preview function, but it is possible to provide much the same functionality using additional software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25726,6 +25959,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Opening your translated target file in a browser is easy when your source file is in .html format, but translations more often involve word-processing files, which in OmegaT are usually handled in .docx or .odt format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Opens a dialog box where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut (see &lt;l0&gt;Scripts window&lt;/l0&gt;)</seg>
       </tuv>
     </tu>
@@ -25776,6 +26016,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Opens the Tag validation window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Opera is available for all platforms; it is also very fast and requires low hardware resources.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27005,6 +27252,13 @@ ett lokalt projekt utan teamfunktioner.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Previewing word-processing files</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
@@ -27058,6 +27312,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Primary Account Key (corresponds to &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; command-line parameter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Principles</seg>
       </tuv>
     </tu>
     <tu>
@@ -33518,6 +33779,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The automatic refresh function is built in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The available options are:</seg>
       </tuv>
     </tu>
@@ -33603,6 +33871,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
 </note>
       <tuv lang="EN">
         <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The change will then become visible after a delay of at most the interval you selected (plus the time taken by OmegaT to save and produce the target files).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36549,6 +36824,13 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This HowTo describes the general principles for setting up a preview function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This HowTo explains how to create a new file filter for use with OmegaT by describing the creation of a rudimentary file filter for the TMX format.</seg>
       </tuv>
     </tu>
@@ -37581,7 +37863,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To add an automatic refresh function to Firefox, &lt;a2&gt;install the "ReloadEvery" add-on&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To add the auto refresh function to Chrome, &lt;a2&gt;download and install the Auto Refresh Plus extension&lt;/a2&gt; from the Web Store.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37669,6 +37965,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To check whether it works, you can place a TMX file in the /source folder of a project, or (more useful) perform a Text Search &gt; Search files operation on TMX files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38164,6 +38467,13 @@ finns inget menu entry called that
 </note>
       <tuv lang="EN">
         <seg>To untar the &lt;e1&gt;.tar.gz&lt;/e1&gt; file:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To update the display, you must still save and create your target document in OmegaT with Ctrl+s, Ctrl+d.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38850,6 +39160,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Two of these are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Two programs that can be used as converters are described here: Abiword and LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40026,6 +40343,13 @@ sökbara utan prenumeration:</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Using Firefox: with File &gt; Open File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Using Java Web Start</seg>
       </tuv>
     </tu>
@@ -40062,6 +40386,13 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T220808Z" creationid="mini-me" creationdate="20171209T220808Z">
         <seg>Att använda OmegaT på Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Using Opera: with Opera &gt; Page &gt; Open</seg>
       </tuv>
     </tu>
     <tu>
@@ -41057,6 +41388,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Windows users who are not already using Firefox can &lt;a1&gt;download it from www.mozilla.org&lt;/a1&gt;; most Linux users will already have it installed, or can install it via their distributions' repositories.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Windows users:</seg>
       </tuv>
@@ -42005,6 +42343,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can still use the browser solution described above to preview the translations of these files, but you will then also need a) a converter to convert the file to .html format, and b) a utility to launch the converter automatically so that you don't have to convert the files manually.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can then click on the preferred translation to insert it into the target segment at the current position.</seg>
       </tuv>
     </tu>
@@ -42200,6 +42545,13 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You may prefer &lt;i0&gt;not&lt;/i0&gt; to use your usual browser for the preview function so as to keep it free for Internet browsing rather than having constantly to switch tabs, so you can regard installing an additional browser for the preview function as an advantage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.&lt;i1/&gt; Of course, pressing &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;5&lt;/k4&gt; &lt;/k2&gt; will have no effect, if there is no match #5.</seg>
       </tuv>
     </tu>
@@ -42248,6 +42600,13 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200540Z">
         <seg>Du måste uppdatera JDK 1.6 till senaste versionen, eller bara ta bort jaxb-*.jar-filerna från OmegaT:s /lib mapp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You now have a preview function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42314,6 +42673,13 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T072302Z">
         <seg>YouTube-undertexter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Your browser won't automatically scroll as you work through the text; you have to do that yourself.</seg>
       </tuv>
     </tu>
     <tu>
