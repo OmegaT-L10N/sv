@@ -4901,6 +4901,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;User Interface&lt;/p0&gt; &lt;s1&gt;Main OmegaT window&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -5630,6 +5637,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Additional windows are available, as well as dialogs, used to change OmegaT project settings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9586,6 +9600,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Dictonary pane</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Didier Briel is the OmegaT project manager.</seg>
       </tuv>
@@ -10668,6 +10689,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T125410Z">
         <seg>Alternativ för redigeringsfönstret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Editor pane</seg>
       </tuv>
     </tu>
     <tu>
@@ -12928,6 +12956,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Glossary pane</seg>
@@ -17286,6 +17315,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Machine Translations pane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Machine translation - trouble shooting</seg>
       </tuv>
     </tu>
@@ -17324,6 +17360,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Main Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Main OmegaT window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Main OmegaT window, other windows and dialogs</seg>
       </tuv>
     </tu>
     <tu>
@@ -17669,6 +17719,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T211249Z">
         <seg>Matcha visningsmall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Match pane</seg>
       </tuv>
     </tu>
     <tu>
@@ -19758,6 +19815,13 @@ att startas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T105318Z">
         <seg>OmegaT-licens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT main window contains the main menu, status bar and several panes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27686,6 +27750,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The information below summarizes their use and how they are invoked:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The install program can create shortcuts for you in the start menu, on the
 desktop and in the quick launch area.</seg>
@@ -28614,6 +28685,14 @@ translated -&gt; target
 </note>
       <tuv lang="EN">
         <seg>The user group also serves as the main point of contact between users and the project team.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user interface</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T151159Z" creationid="mini-me" creationdate="20171231T151159Z">
+        <seg>Användargränssnittet</seg>
       </tuv>
     </tu>
     <tu>
@@ -33712,6 +33791,34 @@ Men kan inte förstå varför i SRC code
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>displays dictionary hits found for items in the current segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>displays terminology found for items in the current segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>displays the most similar segments from translation memories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>displays the translation, provided by MT services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>doc-license.txt</seg>
       </tuv>
     </tu>
@@ -34840,6 +34947,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>vs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>where you type and edit the translation</seg>
       </tuv>
     </tu>
     <tu>
