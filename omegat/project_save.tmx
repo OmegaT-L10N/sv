@@ -20822,10 +20822,11 @@ Not OK
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Nightly Builds</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T213520Z">
+        <seg>Nattliga versioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -27612,11 +27613,12 @@ Visas i fönstret "Skriptverktyg"</note>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-Not OK
-</note>
+      <note>Detta avsnitt förekommer två gånger</note>
       <tuv lang="EN">
         <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T213719Z">
+        <seg>Signerad/osignerad</seg>
       </tuv>
     </tu>
     <tu>
