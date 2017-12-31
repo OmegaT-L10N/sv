@@ -1635,6 +1635,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>(OmegaT is far from unique in this respect: many other CAT tools convert source files to a different format, in some cases in the background without the translator being aware of the fact, before they are translated.)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
@@ -6734,6 +6741,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Again, OmegaT has excellent file filters for both.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>kolla hur det fungerar
 </note>
       <tuv lang="EN">
@@ -7702,6 +7716,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170722T070642Z">
         <seg>När du är färdig med översättningen exporterar OmegaT tre översättningsminnen med namnen &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; och &lt;f2&gt;omegat&lt;/f2&gt; till din projektmapp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>At the present time, this includes all versions of Microsoft Windows from Windows 98 onwards, Mac OS X, and most Linux distributions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14056,6 +14077,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For users of Microsoft Office who do not (yet) have the 2007 version, conversion between Office Open XML and Microsoft Office 98-2003 can be achieved using a free plug-in converter available &lt;a0&gt;here&lt;/a0&gt; from Microsoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
     </tu>
@@ -14757,6 +14785,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>HTML and XHTML, its XML equivalent, are the most common file format for web pages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>HTML user manual online</seg>
       </tuv>
     </tu>
@@ -14766,6 +14801,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T063507Z">
         <seg>HTML-, XHTML-, ODF- och Infix-segmentering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>HTML; XHTML:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16759,6 +16801,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In its most basic form, this command is:</seg>
       </tuv>
     </tu>
@@ -17564,6 +17613,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170717T080424Z">
         <seg>Snabbstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Instead, they must first be converted manually to Office Open XML (MS Office 2007/2010) or Open Document format (LibreOffice or OpenOffice.org) before they can be handled in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19096,6 +19152,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Linux users can use this version of the standalone &lt;a0&gt;conversion utility&lt;/a0&gt; to convert directly between Office Open XML and OpenDocument Format.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
@@ -19321,6 +19384,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Mac OS X users can convert directly from Office Open XML to OpenDocument Format and back in &lt;a0&gt;NeoOffice&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20022,6 +20092,20 @@ Det skulle kunna översättas med "pågående"
 </note>
       <tuv lang="EN">
         <seg>Methods differ depending on the distribution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Microsoft Office 97-2003 (Microsoft Word/Excel/Powerpoint 2003):</seg>
       </tuv>
     </tu>
     <tu>
@@ -21716,6 +21800,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Office Open XML can be converted directly to Open Document Format and back by means of the ODF converter, available &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>In source:
 also --&gt; still
 </note>
@@ -21903,6 +21994,13 @@ also --&gt; still
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT does not support these formats directly.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
@@ -21980,6 +22078,13 @@ also --&gt; still
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T080735Z">
         <seg>OmegaT identifierade ett teamprojekt med version 3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT has file filters for both Open Document Format and for the Star Office format which it replaced.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22063,6 +22168,13 @@ och översättningshantering till uppdaterade projekt.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT is able to store translations that are identical to the source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT is capable of handling the current Microsoft Office formats directly, without conversion to or from other formats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22665,6 +22777,13 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>Open Document Format (ODF) files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Open Document Format: LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -24716,6 +24835,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>RTF (Rich Text Format):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>RTF is structurally quite different from the Microsoft Office 98-2003 file format, but with regard to OmegaT, the same applies: it is not supported directly and must first be converted to .docx (MS Office 2007/2010) or Open Document format (LibreOffice/OpenOffice.org).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>RTL-LTR switch</seg>
       </tuv>
     </tu>
@@ -24798,6 +24931,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Recent versions of OpenOffice.org are able to convert between Microsoft Office 2007 and Open Document Format.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
       </tuv>
@@ -24832,6 +24972,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Redoes the last editing actions in the current target segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Refer to the OmegaT user manual for an up-to-date list of all supported file formats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27819,6 +27966,13 @@ Visas i fönstret "Skriptverktyg"</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Some CAT tools solve this problem, at least for MS Word, by working within Word itself; most other CAT tools convert to RTF and back, often invisibly for the translator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
@@ -28184,6 +28338,13 @@ entered vs. specified
 </note>
       <tuv lang="EN">
         <seg>Source text of the match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Source texts (files for translation)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29847,6 +30008,20 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Microsoft Office 2007-2010 file formats (also known as Office Open XML, and with the file extensions .docx, .xlsx and .pptx) is radically different to the Office 97-2003 formats which they supersede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Microsoft Office 2007-2010 file formats can be processed directly in OmegaT; more information can be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The Moses server URL is not set</seg>
       </tuv>
@@ -29882,6 +30057,13 @@ kommer den aktuella mappen att användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Open Document Format is an international standard and has replaced the former proprietary (but open) Star Office file format (two different but very similar file formats).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30914,6 +31096,13 @@ i /lib/licenses/Licenses.txt.</seg>
 </note>
       <tuv lang="EN">
         <seg>The line with the matching percentage also includes the name of the translation memory &lt;i1/&gt; containing the match.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The list below is &lt;s0&gt;not&lt;/s0&gt; an exhaustive list of all file formats supported by OmegaT, but is limited to those of particular interest to typical users.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32401,6 +32590,27 @@ konfigurationsmapp bestämmas säkert.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>These file filters are excellent, and the risk of damaging the formatting of a LibreOffice, OpenOffice.org, etc. file during translation in OmegaT is extremely low.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>These file formats are proprietary, binary, and until recently were not publicly documented, all characteristics which make them extremely difficult to handle in a CAT tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>These file formats are the equivalent of Microsoft Office's formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>These files are copies of the file &lt;f0&gt;project_save.tmx&lt;/f0&gt;, i.e. of the project's main translation memory, excluding the so-called orphan segments.</seg>
       </tuv>
     </tu>
@@ -32729,6 +32939,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T065041Z">
         <seg>Detta kommando kommer att köras efter "Skapa översatta dokument".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This converter is available for Windows and Mac.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33082,6 +33299,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This makes it much easier for CAT tools to support it and edit it directly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
     </tu>
@@ -33220,6 +33444,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This subfolder is initially empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This utility requires a version of MS Office (XP/2003/2007).</seg>
       </tuv>
     </tu>
     <tu>
