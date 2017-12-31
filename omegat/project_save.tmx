@@ -1412,6 +1412,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
@@ -2601,6 +2608,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;File formats&lt;/p0&gt; &lt;s1&gt;formatted&lt;/s1&gt; &lt;s2&gt;Source files&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2859,6 +2873,27 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Formatted text files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PDF files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PO as bilingual files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2888,6 +2923,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Filenames&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Formatted text files&lt;/s1&gt; &lt;s2&gt;Tagged text&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;PDF text files&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3986,6 +4035,13 @@ TMX-filen kommer inte att läsas in.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Android resource (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
     </tu>
@@ -4137,6 +4193,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T102520Z">
         <seg>Samtidigt kan det använda minnesfiler från tidigare översättningar som referens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>At the time of writing, OmegaT supports the following formatted text formats:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4754,6 +4817,14 @@ document --&gt; file</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T072654Z">
         <seg>Camtasia för Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Camtasia for Windows (*.camproj)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T112517Z">
+        <seg>Camtasia för Windows (*.camproj)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6265,6 +6336,14 @@ hittar inte</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DTD files (*.DTD)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T112336Z" creationid="mini-me" creationdate="20171231T112336Z">
+        <seg>DTD-filer (*.DTD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Danish</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T092955Z" creationid="mini-me" creationdate="20171230T092955Z">
@@ -6830,6 +6909,13 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>DocBook (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Dock</seg>
       </tuv>
@@ -6883,6 +6969,14 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T064337Z">
         <seg>DokuWiki-filer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DokuWiki files (*.txt)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T112342Z" creationid="mini-me" creationdate="20171231T112342Z">
+        <seg>DokuWiki-filer (*.txt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7182,6 +7276,13 @@ laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171106T201454Z">
         <seg>FEL: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Each file type is handled differently in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8577,6 +8678,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Flash XML export (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Floating '?' character not tied to '&gt;'!</seg>
       </tuv>
@@ -8864,6 +8972,20 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T055748Z" creationid="mini-me" creationdate="20171218T055748Z">
         <seg>Format:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Formatted text files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Formatted text files contain information such as font type, size, color etc. as well as text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9310,6 +9432,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>HTML Help Compiler (*.hhc, *.hhk)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>HTML and XHTML</seg>
       </tuv>
@@ -9399,6 +9528,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T065057Z">
         <seg>Hjälp &amp; Manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Help (*.xml) and Manual (*.hmxp) files</seg>
       </tuv>
     </tu>
     <tu>
@@ -9637,6 +9773,13 @@ history historik
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>INI (key=value) files (*.ini)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Here: encountered, annan plats "occurred"
 </note>
       <tuv lang="EN">
@@ -9673,6 +9816,13 @@ history historik
 </note>
       <tuv lang="EN">
         <seg>Iceni Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Iceni Infix (*.xml)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9765,6 +9915,13 @@ den fullständiga sökvägen anges.)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T055858Z">
         <seg>Om ikryssad placeras längre poster först på listan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10092,6 +10249,13 @@ installera OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>här heter det "translation memory file"
 </note>
       <tuv lang="EN">
@@ -10218,6 +10382,13 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Other commands refer to "downloading" Wiki Page, this one says "Import". Should be "Download ..." / "Failed to download ..."
 </note>
       <tuv lang="EN">
@@ -10278,11 +10449,25 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In case, however, the same source segment already exists with a different translation, the new translation will be saved as an alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T074149Z">
         <seg>I kommentarer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In most translation jobs, it is considered important for the formatting of the original text to be retained in the translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11142,6 +11327,13 @@ vid första körningen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Java property XML (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Java resource bundles (*.properties)</seg>
       </tuv>
     </tu>
@@ -11412,6 +11604,13 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T055738Z" creationid="mini-me" creationdate="20171218T055738Z">
         <seg>LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>LaTex (*.tex, *.latex)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12121,6 +12320,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Magento CE Locale CSV files (*.csv)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Mailing lists</seg>
       </tuv>
     </tu>
@@ -12540,6 +12746,13 @@ Det skulle kunna översättas med "pågående"
 </note>
       <tuv lang="EN">
         <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13557,6 +13770,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>ODF - OASIS Open Document Format (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OK</seg>
       </tuv>
@@ -13657,6 +13877,13 @@ also --&gt; still
 </note>
       <tuv lang="EN">
         <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT allows you to do this by marking the characters/words that have a special formatting with easy-to-handle tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14548,7 +14775,21 @@ consistency?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Other formatted text file types may also be handled by OmegaT by associating their file extensions to a supported file type, assuming that the corresponding segmentation rules will segment them correctly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Other operating systems (Linux, OS X) offer similar packages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Other plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14578,6 +14819,20 @@ consistency?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>PDF files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>PO</seg>
       </tuv>
@@ -14598,6 +14853,21 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>PO files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO files (*.po)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T112256Z" creationid="mini-me" creationdate="20171231T112256Z">
+        <seg>PO-filer (*.po)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>PO files&lt;i0/&gt; can contain both the source and the target text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15680,6 +15950,13 @@ Why not "begin" - "end"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Quit</seg>
       </tuv>
     </tu>
@@ -15705,6 +15982,13 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060259Z" creationid="mini-me" creationdate="20171218T060259Z">
         <seg>RELAX NG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>RELAX NG schema for XML (*.rng)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16383,6 +16667,13 @@ kanske reload istället?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>ResX files (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Reset</seg>
       </tuv>
@@ -16840,6 +17131,13 @@ franska: résultat
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Schematron (*.sch)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
@@ -17080,6 +17378,13 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
     </tu>
@@ -17142,6 +17447,13 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
 </note>
       <tuv lang="EN">
         <seg>See the GNU General Public License for more details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17794,6 +18106,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Simplifying the original text formatting greatly contributes to reducing the number of tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products.</seg>
       </tuv>
     </tu>
@@ -18233,6 +18552,13 @@ entered vs. specified
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Specific behavior can be set up in the file filters.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
@@ -18495,6 +18821,13 @@ kan man skicka en flagga till OmegaT?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>SubRip title files (*.srt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Subfolder dictionary</seg>
       </tuv>
     </tu>
@@ -18540,6 +18873,13 @@ kan man skicka en flagga till OmegaT?
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T055722Z" creationid="mini-me" creationdate="20171218T055722Z">
         <seg>Subversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Such file formats are designed to hold formatting information.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19767,6 +20107,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The formatting information can be as simple as “this is bold”, or as complex as table data with different font sizes, colors, positions, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
@@ -20444,6 +20791,13 @@ konfigurationsmapp bestämmas säkert.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>They are commonly created in word processors or HTML editors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
       </tuv>
     </tu>
@@ -20483,6 +20837,13 @@ konfigurationsmapp bestämmas säkert.</seg>
 </note>
       <tuv lang="EN">
         <seg>They can share common material, like project translation memory and its glossary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20813,6 +21174,13 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T163049Z">
         <seg>Detta kommer att kasta bort alla ändringar du har gjort hittills.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21571,6 +21939,13 @@ Exakta sökningar matchar hela söksträngen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Typo3 LocManager (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Typo3 l10nmgr</seg>
       </tuv>
@@ -22113,6 +22488,13 @@ på rad {1}, kolumn {2}.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Use TAB To Advance</seg>
       </tuv>
     </tu>
@@ -22179,6 +22561,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T214145Z">
         <seg>Använd termer som &amp;förekommer separat i källtexten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use the Iceni Infix filter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22554,6 +22943,13 @@ sökbara utan prenumeration:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Visio (*.vxd)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>WARNING: all unsaved data will be lost
 4.</seg>
@@ -22845,6 +23241,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Where possible, unifying the fonts, font sizes, colors, etc. used in the document simplifies the task of translation and reduces the possible number of tag errors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Where the vendor of a software product claims that his product is compatible with another piece of software, this compatibility is seldom 100%.</seg>
       </tuv>
     </tu>
@@ -22901,6 +23304,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060316Z" creationid="mini-me" creationdate="20171218T060316Z">
         <seg>WiX Localization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>WiX Localization (*.wxl)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23046,6 +23456,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Wordfast TXML (*.txml)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Wordpress</seg>
       </tuv>
@@ -23150,6 +23567,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060237Z" creationid="mini-me" creationdate="20171218T060237Z">
         <seg>XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - of the source=target variety</seg>
       </tuv>
     </tu>
     <tu>
@@ -23947,6 +24371,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
@@ -23993,6 +24424,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
     </tu>
     <tu>
