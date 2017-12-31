@@ -2937,6 +2937,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--tag-validation=[abort|warn]&lt;/l0&gt;&lt;p1&gt; outputFileName&lt;/p1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java)</seg>
       </tuv>
     </tu>
@@ -11434,6 +11448,20 @@ history historik
 </note>
       <tuv lang="EN">
         <seg>Ido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If &lt;l0&gt;abort &lt;/l0&gt;is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24429,6 +24457,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This option allows the tag validation in a batch mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
       </tuv>
     </tu>
@@ -26058,6 +26093,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170724T191043Z">
         <seg>Använd gloslista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
       </tuv>
     </tu>
     <tu>
