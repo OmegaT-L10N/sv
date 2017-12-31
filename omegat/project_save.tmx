@@ -1825,6 +1825,27 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Allow blank translations in the target file&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
       </tuv>
     </tu>
@@ -1841,6 +1862,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T214256Z" creationid="mini-me" creationdate="20171209T214256Z">
         <seg>&lt;e0&gt;Backspace: &lt;/e0&gt;ingenting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1862,6 +1890,20 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ... :&lt;/e0&gt; The following meta-tags will not be translated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: a match in the list of key-value pairs will cause the content of tags to be ignored</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
       </tuv>
     </tu>
@@ -1870,6 +1912,21 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;End: &lt;/e0&gt; cursor to the end of the active segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comments, sheet names</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T110214Z">
+        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;kommentarer, bladnamn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Global:&lt;/e0&gt; charts, diagrams, drawings, WordArt</seg>
       </tuv>
     </tu>
     <tu>
@@ -1953,7 +2010,28 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e., spaces and newlines) will be preserved, even if not set technically in the document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Folders:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: all commented parts (between &lt;!-- and --&gt;) won't be copied in the translated document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1979,6 +2057,22 @@ Aktuell inställning är {0}MB;</seg>
     </tu>
     <tu>
       <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: the text matching the regular expression gets skipped.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph for segmentation purposes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
@@ -1989,6 +2083,14 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translate the following attributes&lt;/e0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2034,6 +2136,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Warning!&lt;/e0&gt; Should you change filter options whilst a project is open, you must reload the project in order for the changes to take effect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Word:&lt;/e0&gt; non-visible instruction text, comments, footnotes, endnotes, footers</seg>
       </tuv>
     </tu>
     <tu>
@@ -2247,6 +2356,27 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Editing&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;File type and name pattern&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Project specific file filters&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2422,6 +2552,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File type and name pattern&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3542,6 +3679,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>As this is the standard behavior for PO files, it is on by default.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Assamese</seg>
       </tuv>
@@ -3620,6 +3765,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T211647Z">
         <seg>Ersätt automatiskt 'nplurals=INTEGER; &amp;plural=EXPRESSION;' i huvudet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
       </tuv>
     </tu>
     <tu>
@@ -6647,6 +6799,13 @@ global sök "highlight"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Edit filter dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Edit project properties here.</seg>
       </tuv>
@@ -7830,6 +7989,13 @@ File filters dialog</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Filter options</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Filter:</seg>
       </tuv>
@@ -8008,7 +8174,28 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For example, by default, XHTML filters are used for processing files with the .xhtml extension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8049,6 +8236,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For instance, plain text files.</seg>
       </tuv>
     </tu>
@@ -8078,6 +8272,13 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>For the documentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8559,6 +8760,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T162036Z">
         <seg>HTML och XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>HTML and XHTML files</seg>
       </tuv>
     </tu>
     <tu>
@@ -9054,6 +9262,13 @@ till standard som följd av platsändringen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If on, when a PO segment (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
     </tu>
@@ -9065,11 +9280,25 @@ till standard som följd av platsändringen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T080342Z">
         <seg>Om filtret har alternativ, kan du ändra dem genom att klicka på Alternativ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If the option is off, the source text will be copied to the target segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10020,6 +10249,21 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is shown rendered red in the tag validator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is sometimes useful to be able make some tags untranslatable based on the value of attributes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11568,6 +11812,13 @@ Det skulle kunna översättas med "pågående"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Microsoft Office Open XML files</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Microsoft Open XML</seg>
       </tuv>
@@ -11742,6 +11993,13 @@ ViewOptionsPanel.java: 113
 </note>
       <tuv lang="EN">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13172,6 +13430,13 @@ consistency?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Open Document Format (ODF) files</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>vad är MED-projekt?
 </note>
       <tuv lang="EN">
@@ -13500,6 +13765,20 @@ consistency?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>PO files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>PO header will be skipped and left unchanged, if this option is checked.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
@@ -13520,6 +13799,13 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16472,6 +16758,13 @@ A: finns i Redigera-menyn
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
       </tuv>
     </tu>
@@ -16648,6 +16941,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T065754Z">
         <seg>Hoppa över</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Skip PO header</seg>
       </tuv>
     </tu>
     <tu>
@@ -16887,6 +17187,13 @@ GlossaryAutoCompleterOptionsPanel.java: 108
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T062058Z">
         <seg>Inläsning av källfil slutförd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Source file type, filename pattern</seg>
       </tuv>
     </tu>
     <tu>
@@ -17744,6 +18051,13 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Technically speaking, the &lt;c0&gt;msgstr&lt;/c0&gt; segment in the PO target file, if created, will be left empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>visas inte i GUI
 </note>
       <tuv lang="EN">
@@ -17840,11 +18154,26 @@ Omfånget för en textersättning är projektets målsegment, oavsett om de reda
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Text files</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Text files segmentation</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T210247Z">
         <seg>Segmentering av textfiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Text in source segment that matches is shown in italic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18162,6 +18491,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The available options are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
       </tuv>
     </tu>
@@ -18278,6 +18614,13 @@ användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The dialog in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; enables the user to select, how the current segment in the editing field is to be initialized and handled:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The dialog is useful because it includes a special target filename pattern editor with which you can customize the names of output files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18503,6 +18846,13 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
@@ -18628,6 +18978,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19041,6 +19398,13 @@ konfigurationsmapp bestämmas säkert.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>They will appear as separate segments in the translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This
 will delete your local data and re-download the project contents from
@@ -19123,6 +19487,13 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T065041Z">
         <seg>Detta kommando kommer att köras efter "Skapa översatta dokument".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19397,6 +19768,20 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>To make this possible, go to &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; and check the box &lt;e3&gt;Allow translation to be equal to source&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To modify the options select the filter from the list and click on &lt;e0&gt;Options&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20742,6 +21127,13 @@ sökbara utan prenumeration:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Using this option the translator can specify, whether the target files are to have the encoding declaration included.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Uzbek</seg>
       </tuv>
@@ -21101,6 +21493,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
     </tu>
@@ -21451,6 +21850,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>XHTML Files</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>XHTML Filter Options</seg>
       </tuv>
@@ -21676,6 +22082,20 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T085527Z">
         <seg>Men du kan få en snyggare och mer användarvänlig installation genom
 att använda installations-skriptet (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can select which elements are to be translated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can select which of the following items are to be translated:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22200,7 +22620,21 @@ Men kan inte förstå varför i SRC code
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>if sentence segmentation rules are active, the text will further be segmented according to the option selected here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>if the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments, or some sort of ID depending on the file format) matches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), sheet names</seg>
       </tuv>
     </tu>
     <tu>
