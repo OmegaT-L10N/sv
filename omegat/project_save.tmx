@@ -2455,6 +2455,62 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Current Source Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Current Target Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Dictionaries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Glossaries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Root</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Source Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Target Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Writeable Glossary</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Access Scripts Folder</seg>
       </tuv>
@@ -4898,6 +4954,13 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Create Current Translated Documents</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
@@ -4919,6 +4982,13 @@ hittar inte</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T193431Z">
         <seg>Skapa nytt projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Create Translated Documents</seg>
       </tuv>
     </tu>
     <tu>
@@ -5187,6 +5257,13 @@ hittar inte</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T181225Z">
         <seg>Standardinställning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Default shortcut</seg>
       </tuv>
     </tu>
     <tu>
@@ -5829,6 +5906,13 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
@@ -6077,6 +6161,13 @@ global sök "highlight"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T071715Z">
         <seg>Redigera färgmarkeringsmönster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Edit Menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8833,6 +8924,13 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Insert Match or Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
@@ -10628,6 +10726,20 @@ Det skulle kunna översättas med "pågående"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Menu Item</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Menu Item Code</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
@@ -11000,6 +11112,14 @@ lämplig plats såsom Programmappen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T085632Z" creationid="mini-me" creationdate="20171231T085632Z">
+        <seg>Ny</seg>
       </tuv>
     </tu>
     <tu>
@@ -12071,6 +12191,13 @@ consistency?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Open</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>vad är MED-projekt?
 </note>
       <tuv lang="EN">
@@ -12094,6 +12221,13 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T151128Z">
         <seg>Senaste &amp;projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Open Recent Project</seg>
       </tuv>
     </tu>
     <tu>
@@ -13103,6 +13237,13 @@ När kör det?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Project Files...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Project Menu</seg>
       </tuv>
     </tu>
@@ -13322,6 +13463,13 @@ Why not "begin" - "end"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Properties...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Provider</seg>
       </tuv>
@@ -13374,6 +13522,13 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060232Z" creationid="mini-me" creationdate="20171218T060232Z">
         <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Quit</seg>
       </tuv>
     </tu>
     <tu>
@@ -13485,6 +13640,13 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T094422Z">
         <seg>Rekursi&amp;v sökning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Redo Last Action</seg>
       </tuv>
     </tu>
     <tu>
@@ -13875,6 +14037,20 @@ kanske reload istället?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Replace With Match or Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Replace With Source</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Replace custom tags with space</seg>
       </tuv>
@@ -13904,6 +14080,13 @@ kanske reload istället?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T183149Z">
         <seg>Ersätt med &amp;maskinöversättning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Replace with Machine Translation</seg>
       </tuv>
     </tu>
     <tu>
@@ -14329,6 +14512,13 @@ kanske reload istället?
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T094657Z" creationid="mini-me" creationdate="20171230T094657Z">
         <seg>Sardiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Save</seg>
       </tuv>
     </tu>
     <tu>
@@ -18412,6 +18602,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Under Linux, if &lt;a2&gt;OmegaT&lt;/a2&gt; is still asking for your credentials, you can checking the &lt;g3&gt;Force saving password as plain text&lt;/g3&gt; checkbox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Undo Last Action</seg>
       </tuv>
     </tu>
     <tu>
