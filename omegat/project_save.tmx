@@ -1734,6 +1734,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
       </tuv>
     </tu>
@@ -1783,6 +1790,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220203Z" creationid="Kos Ivantsov" creationdate="20171204T220203Z">
         <seg>&lt;auto&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2281,6 +2295,27 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
@@ -2347,6 +2382,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Dialog&lt;/s1&gt;</seg>
@@ -2378,6 +2414,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Project specific file filters&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;File filters&lt;/p0&gt; &lt;s1&gt;Source, target - encoding&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2558,6 +2601,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Encoding&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File type and name pattern&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2566,6 +2616,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Encoding&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Filenames&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3228,6 +3292,13 @@ hittar inte denna!
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T080040Z">
         <seg>Alla domäner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>All other characters represent themselves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4255,6 +4326,13 @@ kolla </note>
 </note>
       <tuv lang="EN">
         <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5815,6 +5893,13 @@ hittar inte</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T181225Z">
         <seg>Standardinställning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7903,6 +7988,13 @@ File filters dialog</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
@@ -8181,7 +8273,21 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For example, by default, XHTML filters are used for processing files with the .xhtml extension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9517,6 +9623,13 @@ installera OmegaT.</seg>
 </note>
       <tuv lang="EN">
         <seg>If you wish to keep track of what is happening to the report, register as a SourceForge user, login and file a bug report or simply click Monitor at the top of the report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you wish to revert to default configuration of the filter, click &lt;e2&gt;Defaults.&lt;/e2&gt; You may also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13026,6 +13139,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
     </tu>
@@ -13063,6 +13183,13 @@ och översättningshantering till uppdaterade projekt.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT is able to recognize that you have done this.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13197,6 +13324,13 @@ installeras i ditt system.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13397,6 +13531,13 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17045,6 +17186,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
@@ -17168,6 +17316,20 @@ GlossaryAutoCompleterOptionsPanel.java: 108
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Source and Target file encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Source and target encoding fields use combo boxes with all supported encodings included.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Source code packages are not required by users and are intended for developers only.</seg>
       </tuv>
     </tu>
@@ -17194,6 +17356,13 @@ GlossaryAutoCompleterOptionsPanel.java: 108
 </note>
       <tuv lang="EN">
         <seg>Source file type, filename pattern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17595,6 +17764,13 @@ kan man skicka en flagga till OmegaT?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Such files may also be written out in any encoding.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Summary</seg>
       </tuv>
@@ -17933,6 +18109,13 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Target filename</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
@@ -18241,6 +18424,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The '?' character matches exactly one character.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The /trunk (alpha) version reflects the very latest state of development.</seg>
       </tuv>
     </tu>
@@ -18278,6 +18468,13 @@ kommer den aktuella mappen att användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The Commit window will open and show the progress of the commit command.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Edit Pattern Dialog offers among others the following options:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19135,6 +19332,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The target filename pattern uses a special syntax, so if you wish to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the &lt;i1/&gt;Edit Pattern Dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
     </tu>
@@ -19546,6 +19750,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is how it works:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22005,6 +22216,13 @@ därifrån.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
       </tuv>
     </tu>
@@ -22162,6 +22380,13 @@ konsistens
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T061621Z">
         <seg>Du kan också kopiera filerna till ditt projekts 'source'-mapp med din vanliga filhanterare och ladda om projektet genom att välja "Projekt &gt; Ladda om" från huvudmenyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You may change the source encoding for each different source filename pattern.</seg>
       </tuv>
     </tu>
     <tu>
