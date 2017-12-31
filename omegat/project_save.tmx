@@ -107,6 +107,20 @@
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>${changedDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>${diffReversed}</seg>
       </tuv>
     </tu>
@@ -121,7 +135,49 @@
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>${filePath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>${initialCreationDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>${initialCreationID}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5118,6 +5174,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Dictionary pane&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Editor pane&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -5161,6 +5224,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Matches pane setup - figure&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Multiple Translations pane&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5333,6 +5403,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A general observation: "compatibility" is rarely a black and white, "yes" or "no" issue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6988,6 +7065,20 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T170123Z">
         <seg>Autentisering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Author of the match when the match was created</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Author of the match when the match was last updated</seg>
       </tuv>
     </tu>
     <tu>
@@ -9610,6 +9701,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Date of the match when the match was created</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Date of the match when the match was last updated</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
@@ -9839,6 +9944,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Dictionaries are the electronic equivalents of printed dictionaries like Merriam Webster, Duden, Larousse etc., that you may have on your desk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
     </tu>
@@ -9898,6 +10010,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T212530Z">
         <seg>Angiven mapp för ordlistor finns inte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Dictionary pane</seg>
       </tuv>
     </tu>
     <tu>
@@ -12990,6 +13109,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Full path of the TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Full table</seg>
       </tuv>
@@ -14448,6 +14574,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
       </tuv>
     </tu>
@@ -14830,6 +14963,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If you find the suggestion acceptable, press &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; to replace the target part of the opened segment with the suggestion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15669,6 +15809,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
@@ -16459,6 +16606,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It shows translation of terms found in the current segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18868,6 +19022,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Multiple Translations pane</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>MyMemory (human)</seg>
       </tuv>
@@ -18920,6 +19081,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170722T071923Z">
         <seg>Namn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Name of the TMX</seg>
       </tuv>
     </tu>
     <tu>
@@ -19714,6 +19882,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Notes pane</seg>
@@ -21536,6 +21705,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Path of the TMX starting from the root of /tm</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Path:</seg>
       </tuv>
@@ -21585,7 +21761,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Percentage adjusted</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Percentage with tokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Percentage without numbers and tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -24665,6 +24855,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>See pseudo-translated memory below.</seg>
       </tuv>
     </tu>
@@ -25106,6 +25303,13 @@ A: finns i Redigera-menyn
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T062451Z">
         <seg>Vald motor: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27477,6 +27681,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
     </tu>
@@ -29204,6 +29415,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The source subfolder contains files to be translated.</seg>
       </tuv>
     </tu>
@@ -29302,6 +29520,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The target filename pattern uses a special syntax, so if you wish to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the &lt;i1/&gt;Edit Pattern Dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33955,6 +34180,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You can also launch
 it from the Spotlight search field.</seg>
@@ -34048,6 +34280,13 @@ saknar ellips</note>
 </note>
       <tuv lang="EN">
         <seg>You can decide not to translate such segments at all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35459,6 +35698,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>move to the start of the segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>multi-word entry in the glossary</seg>
       </tuv>
     </tu>
     <tu>
