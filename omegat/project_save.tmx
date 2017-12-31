@@ -1618,6 +1618,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
     </tu>
@@ -2526,6 +2533,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;e1&gt;-Dhttp.proxyHost=nnn.nnn.nnn.nnn&lt;/e1&gt; &lt;i2/&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;i1/&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g2&gt;Import Source Files..."&lt;/g2&gt; button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3758,6 +3772,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Comments&lt;/p0&gt; &lt;s1&gt;Comments pane&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Customizing OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -4690,6 +4711,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project files list - Ctrl+L&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -4719,6 +4747,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Tag validation - Ctrl+T&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Adding files to the project&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5209,6 +5244,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Machine Translation pane&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Main window&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -5241,11 +5283,32 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Project files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Search pane&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T115003Z">
         <seg>&lt;r0&gt;Obs:&lt;/r0&gt; På en Apple Mac, använd &lt;k1&gt;Kommando&lt;/k1&gt;-tangenten istället för &lt;k2&gt;Ctrl&lt;/k2&gt;-tangenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit this Project Files window displaying, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by Options / Access Configuration Folder menu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8502,6 +8565,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Clicking on any file will open it for translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12276,6 +12346,13 @@ inte "kompilera"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>File filters</seg>
       </tuv>
     </tu>
@@ -15661,6 +15738,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In the following example the folder &lt;f0&gt;my projects&lt;/f0&gt; contains three OmegaT projects:</seg>
       </tuv>
     </tu>
@@ -16347,6 +16431,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It also displays the number of fuzzy and glossary matches for the current segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
       </tuv>
     </tu>
@@ -16453,6 +16551,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It is actually quite probable that the Spanish translation is based at least partially on the actual translation of the book.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is displayed automatically when OmegaT loads a project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17919,6 +18024,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Machine Translation pane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Machine Translations pane</seg>
       </tuv>
     </tu>
@@ -17985,6 +18097,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Main Window - counters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Main menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -18724,6 +18843,13 @@ ViewOptionsPanel.java: 113
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Mongolian</seg>
       </tuv>
@@ -18759,6 +18885,13 @@ ViewOptionsPanel.java: 113
 </note>
       <tuv lang="EN">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>More in the chapter &lt;l1&gt;Machine translation&lt;/l1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19598,6 +19731,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that Google Translate service is not free of charge, see chapter &lt;l1&gt;Installing and Running&lt;/l1&gt; (runtime parameters) for more on that.</seg>
       </tuv>
     </tu>
@@ -19826,6 +19966,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
       </tuv>
     </tu>
@@ -19882,7 +20029,6 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
-Not OK
 </note>
       <tuv lang="EN">
         <seg>Notes pane</seg>
@@ -21485,6 +21631,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Other windows</seg>
@@ -22281,6 +22428,13 @@ ett lokalt projekt utan teamfunktioner.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
@@ -22643,6 +22797,13 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T084031Z">
         <seg>Projektfilen ska vara tillgänglig via http-protokollet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Project files</seg>
       </tuv>
     </tu>
     <tu>
@@ -24036,6 +24197,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Right:</seg>
       </tuv>
@@ -24848,6 +25016,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>See chapter &lt;l2&gt;Menu and Keyboard shortcuts&lt;/l2&gt; for details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>See font settings in &lt;l0&gt;Miscellanea&lt;/l0&gt;</seg>
       </tuv>
     </tu>
@@ -24869,6 +25044,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>See the &lt;e1&gt;Main Menu&lt;/e1&gt; appendix for a full description of all menus and menu items.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
     </tu>
@@ -24877,6 +25059,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>See the GNU General Public License for more details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25868,6 +26057,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
@@ -26466,6 +26662,14 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Statistics window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Status bar</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T152326Z" creationid="mini-me" creationdate="20171231T152326Z">
+        <seg>Statusfält</seg>
       </tuv>
     </tu>
     <tu>
@@ -27582,6 +27786,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The &lt;f1&gt;project_save.tmx&lt;/f1&gt; file contains all the segments that have been recorded in memory since you started the project.</seg>
       </tuv>
     </tu>
@@ -27799,6 +28010,20 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T183143Z">
         <seg>PO-filtret kastade ett undantag:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Project Files Window displays the following information:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The Project Files window lists the project files and displays other project information.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28292,6 +28517,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The dialog to create a project is the same as to edit the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28815,7 +29047,21 @@ i /lib/licenses/Licenses.txt.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The main OmegaT application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The main menu provides access to all &lt;a0&gt;OmegaT&lt;/a0&gt; functions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28877,6 +29123,13 @@ här heter det "memory"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170803T190950Z">
         <seg>Den mest aktuella informationen om OmegaT finns på:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The most frequently used functions are accessible with keyboard shortcuts, so once you become accustomed to them, you will no longer need to browse through the menus while translating.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29342,6 +29595,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The settings in your project indicate which is the source and which the target language.</seg>
       </tuv>
     </tu>
@@ -29477,6 +29737,13 @@ här heter det "memory"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T104117Z">
         <seg>Angiven översättningsriktning stöds inte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The status bar displays work-flow related messages at the bottom of the main window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29640,6 +29907,13 @@ translated -&gt; target
 </note>
       <tuv lang="EN">
         <seg>The translation in this tmx can be either</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The translator can add notes to the opened segment, for instance to come back later to the segment and redo the translation, check that alternative translations are correct or to ask colleagues for their opinion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29946,6 +30220,13 @@ konfigurationsmapp bestämmas säkert.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>These files are copies of the file &lt;f0&gt;project_save.tmx&lt;/f0&gt;, i.e. of the project's main translation memory, excluding the so-called orphan segments.</seg>
       </tuv>
     </tu>
@@ -30170,6 +30451,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This bar gives the user feedback on specific operations that are in progress.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"in _a_ swing thread"?
 </note>
       <tuv lang="EN">
@@ -30239,6 +30527,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T065041Z">
         <seg>Detta kommando kommer att köras efter "Skapa översatta dokument".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This copies the selected files to the &lt;f3&gt;source&lt;/f3&gt; folder and reloads the project to import the new files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30614,6 +30909,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This number is displayed in brackets, next to the "Project file" title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This option allows the tag validation in a batch mode.</seg>
       </tuv>
     </tu>
@@ -30708,6 +31010,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This way the translator can be provided the context about the segment to be translated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This will actually do a checkout of the project in a local folder.</seg>
       </tuv>
     </tu>
@@ -30731,6 +31040,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T163049Z">
         <seg>Detta kommer att kasta bort alla ändringar du har gjort hittills.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31764,6 +32080,13 @@ Exakta sökningar matchar hela söksträngen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Typing any text will open a Filter field where parts of filenames can be entered.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Typo3 LocManager</seg>
       </tuv>
@@ -32416,6 +32739,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; to open and &lt;k2&gt;Esc&lt;/k2&gt; to close it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34162,6 +34492,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
       </tuv>
     </tu>
@@ -34220,6 +34557,13 @@ därifrån.</seg>
 </note>
       <tuv lang="EN">
         <seg>You can ask the user group for advice if you have problems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can browse through notes using &lt;g0&gt;GoTo → Next Note&lt;/g0&gt; and &lt;g1&gt;GoTo → Previous Note&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34393,6 +34737,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can select a file with &lt;k0&gt;Up&lt;/k0&gt; and &lt;k1&gt;Down&lt;/k1&gt; keys, and open it for translation by pressing &lt;k2&gt;Enter&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
     </tu>
@@ -34451,6 +34802,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
 </note>
       <tuv lang="EN">
         <seg>You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can use the search window to find specific segments in a project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36038,6 +36396,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>the list of all translatable files in the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>the omegat project file - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
       </tuv>
     </tu>
@@ -36046,6 +36411,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>the project-specific filters definition - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>the total number of translatable files in the project.</seg>
       </tuv>
     </tu>
     <tu>
