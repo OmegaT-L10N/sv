@@ -6036,6 +6036,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A "scanned" PDF file is a file in which the PDF format merely serves as a convenient container for scans of hardcopy pages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A "translated" External View file is produced by entering the translation in the target column.</seg>
       </tuv>
     </tu>
@@ -6696,6 +6703,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Add the &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Add the following argument to the launch command:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7620,6 +7634,14 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>And remove "#" at the line head of -Dgoogle.api.key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+line head
+</note>
+      <tuv lang="EN">
+        <seg>And remove "#" at the line head.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9237,6 +9259,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check Google Translate v2 (leaving the other options unchecked)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
@@ -10197,6 +10226,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Configuration in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Confirm</seg>
       </tuv>
@@ -10568,6 +10604,14 @@ This one is a title for the dialog and shouldn't have ellipsis
 </note>
       <tuv lang="EN">
         <seg>Copyright Marc Prior 2011-2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Milan Hubacek and Marc Prior 2011</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T220736Z" creationid="mini-me" creationdate="20171231T220736Z">
+        <seg>Copyright Milan Hubacek och Marc Prior 2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -14373,6 +14417,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For a true PDF file to be translated, the correct procedure is usually to produce the translation in the original (DTP) application, and then to follow the same procedure for production of the PDF that was followed for the original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
     </tu>
@@ -14776,6 +14827,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>For translation memories in folders with a name "penalty-xxx" (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called Penalty-30 for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For translation of PDF files "for information", translators often resort to converting the PDF file to some other file format before translation, such as RTF; the results may be adequate for this purpose, but will not meet the professional standards of the original DTP process.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15386,6 +15444,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T160522Z">
         <seg>Google API-nyckel ej tillgänglig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Google Machine Translation is a paid service (US$20.00 per million characters).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16047,6 +16112,13 @@ history historik
 </note>
       <tuv lang="EN">
         <seg>Iceni Infix (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Iceni Infix offers a further option.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18070,6 +18142,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In the upper menu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In the window, the manual and two buttons are displayed: Back and Contents.</seg>
       </tuv>
     </tu>
@@ -19996,6 +20075,14 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Launch OmegaT</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T220641Z" creationid="mini-me" creationdate="20171231T220641Z">
+        <seg>Starta OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -20246,6 +20333,14 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Linux users can use this version of the standalone &lt;a0&gt;conversion utility&lt;/a0&gt; to convert directly between Office Open XML and OpenDocument Format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux users:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T220615Z" creationid="mini-me" creationdate="20171231T220615Z">
+        <seg>Linux-användare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20705,6 +20800,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Make sure that you have a free Yandex account.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Make sure that you have the Kaptain launcher installed (&lt;a0&gt;refer if necessary to the Linux Howto)&lt;/a0&gt;, then enter the Google Translate API key in the relevant field on the Connectivity tab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21480,6 +21582,13 @@ ViewOptionsPanel.java: 113
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T131954Z">
         <seg>Mer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>More &gt; Even More &gt; Innovation/Code &gt; APIs Console &gt; Service/Translate API</seg>
       </tuv>
     </tu>
     <tu>
@@ -22662,6 +22771,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
@@ -23018,6 +23134,13 @@ also --&gt; still
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T122320Z">
         <seg>Dokument har också ofta taggar som inte har något med formatering att göra, men som ändå är viktiga i källdokument (och i de översatta filerna).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Often, these scans contain text for translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24681,6 +24804,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>PDF files are a special case.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>PDF files fall into two categories: true and "scanned" PDFs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27686,6 +27816,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Save OmegaT.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
@@ -27810,6 +27947,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T093907Z">
         <seg>Sparar projektet…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Scanned PDFs are not the subject of this HowTo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28672,6 +28816,13 @@ A: finns i Redigera-menyn
 </note>
       <tuv lang="EN">
         <seg>Select Next Match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Select Options &gt; Machine Translate</seg>
       </tuv>
     </tu>
     <tu>
@@ -31877,6 +32028,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The basic launch command with the Google Translate API added will therefore be:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The basic rule is that the sequence of tags must be preserved in the same order.</seg>
       </tuv>
     </tu>
@@ -34294,6 +34452,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>There is no way of translating a scanned PDF file other than to recreate the text, either by typing it out again or by OCR (optical character recognition), and to recreate the file layout from scratch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>There may be a delay in publishing signed versions.</seg>
       </tuv>
     </tu>
@@ -34622,6 +34787,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>This HowTo explains how to produce an "uncleaned RTF" file from an OmegaT project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This HowTo provides information on using OmegaT and Iceni Infix to translate PDF files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35177,6 +35349,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This license covers the documentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This line defines GOOGLE_API_KEY.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36463,6 +36642,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Translating the PDF file by editing it directly is not usually a practical proposition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Translating with Rainbow and OmegaT</seg>
       </tuv>
     </tu>
@@ -36610,6 +36796,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T071018Z">
         <seg>Översättarens kommentarer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>True PDF files (sometimes called "native" or "distilled" PDF files, though "distilled" has a more precise meaning) are PDF files that have been exported from another application, usually a desktop publishing (DTP) program.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37763,6 +37956,13 @@ sökbara utan prenumeration:</seg>
 </note>
       <tuv lang="EN">
         <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Users launching OmegaT from the command line or by a script:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39449,6 +39649,13 @@ därifrån.</seg>
 </note>
       <tuv lang="EN">
         <seg>You can check that yourself by selecting the item &lt;e0&gt;File Filters&lt;/e0&gt; in the menu &lt;e1&gt;Options&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can check the daily usage from your Google account.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41689,6 +41896,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>vs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>where "XXXXXXXX" is your Google Translate API key.</seg>
       </tuv>
     </tu>
     <tu>
