@@ -1876,6 +1876,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>...matches the following</seg>
@@ -4798,6 +4799,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A command line window is also referred to as a "terminal window".</seg>
       </tuv>
     </tu>
@@ -6001,6 +6009,13 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T211853Z">
         <seg>Ett objekt med namnet "{0}" finns redan på denna plats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11761,7 +11776,8 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Torgel Alfred Hagelin</note>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>For example, this is the backslash character</seg>
       </tuv>
@@ -18316,6 +18332,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Nothing, but ends quoting started by \Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Nothing, but quotes all characters until \E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Nothing, but quotes the following character.</seg>
       </tuv>
     </tu>
@@ -21327,6 +21357,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Regex - Character</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
     </tu>
     <tu>
@@ -25955,6 +25992,7 @@ istället.</seg>
     </tu>
     <tu>
       <note>Not OK
+Not OK
 Not OK
 Not OK
 </note>
@@ -31825,6 +31863,20 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T075414Z">
         <seg>[{0}] “{1}” i källa; förväntade “{2}” i mål</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>\p{Lu}</seg>
       </tuv>
     </tu>
     <tu>
