@@ -2674,6 +2674,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Browse TaaS Collections&lt;/e0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
     </tu>
@@ -4458,6 +4465,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Spell checking&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
@@ -5272,6 +5286,21 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Translating updated source&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Hints&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Spell checker setup&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6367,6 +6396,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Accessing the TaaS service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Acknowledgements</seg>
       </tuv>
     </tu>
@@ -6982,6 +7018,13 @@ hittar inte denna!
 </note>
       <tuv lang="EN">
         <seg>Also &lt;f3&gt;ignored_words.txt&lt;/f3&gt; and &lt;f4&gt;learned_words.txt&lt;/f4&gt; in the &lt;f5&gt;omegat&lt;/f5&gt; folder may be worth sharing and maintaining on the team level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8079,6 +8122,13 @@ hittar inte</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
     </tu>
@@ -8908,6 +8958,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Check if the selected service offers it.</seg>
       </tuv>
     </tu>
@@ -9195,6 +9252,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Click on &lt;e0&gt;Options, Glossary&lt;/e0&gt; to display the following options:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
     </tu>
@@ -9274,6 +9338,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9944,6 +10015,13 @@ This one is a title for the dialog and shouldn't have ellipsis
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Copyright</seg>
       </tuv>
     </tu>
@@ -10223,6 +10301,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Creates the translated documents in the project's Target folder and creates translation memory files (level1, level2 and omegat tmx files) in the project's root folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Creating a key</seg>
       </tuv>
     </tu>
     <tu>
@@ -13694,6 +13779,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
@@ -14892,6 +14984,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Hints</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Hints for tags management</seg>
       </tuv>
     </tu>
@@ -15491,6 +15590,13 @@ till standard som följd av platsändringen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If neither the language code not the country code match, the segments will be ignored.</seg>
       </tuv>
     </tu>
@@ -15739,6 +15845,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If the text is encoded in 8 bits, however, one can be faced with the following awkward situation: instead of displaying the text, for Japanese characters...</seg>
       </tuv>
     </tu>
@@ -15812,6 +15925,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If they are accidentally changed, the formatting of the final file may be corrupted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16114,6 +16234,13 @@ installera OmegaT.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
       </tuv>
     </tu>
@@ -16200,6 +16327,13 @@ installera OmegaT.</seg>
 </note>
       <tuv lang="EN">
         <seg>If you need to see tags in OmegaT but do not need to retain most of the formatting in the translated document you are free not to include tags in the translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16355,6 +16489,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Igbo</seg>
       </tuv>
     </tu>
@@ -16470,6 +16611,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In OmegaT, select &lt;g0&gt;&lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;Options &gt; Spell Checking&lt;/g2&gt;, then click &lt;g3&gt;Choose &lt;/g3&gt;beside the Dictionary file folder field.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16996,6 +17144,13 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Include Pattern</seg>
       </tuv>
@@ -17382,6 +17537,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Installing spelling dictionaries</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Instant Start</seg>
       </tuv>
@@ -17559,6 +17721,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It allows accessing both public and private data, where private glossaries (called "collections") can be extracted from existing documents, and the target terms partly populated automatically from various sources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
       </tuv>
     </tu>
@@ -17699,6 +17868,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It is displayed automatically when OmegaT loads a project.</seg>
       </tuv>
     </tu>
@@ -17786,6 +17962,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It is shown rendered red in the tag validator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20452,6 +20635,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Navigate to and select the folder you created for dictionaries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Ndonga</seg>
       </tuv>
     </tu>
@@ -20948,6 +21138,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that &lt;l0&gt;after&lt;/l0&gt; is empty</seg>
       </tuv>
     </tu>
@@ -21067,6 +21264,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that the "Install" function requires an Internet connection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
       </tuv>
     </tu>
@@ -21124,6 +21328,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Note that they are all web-based: you will have to be on-line if you want to use them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21470,6 +21681,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
     </tu>
@@ -21651,6 +21869,13 @@ also --&gt; still
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and Configuration.properties) contain a template entry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
     </tu>
@@ -21702,6 +21927,13 @@ also --&gt; still
 </note>
       <tuv lang="EN">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23296,6 +23528,13 @@ i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") se
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Place the dictionary files you wish to use in this folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Plain text files</seg>
       </tuv>
     </tu>
@@ -23885,6 +24124,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Private collections are displayed in bold.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25541,6 +25787,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28005,6 +28258,13 @@ entered vs. specified
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Spell checker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 Not OK
 </note>
       <tuv lang="EN">
@@ -28043,6 +28303,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T120905Z">
         <seg>Konfiguration av stavningskontroll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Spellchecker setup</seg>
       </tuv>
     </tu>
     <tu>
@@ -29677,6 +29944,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
@@ -30550,6 +30824,13 @@ och i snabbstart-området.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
@@ -30803,6 +31084,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The most that OmegaT can do in such a case, is to assume that the text is written in the same language the computer itself uses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31324,6 +31612,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The separators between the panes can be dragged to resize panes.</seg>
       </tuv>
     </tu>
@@ -31494,6 +31789,13 @@ här heter det "memory"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T104117Z">
         <seg>Angiven översättningsriktning stöds inte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31946,6 +32248,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>There are essentially two ways in which you can do this.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
@@ -32001,6 +32310,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33009,6 +33325,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To access the TaaS service, a user must create a key using https://term.tilde.com/account/keys/create?system=omegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To activate any of the Machine Translation services, go to &lt;g0&gt;Options &gt; Machine Translate ...&lt;/g0&gt; and activate the service desired.</seg>
       </tuv>
     </tu>
@@ -33232,6 +33555,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
       </tuv>
     </tu>
@@ -33261,6 +33591,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt; file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To install spelling dictionaries, follow this procedure:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35186,6 +35523,13 @@ sökbara utan prenumeration:</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Using TaaS in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Using Trados MultiTerm</seg>
       </tuv>
     </tu>
@@ -35194,6 +35538,20 @@ sökbara utan prenumeration:</seg>
 </note>
       <tuv lang="EN">
         <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Using spellchecker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Using spelling dictionaries</seg>
       </tuv>
     </tu>
     <tu>
@@ -36590,6 +36948,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You can also launch
 it from the Spotlight search field.</seg>
@@ -36704,6 +37069,13 @@ saknar ellips</note>
 </note>
       <tuv lang="EN">
         <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
     </tu>
     <tu>
