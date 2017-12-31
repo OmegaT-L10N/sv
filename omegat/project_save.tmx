@@ -8338,13 +8338,11 @@ hittar inte
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171209T220431Z" creationid="mini-me" creationdate="20171209T220431Z">
-        <seg>Av Sheila Gomes (in Brasilian Portuguese).</seg>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T213006Z" creationid="mini-me" creationdate="20171209T220431Z">
+        <seg>Av Sheila Gomes (på Brasiliansk Portugisiska).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14626,7 +14624,6 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
-Not OK
 </note>
       <tuv lang="EN">
         <seg>Google Translate</seg>
