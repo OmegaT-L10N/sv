@@ -1997,6 +1997,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>...the system will display it like this for instance:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>/docs/</seg>
       </tuv>
     </tu>
@@ -9919,6 +9926,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Default encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
     </tu>
@@ -14883,6 +14897,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If the text is encoded in 8 bits, however, one can be faced with the following awkward situation: instead of displaying the text, for Japanese characters...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22203,6 +22224,13 @@ i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") se
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Plain text files - in most cases files with a txt extension - contain just textual information and offer no clearly defined way to inform the computer which language they contain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Plain text files contain text only, so their translation is as simple as typing the translation.</seg>
       </tuv>
     </tu>
@@ -28602,6 +28630,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The computer, running OmegaT, has Russian as the default language, and thus shows the characters in the Cyrillic alphabet and not in Kanji.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The configuration folder will be used
 instead.</seg>
@@ -29445,6 +29480,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The most important of these is &lt;l0&gt;&lt;project-dir&gt;&lt;/l0&gt;, and optionally &lt;l1&gt;--config-dir=&lt;config-dir&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The most that OmegaT can do in such a case, is to assume that the text is written in the same language the computer itself uses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31111,6 +31153,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This is necessary even if there's only one combination available, like pt_BR in case of Portuguese / Brazil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is no problem for files encoded in Unicode using a 16 bit character encoding set.</seg>
       </tuv>
     </tu>
     <tu>
