@@ -1654,6 +1654,27 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>/docs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>/images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>/lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
@@ -1758,6 +1779,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200913Z">
         <seg>&lt;Inga förslag&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;User Home&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2434,6 +2462,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;Something&gt;\&lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/l0&gt; (&lt;Something&gt; corresponds to the location of the "home" folder as determined by Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;&lt;User Home&gt;/.omegat &lt;/l0&gt;(.omegat is a folder, the dot preceding its name makes it invisible unless you type ls -a or an equivalent command)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
@@ -2683,6 +2725,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Application files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;File omegat.project&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2782,6 +2831,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File type and name pattern&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2797,6 +2853,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Encoding&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,6 +2965,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A batch file, used to launch &lt;a0&gt;OmegaT&lt;/a0&gt; from the Windows command line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A copy of the filters configuration will be stored with the project in this case.</seg>
       </tuv>
     </tu>
@@ -2927,6 +2997,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A number of rule sets are provided while additional rules can be defined by the user, as described in this chapter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A relatively detailed list of modifications between this version and the preceding versions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2972,6 +3049,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A text file containing two lines:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3505,6 +3589,13 @@ hittar inte denna!
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>All the user manual files can be found in this folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
@@ -3601,6 +3692,13 @@ hittar inte denna!
 </note>
       <tuv lang="EN">
         <seg>Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3870,6 +3968,13 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171108T210200Z">
         <seg>Utseende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Application files</seg>
       </tuv>
     </tu>
     <tu>
@@ -5584,6 +5689,20 @@ hittar inte</note>
         <seg>Console-translate läge:
 	--source-pattern=&lt;mönster&gt;
 		En regex-vitlista över källfiler som ska behandlas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Contents</seg>
       </tuv>
     </tu>
     <tu>
@@ -8233,6 +8352,13 @@ File filters dialog</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>File formats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
       </tuv>
     </tu>
@@ -8258,6 +8384,13 @@ File filters dialog</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T155822Z">
         <seg>Fil {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>File/ subfolder</seg>
       </tuv>
     </tu>
     <tu>
@@ -8304,6 +8437,13 @@ File filters dialog</seg>
 </note>
       <tuv lang="EN">
         <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Files to translate</seg>
       </tuv>
     </tu>
     <tu>
@@ -9079,6 +9219,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Groups.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Guaraní</seg>
       </tuv>
@@ -9214,6 +9361,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T203132Z">
         <seg>Hjälp du söker&lt;p&gt;Ur din väg flyr den&lt;p&gt;Dess vinter har kommit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Here a platform-independent package in a standard Java form is considered.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9469,6 +9623,13 @@ history historik
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Icons and logo graphics</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
@@ -9566,6 +9727,13 @@ den fullständiga sökvägen anges.)</seg>
 </note>
       <tuv lang="EN">
         <seg>If for some reason these files are lost or corrupted, simply download and/or reinstall OmegaT to restore them all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If in doubt, don't hesitate to ask project members directly either by sending them an e-mail from the SourceForge page or by sending a public mail to the user group.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9740,6 +9908,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you are interested in modifying or distributing &lt;a1&gt;OmegaT&lt;/a1&gt;, read this document carefully and ensure you understand its implications before doing anything.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10624,6 +10799,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It contains just the following line:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
       </tuv>
     </tu>
@@ -10632,6 +10814,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It does not include spell checking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It has been translated into a number of languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10661,6 +10857,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is provided as a compressed file (zip or tar archive) that you must extract to the folder of your choice for installation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10927,6 +11130,13 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060442Z" creationid="mini-me" creationdate="20171218T060442Z">
         <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Joining is not necessary, but will provide you with access to additional services, such as files, questionnaires, and the opportunity to take part in OmegaT-related discussions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11595,6 +11805,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Linux and OS X users may find this file useful.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
@@ -11845,6 +12062,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Mailing lists</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13570,6 +13794,13 @@ som innehåller din arbetsmapp.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT is supplied as a package that can be downloaded from SourceForge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT is supplied with a comprehensive user manual.</seg>
       </tuv>
     </tu>
@@ -13845,6 +14076,20 @@ installeras i ditt system.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT.bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
     </tu>
@@ -13867,6 +14112,13 @@ installeras i ditt system.</seg>
 </note>
       <tuv lang="EN">
         <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Once the archive has been extracted, a folder containing the following contents is created:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16790,6 +17042,13 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>See above.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>See below for details.</seg>
       </tuv>
@@ -18934,6 +19193,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The GNU GENERAL PUBLIC LICENSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
     </tu>
@@ -19334,6 +19600,13 @@ användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The file can usually be extracted by double-clicking on the downloaded package.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
     </tu>
@@ -19417,6 +19690,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The group archives are public and can be viewed without subscription to the group.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
@@ -19466,6 +19746,13 @@ i /lib/licenses/Licenses.txt.</seg>
 </note>
       <tuv lang="EN">
         <seg>The location of user files depends upon the platform you use:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The main OmegaT application.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19560,6 +19847,13 @@ här heter det "memory"
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T215925Z">
         <seg>Projektets filosofi beskrivs &lt;a0&gt;här&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The platform-independent package can be used on any platform with a working Java 1.6 runtime environment, including the platforms for which a specific package also exists.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20220,6 +20514,13 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This file is very important and you should make sure you read it before launching OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This file records Java error messages while &lt;a0&gt;OmegaT&lt;/a0&gt; is running.</seg>
       </tuv>
     </tu>
@@ -20265,6 +20566,13 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This is an ordinary html file that, when opened in your Internet browser, directs you to the OmegaT user group hosted on Yahoo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
       </tuv>
     </tu>
@@ -20295,6 +20603,20 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>This is useful for texts containing many trade marks or other proper nouns you which must be left unchanged.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This license allows you to do certain things with &lt;a0&gt;OmegaT&lt;/a0&gt;, including modifying and distributing it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This license covers the documentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20516,6 +20838,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To launch OmegaT, you must launch this file either from the command line or from your file manager, usually by double-clicking it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22522,13 +22851,19 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Windows Vista and 7</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171231T111616Z">
         <seg>Windows Vista och 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows other</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T111657Z" creationid="mini-me" creationdate="20171231T111657Z">
+        <seg>Windows övriga</seg>
       </tuv>
     </tu>
     <tu>
@@ -22787,6 +23122,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can access that folder directly with the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu entry.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
@@ -22939,6 +23281,13 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T085527Z">
         <seg>Men du kan få en snyggare och mer användarvänlig installation genom
 att använda installations-skriptet (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can open them in an Internet browser to obtain access to external links.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23106,6 +23455,13 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T174917Z">
         <seg>Du kommer att uppmanas att ange detta lösenord varje gång du startar OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You will then be able to launch OmegaT by executing this file from the command line</seg>
       </tuv>
     </tu>
     <tu>
@@ -23283,6 +23639,13 @@ Men kan inte förstå varför i SRC code
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>changes.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>contains the current statistics of the current project.</seg>
       </tuv>
     </tu>
@@ -23291,6 +23654,13 @@ Men kan inte förstå varför i SRC code
 </note>
       <tuv lang="EN">
         <seg>contains the latest project match statistics, generated by &lt;g0&gt;Tools &gt; Match Statistics&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>doc-license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -23590,6 +23960,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>join.html</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
@@ -23616,6 +24000,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>lepši, lepša, lepše .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -23794,6 +24185,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>readme.txt</seg>
       </tuv>
     </tu>
     <tu>
