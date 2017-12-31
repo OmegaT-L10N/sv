@@ -1940,6 +1940,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>2- or 3-letter language code followed by the 2-letter country code (e.g. EN-US - See &lt;x0/&gt; for a partial list of language and country codes).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>50%-74%:</seg>
       </tuv>
@@ -2522,6 +2529,14 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;Google Translate API v2 requires billing information for all accounts before you can start using the service (see &lt;u1&gt;Pricing and Terms of Service&lt;/u1&gt; for more).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4753,7 +4768,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Alternative language pairs&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Backup&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Importing and exporting&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4767,7 +4796,35 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Orphan segments&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;PO and OKAPI TTX files&lt;/s1&gt; &lt;s2&gt;Translation memories Subfolder tm/auto&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Project main folder&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Reusing translation memories&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Sharing&lt;/s1&gt; &lt;s2&gt;Project,Download Team Project...&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4803,6 +4860,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;compressed&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;multilingual, handling of&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7186,6 +7250,13 @@ kolla </note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
     </tu>
@@ -7630,6 +7701,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T091817Z">
         <seg>Sök efter längre mål</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8611,6 +8689,27 @@ This one is a title for the dialog and shouldn't have ellipsis
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Copy them to a safe place for future referrals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Copy/cut/paste shortcuts</seg>
       </tuv>
     </tu>
@@ -8787,11 +8886,25 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171216T061431Z">
         <seg>Skapa ett nytt projekt på ProjectLocker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8891,6 +9004,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Creating a repository</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Creating a translation memory for selected documents</seg>
       </tuv>
     </tu>
     <tu>
@@ -11850,6 +11970,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Flash XML Export</seg>
       </tuv>
@@ -12179,6 +12306,13 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For instance, if the language pair of the project is DE-FR, it can be still be of some help to see hits in the DE-EN translation, if there's none in the DE-FR pair.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13261,6 +13395,13 @@ history historik
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
@@ -13516,6 +13657,13 @@ den fullständiga sökvägen anges.)</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
     </tu>
@@ -13538,6 +13686,13 @@ den fullständiga sökvägen anges.)</seg>
 </note>
       <tuv lang="EN">
         <seg>If an Internet connection is available, various MT services such as Google Translate and Microsoft Translator can be used from within OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If an error is found in such a file, OmegaT will indicate the position within the defective file at which the error is located.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13620,6 +13775,13 @@ den fullständiga sökvägen anges.)</seg>
 </note>
       <tuv lang="EN">
         <seg>If for a given source segment there is as yet no existing translation in the project translation memory (project_save.tmx), the current translation will be saved in the project_save.tmx as the default translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If for a given source segment there is no entry for the selected target language, all other target segments are loaded, regardless of the language.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13707,6 +13869,13 @@ den fullständiga sökvägen anges.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If languages match but not the country, the segments still get loaded.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
@@ -13716,6 +13885,13 @@ their defaults as a result of the location change.</seg>
         <seg>Om senare åtkomst till den önskade platsen medges,
 kommer den platsen att användas och alla inställningar återställas
 till standard som följd av platsändringen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If neither the language code not the country code match, the segments will be ignored.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13894,6 +14070,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If the parameter is not specified, all files will be processed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If the project language codes and the tmx language codes fully match, the segments are loaded in memory.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14275,6 +14458,13 @@ installera OmegaT.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you modify the project segmentation or delete files from the source, some matches may appear as &lt;e1&gt;orphan strings&lt;/e1&gt; in the Match Viewer: such matches refer to segments that do not exist any more in the source documents, as they correspond to segments translated and recorded before the modifications took place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you need altered settings, the configuration files must be available.</seg>
       </tuv>
     </tu>
@@ -14305,6 +14495,13 @@ installera OmegaT.</seg>
 </note>
       <tuv lang="EN">
         <seg>If you need to see tags in OmegaT but do not need to retain most of the formatting in the translated document you are free not to include tags in the translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14387,6 +14584,13 @@ installera OmegaT.</seg>
 </note>
       <tuv lang="EN">
         <seg>If you wish to revert to default configuration of the filter, click &lt;e2&gt;Defaults.&lt;/e2&gt; You may also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14496,6 +14700,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Importing and exporting translation memories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Importing the project to SVN repository - Windows</seg>
       </tuv>
     </tu>
@@ -14567,7 +14778,21 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14582,6 +14807,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In cases like these it becomes necessary to switch to RTL mode, so that the RTL (in fact bidirectional) text is displayed correctly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In cases where a team of translators is involved, translators will prefer to share common translation memories rather than distribute their local versions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14718,6 +14950,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In such cases, an existing translation, found in the file, is included in the &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
     </tu>
@@ -14817,6 +15056,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In this case, a useful procedure would be:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
       </tuv>
     </tu>
@@ -14825,6 +15071,20 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In this case, however:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14962,6 +15222,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T065804Z">
         <seg>Läs in så här många segment från till att börja med:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15604,6 +15871,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It is therefore possible to select existing folders or create folders in locations that reflect your work flow and project management habits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is treated as a default translation, if no match has been found, or as an alternative translation, in case the same source segment exists, but with a target text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16587,6 +16861,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Legal notices and Acknowledgements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18551,6 +18832,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that all the translation memories are loaded into memory when the project is opened.</seg>
       </tuv>
     </tu>
@@ -18601,6 +18889,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Note that nothing but your source segment is sent to the MT service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note that only one TMX for a given language pair is possible, so if several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19170,7 +19465,21 @@ also --&gt; still
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT exports version 1.4 TMX files (both level 1 and level 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT features highly customizable filters, enabling you to configure numerous aspects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19248,6 +19557,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19431,6 +19747,13 @@ installeras i ditt system.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20177,6 +20500,8 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Orphan segments</seg>
       </tuv>
@@ -22754,6 +23079,13 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Reusing translation memories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 Not OK
 </note>
       <tuv lang="EN">
@@ -24194,6 +24526,13 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Sharing translation memories</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
@@ -24249,6 +24588,13 @@ A: finns i Redigera-menyn
 </note>
       <tuv lang="EN">
         <seg>Should you wish not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24560,6 +24906,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Some types of source files (for instance PO, TTX, etc.) are bilingual, i.e. they serve both as a source and as a translation memory.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
       </tuv>
@@ -24857,6 +25217,13 @@ entered vs. specified
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Sources with existing translations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>South Ndebele</seg>
       </tuv>
     </tu>
@@ -25062,6 +25429,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T192209Z">
         <seg>'rebase' startas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Start the project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25464,6 +25838,13 @@ till skillnad från internt minne
 </note>
       <tuv lang="EN">
         <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>TMX files can generally contain translation units with several candidate languages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26968,6 +27349,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The file &lt;f0&gt;project_save.tmx&lt;/f0&gt; contains all the segments that have been translated since you started the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The file can usually be extracted by double-clicking on the downloaded package.</seg>
       </tuv>
     </tu>
@@ -27062,6 +27450,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171129Z">
         <seg>Följande alternativ gäller endast 3.x-filtret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The following recipee is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27237,6 +27632,13 @@ xx eller xxx är språkkoden och YY är regions- eller landskoden (valfri).</seg
 </note>
       <tuv lang="EN">
         <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27575,6 +27977,13 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
@@ -27681,6 +28090,13 @@ här heter det "memory"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171216T061721Z" creationid="Dorothy" creationdate="20171216T061721Z">
         <seg>Arkivet är tomt i detta läge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The result will thus depend on the order in which the source segments have been loaded.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27837,6 +28253,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The simplest way to launch OmegaT, however, is to execute the&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.exe&lt;/e0&gt; program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28056,6 +28479,13 @@ translated -&gt; target
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
       </tuv>
     </tu>
@@ -28173,6 +28603,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Then you need a translation in e.g. Chinese, but your translator does not understand Dutch; she, however, understands perfectly English.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New&lt;/e0&gt; Submenu and &lt;e1&gt;File - New Item&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
@@ -28267,6 +28704,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28494,6 +28938,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This TM gradually becomes filled during the translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
@@ -28620,6 +29071,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28820,6 +29278,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This is useful for texts containing many trade marks or other proper nouns you which must be left unchanged.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is useful if you frequently use translation memories produced in the past, for example because they are on the same subject or for the same customer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29118,6 +29583,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To avoid reusing the project and thus possibly polluting future cases, delete the project folder or archive it away from your workplace.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
@@ -29146,6 +29618,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To change the location of folders after a project has been created, open &lt;g0&gt;Project &gt; Properties...&lt;/g0&gt; in the menu or with &lt;g1&gt;Ctrl+E&lt;/g1&gt; and make the necessary changes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29384,6 +29863,13 @@ finns inget menu entry called that
 </note>
       <tuv lang="EN">
         <seg>To see which file formats can be handled by OmegaT, see the menu &lt;g0&gt;Options &gt; File Filters ... &lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To speed up this process, existing translations can be reused.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29873,6 +30359,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171231T150039Z" creationid="mini-me" creationdate="20171231T150039Z">
         <seg>Översättningsminnen i OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Translation memories may also contain reference translations: multinational legislation, such as that of the European Community, is a typical example.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31010,6 +31503,13 @@ sökbara utan prenumeration:</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Using TMX with alternative language pairs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Using Trados MultiTerm</seg>
       </tuv>
     </tu>
@@ -31643,7 +32143,28 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>When you create a translation project, OmegaT automatically creates a folder with the specified name, and a list of folders:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>When you exit the project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31672,6 +32193,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>When you wish to use the filter again, just tick the check box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32320,6 +32848,13 @@ därifrån.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can ask the user group for advice if you have problems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
       </tuv>
     </tu>
@@ -32452,6 +32987,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
     </tu>
@@ -32578,6 +33120,13 @@ Finder window to be able to launch it from any location.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20171106T061836Z" creationid="Dorothy" creationdate="20171106T061836Z">
         <seg>Du kan dra programmet OmegaT till din Dock eller verktygslisten på ett
 Finder-fönster för att kunna starta det från valfri plats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33895,6 +34444,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>see more in Chapter</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>segment 0000</seg>
       </tuv>
@@ -33944,6 +34500,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>stats.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>the TMX files in the main project folder (see above) now contain the transltions in the selected language pair, for the files, you have copied into the source folder.</seg>
       </tuv>
     </tu>
     <tu>
