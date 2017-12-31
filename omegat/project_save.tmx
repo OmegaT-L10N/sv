@@ -5928,6 +5928,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A "translated" External View file is produced by entering the translation in the target column.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A batch file, used to launch &lt;a0&gt;OmegaT&lt;/a0&gt; from the Windows command line.</seg>
       </tuv>
     </tu>
@@ -8115,6 +8129,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Background situation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Backspace*</seg>
       </tuv>
     </tu>
@@ -10038,6 +10059,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Convert the file from RTF to OpenOffice.org format.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
@@ -11909,6 +11937,7 @@ laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Déjà Vu "External View"</seg>
@@ -16870,6 +16899,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In an as-yet untranslated "External View" file, the target column is empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
     </tu>
@@ -17282,6 +17318,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In the quiet mode, less info is logged to the screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the same way, users of CAT tools, including OmegaT, who do not possess Déjà Vu can translate files prepared by a Déjà Vu user.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18087,6 +18130,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It does not include spell checking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It enables editors who do not possess Déjà Vu to edit translations produced in Déjà Vu in such a way that amendments can be reincorporated easily.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30318,6 +30368,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The Edit Pattern Dialog offers among others the following options:</seg>
       </tuv>
     </tu>
@@ -33437,6 +33494,13 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 Not OK
 </note>
       <tuv lang="EN">
@@ -34632,6 +34696,13 @@ finns inget menu entry called that
 </note>
       <tuv lang="EN">
         <seg>To translate &lt;a0&gt;OmegaT&lt;/a0&gt;'s user interface, user manual or other related documents:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To translate the file in OmegaT, proceed as follows:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37732,6 +37803,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
 </note>
       <tuv lang="EN">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You are an OmegaT user and are requested by a customer to deliver a translation in Déjà Vu's file format.</seg>
       </tuv>
     </tu>
     <tu>
