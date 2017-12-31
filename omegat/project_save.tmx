@@ -1829,6 +1829,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;You can use OmegaT&lt;/a0&gt; to translate files in a number of file formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
@@ -2587,6 +2594,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;File formats&lt;/p0&gt; &lt;s1&gt;Unformatted&lt;/s1&gt; &lt;s2&gt;Source files&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2845,6 +2859,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2867,6 +2888,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Filenames&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3103,6 +3131,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170729T071546Z">
         <seg>Enbart ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>ASCII text (.txt, etc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6141,6 +6176,13 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Currently, &lt;a1&gt;OmegaT&lt;/a1&gt; supports the following plain text formats:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Cursor lock off</seg>
       </tuv>
@@ -7373,6 +7415,16 @@ Här är det &lt;b&gt; runt referensen, inte på andra platser?
       </tuv>
     </tu>
     <tu>
+      <note>.utf8?
+</note>
+      <tuv lang="EN">
+        <seg>Encoded text (*.UTF8)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T112228Z">
+        <seg>Kodad text (*.utf8)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Encoding</seg>
       </tuv>
@@ -8350,6 +8402,7 @@ File filters dialog</seg>
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>File formats</seg>
@@ -11083,6 +11136,13 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T204310Z">
         <seg>Alternativ för filter för Java Resource Bundle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Java resource bundles (*.properties)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14720,6 +14780,20 @@ i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") se
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170729T075750Z">
         <seg>Placera arkivet i någon lämplig mapp och packa upp det.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Plain text files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Plain text files contain text only, so their translation is as simple as typing the translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18472,6 +18546,13 @@ kan man skicka en flagga till OmegaT?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Such files do not contain any formatting information beyond the "white space" used to align text, indicate paragraphs or insert page breaks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Such files may also be written out in any encoding.</seg>
       </tuv>
     </tu>
@@ -20236,6 +20317,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>There are basically two types of file formats, plain text and formatted text.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
@@ -20249,6 +20337,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T204820Z">
         <seg>Det finns inga lokala arbetskopior i {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>There are several methods to specify the file's encoding so that its contents are not garbled when opened in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20350,6 +20445,13 @@ konfigurationsmapp bestämmas säkert.</seg>
 </note>
       <tuv lang="EN">
         <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>They are not able to contain or retain information regarding the color, font etc of the text.</seg>
       </tuv>
     </tu>
     <tu>
