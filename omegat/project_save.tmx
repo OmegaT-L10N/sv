@@ -7648,6 +7648,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Creates a local copy of a remote OmegaT project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Creates and opens a new project.</seg>
       </tuv>
     </tu>
@@ -8668,6 +8675,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T212721Z">
         <seg>Ladda ner teamprojekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Download Team Project...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17538,6 +17552,13 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171118T073300Z">
         <seg>Öppna {0} målfilernas plats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Open...</seg>
       </tuv>
     </tu>
     <tu>
