@@ -22,6 +22,13 @@
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>"Levelling" the formatting means applying the format of the first character in a selection of text (such as a whole paragraph) to all subsequent characters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>"Tag groups" in this context are a single tag (such as &lt;i0&gt; and &lt;/i0&gt;).</seg>
       </tuv>
     </tu>
@@ -1580,6 +1587,13 @@ Properties --&gt; Settings?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>(For more detailed instructions, refer to your instruction manual or click &lt;a0&gt;here&lt;/a0&gt;, &lt;a1&gt;here&lt;/a1&gt; or &lt;a2&gt;here&lt;/a2&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>
 Parentes är fel
 
@@ -1642,6 +1656,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>(Since this is now the standard format, it is simply described as Word, Excel or Powerpoint in MS Office 2007).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
@@ -1654,6 +1675,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
 </note>
       <tuv lang="EN">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>(The greater ease of tag handling with .docx files comes at the cost of a slight loss in control over formatting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1761,6 +1789,20 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
 </note>
       <tuv lang="EN">
         <seg>- i.e. files with a &lt;f0&gt;.txt &lt;/f0&gt;extension - : in the &lt;e1&gt;Text files &lt;/e1&gt;section of the file filters dialog, change the &lt;e2&gt;Source File Encoding&lt;/e2&gt; from &lt;auto&gt; to the encoding that corresponds to your source &lt;f3&gt;.txt&lt;/f3&gt; file, for instance to .jp for the above example.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- level the formatting from these paragraphs using the macro as described above, then re-insert the formatting; or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- mark only the text up to the beginning of the formatted part, copy this text and paste it back over itself, then repeat the process on the text after the formatted part.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2301,6 +2343,20 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;a0&gt;&lt;i1/&gt;OmegaT&lt;/a0&gt; on the web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;CodeZapper&lt;/a0&gt; (inexpensive)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Document Cleaner&lt;/a0&gt; (free)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7216,6 +7272,13 @@ hittar inte denna!
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>An alternative to running the CodeZapper macro on your text is to "level" the formatting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
       </tuv>
     </tu>
@@ -7594,6 +7657,13 @@ TMX-filen kommer inte att läsas in.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Anything you now do will be recorded in the macro, so follow this procedure carefully:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Apertium</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060622Z" creationid="mini-me" creationdate="20171218T060622Z">
@@ -7740,6 +7810,20 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>As already mentioned, this problem with MS Word is not unique to OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>As customers/authors upgrade Microsoft Office/Word to more recent versions, translators can expect to receive files increasingly in the new format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
     </tu>
@@ -7762,6 +7846,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>As of version 2.1.8, by default, these multiple tags are now aggregated (condensed) into a single tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8036,6 +8127,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Automatic hyphenation also adds unnecessary tags, so disable it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
     </tu>
@@ -8248,6 +8346,13 @@ hittar inte</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Be careful to choose a font that contains both the necessary Asian and "normal" characters, such as MS Mincho, but without the "[text body]" style suffix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Be careful to preserve these in the same way that you would handle OmegaT's own inline tags (the inline tag functionality of OmegaT, such as the tag validation function, is not available in this case, however).</seg>
       </tuv>
     </tu>
@@ -8263,6 +8368,13 @@ hittar inte</note>
 </note>
       <tuv lang="EN">
         <seg>Before</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Before following the instructions below for removal of the nuisance codes, however, remember to make the configuration changes in Word first, or Word may simply re-insert nuisance codes again when the file is next opened.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8404,6 +8516,13 @@ hittar inte
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T092639Z" creationid="mini-me" creationdate="20171230T092639Z">
         <seg>Bretonska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Brief instructions for creating the macro (in MS Office 2007) are provided below.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9421,6 +9540,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Click Popular in the Word Options dialog box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Click in the box for a new keyboard combination, then experiment with keyboard combinations to find one that is not assigned.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
@@ -9475,6 +9608,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Click on Assign to assign the shortcut to the macro that you are about to record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Click on the Keyboard button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Click on the My Account option at the top of the page.</seg>
       </tuv>
     </tu>
@@ -9504,6 +9651,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Click on the link to jump to the segment in the Editor pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Click on the paragraph mark button to make paragraph marks visible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9569,6 +9723,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Close Project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Close Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10129,6 +10290,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Converting to MS Office 2007 format</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
@@ -10252,6 +10420,13 @@ This one is a title for the dialog and shouldn't have ellipsis
 </note>
       <tuv lang="EN">
         <seg>Copyright Marc Prior 2009-2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2011-2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -10466,6 +10641,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Create the macro:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Create your own key then input it below.</seg>
       </tuv>
@@ -10537,6 +10719,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Creating a key</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Creating a macro to level the character formatting of a paragraph</seg>
       </tuv>
     </tu>
     <tu>
@@ -10639,6 +10828,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Ctrl+Cursor Up (this takes the cursor to the beginning of the paragraph)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Ctrl+End</seg>
       </tuv>
     </tu>
@@ -10670,6 +10866,20 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T214030Z" creationid="mini-me" creationdate="20171209T214030Z">
         <seg>Ctrl+Höger:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+9 appears not to be assigned to any other function in the basic Word installation, but you can use any other combination that has not already been assigned.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+Cursor Down (this selects the paragraph, including the paragraph mark)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13742,6 +13952,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Finally, insert the content using the "Unformatted Unicode text" option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
       </tuv>
     </tu>
@@ -13988,6 +14205,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For both examples, compile and test as described above.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation tool.</seg>
       </tuv>
     </tu>
@@ -14136,6 +14360,13 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>For example, when you have a Czech text file (very probably written in the &lt;e2&gt;ISO-8859-2&lt;/e2&gt; code) you just need to change the extension&lt;l3&gt; .txt&lt;/l3&gt; to &lt;l4&gt;.txt2 &lt;/l4&gt;and &lt;a5&gt;OmegaT&lt;/a5&gt; will interpret its contents correctly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For example, without the "aggregate tags" function, where a word in the source text is in bold and italics, the translator could choose to render it in bold only, or in italics only.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14305,6 +14536,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For the sake of convenience, they will be referred to below as "MS Office 2007 file formats".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
@@ -14338,6 +14576,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>For users of Microsoft Office who do not (yet) have the 2007 version, conversion between Office Open XML and Microsoft Office 98-2003 can be achieved using a free plug-in converter available &lt;a0&gt;here&lt;/a0&gt; from Microsoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For users who do not have MS Office 2007 or 2010 and do not wish to buy it, Microsoft provides a &lt;a0&gt;compatibility plug-in&lt;/a0&gt; for earlier versions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14445,6 +14690,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T103824Z">
         <seg>Från ICE-minne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>From Version 1.7.1 onwards, OmegaT has been able to handle Microsoft Office 2007 files directly, without conversion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15401,6 +15653,13 @@ history historik
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>How to remove unwanted formatting code from .docx files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>How to translate Magento</seg>
       </tuv>
     </tu>
@@ -15670,6 +15929,13 @@ den fullständiga sökvägen anges.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If a combination you try is already assigned, a message to this effect is displayed in the dialogue, and you can delete the combination and try another.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
@@ -15799,6 +16065,13 @@ den fullständiga sökvägen anges.)</seg>
 </note>
       <tuv lang="EN">
         <seg>If checked, white spaces will be displayed with a small dot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If every single word in OmegaT is enclosed within tags, it is possible that Word has attempted to spell-check the text without access to a suitable spelling dictionary, and has therefore marked each word as mis-spelt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16607,6 +16880,13 @@ installera OmegaT.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you have made changes to your Normal.dotm, you might want to back this up first.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you have made changes to your&lt;f0&gt; OmegaT.l4J.ini &lt;/f0&gt;file and/or are using a .bat file, you must copy these over.</seg>
       </tuv>
     </tu>
@@ -16615,6 +16895,13 @@ installera OmegaT.</seg>
 </note>
       <tuv lang="EN">
         <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you have not already done so, add the Developer tab to the ribbon as follows: click on the Office button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16842,6 +17129,13 @@ installera OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If your text contains both Asian and "normal" (e.g. Latin) characters, use Ctrl+A to select the entire text, then select a single font for it.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If, during installation, you have created a shortcut on the desktop, double-
 click on that shortcut.</seg>
@@ -16970,6 +17264,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In KMenuEditor select &lt;e3&gt;File -&gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In OmegaT versions prior to 2.1.8, each formatting change in an MS Office 2007 file resulted in a long series of multiple tags, which often made handling this file format impractical.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17374,6 +17675,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the Macro name box, type a name for the macro, such as "levelformat".</seg>
       </tuv>
     </tu>
     <tu>
@@ -18533,6 +18841,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It may be necessary to do this for each document, in which case the procedure in Word 2007 is: Click the Page Layout tab; in the Page Setup group, click Hyphenation; then click None.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It may be necessary to enter the full path, e.g.:</seg>
       </tuv>
     </tu>
@@ -19407,6 +19722,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Launch Word again, create a new Word file and add a paragraph of sample text, at least three lines long, e.g.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Launch command arguments</seg>
       </tuv>
     </tu>
@@ -19568,6 +19890,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Levelling character formatting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Levelling the character formatting of a paragraph manually</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Licensing information
 =====================</seg>
@@ -19633,6 +19969,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Linux users can use this version of the standalone &lt;a0&gt;conversion utility&lt;/a0&gt; to convert directly between Office Open XML and OpenDocument Format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Linux users: both MS Office 2007 and the Microsoft compatibility plug-in run on &lt;a0&gt;Crossover Linux.&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20325,6 +20668,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Mark each paragraph by clicking on it repeatedly until the entire paragraph is highlighted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Marshallese</seg>
       </tuv>
     </tu>
@@ -20910,6 +21260,13 @@ ViewOptionsPanel.java: 113
 </note>
       <tuv lang="EN">
         <seg>Most users will find the default file filter options sufficient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Most users will probably find that the greater ease of use outweighs this drawback.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21820,6 +22177,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that even after Word's settings have been changed so that it does not insert "nuisance" codes, for example for auto-hyphenation, such codes may still be present in the file and not removed by the change in configuration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that if you need or wish to use any of the launch command arguments (see above), you must use the normal installation.</seg>
       </tuv>
     </tu>
@@ -21947,6 +22311,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Note that they are all web-based: you will have to be on-line if you want to use them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note that this is not the same as "deleting" the formatting, which would cause the character formatting to revert to the document's default.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22918,6 +23289,13 @@ installeras i ditt system.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT shares this problem with other CAT tools that handle the .docx format, and the solutions are similar or the same.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
       </tuv>
     </tu>
@@ -23184,6 +23562,13 @@ installeras i ditt system.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>On the Developer tab, click on Record Macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
     </tu>
@@ -23192,6 +23577,13 @@ installeras i ditt system.</seg>
 </note>
       <tuv lang="EN">
         <seg>On the other hand this functionality can be very useful in special cases, where you can increase your productivity by tuning the segmentation rules to the text to be translated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>On the ribbon, check Show Developer tab and confirm with OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23323,6 +23715,13 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>One solution is to switch off automatic spelling checking in Word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24281,6 +24680,13 @@ i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") se
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Place the cursor in your paragraph of text (not in the first or last lines).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Place the dictionary files you wish to use in this folder.</seg>
       </tuv>
     </tu>
@@ -24592,6 +24998,13 @@ ytterligare åtgärder behöver vidtas.</seg>
 </note>
       <tuv lang="EN">
         <seg>Points regarding proprietary translation memory files:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Points to note when using the .docx, .xlsx and .pptx formats in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -25902,6 +26315,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T212409Z">
         <seg>Fjärrarkiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Removal of these codes is described below.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27910,6 +28330,13 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Select Word Options.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Select a Category</seg>
       </tuv>
@@ -28253,6 +28680,13 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Shift+Cursor Left (this moves the end of the selection one character to the left so that it no longer includes the paragraph mark)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
@@ -28485,6 +28919,13 @@ Visas i fönstret "Skriptverktyg"</note>
 </note>
       <tuv lang="EN">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29341,6 +29782,20 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171126T192611Z">
         <seg>Steg 1: Justera linjeringsparametrar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Step 1: Unhide the paragraph mark.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Step 2: Copy this highlighted text (Ctrl+C).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30464,6 +30919,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The .docx format is also prone to the introduction of "nuisance" formatting code which results in unwanted and unnecessary tags appearing in OmegaT's editor pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
       </tuv>
     </tu>
@@ -30949,6 +31411,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
 </note>
       <tuv lang="EN">
         <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The advantages of using the .docx format in conjunction with OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -31697,6 +32166,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The formats are also used in MS Office 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The formatting information can be as simple as “this is bold”, or as complex as table data with different font sizes, colors, positions, etc.</seg>
       </tuv>
     </tu>
@@ -32113,6 +32589,13 @@ här heter det "memory"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T154153Z">
         <seg>De nya färgerna har sparats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The new format can also serve as a useful way of handling the legacy .doc, .xls and .ppt formats, since they can be converted to their MS Office 2007 counterparts, translated in OmegaT, and converted back again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33219,6 +33702,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Then move the end of the highlighting one character to the left so that it does not include the paragraph mark.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Then select "Paste Special" (Word 2003) or click on the arrow at the bottom of the "Insert" button (Word 2007) to obtain the extended Paste options.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
@@ -33461,6 +33958,13 @@ konfigurationsmapp bestämmas säkert.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>These formats are formally known as "Office Open XML", and have the extensions .docx, .xlsx and .pptx respectively.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>These segments are marked and delimited by special characters and MS Word formatting styles.</seg>
       </tuv>
     </tu>
@@ -33627,6 +34131,20 @@ konfigurationsmapp bestämmas säkert.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Third-party tools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Third-party tools have been produced to deal with the problem.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This
 will delete your local data and re-download the project contents from
@@ -33672,6 +34190,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>This HowTo describes how to use OmegaT in conjunction with Atril's Déjà Vu CAT tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This HowTo provides tips on translating MS Office 2007 and later (Office Open XML, .docx) files in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34025,6 +34550,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is a paragraph.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This is a valid project file.</seg>
       </tuv>
@@ -34337,6 +34869,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This procedure is therefore an alternative for translators who would prefer not to use OpenOffice.org for this purpose.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This project</seg>
       </tuv>
@@ -34364,6 +34903,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This subfolder is initially empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This tag apparently cannot be removed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34836,6 +35382,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To make the macro available in all documents, select Normal.dotm in the "Store macro in" box.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35611,6 +36164,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Two of these are:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Type</seg>
       </tuv>
@@ -36046,6 +36606,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Unlike the legacy .doc, .xls and .ppt formats, these files can be handled directly in OmegaT, with no loss of formatting as a result of conversion to and from other formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Unpack the &lt;e1&gt;OmegaT_3.n.n_Source.zip&lt;/e1&gt; file and enter the OmegaT_3.n.n_Source folder or enter the &lt;e2&gt;./omegat/&lt;/e2&gt; folder of the SVN checked out code.</seg>
       </tuv>
     </tu>
@@ -36326,6 +36893,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Use &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; to open and &lt;k2&gt;Esc&lt;/k2&gt; to close it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use Search and Replace to remove double spaces (replacing them with a single space).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36708,6 +37282,13 @@ sökbara utan prenumeration:</seg>
 </note>
       <tuv lang="EN">
         <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Users wishing to translate MS Office 2007 files should therefore upgrade to OmegaT version 2.1.8 or later.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37565,6 +38146,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Where paragraphs do contain inline formatting (bold, italics, hyperlinks, etc.), you can either:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Where possible, unifying the fonts, font sizes, colors, etc. used in the document simplifies the task of translation and reduces the possible number of tag errors.</seg>
       </tuv>
     </tu>
@@ -37757,6 +38345,27 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>With the "aggregate tags" function enabled, this is not possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>With the advent of Microsoft Office 2007, Microsoft Word, Excel and Powerpoint have new default file formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>With the appearance of OmegaT Version 2.1.8, the handling of this file format in OmegaT also became much more user-friendly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history... &lt;/g0&gt;command below.</seg>
       </tuv>
     </tu>
@@ -37824,6 +38433,20 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060416Z" creationid="mini-me" creationdate="20171218T060416Z">
         <seg>Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Word 2007 inserts a tag at page breaks, even automatic page breaks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Word 2007 marks any words not in its spelling dictionary with tags, so even a couple of words which it considers to be mis-spelt will result in a plethora of tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38266,6 +38889,13 @@ därifrån.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can automate the above procedure somewhat by creating a macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can browse through notes using &lt;g0&gt;GoTo → Next Note&lt;/g0&gt; and &lt;g1&gt;GoTo → Previous Note&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
@@ -38295,6 +38925,13 @@ därifrån.</seg>
 </note>
       <tuv lang="EN">
         <seg>You can check that yourself by selecting the item &lt;e0&gt;File Filters&lt;/e0&gt; in the menu &lt;e1&gt;Options&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can convert MS Office 1997/2000/2003/XP files to MS Office 2007 format by opening them in MS Office 2007 and saving them with "Save As" in the new format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38427,6 +39064,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
 </note>
       <tuv lang="EN">
         <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; to launch it directly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can level the formatting of paragraphs essentially by copying whole paragraphs in MS Word and pasting them back over themselves such that the entire paragraph assumes the formatting of the first character.</seg>
       </tuv>
     </tu>
     <tu>
