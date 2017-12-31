@@ -50,6 +50,13 @@
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>"We" refers below to the OmegaT project team.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>"XX" in the command stands for the two-digit code of the desired language.</seg>
       </tuv>
     </tu>
@@ -7863,6 +7870,13 @@ line head
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Appearance of fonts in OmegaT on Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Application files</seg>
       </tuv>
     </tu>
@@ -7991,6 +8005,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>As already mentioned, a bash launch script is provided with OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>As already mentioned, this problem with MS Word is not unique to OmegaT.</seg>
       </tuv>
     </tu>
@@ -8076,6 +8097,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>As the program is intended for translators throughout the world and not just in English-speaking countries, it is appropriate that the documentation (and, if possible, the program itself) be available in other languages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8180,6 +8208,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>At the time of writing, OmegaT will run much better with the Oracle version of Java (see above).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>At the time of writing, the material to be translated comprises:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8929,6 +8964,13 @@ kolla </note>
 </note>
       <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>By default, the bash launch script is executable, but your system may change its permissions (e.g. during unpacking of the archive) and you may have to make it executable again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11460,6 +11502,27 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Define the translation as being empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Delete any launch scripts and remove any custom entries for OmegaT in your desktop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Delete the OmegaT program folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Delete the folder /home/&lt;user&gt;/.omegat of any user account from which OmegaT has been launched.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16157,6 +16220,13 @@ history historik
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>However, since we are not a commercial project, we have no budget for the commissioning of translations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
       </tuv>
     </tu>
@@ -19009,6 +19079,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Instead, those involved in the OmegaT project hope that translations will be provided first and foremost by translators who have tried OmegaT and are convinced of its value to the translation community as a whole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Integration manager</seg>
       </tuv>
     </tu>
@@ -20486,6 +20563,13 @@ Not OK
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T165537Z">
         <seg>Starta OmegaT (Windows)
 ==========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Launching OmegaT from a launch script</seg>
       </tuv>
     </tu>
     <tu>
@@ -23953,6 +24037,13 @@ och översättningshantering till uppdaterade projekt.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT is a free, open-source translation memory program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
     </tu>
@@ -24542,6 +24633,13 @@ installeras i ditt system.</seg>
 </note>
       <tuv lang="EN">
         <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Once this has been copied or linked to your execution path (done automatically if you use the installation script provided), you can launch OmegaT by hitting &lt;i0&gt;Alt+F2&lt;/i0&gt;, then typing in &lt;i1&gt;omegat&lt;/i1&gt; and conforming with ENTER.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32235,6 +32333,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The Java version used (the same font may appear quite different on Sun and OpenJDK versions of Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The KMenuEditor appears.</seg>
       </tuv>
     </tu>
@@ -32344,6 +32449,13 @@ kommer den aktuella mappen att användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The OmegaT project team is not a company or formal legal body, just a group of volunteers involved in the OmegaT project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32546,6 +32658,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The appearance of fonts in OmegaT on Linux may differ widely, according to:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The application runs on your machine only.</seg>
       </tuv>
     </tu>
@@ -32575,6 +32694,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
 </note>
       <tuv lang="EN">
         <seg>The available options are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The available/selected fonts</seg>
       </tuv>
     </tu>
     <tu>
@@ -33337,6 +33463,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The font size</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The form-feed character ('\u000C')</seg>
       </tuv>
     </tu>
@@ -33952,6 +34085,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The possibilities are numerous, and the procedures for implementing them no less numerous, owing to the plethora of distributions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
     </tu>
@@ -34288,6 +34428,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The second command is the command which actually launches &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The second is needed if the Java version you wish to use is not the default installation at system level.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34780,6 +34927,13 @@ translated -&gt; target
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The translation work</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The translator can add notes to the opened segment, for instance to come back later to the segment and redo the translation, check that alternative translations are correct or to ask colleagues for their opinion.</seg>
       </tuv>
     </tu>
@@ -34831,6 +34985,13 @@ translated -&gt; target
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171231T151159Z" creationid="mini-me" creationdate="20171231T151159Z">
         <seg>Användargränssnittet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The user interface and documentation were originally written in English.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35636,6 +35797,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This can easily be restored again in the future.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
       </tuv>
     </tu>
@@ -36403,6 +36571,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
     </tu>
@@ -36832,6 +37007,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To make launching OmegaT even more user-friendly, add it to your application launch menu, or place a launch icon for it on your desktop or in your desktop panel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To make the macro available in all documents, select Normal.dotm in the "Store macro in" box.</seg>
       </tuv>
     </tu>
@@ -36893,6 +37075,13 @@ finns inget menu entry called that
 </note>
       <tuv lang="EN">
         <seg>To remove a filter, press the &lt;e0&gt;Remove filter&lt;/e0&gt; button, or reload a project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To remove all traces of OmegaT from your system:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37603,6 +37792,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Translation: general remarks</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Translator comments:</seg>
       </tuv>
@@ -37982,6 +38178,20 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T095711Z">
         <seg>Oväntat tecken {0} ({1})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Uninstalling OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Uninstalling OmegaT will not remove any OmegaT projects from your system, unless you have placed such projects within the OmegaT program or configuration files folder(s), which is not a good location for them in any case.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38746,6 +38956,13 @@ searchable without subscription:</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170803T191312Z">
         <seg>Användarsupport i en användargrupp hos Yahoo (flerspråkig), vars arkiv är
 sökbara utan prenumeration:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>User-friendly launching of OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -39682,6 +39899,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Where the vendor of a software product claims that his product is compatible with another piece of software, this compatibility is seldom 100%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Whether anti-aliasing is enabled (this is a command-line launch option, but you can also set it in the kaptain launch script)</seg>
       </tuv>
     </tu>
     <tu>
