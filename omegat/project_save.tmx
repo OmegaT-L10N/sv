@@ -11188,6 +11188,20 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Do not segment after Mr.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>attribut-nyckel-värdepar
 nyckel-värdepar i attribut
 
@@ -12690,6 +12704,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Exception rule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Exception rule - see the use of ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -20927,6 +20948,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Note that &lt;l0&gt;after&lt;/l0&gt; is empty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Note that Google Translate service is not free of charge, see chapter &lt;l1&gt;Installing and Running&lt;/l1&gt; (runtime parameters) for more on that.</seg>
       </tuv>
     </tu>
@@ -27060,6 +27088,13 @@ A: finns i Redigera-menyn
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Set a segment after "。" (Japanese period)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T183937Z">
@@ -32254,6 +32289,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This allows them for instance to check at any moment, whether the target version for the complete project is still OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This an exception rule, so the rule check box must not be ticked</seg>
       </tuv>
     </tu>
     <tu>
@@ -37886,6 +37928,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>import the file into ODF writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>in regular expressions</seg>
       </tuv>
     </tu>
     <tu>
