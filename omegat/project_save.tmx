@@ -1411,6 +1411,13 @@ Properties --&gt; Settings?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>(#N is a digit from 1 to 5) - Selects the Nth fuzzy match displayed in the match viewer to replace or insert it to the segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>(+{0} more)</seg>
       </tuv>
@@ -2030,6 +2037,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; remembers the segments executed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2835,7 +2849,28 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt; &lt;/k0&gt; or &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;Enter&lt;/k5&gt; &lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; (see text)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;#N&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2871,6 +2906,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;I&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;J&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,7 +2996,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;P&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2968,7 +3024,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;S&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;T&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;U&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2983,6 +3053,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;T&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; &lt;k1&gt;U&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3579,6 +3656,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Goto&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt; &lt;t2&gt;Editing behavior...&lt;/t2&gt;</seg>
       </tuv>
     </tu>
@@ -3587,6 +3671,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Project&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;View&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5957,6 +6048,7 @@ hittar inte
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Back in history...</seg>
@@ -7792,6 +7884,8 @@ This one is a title for the dialog and shouldn't have ellipsis
     </tu>
     <tu>
       <note>Not OK
+Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Create Alternative Translation</seg>
@@ -8222,6 +8316,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Define the translation as being empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Delete*</seg>
       </tuv>
     </tu>
@@ -8231,6 +8332,17 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T114331Z">
         <seg>Borttaget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"sets"
+
+Not OK
+
+
+</note>
+      <tuv lang="EN">
+        <seg>Deletes the translation and set the segment as untranslated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11544,6 +11656,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Go To menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Go to</seg>
       </tuv>
     </tu>
@@ -12251,6 +12370,13 @@ den fullständiga sökvägen anges.)</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If checked, source segments will be shown and marked in green.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
@@ -12267,6 +12393,20 @@ den fullständiga sökvägen anges.)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T055858Z">
         <seg>Om ikryssad placeras längre poster först på listan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If checked, the translated segments will be marked in yellow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If checked, the untranslated segments will be marked in violet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12377,6 +12517,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If not checked, source segments will not be shown.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If not given, &lt;a2&gt;OmegaT&lt;/a2&gt; reverts to default values (&lt;a3&gt;OmegaT&lt;/a3&gt; folder under user home or, if unavailable, the current working folder).</seg>
       </tuv>
     </tu>
@@ -12434,6 +12581,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12526,6 +12687,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If there's nothing appearing in the Machine Translate pane, then check the following:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13237,6 +13405,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In the Slovenian version both words have been translated as nouns.</seg>
       </tuv>
     </tu>
@@ -13273,6 +13448,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In the next step, we will add the OmegaT files to the local folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the target document, nothing will appear for this segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15545,6 +15727,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Mark Non-Unique Segments</seg>
@@ -15574,6 +15757,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Mark Translated Segments</seg>
@@ -16157,6 +16341,41 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Moves to the next segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Moves to the previous segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
@@ -16393,6 +16612,7 @@ lämplig plats såsom Programmappen.</seg>
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Next Segment</seg>
@@ -16400,6 +16620,7 @@ lämplig plats såsom Programmappen.</seg>
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Next Translated Segment</seg>
@@ -19084,6 +19305,7 @@ ett lokalt projekt utan teamfunktioner.</seg>
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Previous Note</seg>
@@ -19989,6 +20211,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T165429Z">
         <seg>Ta bort taggar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Remove Translation</seg>
       </tuv>
     </tu>
     <tu>
@@ -21442,6 +21671,13 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Select Match</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;1</seg>
       </tuv>
@@ -21605,6 +21841,13 @@ A: finns i Redigera-menyn
 </note>
       <tuv lang="EN">
         <seg>Select the &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt; icon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23697,6 +23940,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The &lt;x0/&gt; describes the color coding in detail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The Add Finished!</seg>
       </tuv>
     </tu>
@@ -24257,6 +24507,13 @@ användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The entry will be greyed, if there's just one translation available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder (see &lt;x2/&gt;).</seg>
       </tuv>
     </tu>
@@ -24626,6 +24883,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The next segment with a note attached to it, will open.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
     </tu>
@@ -24634,6 +24898,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The obtained API key needs to be passed to OmegaT at startup through &lt;c0&gt;yandex.api.key&lt;/c0&gt; command-line parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The one and the same segment may, depending on the context, require different translations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24729,6 +25000,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The previous segment with a note will open.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24903,6 +25181,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27585,6 +27870,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Use as Default Translation</seg>
@@ -27644,6 +27930,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T065347Z">
         <seg>Använd installationsspråket i OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use this command to register the translation to be identical to the source, even if "Allow translation to be equal to source" (in Options/Editing Behaviour...) is not checked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28028,6 +28321,13 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T193428Z">
         <seg>Alternativ för redigeringsfönstret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>View menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -28610,6 +28910,20 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
 </note>
       <tuv lang="EN">
         <seg>With that option, no locking occurs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history... &lt;/g0&gt;command below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;...command.</seg>
       </tuv>
     </tu>
     <tu>
