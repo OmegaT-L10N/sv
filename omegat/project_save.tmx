@@ -1659,6 +1659,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>(Record as described above, but only recording the command Ctrl+C followed by Ctrl+V.) You can then highlight text between the points at which formatting changes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>(Since this is now the standard format, it is simply described as Word, Excel or Powerpoint in MS Office 2007).</seg>
       </tuv>
     </tu>
@@ -6818,6 +6825,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>After entering these commands, click Stop Recording.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>After nesting:</seg>
       </tuv>
     </tu>
@@ -6871,6 +6885,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Again, OmegaT has excellent file filters for both.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Again, click the main "Office" button, then Word options.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7911,6 +7932,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>At the bottom of the dialog next to Keyboard shortcuts, click on Customize.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8956,6 +8984,14 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Change the line:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T220035Z" creationid="mini-me" creationdate="20171231T220035Z">
+        <seg>Ändra raden:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -9451,6 +9487,14 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Choose Macros from the drop-down list.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Choose SVN repository to perform cleanup</seg>
       </tuv>
@@ -9541,6 +9585,14 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Click Customize &gt; Choose commands.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 </note>
       <tuv lang="EN">
         <seg>Click Popular in the Word Options dialog box.</seg>
@@ -9608,7 +9660,28 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Click on Add.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Click on Assign to assign the shortcut to the macro that you are about to record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Click on Macros and select levelformat (or whatever name you gave to your macro), then Edit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Click on Modify.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9747,6 +9820,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Close the project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Close/confirm the dialogs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10627,6 +10707,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Create a second macro (with its own button and/or keyboard shortcut) of your own that only levels highlighted text, rather than the entire paragraph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Create an empty folder, where you will keep your project and right-click on it.</seg>
       </tuv>
     </tu>
@@ -10828,6 +10915,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Ctrl+C (this copies the paragraph)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Ctrl+Cursor Up (this takes the cursor to the beginning of the paragraph)</seg>
       </tuv>
     </tu>
@@ -10880,6 +10974,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Ctrl+Shift+Cursor Down (this selects the paragraph, including the paragraph mark)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Ctrl+V (this pastes the text of the paragraph back over the paragraph)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14461,6 +14562,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For levelformat, this should be:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For most users, these are not of interest.</seg>
       </tuv>
     </tu>
@@ -14484,6 +14592,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>For subsequent use, all is needed is opening the project like any other &lt;a0&gt;OmegaT&lt;/a0&gt; project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For such paragraphs, consider the following alternatives:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15975,6 +16090,13 @@ den fullständiga sökvägen anges.)</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If all has gone according to plan, your macro should now work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
     </tu>
@@ -17432,6 +17554,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In conjunction with the te-st-notags script, this provides a separate window in which tags are not displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard.</seg>
       </tuv>
     </tu>
@@ -17581,6 +17710,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In paragraphs containing lots of formatting, restoring the deleted formatting can be quite a lot of work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In particular, if you are translating between two languages with different alphabets/writing systems (such as Russian and Japanese), select a font that can be used for both.</seg>
       </tuv>
     </tu>
@@ -17661,6 +17797,13 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T065301Z">
         <seg>Gå till &lt;g0&gt;Projekt&lt;/g0&gt;menyn, välj &lt;m1&gt;&lt;g2&gt;Nytt…&lt;/g2&gt;&lt;/m1&gt; och skriv in ett namn för ditt projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the Categories box, scroll down to Macros and select it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21187,6 +21330,13 @@ ViewOptionsPanel.java: 113
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>More advanced users may wish to try OmegaT's Text Export function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>More can be found in the &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; article by Joel Spolsky.</seg>
       </tuv>
     </tu>
@@ -22586,6 +22736,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T074134Z" creationid="Dorothy" creationdate="20170709T074134Z">
         <seg>Nu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Now simply place the cursor anywhere in the paragraph and press Ctrl+Shift+9 (or whatever other keyboard shortcut you selected), and you should see the formatting disappear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24470,6 +24627,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Paragraphs that you have not "levelled" will then contain nuisance tags, but at least the others will be much "cleaner".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Paragraphs, sections and tables are set to bidi</seg>
       </tuv>
     </tu>
@@ -24647,6 +24811,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T094455Z" creationid="mini-me" creationdate="20171230T094455Z">
         <seg>Persiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Pick a symbol, then OK &gt; OK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27381,6 +27552,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Save with Ctrl+S, and close the macro editing window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Saves the current work to the internal translation memory (file project_save.tmx located in the project's &lt;f0&gt;omegat&lt;/f0&gt; folder).</seg>
       </tuv>
     </tu>
@@ -28167,6 +28345,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Select "levelformat" (or whatever you called it).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Q: behöver kolla vad dessa "Select" gör (i GUI)
 A: finns i Redigera-menyn
 </note>
@@ -28429,6 +28614,13 @@ A: finns i Redigera-menyn
 </note>
       <tuv lang="EN">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Select your macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31592,6 +31784,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The code of your macro(s) will be displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team.</seg>
       </tuv>
     </tu>
@@ -31757,6 +31956,13 @@ användas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T075819Z">
         <seg>Aktuellt projekt måste läsas in på nytt för att ändringarna ska börja gälla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The current shortcut will be displayed in the relevant box.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33334,6 +33540,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The symbol for your macro should appear in the toolbar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The syntax of the language pattern conforms to regular expression syntax.</seg>
       </tuv>
     </tu>
@@ -33706,6 +33919,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Then move the end of the highlighting one character to the left so that it does not include the paragraph mark.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Then on the right, under Macros, select levelformat (or whatever you called your macro).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34744,6 +34964,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This macro is useful for levelling the formatting of a whole paragraph that contains no visible formatting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This mailing list is for localizers of OmegaT.</seg>
       </tuv>
     </tu>
@@ -34981,6 +35208,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This will level the formatting over sections of text that have the same, desired formatting, and you will not then need to restore deleted formatting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35254,6 +35488,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To do this, click the main "Office" button, then Word options (bottom right of the dialog).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To duplicate tag groups, just copy them in the position of your choice.</seg>
       </tuv>
     </tu>
@@ -35517,6 +35758,13 @@ finns inget menu entry called that
 </note>
       <tuv lang="EN">
         <seg>To support the OmegaT project financially</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To test it, add some formatting to your Word document, for example by making one word bold.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36899,6 +37147,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Use Dave Turner's CodeZapper macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Use Search and Replace to remove double spaces (replacing them with a single space).</seg>
       </tuv>
     </tu>
@@ -37011,6 +37266,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T065347Z">
         <seg>Använd installationsspråket i OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Use the level formatting macro only on paragraphs with little or no formatting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38139,6 +38401,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Where a paragraph contains desired formatting, you must restore the deleted formatting after levelling the paragraph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Where circumstances permit, unifying used fonts, font sizes, colors, etc. should be considered, as it could simplify the translation and reduce the potential for tag errors.</seg>
       </tuv>
     </tu>
@@ -38917,6 +39186,13 @@ därifrån.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can change the keyboard shortcut at any time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
       </tuv>
     </tu>
@@ -38925,6 +39201,13 @@ därifrån.</seg>
 </note>
       <tuv lang="EN">
         <seg>You can check that yourself by selecting the item &lt;e0&gt;File Filters&lt;/e0&gt; in the menu &lt;e1&gt;Options&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can clear it by selecting it and hitting Delete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39165,6 +39448,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can then enter a new shortcut and assign it with Assign as you did before.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You can then launch the Kaptain launch script with:</seg>
       </tuv>
@@ -39205,6 +39495,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
 </note>
       <tuv lang="EN">
         <seg>You can use &lt;g3&gt;Ctrl+A &lt;i4/&gt;&lt;/g3&gt;&lt;g5&gt;, Ctrl+C &lt;i6/&gt;&lt;/g5&gt;, &lt;g7&gt;Ctrl+V &lt;i8/&gt;&lt;/g7&gt; to copy/paste the contents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can use a similar procedure to create a button for your macro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39344,6 +39641,13 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You must still handle tags properly when producing and editing your translation, but you can view it in a separate window without the clutter of tags ("tag soup").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You need to be online to be able to use an MT tool.</seg>
       </tuv>
     </tu>
@@ -39362,6 +39666,13 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
 </note>
       <tuv lang="EN">
         <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You should see the macro command appear in the right-hand column.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41033,6 +41344,9 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>to:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20171231T220038Z">
+        <seg>till:</seg>
       </tuv>
     </tu>
     <tu>
