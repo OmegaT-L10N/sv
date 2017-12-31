@@ -26,6 +26,20 @@
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
@@ -1678,6 +1692,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>/docs/</seg>
       </tuv>
     </tu>
@@ -2187,6 +2208,20 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download&lt;e1&gt; OmegaT_3.n.n_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
       </tuv>
     </tu>
@@ -2354,6 +2389,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_3.n.n_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout folder and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
@@ -2469,6 +2511,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2741,6 +2790,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Creating a glossary&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;File format&lt;/s1&gt;</seg>
       </tuv>
     </tu>
@@ -2755,7 +2811,49 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Location of the writable glossary file&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Microsoft Terminology collection&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Priorities&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Problems with glossaries&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;TBX format&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Trados MultiTerm&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Installing OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3021,6 +3119,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Right to left languages&lt;/p0&gt; &lt;s1&gt;Target files&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt; &lt;t2&gt;INI file&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3377,6 +3489,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; &lt;i1/&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>===============</seg>
       </tuv>
@@ -3396,6 +3515,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A copy of the filters configuration will be stored with the project in this case.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3860,6 +3986,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Advanced feature HowTos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Advice: if OmegaT works slowly in Remote Desktop sessions under Windows, you may use this option:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4574,6 +4707,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
     </tu>
@@ -4605,6 +4745,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T092410Z">
         <seg>Assamesiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6124,6 +6271,13 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Common glossary problems</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Comparison Mode:</seg>
       </tuv>
@@ -6858,6 +7012,13 @@ hittar inte</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Data exported from Trados MultiTerm can be used as &lt;a0&gt;OmegaT&lt;/a0&gt; glossaries without further modification, provided they are given the file extension &lt;f1&gt;.tab&lt;/f1&gt; and the source and target term fields are the first two fields respectively.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
@@ -7375,6 +7536,13 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Do you have a Java implementation compatible with Oracle's Java 1.6 JRE?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
@@ -7625,6 +7793,13 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T174829Z">
         <seg>Laddar ned projekt…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Downloading the package</seg>
       </tuv>
     </tu>
     <tu>
@@ -10334,6 +10509,13 @@ history historik
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>How to create glossaries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>How to download and install dictionaries</seg>
       </tuv>
     </tu>
@@ -10897,6 +11079,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you export using the system option "Tab-delimited export", you will need to delete the first 5 columns (Seq.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
       </tuv>
     </tu>
@@ -10922,6 +11118,13 @@ is to use Java Web Start.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T122944Z">
         <seg>Om du redan har Java installerat i ditt system, är Java Web Start ett sätt att
 installera OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11281,6 +11484,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In the next step, we will add the OmegaT files to the local folder.</seg>
       </tuv>
     </tu>
@@ -11532,6 +11742,14 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Installing OmegaT (Linux)
 =========================</seg>
@@ -11569,6 +11787,13 @@ Not OK
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T054241Z">
         <seg>Installera OmegaT (Windows)
 ===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12671,6 +12896,13 @@ LanguageTool will find errors for which a rule has been defined in its language-
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170812T145350Z">
         <seg>Senare anrop behöver inte göras online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e0&gt;start&lt;/e0&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; to the desktop or to the start menu to link it from there.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14164,6 +14396,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>No glossary file found in the "glossary" folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
@@ -14492,11 +14731,25 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T071244Z">
         <seg>Anteckningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14585,6 +14838,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T162330Z">
         <seg>Antal matchande segment: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Nr, Date created etc).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15257,6 +15517,13 @@ installeras i ditt system.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can click on &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.jar&lt;/e1&gt; to launch it directly or you can launch it directly from the command line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
       </tuv>
     </tu>
@@ -15326,6 +15593,13 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16480,6 +16754,13 @@ ett lokalt projekt utan teamfunktioner.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Priority glossary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
       </tuv>
     </tu>
@@ -16497,6 +16778,20 @@ ett lokalt projekt utan teamfunktioner.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T175418Z">
         <seg>Ett problem uppstod när projektet lästes in!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Problem: No glossary terms are displayed - possible causes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17737,6 +18032,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
     </tu>
@@ -17810,6 +18112,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T062744Z">
         <seg>Kör skript i fack nr {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Running &lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20079,6 +20388,13 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>TM Matches</seg>
       </tuv>
@@ -21081,7 +21397,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The contents of the checkout folder will be marked accordingly:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21269,6 +21599,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The following example for the INI file reserves 1GB of memory, requests French as the user language and Canada as the country:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
     </tu>
@@ -21340,6 +21677,27 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The glossary file does not have the correct encoding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The glossary file is empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
     </tu>
@@ -21383,6 +21741,13 @@ och i snabbstart-området.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The items are not separated with a TAB character.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
@@ -21390,6 +21755,13 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T212323Z">
         <seg>Språkkoden ska vara i formatet xx-YY, xxx-YY, xx_YY eller xxx_YY, där
 xx eller xxx är språkkoden och YY är regions- eller landskoden (valfri).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The last frame offers you to have a look at the readme and changes files for the version you have installed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21414,6 +21786,13 @@ i /lib/licenses/Licenses.txt.</seg>
 </note>
       <tuv lang="EN">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21576,6 +21955,13 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The project was converted successfully.</seg>
       </tuv>
@@ -21605,11 +21991,25 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The recognized extensions are &lt;f1&gt;TXT&lt;/f1&gt; and &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The repository is empty at this moment.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171216T061721Z" creationid="Dorothy" creationdate="20171216T061721Z">
         <seg>Arkivet är tomt i detta läge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21703,6 +22103,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The shortcuts &lt;k2&gt;Ctrl+A&lt;/k2&gt; and &lt;k3&gt;Ctrl+C&lt;/k3&gt; work in panes, allowing to copy all or some of the information to the clipboard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The simplest way to launch OmegaT, however, is to execute the&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.exe&lt;/e0&gt; program.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22020,6 +22427,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>There are several methods to specify the file's encoding so that its contents are not garbled when opened in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
@@ -22035,6 +22449,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>There are two strategies for segments that contain only such invariable text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22230,6 +22651,13 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T100220Z">
         <seg>Detta ID används redan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22476,6 +22904,13 @@ från servern.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This project</seg>
       </tuv>
@@ -22694,6 +23129,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, double-click on the program you have downloaded.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23813,6 +24255,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Upgrading...</seg>
       </tuv>
@@ -24162,6 +24611,13 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T220808Z" creationid="mini-me" creationdate="20171209T220808Z">
         <seg>Att använda OmegaT på Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Using Trados MultiTerm</seg>
       </tuv>
     </tu>
     <tu>
@@ -24823,6 +25279,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T055801Z" creationid="mini-me" creationdate="20171218T055801Z">
         <seg>Windows Resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Windows Users</seg>
       </tuv>
     </tu>
     <tu>
