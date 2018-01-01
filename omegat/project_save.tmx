@@ -8,6 +8,20 @@
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>"Aligner" aligner utility</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>"Bligner" aligner utility</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>"Google Translate returned HTTP response code: 403 ...": check that the 38-characters key, entered in the pinfo.list file, is correct.</seg>
       </tuv>
     </tu>
@@ -1757,6 +1771,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>(Note to Ubuntu users: the font implementation of the default tcl/tk installation in Ubuntu at the present time (version 9.10) is appalling, but can be rectified.)</seg>
       </tuv>
     </tu>
@@ -3067,6 +3088,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171231T111142Z" creationid="mini-me" creationdate="20171231T111142Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; arbetar med tre filtyper.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6805,6 +6833,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A &lt;a0&gt;HowTo describing the tokenizers plug-in&lt;/a0&gt; is also available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
       </tuv>
     </tu>
@@ -8764,6 +8799,13 @@ line head
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Apertium Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Apertium uses a shallow-transfer machine translation engine which processes the input text in stages, as in an assembly line: de-formatting, morphological analysis, part-of-speech disambiguation, shallow structural transfer, lexical transfer, morphological generation, and re-formatting.</seg>
       </tuv>
     </tu>
@@ -9056,6 +9098,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>As this is the standard behavior for PO files, it is on by default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9856,6 +9905,13 @@ hittar inte
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171231T222828Z">
         <seg>Webbläsare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Browser plugin</seg>
       </tuv>
     </tu>
     <tu>
@@ -10853,6 +10909,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Checks for language errors (style, grammar, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Chichewa, Chewa, Nyanja</seg>
       </tuv>
     </tu>
@@ -11783,6 +11846,27 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Continuing Professional Development is the current buzzword!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Contributed by Didier Briel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Contributed by Dmitri Gabinski.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Contributed by Henry Pijffers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14464,6 +14548,13 @@ Här är det &lt;b&gt; runt referensen, inte på andra platser?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Enables external scripts to access OmegaT's functionality.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>.utf8?
 </note>
       <tuv lang="EN">
@@ -15456,6 +15547,13 @@ inte "kompilera"
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T093112Z" creationid="mini-me" creationdate="20171230T093112Z">
         <seg>Färöiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Fast access to websites.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19721,6 +19819,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Important: this whole command must appear on one line (even if it appears to be on two lines in the display in which you are reading this).</seg>
       </tuv>
     </tu>
@@ -21142,6 +21247,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Integration manager</seg>
       </tuv>
     </tu>
@@ -21711,6 +21823,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It may be necessary to do this for each document, in which case the procedure in Word 2007 is: Click the Page Layout tab; in the Page Setup group, click Hyphenation; then click None.</seg>
       </tuv>
     </tu>
@@ -21990,6 +22109,20 @@ vid första körningen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Java Web Start technology (part of Java 1.6 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Java command-line script for merging two or more TMX files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22420,6 +22553,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T105622Z">
         <seg>LanguageTool finns inte tillgängligt för projektets målspråk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>LanguageTool plug-in</seg>
       </tuv>
     </tu>
     <tu>
@@ -26001,6 +26141,13 @@ also --&gt; still
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Okapi Filters Plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic</seg>
       </tuv>
     </tu>
@@ -27780,6 +27927,14 @@ Not OK
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other OmegaT resources</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T190101Z" creationid="mini-me" creationdate="20180101T190101Z">
+        <seg>Andra OmegaT-resurser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other Options:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171205Z">
@@ -29445,6 +29600,20 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T225242Z">
         <seg>Leverantör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31386,6 +31555,13 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
 </note>
       <tuv lang="EN">
         <seg>Scripting languages</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Scripting plug-in</seg>
       </tuv>
     </tu>
     <tu>
@@ -40929,6 +41105,13 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tokenizers plug-in</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Tonga (Tonga Islands)</seg>
       </tuv>
@@ -42946,6 +43129,14 @@ sökbara utan prenumeration:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Utilities</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T190149Z" creationid="mini-me" creationdate="20180101T190149Z">
+        <seg>Hjälpmedel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uzbek</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T095419Z" creationid="mini-me" creationdate="20171230T095419Z">
@@ -43308,6 +43499,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
 </note>
       <tuv lang="EN">
         <seg>Website manager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Website support can be scripted in Groovy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44191,6 +44389,22 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T171110Z">
         <seg>Angiven skrivbar mapp för gloslistor finns inte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T190314Z" creationid="mini-me" creationdate="20180101T190207Z">
+        <seg>Skriven i Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python/Perl.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T190329Z" creationid="mini-me" creationdate="20180101T190329Z">
+        <seg>Skriven i Python/Perl.</seg>
       </tuv>
     </tu>
     <tu>
