@@ -9903,6 +9903,13 @@ hittar inte
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>Brief introduction to OmegaT, 2009 (in Vietnamese).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
@@ -10032,6 +10039,27 @@ hittar inte
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>By Asier Sarasua Garmendia (in Basque).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>By Corinne McKay (in English).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>By Leo Viëtor (in Dutch).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
@@ -10065,6 +10093,13 @@ hittar inte
     </tu>
     <tu>
       <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>By Takashi Miyamoto (in Japanese).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 
 kolla </note>
       <tuv lang="EN">
@@ -10072,6 +10107,20 @@ kolla </note>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T220419Z" creationid="mini-me" creationdate="20171209T220419Z">
         <seg>Av Vladimir Zjdanov (på Ryska).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>By Václav Hejda (in Czech).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>By Yutaka Kachi (in Japanese).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10367,6 +10416,13 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
 </note>
       <tuv lang="EN">
         <seg>Certain other CAT tools (such as TRADOS) are able to export different TMX files in different versions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11854,6 +11910,13 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>Contains a comprehensive description of OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 </note>
       <tuv lang="EN">
         <seg>Contains options for displaying texts and modification information in different ways.</seg>
@@ -12922,6 +12985,13 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>Degree thesis by Sébastien Guillardeau, 2010 (in German).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 </note>
       <tuv lang="EN">
         <seg>Delete any launch scripts and remove any custom entries for OmegaT in your desktop.</seg>
@@ -13101,6 +13171,14 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T162114Z">
         <seg>Beskrivning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>Description of OmegaT (2008).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20049,6 +20127,13 @@ på den genvägen.</seg>
     </tu>
     <tu>
       <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>In PCW.GR (in Greek).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 </note>
       <tuv lang="EN">
         <seg>In TMX, the paragraph-level tag corresponding to a segment is "tu".</seg>
@@ -24398,6 +24483,13 @@ TMX_MERGE__MINE
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>Mini-review of OmegaT, 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Minimize</seg>
       </tuv>
@@ -26350,6 +26442,13 @@ also --&gt; still
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT 3.5 - User's Guide</seg>
       </tuv>
     </tu>
@@ -26924,6 +27023,22 @@ att startas.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT match, including numbers, tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT on Wikipedia</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191209Z" creationid="mini-me" creationdate="20180101T191209Z">
+        <seg>OmegaT på Wikipedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT on Wikipedia &lt;s0&gt;25 languages&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191224Z" creationid="mini-me" creationdate="20180101T191224Z">
+        <seg>OmegaT på Wikipedia &lt;s0&gt;25 språk&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31154,11 +31269,48 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Review of OmegaT 1.6 RC5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>Review of OmegaT 1.6.1_1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
       <tuv lang="EN">
         <seg>Review of OmegaT 2.3.0.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20180101T191006Z" creationid="mini-me" creationdate="20180101T191006Z">
         <seg>Recension av OmegaT 2.3.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 11 April 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+Recension</note>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 2010.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34135,6 +34287,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T165508Z">
         <seg>Dela text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Sponsorship</seg>
       </tuv>
     </tu>
     <tu>
@@ -37156,6 +37315,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40847,6 +41013,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To customize the work with tags, one can set down some of the rules in the &lt;g0&gt;Options &gt; Tag validation...&lt;/g0&gt; window:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To date, these sponsors are:</seg>
       </tuv>
     </tu>
     <tu>
