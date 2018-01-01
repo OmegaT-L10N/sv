@@ -1835,6 +1835,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>(The tokenizer can be used with versions 2.0.x and 2.1.0, but this requires both a different version of the tokenizer, and a different installation procedure.) Users are advised to upgrade to the latest beta version of OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
       </tuv>
     </tu>
@@ -2117,6 +2124,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>- It is string-oriented, making it particularly suitable for applications involving text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>- It is widely used, so help can be found on the Internet&lt;br2/&gt;</seg>
       </tuv>
     </tu>
@@ -2139,6 +2153,20 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
 </note>
       <tuv lang="EN">
         <seg>- OmegaT uses "Client ID" and "Client secret" information of which you registered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- On Linux, on the command line&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- On Windows, by clicking on the launch script file</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2218,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>- The Tk component makes it easy to produce graphical user interfaces&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>- The content of the segment source text, when the segment is opened&lt;br0/&gt;</seg>
       </tuv>
     </tu>
@@ -2198,6 +2233,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>- The content of the segment target text, when the segment is opened&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- There are many good books and other resources available for it (at least in English)&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2641,8 +2683,6 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>2.</seg>
       </tuv>
@@ -3026,6 +3066,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;www.dci.clrc.ac.uk/Publications/Cookbook/index.html&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; can also be used for this purpose.</seg>
       </tuv>
     </tu>
@@ -3062,6 +3109,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a2&gt;www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html&lt;/a2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a4&gt;www.tutorialspoint.com/tcl-tk/&lt;/a4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6550,7 +6611,42 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux versions/systems&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT or OmegaT.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT version 2.1.0 and older&lt;/s0&gt;: the current tokenizer is not compatible with these versions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Platform-neutral version (on Windows)&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT.bat).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Webstart version of OmegaT&lt;/s0&gt;: the tokenizer is not compatible with the Webstart version of OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Windows versions of OmegaT&lt;/s0&gt;: in order for OmegaT (any version) to be used with the tokenizer, it must be launched from a launch script file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6778,6 +6874,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A hint: translating a plain text version of the text and adding the necessary style in the relevant application at a later stage may turn out to be less hassle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A launch script file is not supplied with the Windows OmegaT versions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7520,6 +7623,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>After downloading, place the file in the main OmegaT folder (the folder containing the file OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>After duplication:</seg>
       </tuv>
     </tu>
@@ -7542,6 +7652,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>After nesting:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>After preparing for installation (see above), install the tokenizer as follows:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9380,6 +9497,13 @@ hittar inte</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Before using the tokenizer with OmegaT, you must first ensure that your version of OmegaT is suitable and prepared for use with it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
     </tu>
@@ -10470,6 +10594,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Check that OmegaT is launched when you execute the launch script file:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Check that spelling checking is enabled in the spelling checking dialog.</seg>
       </tuv>
     </tu>
@@ -10622,6 +10753,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T104045Z">
         <seg>Välj målfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Choose a tokenizer from the following list, according to your &lt;s0&gt;source&lt;/s0&gt; language:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11619,6 +11757,13 @@ This one is a title for the dialog and shouldn't have ellipsis
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Copy the files that you have unzipped from the tokenizer package directly into this sub-folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
       </tuv>
     </tu>
@@ -12558,6 +12703,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Depending upon your system configuration, the launch command may be slightly different.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Describes OmegaT's compatibility with Déjà Vu.</seg>
       </tuv>
     </tu>
@@ -13458,6 +13610,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T212410Z">
         <seg>Ladda ner samling {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Download the &lt;a0&gt;tokenizer zip package (for OmegaT version 2.1.1 and later)&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15697,6 +15856,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For beginners, several online tutorials are available, such as:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ska "Alternativ" finnas med i sökvägen
 </note>
       <tuv lang="EN">
@@ -15844,6 +16010,13 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For example, it will recognize inflected words in texts and display the corresponding glossary entry, even if the glossary entry contains only the uninflected form of a word.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18460,6 +18633,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you are serious about learning tcl/tk, "Practical Programming in Tcl and Tk" by Brent Welch, ISBN: 0-13-038560-3 is strongly recommended.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>src: mellanslag innan komma
 
 Not OK
@@ -18549,6 +18729,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If you are using an earlier version of OmegaT, upgrading your OmegaT installation is recommended.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you are using the Windows version with JRE, download the file &lt;a1&gt;OmegaT_with_JRE.bat&lt;/a1&gt;; If you are using the Windows version without JRE, download the file &lt;a2&gt;OmegaT_without_JRE.bat&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18737,6 +18924,13 @@ installera OmegaT.</seg>
 </note>
       <tuv lang="EN">
         <seg>If you have any questions, the &lt;a0&gt;OmT-l10n list&lt;/a0&gt; is the best place to post them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you have been using the tokenizer plug-in with an earlier version of OmegaT and have upgraded to version 3.0.0 or later of OmegaT, delete the tokenizer plug-in files from your plug-in folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19016,6 +19210,13 @@ installera OmegaT.</seg>
 </note>
       <tuv lang="EN">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you wish to use the tokenizer, install the standard version of OmegaT (latest beta version) for your system.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19845,6 +20046,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In the main OmegaT program folder (i.e. the folder containing the file OmegaT.jar), create a sub-folder called "plugins", if a sub-folder with this name does not already exist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In the main folder of the source code, open the file manifest-template.mf in a text editor.</seg>
       </tuv>
     </tu>
@@ -20490,11 +20698,25 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Installing the tokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Instant Start</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170717T080424Z">
         <seg>Snabbstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Instead, launch a text editor (such as Notepad or Wordpad), then open the launch script file with File &gt; Open.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21107,6 +21329,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It owes its origins to the use of MS Word as an interface for the Trados CAT tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It provides better fuzzy and glossary matches in OmegaT, by computing the roots ("stemming") of the source words.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26601,6 +26830,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Open your launch script file in a text editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
@@ -27860,6 +28096,13 @@ ytterligare åtgärder behöver vidtas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T081339Z">
         <seg>Premium Edition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Preparation</seg>
       </tuv>
     </tu>
     <tu>
@@ -34423,6 +34666,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The OmegaT tokenizer is a plugin for OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The OmegaT version usually supplied is the "Standard" version.</seg>
       </tuv>
     </tu>
@@ -34706,6 +34956,13 @@ Försök att rätta till felet och ladda om projektet.</seg>
 </note>
       <tuv lang="EN">
         <seg>The basic command has already been mentioned above.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The basic form of this command is:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35417,6 +35674,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The following information is therefore applicable only if you are using a version of OmegaT earlier than 3.0.0.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
       </tuv>
     </tu>
@@ -35706,6 +35970,13 @@ xx eller xxx är språkkoden och YY är regions- eller landskoden (valfri).</seg
 </note>
       <tuv lang="EN">
         <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The launch file script contains the OmegaT launch command.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36948,6 +37219,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The tmx file can be given any name you specify.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38396,6 +38674,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This is important: when you export the XML file from the PDF, Infix makes a note in the file of where all the pieces of text ("stories") belong, so you must use this version of the file when re-importing the translated XML file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is likely to be a little too technical for complete newcomers to programming, but after working through one of the online tutorials, they should find it useful.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40978,6 +41263,13 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Unzip the files from the tokenizer zip package.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Updated</seg>
       </tuv>
@@ -42668,6 +42960,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Windows users (in particular): do &lt;s0&gt;not&lt;/s0&gt; simply click on this file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Windows users who are not already using Firefox can &lt;a1&gt;download it from www.mozilla.org&lt;/a1&gt;; most Linux users will already have it installed, or can install it via their distributions' repositories.</seg>
       </tuv>
     </tu>
@@ -43778,6 +44077,13 @@ att använda installations-skriptet (linux-install.sh).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T063048Z">
         <seg>Du har nått den dagliga gränsen för mängd översatt text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You may also be able to right-click with the mouse on the file, then select a text editor in which to open it.</seg>
       </tuv>
     </tu>
     <tu>
