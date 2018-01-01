@@ -7322,6 +7322,14 @@ Not OK
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191404Z" creationid="mini-me" creationdate="20180101T191404Z">
+        <seg>Om</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T101842Z">
@@ -11821,6 +11829,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Connect</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
@@ -11892,6 +11907,22 @@ Not OK
         <seg>Console-translate läge:
 	--source-pattern=&lt;mönster&gt;
 		En regex-vitlista över källfiler som ska behandlas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191413Z" creationid="mini-me" creationdate="20180101T191413Z">
+        <seg>Kontakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191519Z" creationid="mini-me" creationdate="20180101T191519Z">
+        <seg>Kontakt och support</seg>
       </tuv>
     </tu>
     <tu>
@@ -13832,6 +13863,14 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170717T080311Z">
         <seg>Docka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191408Z" creationid="mini-me" creationdate="20180101T191408Z">
+        <seg>Dokumentation</seg>
       </tuv>
     </tu>
     <tu>
@@ -18092,6 +18131,14 @@ history historik
 </note>
       <tuv lang="EN">
         <seg>How will I know when I reach my monthly usage limit?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191552Z" creationid="mini-me" creationdate="20180101T191552Z">
+        <seg>Anvisningar</seg>
       </tuv>
     </tu>
     <tu>
@@ -26830,6 +26877,13 @@ och översättningshantering till uppdaterade projekt.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT is a free, open-source translation memory program.</seg>
       </tuv>
     </tu>
@@ -28438,6 +28492,14 @@ Not OK
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191454Z" creationid="mini-me" creationdate="20180101T191454Z">
+        <seg>Sidan kunde inte hittas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T202142Z">
@@ -28689,6 +28751,14 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T094455Z" creationid="mini-me" creationdate="20171230T094455Z">
         <seg>Persiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191542Z" creationid="mini-me" creationdate="20180101T191542Z">
+        <seg>Filosofi</seg>
       </tuv>
     </tu>
     <tu>
@@ -31186,6 +31256,14 @@ Not OK
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191420Z" creationid="mini-me" creationdate="20180101T191420Z">
+        <seg>Resurser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170717T080347Z">
@@ -31311,6 +31389,14 @@ Recension</note>
 Recension</note>
       <tuv lang="EN">
         <seg>Review of OmegaT, 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191610Z" creationid="mini-me" creationdate="20180101T191610Z">
+        <seg>Recensioner</seg>
       </tuv>
     </tu>
     <tu>
@@ -36053,6 +36139,14 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T215004Z">
         <seg>Mozilla DTD-filtret kastade ett undantag:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191443Z" creationid="mini-me" creationdate="20180101T191443Z">
+        <seg>OmegaT-projektet</seg>
       </tuv>
     </tu>
     <tu>
