@@ -3418,6 +3418,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
@@ -44091,6 +44092,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>http://belazar.info/</seg>
       </tuv>
     </tu>
@@ -44140,6 +44155,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>http://download.services.openoffice.org/files/contrib/dictionaries/&lt;br0/&gt;</seg>
       </tuv>
     </tu>
@@ -44147,7 +44169,91 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://git-scm.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>http://mymemory.translated.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://subversion.apache.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -44169,6 +44275,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://tortoisesvn.net/</seg>
       </tuv>
     </tu>
     <tu>
@@ -44197,6 +44310,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://www.languagetool.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://www.languagetool.org/languages/</seg>
       </tuv>
     </tu>
     <tu>
