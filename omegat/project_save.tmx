@@ -19362,6 +19362,13 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Important: this whole command must appear on one line (even if it appears to be on two lines in the display in which you are reading this).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Other commands refer to "downloading" Wiki Page, this one says "Import". Should be "Download ..." / "Failed to download ..."
 </note>
       <tuv lang="EN">
@@ -27089,6 +27096,13 @@ Not OK
 	Enbart sökväg till projekt: Starta GUI och läs in angivet projekt
 	team
 		Verktyg för teamprojekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Or if you are translating from Turkish, it might now be:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45575,6 +45589,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</seg>
       </tuv>
     </tu>
     <tu>
