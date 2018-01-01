@@ -1810,6 +1810,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
@@ -2879,6 +2886,13 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Download LibreOffice here&lt;/a0&gt;; &lt;a1&gt;download the Unoconv plug-in here&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6632,6 +6646,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Platform-neutral version (on Windows)&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT.bat).</seg>
       </tuv>
     </tu>
@@ -7616,6 +7637,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>After creating a launch script as described above, you can configure your system so that OmegaT is launched more conveniently, for example by creating a shortcut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>After creating and testing the shortcut, you can add it to the Start menu by dragging it there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>After deletion:</seg>
       </tuv>
     </tu>
@@ -8105,6 +8140,13 @@ hittar inte denna!
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200610Z">
         <seg>Alternativt språk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Alternatively, right-click on the launch script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10720,6 +10762,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T142759Z">
         <seg>Kinesiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Choose "Create Shortcuts Here".</seg>
       </tuv>
     </tu>
     <tu>
@@ -14934,6 +14983,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Execute this file, and OmegaT should now launch with the tokenizer function.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
@@ -16160,6 +16216,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For instance, if you are translating from Chinese to Dutch, try:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For instance, plain text files.</seg>
       </tuv>
     </tu>
@@ -16631,6 +16694,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Fuzzy matching</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>GNOME Users</seg>
       </tuv>
     </tu>
@@ -16702,6 +16772,15 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T163408Z">
         <seg>Hämta API-nyckel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>kom igång
+
+Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Get Started with OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -19223,6 +19302,13 @@ installera OmegaT.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you wish to use different tokenizers because you translate from more than one language, create a separate OmegaT launch script file for each tokenizer you wish to use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
     </tu>
@@ -19864,6 +19950,13 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T074641Z" creationid="Dorothy" creationdate="20170709T074641Z">
         <seg>I kä&amp;lla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In some cases, you may find that the source-language tokenizer interferes with the target-language spelling checker.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21056,6 +21149,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>It does not translate for you!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>It enables editors who do not possess Déjà Vu to edit translations produced in Déjà Vu in such a way that amendments can be reincorporated easily.</seg>
       </tuv>
     </tu>
@@ -21092,6 +21192,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It is a tool intended for professional translators.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23384,6 +23491,13 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Match propagation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 Not OK
 </note>
       <tuv lang="EN">
@@ -24237,6 +24351,13 @@ lämplig plats såsom Programmappen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Name the image NewImage.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Name the launch script files appropriately, for example "OmegaT-EN.bat" for the launch script file containing the command with the English tokenizer and "OmegaT-TR.bat" for the launch script file containing the command with the Turkish tokenizer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25546,6 +25667,13 @@ also --&gt; still
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171231T215409Z" creationid="mini-me" creationdate="20171231T215409Z">
         <seg>OmegaT 4.0 eller senare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28479,6 +28607,13 @@ När kör det?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Professional features</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Programmers and scripters can use the files containing this text in order to add further functions to OmegaT.</seg>
       </tuv>
     </tu>
@@ -30151,6 +30286,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Right-click on the launch script (OmegaT.bat), then keeping the right mouse button depressed, drag the script to a convenient location, such as your desktop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher.&lt;/e0&gt;</seg>
       </tuv>
     </tu>
@@ -31705,6 +31847,13 @@ A: finns i Redigera-menyn
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Select: "Send to", then select "Desktop (create shortcut)".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Select&lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; The following dialog appears:</seg>
       </tuv>
     </tu>
@@ -32196,6 +32345,20 @@ Visas i fönstret "Skriptverktyg"</note>
 </note>
       <tuv lang="EN">
         <seg>Simply unpack the archive in the folder of your choice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Simultaneous processing of multiple-file projects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Simultaneous use of multiple translation memories</seg>
       </tuv>
     </tu>
     <tu>
@@ -39442,6 +39605,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To create a shortcut in Windows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
       </tuv>
     </tu>
@@ -39923,6 +40093,13 @@ finns inget menu entry called that
 </note>
       <tuv lang="EN">
         <seg>To test the user interface:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To test, check whether glossary entries are displayed even when the current OmegaT segment contains a term in an inflected form from that in the glossary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42180,6 +42357,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Vietnamese</seg>
       </tuv>
@@ -42756,6 +42940,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>When you move to the next segment, the first fuzzy match (the one with the best matching percentage) is automatically selected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>When you release the right click, a dialog opens with a number of options.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43750,6 +43941,13 @@ saknar ellips</note>
 </note>
       <tuv lang="EN">
         <seg>You can either enter the source and target languages by hand or use the drop down menus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can eliminate this problem by specifying a tokenizer for the target language as well (where available), with the argument --ITokenizerTarget=.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45589,6 +45787,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.LuceneChineseTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneDutchTokenizer</seg>
       </tuv>
     </tu>
     <tu>
