@@ -34195,6 +34195,14 @@ GlossaryAutoCompleterOptionsPanel.java: 108
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191926Z" creationid="mini-me" creationdate="20180101T191926Z">
+        <seg>Källkod</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
