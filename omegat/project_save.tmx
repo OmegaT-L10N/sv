@@ -37266,7 +37266,12 @@ Not OK
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
+      <note>8. OmegaT Files and Folders
+
+    1. Translation project files
+    2. User settings files
+
+Not OK
 </note>
       <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder (for the location of the OmegaT user files folder on your operating system, see the User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files):</seg>
@@ -39311,7 +39316,9 @@ Not OK
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
+      <note>I can't find this function!
+
+Not OK
 </note>
       <tuv lang="EN">
         <seg>Then tick the "Export the segment to text files" box.</seg>
