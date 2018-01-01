@@ -3418,7 +3418,6 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
-Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
@@ -4033,6 +4032,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170724T194138Z">
         <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Gloslistor:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;http://fsf.org/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9517,6 +9523,14 @@ hittar inte
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T092714Z" creationid="mini-me" creationdate="20171230T092714Z">
         <seg>Burmesiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>But first, please read
+&lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15800,6 +15814,14 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For more information on this, and how to apply and follow the GNU GPL, see
+&lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For most users, these are not of interest.</seg>
       </tuv>
     </tu>
@@ -17788,6 +17810,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If not, see &lt;http://www.gnu.org/licenses/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44113,6 +44142,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>http://code.google.com/p/tortoisegit/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>http://datamarket.azure.com/</seg>
       </tuv>
     </tu>
@@ -44253,6 +44289,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>http://projectlocker.com/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>http://subversion.apache.org</seg>
       </tuv>
     </tu>
@@ -44330,6 +44380,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>http://www.omegat.org</seg>
       </tuv>
     </tu>
@@ -44369,6 +44426,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
       </tuv>
     </tu>
     <tu>
