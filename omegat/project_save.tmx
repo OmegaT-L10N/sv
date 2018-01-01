@@ -1750,6 +1750,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>(It will, of course, check for Bolivian rather than Mexican Spanish!)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>(Note: these are the English files.</seg>
       </tuv>
     </tu>
@@ -2082,6 +2089,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>- Highlighted text in the target text, when the relevant shortcut is pressed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>- Launch OmegaT and open your project.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
@@ -2142,6 +2156,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>- Select [Options] &gt; [Machine Translate]&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- The content of the segment source text, when the segment is opened&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- The content of the segment target text, when the segment is opened&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8748,6 +8776,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>At present, the data exported are:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
       </tuv>
     </tu>
@@ -9315,6 +9350,13 @@ hittar inte</note>
 </note>
       <tuv lang="EN">
         <seg>Beneath these lines, you can also insert the code:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Besides being available from the repositories above, spelling dictionaries are available as part of LibreOffice and OpenOffice.org installations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10338,6 +10380,27 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Check that &lt;u0&gt;Translate API service &lt;/u0&gt;has been activated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check that spelling checking is enabled in the spelling checking dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check that the .dic and .aff files for your language are present in the spelling dictionary folder, and that their names correspond to the target language code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check that you have write permissions for the spelling dictionary folder you have selected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11497,8 +11560,6 @@ This one is a title for the dialog and shouldn't have ellipsis
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Copyright Marc Prior 2009-2011</seg>
       </tuv>
@@ -15949,6 +16010,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For the text export function to be used, you must first enable it within OmegaT itself:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For the user interface, user manual, Instant Start guide and/or the readme file, please contact the &lt;a1&gt;OmegaT Localization Co-ordinator&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
@@ -17900,6 +17968,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If the automatic installation process does not work: check that your Internet connection is working; if so, try a different repository URL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If the checker's changes are to be included in a translation memory repository maintained by the customer, the changes need to be made &lt;i0&gt;before&lt;/i0&gt; the final documents are created.</seg>
       </tuv>
     </tu>
@@ -18669,6 +18744,13 @@ installera OmegaT.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you only have a Bolivian Spanish dictionary available, with the file names es_BO.dic and es_BO.aff, you can rename these files es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
     </tu>
@@ -19073,6 +19155,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In addition, the package &lt;a0&gt;te-scripts.zip&lt;/a0&gt; contains some very simple tcl/tk scripts which are intended to illustrate use of the function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19505,6 +19594,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In the Macro name box, type a name for the macro, such as "levelformat".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In the Options &gt; Spell Checking dialog, select or create a dictionary file folder on your hard drive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20230,6 +20326,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Installing convenient shortcuts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Installing new spelling dictionaries manually</seg>
       </tuv>
     </tu>
     <tu>
@@ -21958,6 +22061,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Levelling the character formatting of a paragraph manually</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>LibreOffice and more recent versions of OpenOffice.org now use the "extensions" format for these dictionaries, in which the files are supplied in a a zip archive with the extension .oxt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24929,6 +25039,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Obtain the .dic and .aff files of the dictionary you wish to use, and place these files in this folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Occitan</seg>
       </tuv>
@@ -26508,6 +26625,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Options &gt; Editing behaviour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Options &gt; File Filters &gt; Select "HTML and XHTML files" &gt; Edit &gt; Add &gt; Then enter "*.php" in the "Source Filename Pattern" column.</seg>
       </tuv>
     </tu>
@@ -27921,6 +28045,13 @@ När kör det?
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Programmers and scripters can use the files containing this text in order to add further functions to OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 Not OK
 </note>
       <tuv lang="EN">
@@ -28304,6 +28435,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Pseudo-translated memory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Purpose</seg>
       </tuv>
     </tu>
     <tu>
@@ -31645,6 +31783,13 @@ Visas i fönstret "Skriptverktyg"</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Single tags indicate formatting information that does not affect the surrounding text (an extra space or line break for example).</seg>
       </tuv>
     </tu>
@@ -34576,7 +34721,6 @@ istället.</seg>
     </tu>
     <tu>
       <note>Not OK
-Not OK
 </note>
       <tuv lang="EN">
         <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
@@ -34942,6 +35086,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The files appear in the /script subfolder in the OmegaT user files folder (for the location of the OmegaT user files folder on your operating system, see the User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
     </tu>
@@ -34951,6 +35102,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The files are unformatted plain text files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The files are unformatted plain-text files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35597,6 +35755,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (Project &gt; Properties).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36500,6 +36665,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The text export function exports data from within the current OmegaT project to plain-text files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
@@ -36855,6 +37027,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Then select "Paste Special" (Word 2003) or click on the arrow at the bottom of the "Insert" button (Word 2007) to obtain the extended Paste options.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Then tick the "Export the segment to text files" box.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37311,6 +37490,13 @@ konfigurationsmapp bestämmas säkert.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>They need no knowledge of Java; most if not all programming languages could be used instead, and useful functions achieved even with only relatively limited programming skill.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
     </tu>
@@ -37374,6 +37560,13 @@ från servern.</seg>
 </note>
       <tuv lang="EN">
         <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This HOWTO describes the function and possible uses for it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39198,6 +39391,13 @@ finns inget menu entry called that
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To use spelling dictionaries in this format, rename the file extension from .oxt to .zip and using a zip archive application (such as WinZip) to extract the .dic and .aff files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To use the selected match in your translation, use &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; to replace the target field with the match or use &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; to insert it at the cursor position.</seg>
       </tuv>
     </tu>
@@ -39819,6 +40019,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171231T223245Z" creationid="mini-me" creationdate="20171231T223245Z">
         <seg>Felsökning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Troubleshooting checklist</seg>
       </tuv>
     </tu>
     <tu>
@@ -41196,6 +41403,13 @@ sökbara utan prenumeration:</seg>
 </note>
       <tuv lang="EN">
         <seg>Using the team project in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Using the text export function</seg>
       </tuv>
     </tu>
     <tu>
@@ -45296,6 +45510,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>selection.txt - contains the text highlighted by the user, when Ctrl-Shift-C is pressed or Edit &gt; Export Selection is selected</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>some version</seg>
       </tuv>
     </tu>
@@ -45304,6 +45525,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>source term    &lt;tab&gt;    target term    &lt;tab&gt;    additional information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>source.txt - contains the source text of the segment&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45326,6 +45554,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>stats.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>target.txt - contains the target text of the segment&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
