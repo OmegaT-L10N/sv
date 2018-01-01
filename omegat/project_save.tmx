@@ -57,6 +57,13 @@
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>"Non-unique segment" covers both default and alternative translations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>"Standard", "Latest", "/trunk" and "Webstart".</seg>
       </tuv>
     </tu>
@@ -1639,6 +1646,13 @@ Properties --&gt; Settings?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>(Do not confuse this folder with the "dictionary" folder in OmegaT projects.) Then select the URL (website address) of an online repository from which to download the dictionary or dictionaries, and paste this URL into the "URL of online dictionaries" field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>(Download from the links provided; Linux users may prefer to install from their distribution's repositories, where this is possible)</seg>
       </tuv>
     </tu>
@@ -1647,6 +1661,13 @@ Properties --&gt; Settings?
 </note>
       <tuv lang="EN">
         <seg>(For more detailed instructions, refer to your instruction manual or click &lt;a0&gt;here&lt;/a0&gt;, &lt;a1&gt;here&lt;/a1&gt; or &lt;a2&gt;here&lt;/a2&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3037,6 +3058,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;Create Alternative Translation&lt;/b0&gt;: makes the segment unique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b0&gt; &lt;/b1&gt;is very messed up now.&lt;segment 0001&gt;</seg>
       </tuv>
     </tu>
@@ -3065,6 +3093,27 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;Mark Non-Unique Segments&lt;/b0&gt;: identical segments are marked in grey (changes the display, but not the behaviour).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;None&lt;/b0&gt; (default behaviour): all identical segments are automatically translated the same way.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Remove Translation&lt;/b0&gt;: deletes the content of the segment, causing (when Enter is pressed) the default translation to be inserted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;This formatting&lt;/b0&gt; has been &lt;b0&gt;duplicated here&lt;/b0&gt;.&lt;segment 0001&gt;</seg>
       </tuv>
     </tu>
@@ -3080,6 +3129,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;b0&gt;This formatting&lt;/b0&gt; is going to be duplicated here.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Use as Default Translation&lt;/b0&gt;: causes the active segment to be made the default translation and therefore all previous "default translation" segments to be brought into line with it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6672,6 +6728,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A list of repository URLs is provided below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A new version of the master TM is then created, either to be put in team members' &lt;e3&gt;tm/auto&lt;/e3&gt;subfolders or to replace their &lt;f4&gt;project_save.tmx&lt;/f4&gt; files.</seg>
       </tuv>
     </tu>
@@ -7657,6 +7720,13 @@ hittar inte denna!
 </note>
       <tuv lang="EN">
         <seg>All other characters represent themselves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>All other instances of the same segment that were previously the "default translation" will now be brought into line with this translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9523,6 +9593,13 @@ kolla </note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>By default, OmegaT uses automatic match propagation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
     </tu>
@@ -9545,6 +9622,13 @@ kolla </note>
 </note>
       <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>By default, the Go To Next Untranslated Segment command (Ctrl+U) skips to the next untranslated segment, skipping propagated translations in the process.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9889,6 +9973,13 @@ hittar inte</note>
 </note>
       <tuv lang="EN">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Changes to this segment have no effect upon other segments, nor do changes to the "default translation" affect it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11109,6 +11200,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Consequently, segments that are marked (with the grey font) as being non-unique are marked as non-unique irrespective of whether alternative translations have been created or not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
       </tuv>
     </tu>
@@ -11409,6 +11507,13 @@ This one is a title for the dialog and shouldn't have ellipsis
 </note>
       <tuv lang="EN">
         <seg>Copyright Marc Prior 2011-2012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2014</seg>
       </tuv>
     </tu>
     <tu>
@@ -11788,6 +11893,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Creating a translation memory for selected documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Creating an "alternative translation" therefore relies upon identical segments having different preceding or following segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12386,6 +12498,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170723T190505Z">
         <seg>Redan installerade ordlistor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Dictionaries are available for a large number of languages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15410,6 +15529,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For cases where two or more identical segments require different translations, OmegaT offers "one-to-many matching".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For compiling OmegaT from the source code, see &lt;a0&gt;Compiling OmegaT from Source HowTo&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
@@ -15689,6 +15815,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>For readability purposes, letters are written in uppercase here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For some file types, OmegaT differentiates between identical segments by referring to their preceding and following segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17255,6 +17388,13 @@ den fullständiga sökvägen anges.)</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If Priorview fails to launch:</seg>
       </tuv>
     </tu>
@@ -17300,6 +17440,13 @@ den fullständiga sökvägen anges.)</seg>
 </note>
       <tuv lang="EN">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If a segment has already been translated and an identical segment later on in the text is then changed, the earlier segment will be brought into line with the changed segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18351,6 +18498,13 @@ installera OmegaT.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you have already translated an instance of a non-unique segment and wish to make a different instance of the non-unique segment the default translation without changing the translation of the instance you have already translated, you must first set the status of the segment you have already translated to "alternative translation" using "Create Alternative Translation".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
       </tuv>
     </tu>
@@ -19057,6 +19211,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In most cases, the translator will wish to translate identical segments within a project in the same way.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In most systems, it is possible to open a project by dropping an &lt;f0&gt;omegat.project&lt;/f0&gt; file onto the OmegaT icon on the desktop.</seg>
       </tuv>
     </tu>
@@ -19531,6 +19692,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In this dialog one can define the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; in the following windows:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In this dialog, select or create a dictionary file folder on your hard drive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20039,6 +20207,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Installing new spelling from within OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Installing spelling dictionaries</seg>
       </tuv>
     </tu>
@@ -20087,7 +20262,6 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
-Not OK
 </note>
       <tuv lang="EN">
         <seg>Introduction</seg>
@@ -23652,6 +23826,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>New spelling dictionaries can be installed from within OmegaT in the Options &gt; Spell Checking dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
     </tu>
@@ -25060,6 +25241,13 @@ also --&gt; still
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT has an inline spelling checker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
     </tu>
@@ -25631,6 +25819,13 @@ installeras i ditt system.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT's one-to-many matching function first assumes that identical segments are to be translated in the same way.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
@@ -25872,6 +26067,13 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>One solution is to switch off automatic spelling checking in Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>One-to-many matching</seg>
       </tuv>
     </tu>
     <tu>
@@ -27246,6 +27448,13 @@ ytterligare åtgärder behöver vidtas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Points to note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Points to note when using the .docx, .xlsx and .pptx formats in OmegaT</seg>
       </tuv>
     </tu>
@@ -27985,6 +28194,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Projects can be managed according to your development style and needs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Propagation</seg>
       </tuv>
     </tu>
     <tu>
@@ -30534,6 +30750,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Segments which occur more than once are described in OmegaT as "non-unique segments".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Segments with notes</seg>
       </tuv>
@@ -30877,6 +31100,13 @@ A: finns i Redigera-menyn
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T062451Z">
         <seg>Vald motor: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Selecting View &gt; Mark Non-Unique Segments causes only the first instance of a non-unique segment to be displayed in black, and second and subsequent instances to be displayed in grey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32482,6 +32712,13 @@ kan man skicka en flagga till OmegaT?
 </note>
       <tuv lang="EN">
         <seg>Summary of chapters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Summary of propagation and one-to-many matching commands</seg>
       </tuv>
     </tu>
     <tu>
@@ -34299,6 +34536,13 @@ istället.</seg>
 </note>
       <tuv lang="EN">
         <seg>The construct</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The content of a segment can be deleted completely either by means of the keyboard shortcuts Ctrl+A &gt; Ctrl+X &gt; Enter, by right-clicking with the mouse and the Remove Translation menu item, or simply by using the delete key (repeatedly).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36394,6 +36638,13 @@ translated -&gt; target
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The user can therefore see immediately that a segment in grey, rather than black, has already been checked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The user group also serves as the main point of contact between users and the project team.</seg>
       </tuv>
     </tu>
@@ -37100,6 +37351,13 @@ från servern.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This HowTo describes OmegaT's functions for automatic match propagation and one-to-many matching.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
       </tuv>
     </tu>
@@ -37435,6 +37693,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This feature makes use of the spelling dictionaries used in LibreOffice and OpenOffice.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This feature, however, is not implemented in OmegaT.</seg>
       </tuv>
     </tu>
@@ -37506,6 +37771,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This has repercussions for workflows in which CAT tool users (typically customers) expect to receive translation memory files and to have 100% matches inserted automatically.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This has the effect of deleting the "alternative translation" status at the same time; the translation of the segment will therefore revert to that of the default translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This has the effect of making all instances of non-unique segments alternative translations (see "One-to-many matching" below).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37697,6 +37976,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This is the folder in which the spelling dictionary files will be placed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This is the most common-sense alternative, sparing you problems in the long run.</seg>
       </tuv>
     </tu>
@@ -37741,6 +38027,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This is useful to run OmegaT on a server with TMX files automatically fed to a project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37825,6 +38118,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This means for instance that you do not need to exit a project you are currently working on if you decide to add another ancillary TM to it: you simply reload the project, and the changes you have made will be included.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This means that as soon as a segment is translated, the same translation is automatically inserted into all identical segments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37961,6 +38261,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This segment can be now translated as desired without other instances of it automatically being made identical to it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
     </tu>
@@ -37983,6 +38290,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This tag apparently cannot be removed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This translation is described as the "default translation".</seg>
       </tuv>
     </tu>
     <tu>
@@ -38075,6 +38389,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This will level the formatting over sections of text that have the same, desired formatting, and you will not then need to restore deleted formatting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This will make the current translation the default translation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38566,6 +38887,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To make an alternative translation the default translation, right-click with the mouse and select "Use as Default Translation".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
       </tuv>
     </tu>
@@ -38633,6 +38961,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To produce a translation that is different from the "default translation", right-click with the mouse within the segment and select "Create Alternative Translation".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"project settings dialog"?
 finns inget menu entry called that
 </note>
@@ -38655,6 +38990,13 @@ finns inget menu entry called that
 </note>
       <tuv lang="EN">
         <seg>To remove all traces of OmegaT from your system:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To remove the "alternative translation" status of a single segment and bring it back into line with the "default translation", simply delete the content of the segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39652,6 +39994,13 @@ Exakta sökningar matchar hela söksträngen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T163435Z">
         <seg>URL:er</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>URLs of repositories of spelling dictionaries:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41612,6 +41961,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Where two segments also have identical preceding and following segments (for example when an entire page appears twice in the text), they cannot be translated differently from each other in OmegaT, i.e. it is not possible to make one of them an "alternative translation".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Whether anti-aliasing is enabled (this is a command-line launch option, but you can also set it in the kaptain launch script)</seg>
       </tuv>
     </tu>
@@ -42507,6 +42863,13 @@ saknar ellips</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>You can disable the auto-propagation function with Project &gt; Properties &gt; uncheck the "Auto-propagation of Translations" box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
     </tu>
@@ -42556,6 +42919,13 @@ saknar ellips</note>
 </note>
       <tuv lang="EN">
         <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You can have as many "alternative translations" as you like of identical segments, but there can only be one default translation (or none at all).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43770,6 +44140,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>http://download.services.openoffice.org/files/contrib/dictionaries/&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>http://mymemory.translated.net/</seg>
       </tuv>
     </tu>
@@ -43792,6 +44169,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
     </tu>
     <tu>
