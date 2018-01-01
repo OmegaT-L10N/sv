@@ -7462,6 +7462,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Add the argument --ITokenizer= followed by the full name of this tokenizer (by copying the entire line, inserting a space) to the end of the launch command in your OmegaT launch script file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Add the following argument to the launch command:</seg>
       </tuv>
     </tu>
@@ -16045,6 +16052,13 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>For example, this is the backslash character</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For example, to use the English tokenizer (when translating from English), your launch command might now be:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45916,6 +45930,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171231T223101Z" creationid="mini-me" creationdate="20171231T223101Z">
         <seg>eller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>varför ingen lucene Swedish?
+</note>
+      <tuv lang="EN">
+        <seg>org.omegat.plugins.tokenizer.LuceneCJKTokenizer&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
