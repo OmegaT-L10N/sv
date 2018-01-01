@@ -2574,6 +2574,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>...and around 30 other file formats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
     </tu>
@@ -6615,6 +6622,22 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T185652Z" creationid="mini-me" creationdate="20180101T185652Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Senaste versionen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T185638Z" creationid="mini-me" creationdate="20180101T185638Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standardversion</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -6647,6 +6670,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8140,6 +8170,13 @@ hittar inte denna!
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200610Z">
         <seg>Alternativt språk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11421,6 +11458,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Compile as described in the Compiling OmegaT from Source HowTo.</seg>
       </tuv>
     </tu>
@@ -13005,6 +13049,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Diego Merino - Translator EN &gt; ES</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Different punctuation</seg>
       </tuv>
@@ -13592,10 +13643,11 @@ Not OK
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Download</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T185602Z">
+        <seg>Ladda ner</seg>
       </tuv>
     </tu>
     <tu>
@@ -13634,6 +13686,20 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Download MediaWiki Page...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Download Overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Download Selector</seg>
       </tuv>
     </tu>
     <tu>
@@ -20851,6 +20917,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Integral spelling checker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Integration manager</seg>
       </tuv>
     </tu>
@@ -20866,6 +20939,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Intention</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Interface to Google Translate</seg>
       </tuv>
     </tu>
     <tu>
@@ -23738,6 +23818,16 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+
+powerpoint?
+
+</note>
+      <tuv lang="EN">
+        <seg>Microsoft Word, Excel, Power</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Kolla i UI för Merge
 TMX_MERGE__MINE
 </note>
@@ -25708,6 +25798,13 @@ also --&gt; still
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OmegaT Team Projects</seg>
       </tuv>
@@ -26806,6 +26903,14 @@ consistency?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T185447Z" creationid="mini-me" creationdate="20180101T185447Z">
+        <seg>Open Document-format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -27819,6 +27924,14 @@ i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") se
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Plain text</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T185502Z" creationid="mini-me" creationdate="20180101T185502Z">
+        <seg>Oformaterad text</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -28198,6 +28311,13 @@ ytterligare åtgärder behöver vidtas.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060423Z" creationid="mini-me" creationdate="20171218T060423Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Powerful tools</seg>
       </tuv>
     </tu>
     <tu>
@@ -33528,6 +33648,13 @@ kan man skicka en flagga till OmegaT?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Support for right-to-left languages</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Supported Files</seg>
       </tuv>
@@ -36579,6 +36706,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
       </tuv>
     </tu>
     <tu>
@@ -39754,6 +39888,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
       </tuv>
     </tu>
@@ -41191,6 +41332,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Uninstalling OmegaT</seg>
       </tuv>
     </tu>
@@ -41911,6 +42059,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>User glossaries with recognition of inflected forms</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>User group</seg>
       </tuv>
@@ -41946,6 +42101,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T220110Z" creationid="mini-me" creationdate="20171209T220110Z">
         <seg>Användarmanualer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>User portrait</seg>
       </tuv>
     </tu>
     <tu>
@@ -43401,6 +43563,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Work with more than 30 file formats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Working with formatted text</seg>
       </tuv>
     </tu>
@@ -43524,6 +43693,14 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171253Z">
         <seg>Alternativ för XHTML-filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T185427Z">
+        <seg>XHTML och HTML</seg>
       </tuv>
     </tu>
     <tu>
