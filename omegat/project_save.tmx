@@ -11681,6 +11681,14 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191622Z" creationid="mini-me" creationdate="20180101T191622Z">
+        <seg>Kompatibilitet</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -12706,6 +12714,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171230T092929Z" creationid="mini-me" creationdate="20171230T092929Z">
         <seg>Kroatiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Cross-platform without JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -18206,6 +18221,104 @@ history historik
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - Compiling OmegaT from the source code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - Creating a new file filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - Spellchecking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - The "Priorview" preview utility</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - Translating OmegaT into your language</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT tokenizer</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Hungarian</seg>
       </tuv>
@@ -23394,6 +23507,22 @@ Not OK
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191910Z" creationid="mini-me" creationdate="20180101T191910Z">
+        <seg>Linux med 64-bitars JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux with JRE</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191859Z" creationid="mini-me" creationdate="20180101T191859Z">
+        <seg>Linux med JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T114338Z">
@@ -26381,6 +26510,22 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>OS X Signed</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191840Z" creationid="mini-me" creationdate="20180101T191840Z">
+        <seg>OS X Signerad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OS X Unsigned</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191855Z" creationid="mini-me" creationdate="20180101T191855Z">
+        <seg>OS X Osignerad</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -27077,6 +27222,13 @@ att startas.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT match, including numbers, tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT on Linux HowTo</seg>
       </tuv>
     </tu>
     <tu>
@@ -29978,6 +30130,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Propagation and one-to-many matching</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Propagation and one-to-many matching HowTo</seg>
       </tuv>
     </tu>
     <tu>
@@ -44826,6 +44985,27 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171231T220410Z" creationid="mini-me" creationdate="20171231T220410Z">
         <seg>Windows-användare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Windows with 64-bit JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Windows with JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Windows without JRE</seg>
       </tuv>
     </tu>
     <tu>
