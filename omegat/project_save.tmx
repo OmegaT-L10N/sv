@@ -2885,6 +2885,13 @@ Aktuell inställning är {0}MB;</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download Abiword here&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
@@ -7140,6 +7147,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
     </tu>
@@ -8246,6 +8260,13 @@ hittar inte denna!
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Although not essential, we recommend that you also join the &lt;a0&gt;OmegaT localizers' mailing list&lt;/a0&gt; (also known as "OmT-l10n").</seg>
       </tuv>
     </tu>
@@ -8534,6 +8555,13 @@ TMX-filen kommer inte att läsas in.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>An interesting feature of Déjà Vu DVX is its "External View" file format.</seg>
       </tuv>
     </tu>
@@ -8621,6 +8649,13 @@ line head
 </note>
       <tuv lang="EN">
         <seg>And remove "#" at the line head.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8901,6 +8936,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>As customers/authors upgrade Microsoft Office/Word to more recent versions, translators can expect to receive files increasingly in the new format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9615,6 +9657,13 @@ hittar inte</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Below them, insert the lines:</seg>
       </tuv>
     </tu>
@@ -9858,6 +9907,13 @@ hittar inte
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>But I can't program at all, I hear you say.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>But first, please read
 &lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;.</seg>
       </tuv>
@@ -9867,6 +9923,13 @@ hittar inte
 </note>
       <tuv lang="EN">
         <seg>But it will at least stay at the same point in the text when the view is updated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>But programming isn't the only job needing to be done.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11719,6 +11782,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Continuing Professional Development is the current buzzword!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
     </tu>
@@ -11738,6 +11808,13 @@ Not OK
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T180642Z">
         <seg>Deltagare
 ========</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Convenient alternative functions or solutions may also exist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12887,6 +12964,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Details unavailable</seg>
       </tuv>
@@ -12915,6 +12999,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T215846Z" creationid="mini-me" creationdate="20171209T215846Z">
         <seg>Utvecklare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Development of OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -13499,6 +13590,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Documentation authoring</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Documentation manager</seg>
       </tuv>
     </tu>
@@ -13580,6 +13678,14 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Don't forget to &lt;s0&gt;update the OmegaT Localization Plan&lt;/s0&gt; (see Step 2 of the procedure) to show that you have completed translation of a particular document/version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T185848Z" creationid="mini-me" creationdate="20180101T185848Z">
+        <seg>Donationer</seg>
       </tuv>
     </tu>
     <tu>
@@ -15977,6 +16083,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
@@ -16089,6 +16202,13 @@ skript (omegat.kaptn).</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
     </tu>
@@ -16167,6 +16287,13 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16454,6 +16581,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T212227Z">
         <seg>För detta syfte, ladda ner följande fil och kör den:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17335,6 +17469,20 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Have you considered writing some user documentation yourself?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Have you ever written an article for your professional association's journal?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Having no languages defined elicits this kind or a response.</seg>
       </tuv>
     </tu>
@@ -17596,6 +17744,13 @@ history historik
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>How they do so is very much up to them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>How to create glossaries</seg>
       </tuv>
     </tu>
@@ -17674,6 +17829,13 @@ history historik
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
     </tu>
@@ -17728,6 +17890,13 @@ history historik
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T183240Z">
         <seg>I&amp;nfoga källa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18342,6 +18511,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If not, why not write an article on using OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If on, when a PO segment (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
       </tuv>
     </tu>
@@ -18745,6 +18921,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
       </tuv>
     </tu>
@@ -18919,6 +19102,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you can program in another language, you can write code to support the core application.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
 (Windows Explorer), change the settings so that file extensions are displayed.</seg>
@@ -19090,6 +19280,13 @@ installera OmegaT.</seg>
 </note>
       <tuv lang="EN">
         <seg>If you have been using the tokenizer plug-in with an earlier version of OmegaT and have upgraded to version 3.0.0 or later of OmegaT, delete the tokenizer plug-in files from your plug-in folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19390,6 +19587,13 @@ installera OmegaT.</seg>
 </note>
       <tuv lang="EN">
         <seg>If you would like to help support the continued development of OmegaT, it would be very much appreciated - click on this link to go to the &lt;u0&gt; OmegaT PayPal account&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20022,6 +20226,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In some areas, some degree of co-ordination is required.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In some cases, you may find that the source-language tokenizer interferes with the target-language spelling checker.</seg>
       </tuv>
     </tu>
@@ -20395,6 +20606,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In this mode, OmegaT will attempt to translate the files in /source/ with the available translation memories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21631,6 +21849,13 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>It's a real eye-opener!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
@@ -22753,6 +22978,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Lithuanian</seg>
       </tuv>
@@ -22856,6 +23088,14 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T185757Z" creationid="mini-me" creationdate="20180101T185757Z">
+        <seg>Lokalisering</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -22875,6 +23115,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T220755Z" creationid="mini-me" creationdate="20171209T220755Z">
         <seg>Att lokalisera OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23303,6 +23550,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Many CAT tools make use of an intermediate bilingual file format, i.e. a file containing both source and target language segments, and in some cases also the structure of the original file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24594,6 +24848,13 @@ lämplig plats såsom Programmappen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>New...</seg>
       </tuv>
     </tu>
@@ -24986,6 +25247,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Not all CAT tools exhibit the same tolerance and some may not therefore display the expected matches if the language codes are not sufficiently compliant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25639,6 +25907,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>OK</seg>
       </tuv>
@@ -26164,7 +26439,21 @@ och översättningshantering till uppdaterade projekt.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT is an open-source application and project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT is capable of handling the current Microsoft Office formats directly, without conversion to or from other formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT is free software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26193,6 +26482,13 @@ och översättningshantering till uppdaterade projekt.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT is not yet able to detect mistakes in formatting fully automatically, so it will not prompt you if you make an error or change formatting to fit your target language better.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT is open-source software.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26251,6 +26547,20 @@ att startas.</seg>
 </note>
       <tuv lang="EN">
         <seg>OmegaT is tolerant when reading TMX files: it will accept files with en-GB, en-US, en, EN, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT is written in Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26590,6 +26900,13 @@ installeras i ditt system.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT's glossary files are plain-text files in the format:</seg>
       </tuv>
     </tu>
@@ -26724,6 +27041,13 @@ installeras i ditt system.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Once computed, the data also available in &lt;f6&gt;omegat/project_stats_match.txt.&lt;/f6&gt; Note that the file is time-stamped, as the calculation (contrary to the standard statistics) is not instantaneous and can thus quickly become obsolete.</seg>
       </tuv>
     </tu>
@@ -26834,7 +27158,21 @@ consistency?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26872,6 +27210,13 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T205732Z">
         <seg>Bara om (X)HTML-filen har en &amp;kodningsdeklaration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28738,11 +29083,32 @@ När kör det?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Programming (Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Programming (not Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Programming in tcl/tk</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20180101T141129Z" creationid="mini-me" creationdate="20180101T141129Z">
         <seg>Programmering i tcl/tk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29130,6 +29496,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Pseudo-translated memory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Publicity</seg>
       </tuv>
     </tu>
     <tu>
@@ -30439,6 +30812,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Romanian, Moldavian, Moldovan</seg>
       </tuv>
@@ -31430,6 +31810,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>See the &lt;a0&gt;Localizing OmegaT HowTo&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>See the &lt;e1&gt;Main Menu&lt;/e1&gt; appendix for a full description of all menus and menu items.</seg>
       </tuv>
     </tu>
@@ -32349,6 +32736,13 @@ A: finns i Redigera-menyn
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T074432Z" creationid="Dorothy" creationdate="20170709T074014Z">
         <seg>Visa Avancerade &amp;alternativ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Show English Version</seg>
       </tuv>
     </tu>
     <tu>
@@ -33579,6 +33973,13 @@ kan man skicka en flagga till OmegaT?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Such file formats are designed to hold formatting information.</seg>
       </tuv>
     </tu>
@@ -34406,6 +34807,14 @@ kolla vid runtime
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Testing</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T185827Z" creationid="mini-me" creationdate="20180101T185827Z">
+        <seg>Testning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Testing...</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171218T060747Z" creationid="mini-me" creationdate="20171218T060723Z">
@@ -34505,6 +34914,34 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Thank you all!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>That means there are only a few thousand left!</seg>
       </tuv>
     </tu>
     <tu>
@@ -34970,6 +35407,13 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The OmegaT project and you</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
       </tuv>
     </tu>
@@ -34977,7 +35421,21 @@ kommer den aktuella mappen att användas.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The OmegaT project philosophy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The OmegaT project team is not a company or formal legal body, just a group of volunteers involved in the OmegaT project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35943,6 +36401,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The first of these is:</seg>
       </tuv>
     </tu>
@@ -36674,6 +37139,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The open-source philosophy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
     </tu>
@@ -36805,6 +37277,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The procedure is described in this HowTo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37033,6 +37512,13 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The same spirit can be found within the OmegaT project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38053,6 +38539,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
     </tu>
@@ -38743,6 +39236,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This enables the numerous suggestions to be managed more easily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This enables the text to be exported to an XML file which can be translated in a CAT tool.</seg>
       </tuv>
     </tu>
@@ -38751,6 +39251,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38835,6 +39342,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This formatting has been deleted.&lt;segment 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
       </tuv>
     </tu>
     <tu>
@@ -38963,6 +39477,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This is effective upon &lt;e1&gt;Edit &gt; Replace with Source&lt;/e1&gt;, &lt;e2&gt;Edit &gt; Insert Source&lt;/e2&gt;, and when entering a segment when &lt;e3&gt;Options &gt; Editing Behavior &gt; [Insert] The source text&lt;/e3&gt; is enabled.</seg>
       </tuv>
     </tu>
@@ -39055,6 +39576,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This is the folder in which the spelling dictionary files will be placed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This is the main focus of the OmegaT user community.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39221,6 +39749,13 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
 Not OK
 </note>
       <tuv lang="EN">
@@ -39375,6 +39910,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This site is also available in English!</seg>
       </tuv>
     </tu>
     <tu>
@@ -40241,6 +40783,13 @@ finns inget menu entry called that
 </note>
       <tuv lang="EN">
         <seg>To test, check whether glossary entries are displayed even when the current OmegaT segment contains a term in an inflected form from that in the glossary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42105,6 +42654,7 @@ Not OK
     </tu>
     <tu>
       <note>Not OK
+Not OK
 </note>
       <tuv lang="EN">
         <seg>User portrait</seg>
@@ -42161,6 +42711,13 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T170443Z">
         <seg>Användarnamn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Users are free to download and use the program.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42441,6 +42998,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T094742Z">
         <seg>Validerar taggar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Valter Mura - Translator EN &gt; IT</seg>
       </tuv>
     </tu>
     <tu>
@@ -42751,6 +43315,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
 </note>
       <tuv lang="EN">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Well, have you considered learning?</seg>
       </tuv>
     </tu>
     <tu>
@@ -43172,6 +43743,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Where the vendor of a software product claims that his product is compatible with another piece of software, this compatibility is seldom 100%.</seg>
       </tuv>
     </tu>
@@ -43187,6 +43765,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Whether anti-aliasing is enabled (this is a command-line launch option, but you can also set it in the kaptain launch script)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43792,6 +44377,13 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
 </note>
       <tuv lang="EN">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>You are also free to copy it and pass it on to other people.</seg>
       </tuv>
     </tu>
     <tu>
