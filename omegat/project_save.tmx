@@ -1757,6 +1757,13 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>(Note to Ubuntu users: the font implementation of the default tcl/tk installation in Ubuntu at the present time (version 9.10) is appalling, but can be rectified.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>(Note: these are the English files.</seg>
       </tuv>
     </tu>
@@ -2090,6 +2097,27 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
 </note>
       <tuv lang="EN">
         <seg>- Highlighted text in the target text, when the relevant shortcut is pressed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- It is easy to learn&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- It is free&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>- It is widely used, so help can be found on the Internet&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7980,6 +8008,13 @@ hittar inte denna!
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Alternatively:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
       </tuv>
     </tu>
@@ -8235,6 +8270,13 @@ processing = behandling?
 </note>
       <tuv lang="EN">
         <seg>An example script that achieves this function is described in the &lt;a0&gt;Priorview Howto&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An example use of this function is as follows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8676,6 +8718,20 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>As for te-basic-source, but for the target text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>As for te-gloss-highlight, but substitutes the source terms in the glossary with the target terms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>As is so often the case with things technical (and things translation), there are catches.</seg>
       </tuv>
     </tu>
@@ -8691,6 +8747,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>As its name suggests, this script automatically strips the tags out of an OmegaT (target) segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8719,6 +8782,13 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>As such, it does nothing not already done by the OmegaT Editor pane; its purpose is to illustrate how the text can be extracted from a script file and made available for further scripts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9363,6 +9433,13 @@ hittar inte</note>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Besides displaying the source text, this script provides an entry box into which the user can type a string (e.g. a word).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Besides the web page into which users can simply paste text for translation, Google Translate also provides an interface (API) which can be used by CAT tools to access the service.</seg>
       </tuv>
     </tu>
@@ -9933,6 +10010,13 @@ hittar inte</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T214235Z">
         <seg>Ändringsdatum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Change folder (directory) to the script folder, e.g. (on Windows XP systems):</seg>
       </tuv>
     </tu>
     <tu>
@@ -10921,6 +11005,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Combines the substitution and highlighting functions of te-gloss-highlight and te-gloss-subst.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Command</seg>
       </tuv>
@@ -11522,6 +11613,13 @@ This one is a title for the dialog and shouldn't have ellipsis
 </note>
       <tuv lang="EN">
         <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12432,6 +12530,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Depending upon how your system is configured, it may be possible to launch the scripts simply by clicking on them with the mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
       </tuv>
     </tu>
@@ -12504,6 +12609,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T162114Z">
         <seg>Beskrivning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Descriptions of the individual scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -17813,6 +17925,13 @@ till standard som följd av platsändringen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>If multiple functions were to be used at the same time in practice, it would be more efficient to combine them in a single script file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
       </tuv>
     </tu>
@@ -19161,6 +19280,13 @@ på den genvägen.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>In addition, if supported by the hardware and operating system (this is not always the case), a beep will sound.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>In addition, the package &lt;a0&gt;te-scripts.zip&lt;/a0&gt; contains some very simple tcl/tk scripts which are intended to illustrate use of the function.</seg>
       </tuv>
     </tu>
@@ -19417,6 +19543,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In order to make the workings of the script code clearer, each script essentially performs only one function.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19776,6 +19909,13 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>In this case, a "reminder" in each relevant segment may be helpful.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21887,6 +22027,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Launch the script with "wish" followed by the script file name, e.g.:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Launching OmegaT (Linux)
 ========================</seg>
@@ -22428,6 +22575,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Mac OSX users should install tcl/tk from their system media and Linux users should find it in their distribution's repository, if it is not already installed by default.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26380,6 +26534,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Open a command-line window (DOS prompt, terminal, console)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Open a command-line window (console, DOS window).</seg>
       </tuv>
     </tu>
@@ -28051,6 +28212,14 @@ När kör det?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Programming in tcl/tk</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T141129Z" creationid="mini-me" creationdate="20180101T141129Z">
+        <seg>Programmering i tcl/tk</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 Not OK
 </note>
@@ -28570,6 +28739,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T202816Z">
         <seg>Hellre än ett pip&lt;p&gt;Eller bryskt felmeddelande&lt;p&gt;Dessa ord: 'Sidan kunde inte hittas'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Rather than find all the cases of "abc" and correcting them before proceeding (which is possible, but has drawbacks), she could simply decide to correct them in course of the next draft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31520,6 +31696,13 @@ A: finns i Redigera-menyn
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>She then discovers that "abc" should be translated as "def".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Shift+Cursor Left (this moves the end of the selection one character to the left so that it no longer includes the paragraph mark)</seg>
       </tuv>
     </tu>
@@ -33510,6 +33693,27 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tcl/tk can be obtained from a number of sources; tcl.activestate.com is one popular source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tcl/tk has a number of advantages as a scripting language:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Tcl/tk must be installed, if it is not already.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Team</seg>
       </tuv>
@@ -34730,6 +34934,13 @@ istället.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The content of the script window is editable and can be copied and pasted back into the OmegaT Editor pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
@@ -35023,6 +35234,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The example in the screenshot is the &lt;a0&gt;European Commission's SME user guide in Hungarian&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The example scripts provided &lt;a0&gt;here&lt;/a0&gt; all launch a window, but scripts that carry out functions in the background are quite conceivable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35362,6 +35580,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The glossary file is empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The glossary file must consist of two columns only, have the name GLOSS.utf8, and be present in the /script folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36599,6 +36824,13 @@ här heter det "memory"
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The tags are displayed in a different font in order to make them less intrusive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The tags are highlighted in bold blue for easy comparison between the original and the translated contents.</seg>
       </tuv>
     </tu>
@@ -36804,6 +37036,13 @@ translated -&gt; target
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>The translator has a text containing the phrase "abc", and has completed a first draft of it, translating "abc" as "abc".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
       </tuv>
     </tu>
@@ -36911,6 +37150,13 @@ translated -&gt; target
 </note>
       <tuv lang="EN">
         <seg>The vocabulary entry can have a comment added.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The warning takes the form of the text in the script window being highlighted in yellow.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38255,6 +38501,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>This is useful when &lt;i0&gt;checking&lt;/i0&gt; tag-heavy segments on the screen, since it is easy to overlook missing or double spaces, for example.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked.</seg>
       </tuv>
     </tu>
@@ -38465,11 +38718,32 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This script displays the source text in a separate window.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This script displays the target segment in a particular font (hard-coded in the script, but can be edited) rather than the default font.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T063558Z">
         <seg>Detta skript är skrivet för att köras i OmegaT 3.6 och senare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>This script reads the content of a glossary file and highlights any terms found in it in the current (source) segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39082,6 +39356,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>To launch Priorview, open a command prompt/terminal/console and type in:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>To launch a script:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40545,6 +40826,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Unlike te-notags, it is possible for the translator to work in this window, then copy and paste the content in full to the OmegaT editor pane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Unlike the legacy .doc, .xls and .ppt formats, these files can be handled directly in OmegaT, with no loss of formatting as a result of conversion to and from other formats.</seg>
       </tuv>
     </tu>
@@ -41402,6 +41690,13 @@ sökbara utan prenumeration:</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Using the sample scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Using the team project in OmegaT</seg>
       </tuv>
     </tu>
@@ -41885,6 +42180,13 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
 </note>
       <tuv lang="EN">
         <seg>When actuated, this launches your browser with a dummy page instructing you to set the automatic refresh function, which you should then do, and then to hit Ctrl+s, Ctrl+d in OmegaT to launch automatic updating of the browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>When an OmegaT segment containing this string is opened, the script outputs a warning.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44024,6 +44326,13 @@ Men kan inte förstå varför i SRC code
 </note>
       <tuv lang="EN">
         <seg>cd &lt;i0&gt;path&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>cd C:\Documents and Settings\User Name\Application Data\OmegaT\script</seg>
       </tuv>
     </tu>
     <tu>
