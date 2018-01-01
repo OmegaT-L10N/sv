@@ -6875,6 +6875,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>A copy of the changed filters configuration will be stored with the project.</seg>
       </tuv>
     </tu>
@@ -6904,6 +6911,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>A demonstration version is available; at the time of writing, the full version costs around US$150.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>A detailed tutorial is available.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7544,11 +7558,25 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Add numbers to all segments, making them all "unique"</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T093934Z">
         <seg>Lägg till eller skriv om kodningsdeklaration i HTML och XHTML-filer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -8591,6 +8619,13 @@ TMX-filen kommer inte att läsas in.</seg>
 </note>
       <tuv lang="EN">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9990,6 +10025,14 @@ hittar inte
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T190945Z" creationid="mini-me" creationdate="20180101T190945Z">
+        <seg>Av Arno Peters och Mariëtte van Drunen (på Nederländska).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T221107Z" creationid="mini-me" creationdate="20171209T221107Z">
@@ -10778,6 +10821,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T150709Z">
         <seg>Kontrollera mellanslag runt taggar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Check spelling (various procedures)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11744,6 +11794,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>directory --&gt; folder?
 </note>
       <tuv lang="EN">
@@ -12304,6 +12361,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T095003Z">
         <seg>Skapa ett nytt projekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Create a TMX file containing all strings, with identical source and target</seg>
       </tuv>
     </tu>
     <tu>
@@ -13037,6 +13101,13 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T162114Z">
         <seg>Beskrivning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14559,6 +14630,13 @@ Här är det &lt;b&gt; runt referensen, inte på andra platser?
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Enables a number of file formats to be translated which cannot be handled natively in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
     </tu>
@@ -15462,6 +15540,13 @@ efterbearbetning	  91 k
 </note>
       <tuv lang="EN">
         <seg>External tools can be used to convert files to supported formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Extract all source text from the project files into a single, large text file</seg>
       </tuv>
     </tu>
     <tu>
@@ -16601,6 +16686,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>For testing and demonstrating OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>For that reason, it is OFF by default.</seg>
       </tuv>
     </tu>
@@ -16834,6 +16926,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Free (compatible) alternatives to Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>French</seg>
       </tuv>
@@ -17022,6 +17121,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;a4&gt;OmegaT&lt;/a4&gt;.png can be selected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18108,6 +18214,14 @@ history historik
 </note>
       <tuv lang="EN">
         <seg>Iceni Infix offers a further option.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Icons</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T190708Z" creationid="mini-me" creationdate="20180101T190708Z">
+        <seg>Ikoner</seg>
       </tuv>
     </tu>
     <tu>
@@ -21315,6 +21429,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Introduction to OmegaT (2.5.0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Introduction to tokenizers and scripts</seg>
       </tuv>
     </tu>
@@ -23269,7 +23390,21 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Localization TMX repository</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Localization manager, user group owner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Localization resources</seg>
       </tuv>
     </tu>
     <tu>
@@ -24567,6 +24702,13 @@ ViewOptionsPanel.java: 113
 </note>
       <tuv lang="EN">
         <seg>Most of them are required in order for OmegaT to function properly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26918,6 +27060,13 @@ installeras i ditt system.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>OmegaT training course.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>OmegaT uses "Client ID" and "Client secret" information of which you registered.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
@@ -27372,6 +27521,13 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>One-to-many matching</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30401,6 +30557,13 @@ Not OK
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Remove all text except tags, or all tags except text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
       </tuv>
     </tu>
@@ -30991,6 +31154,22 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT 2.3.0.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T191006Z" creationid="mini-me" creationdate="20180101T191006Z">
+        <seg>Recension av OmegaT 2.3.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviews of OmegaT</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T190918Z" creationid="mini-me" creationdate="20180101T190918Z">
+        <seg>Recensioner av OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 Not OK
 </note>
@@ -31302,10 +31481,25 @@ Not OK
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample texts</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T190721Z" creationid="mini-me" creationdate="20180101T190721Z">
+        <seg>Exempeltexter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samuel Murray</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T203930Z">
         <seg>Samuel Murray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Samuel Murray's scripts and procedures</seg>
       </tuv>
     </tu>
     <tu>
@@ -31673,6 +31867,13 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T062249Z">
         <seg>Mapp för skriptfiler:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Scripts/procedures are available to enable you to do the following:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32662,6 +32863,13 @@ A: finns i Redigera-menyn
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Selection of alternative icons for use with OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Self-paced online training course in English (for purchase)</seg>
       </tuv>
     </tu>
@@ -33218,6 +33426,13 @@ Visas i fönstret "Skriptverktyg"</note>
 </note>
       <tuv lang="EN">
         <seg>Skip PO header</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Skip segments containing a certain set of characters</seg>
       </tuv>
     </tu>
     <tu>
@@ -33892,6 +34107,13 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Spelling dictionaries</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Spelling errors(s)</seg>
       </tuv>
@@ -34501,6 +34723,13 @@ till skillnad från internt minne
 </note>
       <tuv lang="EN">
         <seg>TMX files can generally contain translation units with several candidate languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36639,6 +36868,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>The files are unformatted plain-text files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39139,6 +39375,20 @@ konfigurationsmapp bestämmas säkert.</seg>
       <note>Not OK
 </note>
       <tuv lang="EN">
+        <seg>Third-party software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Third-party software for use with OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
         <seg>Third-party tools</seg>
       </tuv>
     </tu>
@@ -40266,6 +40516,14 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>This way the translator can be provided the context about the segment to be translated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This web site</seg>
+      </tuv>
+      <tuv lang="SV" changeid="mini-me" changedate="20180101T190746Z" creationid="mini-me" creationdate="20180101T190746Z">
+        <seg>Denna webbplats</seg>
       </tuv>
     </tu>
     <tu>
@@ -41399,6 +41657,13 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Training</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK
+</note>
+      <tuv lang="EN">
+        <seg>Training course</seg>
       </tuv>
     </tu>
     <tu>
