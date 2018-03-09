@@ -14452,6 +14452,14 @@ kommer den aktuella mappen att användas.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180309T071828Z" creationid="Dorothy" creationdate="20180309T071828Z">
+        <seg>URL till Moses- server URL is not set</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T215004Z">
