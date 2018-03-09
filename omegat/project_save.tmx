@@ -4844,6 +4844,16 @@ lite längre ner "show"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Kolla accelerator
+</note>
+      <tuv lang="EN">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180309T071755Z" creationid="Dorothy" creationdate="20180309T071755Z">
+        <seg>Visa &amp;aktivt källsegment i fetstil</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Display &amp;tags</seg>
       </tuv>
