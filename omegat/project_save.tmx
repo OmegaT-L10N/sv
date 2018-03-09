@@ -14454,8 +14454,8 @@ kommer den aktuella mappen att användas.</seg>
       <tuv lang="EN">
         <seg>The Moses server URL is not set</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180309T072434Z" creationid="Dorothy" creationdate="20180309T071828Z">
-        <seg>URL till Moses-server URL is not set</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180309T072500Z" creationid="Dorothy" creationdate="20180309T071828Z">
+        <seg>URL till Moses-server har inte angivits</seg>
       </tuv>
     </tu>
     <tu>
