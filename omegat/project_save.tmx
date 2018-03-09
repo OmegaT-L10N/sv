@@ -7019,6 +7019,14 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180309T070901Z" creationid="Dorothy" creationdate="20180309T070901Z">
+        <seg>Grupp {0} finns inte i sökuttrycket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T153658Z">
