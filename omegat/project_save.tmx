@@ -11686,6 +11686,14 @@ När kör det?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T041658Z" creationid="Dorothy" creationdate="20180501T041658Z">
+        <seg>Projektfiler…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Specific External Search</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T140518Z">
@@ -11883,6 +11891,15 @@ Why not "begin" - "end"
 </note>
       <tuv lang="EN">
         <seg>Propagation and one-to-many matching</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>is it really?</note>
+      <tuv lang="EN">
+        <seg>Properties...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T041634Z">
+        <seg>Inställningar…</seg>
       </tuv>
     </tu>
     <tu>
@@ -13006,6 +13023,14 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Project...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T041707Z" creationid="Dorothy" creationdate="20180501T041707Z">
+        <seg>Sök…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search and Replace</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T064834Z">
@@ -13162,6 +13187,14 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T063732Z">
         <seg>Segmentmarkör text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment number...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T041805Z" creationid="Dorothy" creationdate="20180501T041805Z">
+        <seg>Segment nummer…</seg>
       </tuv>
     </tu>
     <tu>
