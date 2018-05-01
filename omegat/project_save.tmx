@@ -3224,6 +3224,12 @@ kolla </note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
@@ -3757,6 +3763,12 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170812T143254Z">
         <seg>Klicka på &lt;g1&gt;Kopiera filer till källfilsmappen…&lt;/g1&gt; för att välja dina källfiler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7755,6 +7767,12 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -8822,6 +8840,12 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T181730Z">
         <seg>Läs in ett projekt för att konfigurera regler för det projektets språk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10077,6 +10101,12 @@ also --&gt; still
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170730T154325Z">
         <seg>OmegaT språk för användargränssnitt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12331,6 +12361,12 @@ kanske reload istället?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Right:</seg>
       </tuv>
@@ -12656,6 +12692,14 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T132906Z">
         <seg>Skriptverktyg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting languages</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T040911Z" creationid="Dorothy" creationdate="20180501T040911Z">
+        <seg>Skriptspråk</seg>
       </tuv>
     </tu>
     <tu>
@@ -13386,6 +13430,12 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T181610Z">
         <seg>Bildla&amp;youter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14514,6 +14564,12 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -15357,6 +15413,12 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T083900Z">
         <seg>För att konvertera det till ett nytt teamprojekt, öppna det i OmegaT grafiska gränssnitt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>To customize the script feature, do the following:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16246,6 +16308,14 @@ på rad {1}, kolumn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T040835Z" creationid="Dorothy" creationdate="20180501T040835Z">
+        <seg>Användning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use $n to refer to the nth group.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180309T070823Z" creationid="Dorothy" creationdate="20180309T070823Z">
@@ -16719,11 +16789,18 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Should source have ellipsis?</note>
       <tuv lang="EN">
         <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T033733Z">
         <seg>När du är redo att se den färdiga produkten kan du exportera de översatta filerna, öppna dem i lämpligt program och se översättningen i det slutliga formatet…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>When you left-click on the number, the selected script will run.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17008,6 +17085,12 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -17089,6 +17172,12 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T085527Z">
         <seg>Men du kan få en snyggare och mer användarvänlig installation genom
 att använda installations-skriptet (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
     </tu>
     <tu>
