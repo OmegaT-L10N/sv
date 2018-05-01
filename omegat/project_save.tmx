@@ -9235,6 +9235,22 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Korean</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202716Z" creationid="Dorothy" creationdate="20180501T202716Z">
+        <seg>koreanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kurdish</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202728Z" creationid="Dorothy" creationdate="20180501T202728Z">
+        <seg>kurdiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170810T145244Z">
@@ -9454,6 +9470,14 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Lao</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202818Z" creationid="Dorothy" creationdate="20180501T202818Z">
+        <seg>laotiska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ellips?</note>
       <tuv lang="EN">
         <seg>Last Changes...</seg>
@@ -9507,6 +9531,22 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T221837Z" creationid="mini-me" creationdate="20171209T221837Z">
         <seg>Senaste versionen - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latin</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202750Z" creationid="Dorothy" creationdate="20180501T202750Z">
+        <seg>latin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latvian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202848Z" creationid="Dorothy" creationdate="20180501T202848Z">
+        <seg>lettiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -9635,6 +9675,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lingala</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202810Z" creationid="Dorothy" creationdate="20180501T202810Z">
+        <seg>lingala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Links (&amp;URL)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T070114Z">
@@ -9654,6 +9702,14 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T114338Z">
         <seg>Listvy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202835Z" creationid="Dorothy" creationdate="20180501T202835Z">
+        <seg>litauiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -9815,6 +9871,14 @@ Not OK
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macedonian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202909Z" creationid="Dorothy" creationdate="20180501T202909Z">
+        <seg>makedonska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T204207Z">
@@ -9834,6 +9898,38 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Mailing lists</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malagasy</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202934Z" creationid="Dorothy" creationdate="20180501T202934Z">
+        <seg>madagaskiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malay</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202949Z" creationid="Dorothy" creationdate="20180501T202949Z">
+        <seg>malajiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malayalam</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202955Z" creationid="Dorothy" creationdate="20180501T202955Z">
+        <seg>malayalam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203008Z" creationid="Dorothy" creationdate="20180501T203008Z">
+        <seg>maltesiska</seg>
       </tuv>
     </tu>
     <tu>
