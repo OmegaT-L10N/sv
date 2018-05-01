@@ -15378,6 +15378,14 @@ till skillnad från internt minne
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tagalog</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203617Z" creationid="Dorothy" creationdate="20180501T203617Z">
+        <seg>tagalog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tags</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170729T083704Z">
@@ -17162,6 +17170,22 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
 </note>
       <tuv lang="EN">
         <seg>Trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tswana</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203628Z" creationid="Dorothy" creationdate="20180501T203628Z">
+        <seg>setswana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turkmen</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203613Z" creationid="Dorothy" creationdate="20180501T203613Z">
+        <seg>turkmenska</seg>
       </tuv>
     </tu>
     <tu>
