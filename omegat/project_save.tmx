@@ -2672,8 +2672,7 @@ Aktuell inställning är {0}MB;</seg>
 På andra ställen bara "error doing ..."
 
 uppstod vs. inträffade?
-processing = behandling?
-</note>
+processing = behandling?</note>
       <tuv lang="EN">
         <seg>An error occurred while processing a project change event:
 {0}</seg>
@@ -14245,8 +14244,8 @@ till skillnad från internt minne
       <tuv lang="EN">
         <seg>Team synchronization: Waiting for you to finish this segment...</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171115T054802Z">
-        <seg>Teamsynkronisering: Väntar på att du ska göra färdigt detta segment…</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T032343Z">
+        <seg>Teamsynkronisering: Väntar på att du gör färdigt detta segment…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14295,8 +14294,8 @@ till skillnad från internt minne
       <tuv lang="EN">
         <seg>Testing...</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T031952Z" creationid="Dorothy" creationdate="20180501T031952Z">
-        <seg>Testar …</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T032307Z" creationid="Dorothy" creationdate="20180501T031952Z">
+        <seg>Testar…</seg>
       </tuv>
     </tu>
     <tu>
@@ -15788,8 +15787,7 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Why not "enter new ..."?
-</note>
+      <note>Why not "enter new ..."?</note>
       <tuv lang="EN">
         <seg>Type in new rule ID</seg>
       </tuv>
