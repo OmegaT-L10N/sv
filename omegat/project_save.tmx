@@ -2067,6 +2067,9 @@ Aktuell inställning är {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
       </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T183850Z">
+        <seg>&lt;p0&gt;Projekt&lt;/p0&gt; &lt;s1&gt;Inställningar&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -7657,9 +7660,11 @@ history historik
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>ISO language codes</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T183807Z">
+        <seg>Språkkoder enligt ISO</seg>
       </tuv>
     </tu>
     <tu>
