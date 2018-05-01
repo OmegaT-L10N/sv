@@ -2243,6 +2243,15 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>About...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042658Z" creationid="Dorothy" creationdate="20180501T042658Z">
+        <seg>Om…</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
@@ -6429,6 +6438,15 @@ efterbearbetning	  91 k
       </tuv>
     </tu>
     <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>External TMXs...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042526Z" creationid="Dorothy" creationdate="20180501T042517Z">
+        <seg>Externa TMX:er…-</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
@@ -8956,6 +8974,15 @@ vid första körningen.</seg>
       <note>Not OK</note>
       <tuv lang="EN">
         <seg>Languages - ISO 639 code list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>Last Changes...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042710Z" creationid="Dorothy" creationdate="20180501T042710Z">
+        <seg>Senaste ändringar…</seg>
       </tuv>
     </tu>
     <tu>
@@ -11993,6 +12020,13 @@ Why not "begin" - "end"
       </tuv>
     </tu>
     <tu>
+      <note>kolla förekomster
+"konfiguration"</note>
+      <tuv lang="EN">
+        <seg>Proxy Login...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
@@ -12971,6 +13005,15 @@ franska: résultat
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T072559Z">
         <seg>Alternativ för Sparande och Utdata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>Saving and Output...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042607Z" creationid="Dorothy" creationdate="20180501T042607Z">
+        <seg>Sparande och Utdata…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14522,6 +14565,15 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>Tag Processing...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042428Z" creationid="Dorothy" creationdate="20180501T042428Z">
+        <seg>Taggbehandling…</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
@@ -14698,6 +14750,15 @@ till skillnad från internt minne
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T032343Z">
         <seg>Teamsynkronisering: Väntar på att du gör färdigt detta segment…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>Team...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042449Z" creationid="Dorothy" creationdate="20180501T042449Z">
+        <seg>Team…</seg>
       </tuv>
     </tu>
     <tu>
@@ -16856,6 +16917,15 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>User Manual...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042647Z" creationid="Dorothy" creationdate="20180501T042647Z">
+        <seg>Användarmanual…</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>User denied credentials</seg>
       </tuv>
@@ -17046,6 +17116,15 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T080310Z">
         <seg>Visa eller redigera filfilter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>View...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042545Z" creationid="Dorothy" creationdate="20180501T042545Z">
+        <seg>Visa…</seg>
       </tuv>
     </tu>
     <tu>
