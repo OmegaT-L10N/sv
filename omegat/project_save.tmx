@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14294,6 +14294,14 @@ till skillnad från internt minne
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T071403Z">
         <seg>Test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T031952Z" creationid="Dorothy" creationdate="20180501T031952Z">
+        <seg>Testar …</seg>
       </tuv>
     </tu>
     <tu>
