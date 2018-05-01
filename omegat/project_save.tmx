@@ -2063,12 +2063,11 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T183850Z">
-        <seg>&lt;p0&gt;Projekt&lt;/p0&gt; &lt;s1&gt;Inställningar&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T183920Z">
+        <seg>&lt;p0&gt;Projekt&lt;/p0&gt; &lt;s1&gt;Inställningar&lt;/s1&gt; &lt;s2&gt;Språk&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9061,9 +9060,11 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Languages - ISO 639 code list</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T184012Z">
+        <seg>Språk - Kodlista ur ISO 639</seg>
       </tuv>
     </tu>
     <tu>
@@ -11383,9 +11384,11 @@ i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") se
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T184747Z">
+        <seg>Kontrollera &lt;u0&gt;ISO 639 Kodtabeller&lt;/u0&gt; för ytterligare och uppdaterad information om språkkoder.</seg>
       </tuv>
     </tu>
     <tu>
