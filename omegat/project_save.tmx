@@ -3028,6 +3028,34 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ellips?
+</note>
+      <tuv lang="EN">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042012Z" creationid="Dorothy" creationdate="20180501T042012Z">
+        <seg>Automatisk komplettering/Autotext…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ellips</note>
+      <tuv lang="EN">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042040Z" creationid="Dorothy" creationdate="20180501T042040Z">
+        <seg>Automatisk komplettering/Teckentabell…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>elips?</note>
+      <tuv lang="EN">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T041934Z" creationid="Dorothy" creationdate="20180501T041934Z">
+        <seg>Automatisk komplettering/Gloslista…</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Auto-sync with Editor</seg>
       </tuv>
@@ -3095,6 +3123,15 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T194420Z">
         <seg>B&amp;läddra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>Back in history...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T041847Z" creationid="Dorothy" creationdate="20180501T041847Z">
+        <seg>Bakåt i historiken…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4671,6 +4708,15 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T063910Z">
         <seg>Val av anpassade färger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>Custom Colours...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042101Z" creationid="Dorothy" creationdate="20180501T042101Z">
+        <seg>Anpassade färger…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6758,6 +6804,15 @@ inte "kompilera"
       </tuv>
     </tu>
     <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042052Z" creationid="Dorothy" creationdate="20180501T042052Z">
+        <seg>Teckensnitt…</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Foote&amp;rs</seg>
       </tuv>
@@ -6862,6 +6917,15 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ska det vara ellips?</note>
+      <tuv lang="EN">
+        <seg>Forward in history...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T041826Z" creationid="Dorothy" creationdate="20180501T041826Z">
+        <seg>Framåt i historiken…</seg>
       </tuv>
     </tu>
     <tu>
@@ -13253,6 +13317,15 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T082105Z">
         <seg>Segmenteringsregler tillämpas i följande ordning:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042111Z" creationid="Dorothy" creationdate="20180501T042111Z">
+        <seg>Segmentering…</seg>
       </tuv>
     </tu>
     <tu>
