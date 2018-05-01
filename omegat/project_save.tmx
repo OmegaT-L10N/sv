@@ -5548,8 +5548,8 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       <tuv lang="EN">
         <seg>Duplicate Fallbac&amp;k Text</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171120T210229Z">
-        <seg>R&amp;eservtext för dubblett </seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T181950Z">
+        <seg>R&amp;eservtext för dubblett</seg>
       </tuv>
     </tu>
     <tu>
@@ -6403,8 +6403,8 @@ eskejpat tecken?
       <tuv lang="EN">
         <seg>Exclusion Patterns</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171115T221917Z">
-        <seg>Mönster för exkludering </seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T181959Z">
+        <seg>Mönster för exkludering</seg>
       </tuv>
     </tu>
     <tu>
@@ -9810,8 +9810,8 @@ ViewOptionsPanel.java: 113
       <tuv lang="EN">
         <seg>Modification info text</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171119T084813Z">
-        <seg>Text för ändringsinfo </seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T183004Z">
+        <seg>Text för ändringsinfo</seg>
       </tuv>
     </tu>
     <tu>
