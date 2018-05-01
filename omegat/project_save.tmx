@@ -232,9 +232,12 @@
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
+      <note>Hittar inte var det finns i UI</note>
       <tuv lang="EN">
         <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T183233Z">
+        <seg>&amp;Rensa Meny</seg>
       </tuv>
     </tu>
     <tu>
