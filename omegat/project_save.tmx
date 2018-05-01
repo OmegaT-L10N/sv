@@ -8703,6 +8703,14 @@ på den genvägen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190350Z" creationid="Dorothy" creationdate="20180501T190350Z">
+        <seg>iriska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Is alternative</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T173719Z">
