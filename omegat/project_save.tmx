@@ -1610,6 +1610,14 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>...and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T043041Z" creationid="Dorothy" creationdate="20180501T043041Z">
+        <seg>…och cirka 30 andra filformat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T080312Z">
@@ -1699,6 +1707,14 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200913Z">
         <seg>&lt;Inga förslag&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T043121Z" creationid="Dorothy" creationdate="20180501T043121Z">
+        <seg>&lt;a0&gt;Ladda ner&lt;/a0&gt; &lt;a1&gt;Kom igång&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7146,6 +7162,14 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T043141Z" creationid="Dorothy" creationdate="20180501T043141Z">
+        <seg>Kom igång med OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git '{0}' did nothing because there were no changes</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170805T201139Z">
@@ -11581,6 +11605,14 @@ ytterligare åtgärder behöver vidtas.</seg>
     <tu>
       <tuv lang="EN">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T043054Z" creationid="Dorothy" creationdate="20180501T043054Z">
+        <seg>Kraftfulla verktyg</seg>
       </tuv>
     </tu>
     <tu>
@@ -17130,6 +17162,14 @@ sökbara utan prenumeration:</seg>
 </note>
       <tuv lang="EN">
         <seg>Version control - introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T043148Z" creationid="Dorothy" creationdate="20180501T043148Z">
+        <seg>Video av &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
     </tu>
     <tu>
