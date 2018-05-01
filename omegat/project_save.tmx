@@ -5873,8 +5873,7 @@ inte "fixa"
       </tuv>
     </tu>
     <tu>
-      <note>"uppstod vid ..."
-</note>
+      <note>"uppstod vid ..."</note>
       <tuv lang="EN">
         <seg>Error updating glossary file</seg>
       </tuv>
@@ -12468,8 +12467,7 @@ kanske reload istället?
       </tuv>
     </tu>
     <tu>
-      <note>inte säker på denna ...
-</note>
+      <note>inte säker på denna ...</note>
       <tuv lang="EN">
         <seg>Sample Output</seg>
       </tuv>
@@ -16704,10 +16702,11 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T033733Z">
+        <seg>När du är redo att se den färdiga produkten kan du exportera de översatta filerna, öppna dem i lämpligt program och se översättningen i det slutliga formatet…</seg>
       </tuv>
     </tu>
     <tu>
