@@ -9235,6 +9235,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kirundi</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203340Z" creationid="Dorothy" creationdate="20180501T203340Z">
+        <seg>kirundi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Korean</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T202716Z" creationid="Dorothy" creationdate="20180501T202716Z">
@@ -13470,6 +13478,14 @@ kanske reload istället?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Romansh</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203335Z" creationid="Dorothy" creationdate="20180501T203335Z">
+        <seg>rumantsch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Row</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T104614Z">
@@ -13528,8 +13544,8 @@ kanske reload istället?
       <tuv lang="EN">
         <seg>Russian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170716T154452Z">
-        <seg>Ryska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203345Z">
+        <seg>ryska</seg>
       </tuv>
     </tu>
     <tu>
@@ -14569,6 +14585,30 @@ Not OK
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203402Z" creationid="Dorothy" creationdate="20180501T203402Z">
+        <seg>slovakiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slovene</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203411Z" creationid="Dorothy" creationdate="20180501T203411Z">
+        <seg>slovenska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Somali</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203419Z" creationid="Dorothy" creationdate="20180501T203419Z">
+        <seg>somaliska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK</note>
       <tuv lang="EN">
         <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
@@ -14833,6 +14873,14 @@ entered vs. specified
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T154401Z">
         <seg>Spanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spanish, Castilian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203442Z" creationid="Dorothy" creationdate="20180501T203442Z">
+        <seg>spanska</seg>
       </tuv>
     </tu>
     <tu>
@@ -15107,6 +15155,14 @@ kan man skicka en flagga till OmegaT?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sundanese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203453Z" creationid="Dorothy" creationdate="20180501T203453Z">
+        <seg>sundanesiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Supported Files</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T093424Z">
@@ -15115,10 +15171,18 @@ kan man skicka en flagga till OmegaT?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Swahili</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203501Z" creationid="Dorothy" creationdate="20180501T203501Z">
+        <seg>swahili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Swedish</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170806T142913Z">
-        <seg>Svenska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203508Z">
+        <seg>svenska</seg>
       </tuv>
     </tu>
     <tu>
@@ -15348,6 +15412,22 @@ till skillnad från internt minne
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tajik</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203547Z" creationid="Dorothy" creationdate="20180501T203547Z">
+        <seg>tadzjikiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tamil</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203516Z" creationid="Dorothy" creationdate="20180501T203516Z">
+        <seg>tamil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T150822Z">
@@ -15477,6 +15557,14 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Telugu</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203520Z" creationid="Dorothy" creationdate="20180501T203520Z">
+        <seg>telugu</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>visas inte i GUI
 </note>
       <tuv lang="EN">
@@ -15582,6 +15670,14 @@ Omfånget för en textersättning är projektets målsegment, oavsett om de reda
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200815Z">
         <seg>Text som ska tas bort</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thai</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203558Z" creationid="Dorothy" creationdate="20180501T203558Z">
+        <seg>thailändska</seg>
       </tuv>
     </tu>
     <tu>
@@ -16594,6 +16690,14 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T102119Z">
         <seg>Därför ska till exempel reglerna för kanadafranska (FR-CA) ligga högre upp i listan än reglerna för franska (FR.*) och högre än standardreglerna (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tigrinya</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203605Z" creationid="Dorothy" creationdate="20180501T203605Z">
+        <seg>tigrinska</seg>
       </tuv>
     </tu>
     <tu>
