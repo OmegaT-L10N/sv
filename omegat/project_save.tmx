@@ -3998,8 +3998,8 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170806T142759Z">
-        <seg>Kinesiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185621Z">
+        <seg>kinesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -4032,6 +4032,14 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T104045Z">
         <seg>Välj målfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chuvash</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185647Z" creationid="Dorothy" creationdate="20180501T185647Z">
+        <seg>tjuvasjiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -4590,6 +4598,14 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Corsican</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185708Z" creationid="Dorothy" creationdate="20180501T185708Z">
+        <seg>korsikanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170723T194052Z">
@@ -4769,6 +4785,14 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185726Z" creationid="Dorothy" creationdate="20180501T185726Z">
+        <seg>kroatiska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK</note>
       <tuv lang="EN">
         <seg>Ctrl+A</seg>
@@ -4925,10 +4949,26 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185759Z" creationid="Dorothy" creationdate="20180501T185759Z">
+        <seg>tjeckiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>D&amp;iagrams</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T181619Z">
         <seg>D&amp;iagram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185810Z" creationid="Dorothy" creationdate="20180501T185810Z">
+        <seg>danska</seg>
       </tuv>
     </tu>
     <tu>
@@ -5708,8 +5748,16 @@ laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg
       <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170716T154518Z">
-        <seg>Nederländska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185828Z">
+        <seg>nederländska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dzongkha</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185845Z" creationid="Dorothy" creationdate="20180501T185845Z">
+        <seg>dzongkha</seg>
       </tuv>
     </tu>
     <tu>
@@ -6038,8 +6086,8 @@ ska det vara tag, som lite längre upp?
       <tuv lang="EN">
         <seg>English</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170716T154527Z">
-        <seg>Engelska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185850Z">
+        <seg>engelska</seg>
       </tuv>
     </tu>
     <tu>
@@ -6385,6 +6433,22 @@ eskejpat tecken?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T074431Z">
         <seg>Undantaget decimalttecken innehåller data i ogiltigt format ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Esperanto</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185856Z" creationid="Dorothy" creationdate="20180501T185856Z">
+        <seg>esperanto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185908Z" creationid="Dorothy" creationdate="20180501T185908Z">
+        <seg>estniska</seg>
       </tuv>
     </tu>
     <tu>
