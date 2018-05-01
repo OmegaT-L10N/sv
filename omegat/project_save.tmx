@@ -9297,6 +9297,15 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042731Z" creationid="Dorothy" creationdate="20180501T042731Z">
+        <seg>Logg…</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Log:</seg>
       </tuv>
