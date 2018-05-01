@@ -6819,6 +6819,14 @@ inte "kompilera"
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Faroese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185939Z" creationid="Dorothy" creationdate="20180501T185939Z">
+        <seg>färöiska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Why "backup extension"?
 </note>
       <tuv lang="EN">
@@ -6860,6 +6868,14 @@ inte "kompilera"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170728T185052Z">
         <seg>Några ytterligare saker att komma ihåg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fijian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185953Z" creationid="Dorothy" creationdate="20180501T185953Z">
+        <seg>fijianska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7024,8 +7040,8 @@ inte "kompilera"
       <tuv lang="EN">
         <seg>Finnish</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170806T142827Z">
-        <seg>Finska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185956Z">
+        <seg>finska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7231,8 +7247,8 @@ skript (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>French</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170806T142840Z">
-        <seg>Franska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190000Z">
+        <seg>franska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7329,6 +7345,14 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Galician</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190034Z" creationid="Dorothy" creationdate="20180501T190034Z">
+        <seg>galiciska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171108T205553Z">
@@ -7353,10 +7377,18 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Georgian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190050Z" creationid="Dorothy" creationdate="20180501T190050Z">
+        <seg>georgiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>German</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170716T154334Z">
-        <seg>Tyska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190053Z">
+        <seg>tyska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7542,10 +7574,34 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Greek, Modern</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190116Z" creationid="Dorothy" creationdate="20180501T190116Z">
+        <seg>grekiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180309T070901Z" creationid="Dorothy" creationdate="20180309T070901Z">
         <seg>Grupp {0} finns inte i sökuttrycket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Guaraní</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190130Z" creationid="Dorothy" creationdate="20180501T190130Z">
+        <seg>guarani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gujarati</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190136Z" creationid="Dorothy" creationdate="20180501T190136Z">
+        <seg>gujarati</seg>
       </tuv>
     </tu>
     <tu>
@@ -7612,10 +7668,26 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hausa</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190148Z" creationid="Dorothy" creationdate="20180501T190148Z">
+        <seg>hausa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T160916Z">
         <seg>Sidh&amp;uvud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hebrew (modern)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190201Z" creationid="Dorothy" creationdate="20180501T190201Z">
+        <seg>hebreiska</seg>
       </tuv>
     </tu>
     <tu>
