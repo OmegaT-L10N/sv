@@ -9958,6 +9958,14 @@ Not OK
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marathi (Marāṭhī)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203025Z" creationid="Dorothy" creationdate="20180501T203025Z">
+        <seg>marathi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior (webmaster)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T123512Z">
@@ -10325,6 +10333,14 @@ ViewOptionsPanel.java: 113
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mongolian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203038Z" creationid="Dorothy" creationdate="20180501T203038Z">
+        <seg>mongoliska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T094135Z">
@@ -10480,6 +10496,14 @@ lämplig plats såsom Programmappen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Māori</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203016Z" creationid="Dorothy" creationdate="20180501T203016Z">
+        <seg>maori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170722T071923Z">
@@ -10500,6 +10524,22 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T070028Z">
         <seg>Namn: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nauru</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203046Z" creationid="Dorothy" creationdate="20180501T203046Z">
+        <seg>nauriska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nepali</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203114Z" creationid="Dorothy" creationdate="20180501T203114Z">
+        <seg>nepali</seg>
       </tuv>
     </tu>
     <tu>
@@ -10770,6 +10810,14 @@ lämplig plats såsom Programmappen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Norwegian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203132Z" creationid="Dorothy" creationdate="20180501T203132Z">
+        <seg>norska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not Set</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T045254Z">
@@ -10975,6 +11023,14 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T080400Z">
         <seg>Alterna&amp;tiv…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Occitan</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203152Z" creationid="Dorothy" creationdate="20180501T203152Z">
+        <seg>occitanska</seg>
       </tuv>
     </tu>
     <tu>
@@ -11623,6 +11679,14 @@ consistency?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Oromo</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203211Z" creationid="Dorothy" creationdate="20180501T203211Z">
+        <seg>afan oromo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Orphan segments</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T170531Z">
@@ -11722,6 +11786,14 @@ consistency?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Panjabi, Punjabi</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203226Z" creationid="Dorothy" creationdate="20180501T203226Z">
+        <seg>punjabi</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -11734,6 +11806,14 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171108T203432Z">
         <seg>Ett parsningsfel inträffade när inställningsfilen lästes in!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pashto, Pushto</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203256Z" creationid="Dorothy" creationdate="20180501T203256Z">
+        <seg>pashto</seg>
       </tuv>
     </tu>
     <tu>
@@ -11821,6 +11901,14 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>Periodic builds are available on CloudBees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Persian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203241Z" creationid="Dorothy" creationdate="20180501T203241Z">
+        <seg>persiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -12129,13 +12217,21 @@ ytterligare åtgärder behöver vidtas.</seg>
       <tuv lang="EN">
         <seg>Polish</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170716T154430Z">
-        <seg>Polska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203244Z">
+        <seg>polska</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203305Z" creationid="Dorothy" creationdate="20180501T203305Z">
+        <seg>portugisiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -12652,6 +12748,14 @@ Why not "begin" - "end"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T212751Z">
         <seg>QA - kontrollera regler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quechua</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203313Z" creationid="Dorothy" creationdate="20180501T203313Z">
+        <seg>quechua</seg>
       </tuv>
     </tu>
     <tu>
