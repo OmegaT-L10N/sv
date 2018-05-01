@@ -3289,9 +3289,41 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Bashkir</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185325Z" creationid="Dorothy" creationdate="20180501T185325Z">
+        <seg>basjkiriska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Basque</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185343Z" creationid="Dorothy" creationdate="20180501T185343Z">
+        <seg>baskiska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK</note>
       <tuv lang="EN">
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Belarusian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185353Z" creationid="Dorothy" creationdate="20180501T185353Z">
+        <seg>vitryska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bengali</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185404Z" creationid="Dorothy" creationdate="20180501T185404Z">
+        <seg>bengali</seg>
       </tuv>
     </tu>
     <tu>
@@ -3302,6 +3334,22 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T225000Z">
         <seg>Dubbelriktade kontrolltecken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bihari</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185411Z" creationid="Dorothy" creationdate="20180501T185411Z">
+        <seg>bihari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bislama</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185417Z" creationid="Dorothy" creationdate="20180501T185417Z">
+        <seg>bislama</seg>
       </tuv>
     </tu>
     <tu>
@@ -3354,6 +3402,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Breton</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185441Z" creationid="Dorothy" creationdate="20180501T185441Z">
+        <seg>bretonska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T194438Z">
@@ -3397,6 +3453,22 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
 </note>
       <tuv lang="EN">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185453Z" creationid="Dorothy" creationdate="20180501T185453Z">
+        <seg>bulgariska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Burmese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185511Z" creationid="Dorothy" creationdate="20180501T185511Z">
+        <seg>burmesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3607,8 +3679,8 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       <tuv lang="EN">
         <seg>Catalan</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170716T154352Z">
-        <seg>Katalanska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185519Z">
+        <seg>katalanska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3912,6 +3984,14 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T194228Z">
         <seg>Checkar ut projektet…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chichewa, Chewa, Nyanja</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185613Z" creationid="Dorothy" creationdate="20180501T185613Z">
+        <seg>chichewa, chewa, nyanja</seg>
       </tuv>
     </tu>
     <tu>
