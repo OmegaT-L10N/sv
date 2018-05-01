@@ -2009,6 +2009,14 @@ Aktuell inställning är {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt; &lt;t2&gt;Editing behavior...&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042837Z" creationid="Dorothy" creationdate="20180501T042837Z">
+        <seg>&lt;p0&gt;Meny&lt;/p0&gt; &lt;s1&gt;Alternativ&lt;/s1&gt; &lt;t2&gt;Redigeringsbeteende…&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Team projects&lt;/s1&gt; &lt;s2&gt;Team projects&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171208T192229Z" creationid="mini-me" creationdate="20171208T192229Z">
@@ -4374,6 +4382,22 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042951Z" creationid="Dorothy" creationdate="20180501T042951Z">
+        <seg>Konverterar alla .DOCX i projektet…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T043011Z" creationid="Dorothy" creationdate="20180501T043011Z">
+        <seg>Konverterar aktuell .DOCX…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T151139Z">
@@ -5705,6 +5729,14 @@ global sök "highlight"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T042417Z" creationid="Dorothy" creationdate="20180501T042417Z">
         <seg>Redigeringsbeteende…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing behavior</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042844Z" creationid="Dorothy" creationdate="20180501T042844Z">
+        <seg>Redigeringsbeteende</seg>
       </tuv>
     </tu>
     <tu>
@@ -12350,8 +12382,7 @@ Why not "begin" - "end"
       </tuv>
     </tu>
     <tu>
-      <note>have _a_ lower case letter ...
-</note>
+      <note>have _a_ lower case letter ...</note>
       <tuv lang="EN">
         <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
       </tuv>
@@ -17957,6 +17988,14 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T061115Z">
         <seg>färdigt ({0} ms förfluten tid)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>etc...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042811Z" creationid="Dorothy" creationdate="20180501T042811Z">
+        <seg>osv…</seg>
       </tuv>
     </tu>
     <tu>
