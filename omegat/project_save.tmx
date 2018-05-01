@@ -5689,6 +5689,16 @@ global sök "highlight"
       </tuv>
     </tu>
     <tu>
+      <note>ellips?
+</note>
+      <tuv lang="EN">
+        <seg>Editing Behavior...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042417Z" creationid="Dorothy" creationdate="20180501T042417Z">
+        <seg>Redigeringsbeteende…</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Editor</seg>
       </tuv>
@@ -14083,6 +14093,15 @@ entered vs. specified
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171116T135208Z">
         <seg>Ange beteende för hantering av taggar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ellips?</note>
+      <tuv lang="EN">
+        <seg>Spell checking...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T042351Z" creationid="Dorothy" creationdate="20180501T042351Z">
+        <seg>Global stavningskontroll…</seg>
       </tuv>
     </tu>
     <tu>
