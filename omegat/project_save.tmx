@@ -846,8 +846,7 @@ unescape
     </tu>
     <tu>
       <note>Uppdatera engelska?
-Properties --&gt; Settings?
-</note>
+Properties --&gt; Settings?</note>
       <tuv lang="EN">
         <seg>&amp;Properties...</seg>
       </tuv>
@@ -4237,9 +4236,7 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
     <tu>
       <note>This one is a title for the dialog and shouldn't have ellipsis
 
-(source has ellipsis now)
-
-</note>
+(source has ellipsis now)</note>
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
@@ -5550,8 +5547,7 @@ global sök "highlight"
       <note>ta bort ellips?
 Det finns inte någon ellips på platsen under "Preferences"
 
-Här är det &lt;b&gt; runt referensen, inte på andra platser?
-</note>
+Här är det &lt;b&gt; runt referensen, inte på andra platser?</note>
       <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
@@ -10953,8 +10949,7 @@ ytterligare åtgärder behöver vidtas.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"before using [...] again"
-</note>
+      <note>"before using [...] again"</note>
       <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
