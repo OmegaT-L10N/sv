@@ -15502,6 +15502,14 @@ till skillnad från internt minne
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tatar</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203656Z" creationid="Dorothy" creationdate="20180501T203656Z">
+        <seg>tatariska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T081839Z">
@@ -17174,10 +17182,26 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tsonga</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203650Z" creationid="Dorothy" creationdate="20180501T203650Z">
+        <seg>tsonga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tswana</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203628Z" creationid="Dorothy" creationdate="20180501T203628Z">
         <seg>setswana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turkish</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203645Z" creationid="Dorothy" creationdate="20180501T203645Z">
+        <seg>turkiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -17194,6 +17218,14 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T220142Z" creationid="mini-me" creationdate="20171209T220142Z">
         <seg>Självstudier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twi</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203703Z" creationid="Dorothy" creationdate="20180501T203703Z">
+        <seg>twi</seg>
       </tuv>
     </tu>
     <tu>
@@ -17277,6 +17309,22 @@ Exakta sökningar matchar hela söksträngen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T163435Z">
         <seg>URL:er</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uighur, Uyghur</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203726Z" creationid="Dorothy" creationdate="20180501T203726Z">
+        <seg>uiguriska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ukrainian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203734Z" creationid="Dorothy" creationdate="20180501T203734Z">
+        <seg>ukrainska</seg>
       </tuv>
     </tu>
     <tu>
@@ -17633,6 +17681,14 @@ på rad {1}, kolumn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Urdu</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203739Z" creationid="Dorothy" creationdate="20180501T203739Z">
+        <seg>urdu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T212926Z">
@@ -17901,6 +17957,14 @@ sökbara utan prenumeration:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uzbek</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203745Z" creationid="Dorothy" creationdate="20180501T203745Z">
+        <seg>uzbekiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validate your tags</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T060134Z">
@@ -17963,6 +18027,14 @@ sökbara utan prenumeration:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vietnamese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203800Z" creationid="Dorothy" creationdate="20180501T203800Z">
+        <seg>vietnamesiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T104258Z">
@@ -18002,6 +18074,14 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T123651Z">
         <seg>Vincent Bidaux (dokumentationsansvarig)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Volapük</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203806Z" creationid="Dorothy" creationdate="20180501T203806Z">
+        <seg>volapük</seg>
       </tuv>
     </tu>
     <tu>
@@ -18106,6 +18186,22 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
 </note>
       <tuv lang="EN">
         <seg>Website manager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Welsh</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203818Z" creationid="Dorothy" creationdate="20180501T203818Z">
+        <seg>kymriska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Western Frisian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203835Z" creationid="Dorothy" creationdate="20180501T203835Z">
+        <seg>frisiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -18331,6 +18427,14 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wolof</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203823Z" creationid="Dorothy" creationdate="20180501T203823Z">
+        <seg>wolof</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Words</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T133325Z">
@@ -18423,10 +18527,34 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Xhosa</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203842Z" creationid="Dorothy" creationdate="20180501T203842Z">
+        <seg>xhosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Yandex Translate - No API Key Specified</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T201634Z">
         <seg>Yandex Translate - Ingen API-nyckel har angivits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yiddish</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203856Z" creationid="Dorothy" creationdate="20180501T203856Z">
+        <seg>jiddisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yoruba</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203900Z" creationid="Dorothy" creationdate="20180501T203900Z">
+        <seg>yoruba</seg>
       </tuv>
     </tu>
     <tu>
@@ -18715,6 +18843,22 @@ konfigurationsmapp.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T094949Z">
         <seg>ZIP-filer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zhuang, Chuang</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203907Z" creationid="Dorothy" creationdate="20180501T203907Z">
+        <seg>zhuang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zulu</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203912Z" creationid="Dorothy" creationdate="20180501T203912Z">
+        <seg>zulu</seg>
       </tuv>
     </tu>
     <tu>
