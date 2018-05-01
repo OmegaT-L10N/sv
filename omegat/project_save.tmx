@@ -232,6 +232,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
@@ -4459,6 +4465,14 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T043451Z" creationid="Dorothy" creationdate="20180501T043451Z">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk med flera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170723T194052Z">
@@ -6014,6 +6028,12 @@ ska det vara tag, som lite längre upp?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T110113Z">
         <seg>Ett fel uppstod vid avkodning av användarnamn och lösenord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15258,6 +15278,12 @@ användas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The following scripting languages have been implemented:</seg>
       </tuv>
@@ -17376,6 +17402,12 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T133829Z">
         <seg>Vid användning av reguljära uttryck, stödjer inte ersättningssträngen referenser till grupper som definierats i söksträngen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
     </tu>
     <tu>
