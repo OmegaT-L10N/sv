@@ -7933,6 +7933,14 @@ history historik
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Icelandic</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202357Z" creationid="Dorothy" creationdate="20180501T202357Z">
+        <seg>isländska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -8663,6 +8671,14 @@ på den genvägen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inupiaq</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202336Z" creationid="Dorothy" creationdate="20180501T202336Z">
+        <seg>inupiaq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid API key</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T201606Z">
@@ -8924,8 +8940,8 @@ vid första körningen.</seg>
       <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170806T142851Z">
-        <seg>Italienska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202401Z">
+        <seg>italienska</seg>
       </tuv>
     </tu>
     <tu>
