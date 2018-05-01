@@ -8671,6 +8671,14 @@ på den genvägen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inuktitut</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202410Z" creationid="Dorothy" creationdate="20180501T202410Z">
+        <seg>inuktitut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inupiaq</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T202336Z" creationid="Dorothy" creationdate="20180501T202336Z">
@@ -9010,8 +9018,8 @@ vid första körningen.</seg>
       <tuv lang="EN">
         <seg>Japanese</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170716T154455Z">
-        <seg>Japanska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202413Z">
+        <seg>japanska</seg>
       </tuv>
     </tu>
     <tu>
@@ -9040,6 +9048,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Javanese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202424Z" creationid="Dorothy" creationdate="20180501T202424Z">
+        <seg>javanesiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (localization manager)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T123744Z">
@@ -9059,6 +9075,38 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T061220Z">
         <seg>Hoppar till senast redigerade segment…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kalaallisut, Greenlandic</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202450Z" creationid="Dorothy" creationdate="20180501T202450Z">
+        <seg>grönländska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kannada</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202455Z" creationid="Dorothy" creationdate="20180501T202455Z">
+        <seg>kannada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kashmiri</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202548Z" creationid="Dorothy" creationdate="20180501T202548Z">
+        <seg>kashmiri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kazakh</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202602Z" creationid="Dorothy" creationdate="20180501T202602Z">
+        <seg>kazakiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -9159,6 +9207,30 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T141112Z">
         <seg>Nyckelordssökningar matchar alla nyckelord (åtskilda av mellanslag) oavsett deras ordning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Khmer</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202616Z" creationid="Dorothy" creationdate="20180501T202616Z">
+        <seg>kambodjanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kinyarwanda</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202636Z" creationid="Dorothy" creationdate="20180501T202636Z">
+        <seg>kinyarwanda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kirghiz, Kyrgyz</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202657Z" creationid="Dorothy" creationdate="20180501T202657Z">
+        <seg>kirgiziska</seg>
       </tuv>
     </tu>
     <tu>
