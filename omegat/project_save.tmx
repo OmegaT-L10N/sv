@@ -7766,6 +7766,14 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hindi</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190212Z" creationid="Dorothy" creationdate="20180501T190212Z">
+        <seg>hindi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171108T210136Z">
@@ -7848,6 +7856,14 @@ history historik
 </note>
       <tuv lang="EN">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190224Z" creationid="Dorothy" creationdate="20180501T190224Z">
+        <seg>ungerska</seg>
       </tuv>
     </tu>
     <tu>
@@ -8420,6 +8436,14 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Indonesian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190258Z" creationid="Dorothy" creationdate="20180501T190237Z">
+        <seg>indonesiska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -8604,6 +8628,22 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Intended in particular for users who are new to Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Interlingua</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190232Z" creationid="Dorothy" creationdate="20180501T190232Z">
+        <seg>interlingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Interlingue</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190328Z" creationid="Dorothy" creationdate="20180501T190328Z">
+        <seg>interlingue</seg>
       </tuv>
     </tu>
     <tu>
