@@ -2697,9 +2697,11 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Amharic</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185100Z">
+        <seg>amhariska</seg>
       </tuv>
     </tu>
     <tu>
@@ -2929,9 +2931,11 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Arabic</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185118Z">
+        <seg>arabiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -2967,9 +2971,11 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Armenian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185143Z">
+        <seg>armeniska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3000,9 +3006,11 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Assamese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185155Z">
+        <seg>assamesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3167,6 +3175,22 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T045210Z">
         <seg>Genomsnittligt resultat: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aymara</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185216Z" creationid="Dorothy" creationdate="20180501T185216Z">
+        <seg>aymara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Azerbaijani</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185247Z" creationid="Dorothy" creationdate="20180501T185247Z">
+        <seg>azerbajdzjanska</seg>
       </tuv>
     </tu>
     <tu>
