@@ -2088,6 +2088,12 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; is an Open Source style and grammar proofreading software for English, French, German, Polish, Dutch, Romanian, and a number of other languages - see the &lt;u1&gt;list of supported languages&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>===============</seg>
       </tuv>
@@ -5343,6 +5349,14 @@ It is sometimes useful to be able make some tags untranslatable based on the val
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T041459Z" creationid="Dorothy" creationdate="20180501T041459Z">
+        <seg>Ladda ner sida från MediaWiki…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T212721Z">
@@ -7953,6 +7967,12 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>Incompatibilities</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Inconsistent numbers</seg>
       </tuv>
@@ -8077,6 +8097,12 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T221304Z" creationid="mini-me" creationdate="20171209T221304Z">
         <seg>Installationstyp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>Installation and Use</seg>
       </tuv>
     </tu>
     <tu>
@@ -8289,6 +8315,12 @@ på den genvägen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>It can also detect some grammar mistakes.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -8300,6 +8332,12 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>It does not include spell checking.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8378,6 +8416,12 @@ inuti konfigurationsmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170801T095559Z">
         <seg>Det gick inte att skapa översatta dokument eftersom några taggar saknas eller är skadade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8721,6 +8765,12 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>LanguageTool plugin</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>LanguageTool server started</seg>
       </tuv>
@@ -8750,6 +8800,18 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T213405Z">
         <seg>LanguageTool kommer att inaktiveras till projektet stängs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>LanguageTool will not work properly if an old version is found in the /plugin folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8960,6 +9022,12 @@ vid första körningen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>Legal notices</seg>
       </tuv>
     </tu>
     <tu>
@@ -12142,6 +12210,12 @@ Why not "begin" - "end"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>have _a_ lower case letter ...
 </note>
       <tuv lang="EN">
@@ -14692,6 +14766,18 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>The LanguageTool in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>The LanguageTool plugin is included in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -15097,6 +15183,12 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16959,6 +17051,12 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
@@ -16972,6 +17070,12 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T055744Z">
         <seg>Om ikryssad kommer elementen i gloslistans auto-kompletteringsvy även att innehålla källtexten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17395,6 +17499,12 @@ att använda installations-skriptet (linux-install.sh).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171106T062357Z" creationid="Dorothy" creationdate="20171106T062345Z">
         <seg>Sedan kan du köra Kaptain-startskriptet med:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
       </tuv>
     </tu>
     <tu>
