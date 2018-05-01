@@ -2240,9 +2240,11 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Abkhaz</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T184911Z">
+        <seg>abchaziska</seg>
       </tuv>
     </tu>
     <tu>
@@ -2461,15 +2463,19 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Afar</seg>
       </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T184941Z">
+        <seg>afar</seg>
+      </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Afrikaans</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T184946Z">
+        <seg>afrikaans</seg>
       </tuv>
     </tu>
     <tu>
@@ -2513,9 +2519,11 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Albanian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185045Z">
+        <seg>albanska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7653,9 +7661,11 @@ history historik
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>ISO 639-1/639-2 Language code list</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T184855Z">
+        <seg>ISO 639-1/639-2 Lista över språkkoder</seg>
       </tuv>
     </tu>
     <tu>
