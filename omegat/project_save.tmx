@@ -12652,6 +12652,14 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T033901Z" creationid="Dorothy" creationdate="20180501T033901Z">
+        <seg>Skript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripts Folder:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T062249Z">
@@ -13887,10 +13895,11 @@ kan man skicka en flagga till OmegaT?
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Summary of chapters</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180501T033821Z">
+        <seg>Sammanfattning av kapitlen</seg>
       </tuv>
     </tu>
     <tu>
