@@ -2945,6 +2945,9 @@ TMX-filen kommer inte att läsas in.</seg>
       <tuv lang="EN">
         <seg>Aragonese</seg>
       </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110233Z">
+        <seg>aragonska</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -3169,6 +3172,9 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <note>Not OK</note>
       <tuv lang="EN">
         <seg>Avaric</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110257Z">
+        <seg>avariska</seg>
       </tuv>
     </tu>
     <tu>
