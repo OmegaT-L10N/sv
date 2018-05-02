@@ -10764,6 +10764,14 @@ lämplig plats såsom Programmappen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ndonga</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143226Z" creationid="Dorothy" creationdate="20180502T143226Z">
+        <seg>ndonga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nepali</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203114Z" creationid="Dorothy" creationdate="20180501T203114Z">
@@ -11038,10 +11046,34 @@ lämplig plats såsom Programmappen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>North Ndebele</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143215Z" creationid="Dorothy" creationdate="20180502T143215Z">
+        <seg>ndebele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Norwegian</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203132Z" creationid="Dorothy" creationdate="20180501T203132Z">
         <seg>norska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Norwegian Bokmål</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143149Z" creationid="Dorothy" creationdate="20180502T143149Z">
+        <seg>bokmål</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Norwegian Nynorsk</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143235Z" creationid="Dorothy" creationdate="20180502T143235Z">
+        <seg>nynorsk</seg>
       </tuv>
     </tu>
     <tu>
@@ -11246,6 +11278,14 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ii iii
+Hittar inte denna
+Not OK</note>
+      <tuv lang="EN">
+        <seg>Nuosu</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>O&amp;ptions...</seg>
       </tuv>
@@ -11270,6 +11310,14 @@ also --&gt; still
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T122320Z">
         <seg>Dokument har också ofta taggar som inte har något med formatering att göra, men som ändå är viktiga i källdokument (och i de översatta filerna).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ojibwe, Ojibwa</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143356Z" creationid="Dorothy" creationdate="20180502T143356Z">
+        <seg>ojibwa</seg>
       </tuv>
     </tu>
     <tu>
@@ -11903,6 +11951,14 @@ consistency?
 </note>
       <tuv lang="EN">
         <seg>Original author of the OmegaT application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oriya</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143416Z" creationid="Dorothy" creationdate="20180502T143416Z">
+        <seg>oriya</seg>
       </tuv>
     </tu>
     <tu>
@@ -15085,6 +15141,14 @@ entered vs. specified
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171118T072811Z">
         <seg>Käll-/översättningslängder (tecken)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>South Ndebele</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143331Z" creationid="Dorothy" creationdate="20180502T143331Z">
+        <seg>ndebele</seg>
       </tuv>
     </tu>
     <tu>
