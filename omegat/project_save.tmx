@@ -7746,6 +7746,14 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Haitian, Haitian Creole</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T140550Z" creationid="Dorothy" creationdate="20180502T140550Z">
+        <seg>haitiisk kreol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Has note</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T115528Z">
