@@ -2913,6 +2913,14 @@ TMX-filen kommer inte att läsas in.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T165440Z" creationid="Dorothy" creationdate="20180502T165440Z">
+        <seg>Android-resurser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171108T210200Z">
