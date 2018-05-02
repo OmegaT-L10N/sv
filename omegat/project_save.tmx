@@ -16211,6 +16211,15 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>kommandot "commit"?</note>
+      <tuv lang="EN">
+        <seg>The Commit window will open and show the progress of the commit command.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T155959Z" creationid="Dorothy" creationdate="20180502T155959Z">
+        <seg>Fönstret Incheckning öppnas och visar förlopper för incheckningskommandot ('commit').</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
