@@ -10028,6 +10028,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Luba-Katanga</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143015Z" creationid="Dorothy" creationdate="20180502T143015Z">
+        <seg>luba-katanga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Luganda</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180502T142757Z" creationid="Dorothy" creationdate="20180502T142757Z">
@@ -10134,6 +10142,14 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T183306Z">
         <seg>Manuellt definierade regler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manx</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143034Z" creationid="Dorothy" creationdate="20180502T143034Z">
+        <seg>manx</seg>
       </tuv>
     </tu>
     <tu>
@@ -10254,6 +10270,14 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T164705Z">
         <seg>Markera segment med &amp;anteckningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marshallese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143059Z" creationid="Dorothy" creationdate="20180502T143059Z">
+        <seg>marshallesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -10728,6 +10752,14 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203046Z" creationid="Dorothy" creationdate="20180501T203046Z">
         <seg>nauriska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navajo, Navaho</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143127Z" creationid="Dorothy" creationdate="20180502T143127Z">
+        <seg>navaho</seg>
       </tuv>
     </tu>
     <tu>
