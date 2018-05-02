@@ -7748,8 +7748,8 @@ skript (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Haitian, Haitian Creole</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T140550Z" creationid="Dorothy" creationdate="20180502T140550Z">
-        <seg>haitiisk kreol</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T140603Z" creationid="Dorothy" creationdate="20180502T140550Z">
+        <seg>haitiisk kreol, haitiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7828,6 +7828,14 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Herero</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T140631Z" creationid="Dorothy" creationdate="20180502T140631Z">
+        <seg>herero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170723T194325Z">
@@ -7864,6 +7872,14 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T190212Z" creationid="Dorothy" creationdate="20180501T190212Z">
         <seg>hindi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hiri Motu</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T140654Z" creationid="Dorothy" creationdate="20180502T140654Z">
+        <seg>hiri motu</seg>
       </tuv>
     </tu>
     <tu>
