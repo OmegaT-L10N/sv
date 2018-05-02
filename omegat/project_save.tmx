@@ -9794,6 +9794,22 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152238Z" creationid="Dorothy" creationdate="20180502T152238Z">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152227Z" creationid="Dorothy" creationdate="20180502T152227Z">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left:</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T111216Z" creationid="mini-me" creationdate="20171209T111216Z">
@@ -13773,6 +13789,22 @@ kanske reload istället?
       <note>Not OK</note>
       <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152252Z" creationid="Dorothy" creationdate="20180502T152252Z">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152233Z" creationid="Dorothy" creationdate="20180502T152233Z">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
