@@ -4949,8 +4949,7 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
-      <note>Vad är "cursor lock"?
-</note>
+      <note>Vad är "cursor lock"?</note>
       <tuv lang="EN">
         <seg>Cursor lock on</seg>
       </tuv>
@@ -6852,9 +6851,7 @@ efterbearbetning	  91 k
       </tuv>
     </tu>
     <tu>
-      <note>x misslyckas
-inte "kompilera"
-</note>
+      <note>inte "kompilera"</note>
       <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
@@ -6908,8 +6905,8 @@ inte "kompilera"
       <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171118T073338Z">
-        <seg>Ett oåterkalleligt fel inträffade - sparar projektfilen med filnamnstillägget '.recover'.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T162113Z">
+        <seg>Ett allvarligt fel inträffade - sparar projektfilen med filnamnstillägget '.recover'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13512,8 +13509,7 @@ och filen heter "replace_strip" och inte "remove_strip"
     </tu>
     <tu>
       <note>open vs. load
-kanske reload istället?
-</note>
+kanske reload istället?</note>
       <tuv lang="EN">
         <seg>Reopen the project?</seg>
       </tuv>
@@ -15287,8 +15283,7 @@ entered vs. specified
       </tuv>
     </tu>
     <tu>
-      <note>Source / translation vs. source / target
-</note>
+      <note>Source / translation vs. source / target</note>
       <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
@@ -19740,6 +19735,14 @@ Men kan inte förstå varför i SRC code
 </note>
       <tuv lang="EN">
         <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment 0000</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T162033Z" creationid="Dorothy" creationdate="20180502T162033Z">
+        <seg>segment 0000</seg>
       </tuv>
     </tu>
     <tu>
