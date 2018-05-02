@@ -9385,6 +9385,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Komi</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T142218Z" creationid="Dorothy" creationdate="20180502T142218Z">
+        <seg>komi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Korean</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T202716Z" creationid="Dorothy" creationdate="20180501T202716Z">
