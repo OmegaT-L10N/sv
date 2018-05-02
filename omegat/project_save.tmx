@@ -2513,9 +2513,11 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Akan</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110027Z">
+        <seg>akan</seg>
       </tuv>
     </tu>
     <tu>
