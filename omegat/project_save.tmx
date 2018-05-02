@@ -307,8 +307,7 @@
       </tuv>
     </tu>
     <tu>
-      <note>global: check
-</note>
+      <note>global: check</note>
       <tuv lang="EN">
         <seg>&amp;Do not check printf-variables</seg>
       </tuv>
@@ -2141,8 +2140,7 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>set --&gt; "pair" ?
-</note>
+      <note>set --&gt; "pair" ?</note>
       <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
@@ -2781,8 +2779,7 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"new file activated" borde det vara
-</note>
+      <note>"new file activated" borde det vara</note>
       <tuv lang="EN">
         <seg>An error occurred while processing a new file event:
 {0}</seg>
@@ -2828,8 +2825,7 @@ processing = behandling?</note>
       </tuv>
     </tu>
     <tu>
-      <note>"new entry activated"
-</note>
+      <note>"new entry activated"</note>
       <tuv lang="EN">
         <seg>An error occurred while processing an entry activated event:
 {0}</seg>
@@ -3986,8 +3982,7 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
-      <note>Var syns detta i UI egentligen?
-</note>
+      <note>Var syns detta i UI egentligen?</note>
       <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
@@ -5332,8 +5327,7 @@ lite längre ner "show"</note>
       </tuv>
     </tu>
     <tu>
-      <note>Kolla accelerator
-</note>
+      <note>Kolla accelerator</note>
       <tuv lang="EN">
         <seg>Display &amp;active source segment in bold</seg>
       </tuv>
@@ -6551,8 +6545,7 @@ eskejpat tecken?
       </tuv>
     </tu>
     <tu>
-      <note>new file activated, men nästa segment är "file activated"
-</note>
+      <note>new file activated, men nästa segment är "file activated"</note>
       <tuv lang="EN">
         <seg>Event: new file activated ({0})</seg>
       </tuv>
@@ -8277,8 +8270,7 @@ Not OK
       </tuv>
     </tu>
     <tu>
-      <note>"please enter here" --&gt; "please enter"
-</note>
+      <note>"please enter here" --&gt; "please enter"</note>
       <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
@@ -10522,9 +10514,7 @@ TMX_MERGE__MINE
     <tu>
       <note>bugg i:
 
-ViewOptionsPanel.java: 113
-
-</note>
+ViewOptionsPanel.java: 113</note>
       <tuv lang="EN">
         <seg>Modification info template</seg>
       </tuv>
@@ -10535,8 +10525,7 @@ ViewOptionsPanel.java: 113
     <tu>
       <note>bugg i:
 
-ViewOptionsPanel.java: 113
-</note>
+ViewOptionsPanel.java: 113</note>
       <tuv lang="EN">
         <seg>Modification info template for segments without date</seg>
       </tuv>
@@ -12888,8 +12877,7 @@ När kör det?
       </tuv>
     </tu>
     <tu>
-      <note>vad för "kompilering"?
-</note>
+      <note>vad för "kompilering"?</note>
       <tuv lang="EN">
         <seg>Project compiling start</seg>
       </tuv>
@@ -12908,8 +12896,7 @@ När kör det?
     <tu>
       <note>Projekt skapas start
 
-Why not "begin" - "end"
-</note>
+Why not "begin" - "end"</note>
       <tuv lang="EN">
         <seg>Project creating start</seg>
       </tuv>
@@ -13240,8 +13227,7 @@ performed on --&gt; performed in</note>
       </tuv>
     </tu>
     <tu>
-      <note>fragment vs segment?
-</note>
+      <note>fragment vs segment?</note>
       <tuv lang="EN">
         <seg>Regular expression for fragments that should be removed from translation:</seg>
       </tuv>
@@ -15372,8 +15358,7 @@ entered vs. specified
       </tuv>
     </tu>
     <tu>
-      <note>Preferences vs. Setup
-</note>
+      <note>Preferences vs. Setup</note>
       <tuv lang="EN">
         <seg>Spellchecker Setup</seg>
       </tuv>
@@ -15495,8 +15480,7 @@ entered vs. specified
       </tuv>
     </tu>
     <tu>
-      <note>global: number
-</note>
+      <note>global: number, det kanske ska översättas: "tal"?</note>
       <tuv lang="EN">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
@@ -15771,8 +15755,7 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
-      <note>cfr "tag handling"
-</note>
+      <note>cfr "tag handling"</note>
       <tuv lang="EN">
         <seg>Tag Processing</seg>
       </tuv>
@@ -15781,8 +15764,7 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
-      <note>cfr "tag handling"
-</note>
+      <note>cfr "tag handling"</note>
       <tuv lang="EN">
         <seg>Tag Processing Options</seg>
       </tuv>
@@ -16036,8 +16018,7 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
-      <note>visas inte i GUI
-</note>
+      <note>visas inte i GUI</note>
       <tuv lang="EN">
         <seg>Template variables:</seg>
       </tuv>
@@ -17021,8 +17002,7 @@ från servern.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"in _a_ swing thread"?
-</note>
+      <note>"in _a_ swing thread"?</note>
       <tuv lang="EN">
         <seg>This call MUST NOT be in swing thread</seg>
       </tuv>
@@ -17031,8 +17011,7 @@ från servern.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"in _a_ swing thread"?
-</note>
+      <note>"in _a_ swing thread"?</note>
       <tuv lang="EN">
         <seg>This call MUST be in swing thread</seg>
       </tuv>
