@@ -2498,8 +2498,7 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>kolla hur det fungerar
-</note>
+      <note>kolla hur det fungerar</note>
       <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
@@ -4410,8 +4409,7 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
-      <note>tidigare används "remove" and not "uninstall"
-</note>
+      <note>tidigare används "remove" and not "uninstall"</note>
       <tuv lang="EN">
         <seg>Confirm uninstalling</seg>
       </tuv>
@@ -5031,9 +5029,12 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
+      <note>API inte Api</note>
       <tuv lang="EN">
         <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T174757Z">
+        <seg>DeepL API-nyckel ej tillgänglig.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6334,8 +6335,7 @@ inte "fixa"
       </tuv>
     </tu>
     <tu>
-      <note>app vs. prog
-</note>
+      <note>app vs. prog</note>
       <tuv lang="EN">
         <seg>Error on application startup</seg>
       </tuv>
@@ -6413,8 +6413,7 @@ inte "fixa"
     </tu>
     <tu>
       <note>inläsning?
-reading --&gt; loading?
-</note>
+reading --&gt; loading?</note>
       <tuv lang="EN">
         <seg>Error while reading MT results</seg>
       </tuv>
@@ -7622,8 +7621,7 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>API inte Api
-</note>
+      <note>API inte Api</note>
       <tuv lang="EN">
         <seg>Google Api key not available.</seg>
       </tuv>
@@ -9506,8 +9504,7 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"your" target language vs. "project" target language
-</note>
+      <note>"your" target language vs. "project" target language</note>
       <tuv lang="EN">
         <seg>LanguageTool is not available for your target language.</seg>
       </tuv>
@@ -10787,9 +10784,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
+      <note>Not OK
+neural maskin</note>
       <tuv lang="EN">
         <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T175213Z">
+        <seg>Neural machine översättning</seg>
       </tuv>
     </tu>
     <tu>
@@ -10935,8 +10936,7 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"remote" - fjärr?
-</note>
+      <note>"remote" - fjärr?</note>
       <tuv lang="EN">
         <seg>No new dictionaries available at the remote server.</seg>
       </tuv>
@@ -14706,8 +14706,7 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
-      <note>Vad syftar detta på, vad för tjänst?
-</note>
+      <note>Vad syftar detta på, vad för tjänst?</note>
       <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
@@ -19266,8 +19265,7 @@ Finder-fönster för att kunna starta det från valfri plats.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>dir vs. folder
-</note>
+      <note>dir vs. folder</note>
       <tuv lang="EN">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
