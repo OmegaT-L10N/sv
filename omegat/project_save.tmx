@@ -4761,8 +4761,7 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
-      <note>"pseudo-translated"?
-</note>
+      <note>"pseudo-translated"?</note>
       <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
@@ -5865,8 +5864,6 @@ laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg
       </tuv>
     </tu>
     <tu>
-      <note>javaböna?
-</note>
       <tuv lang="EN">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
@@ -10588,9 +10585,11 @@ ViewOptionsPanel.java: 113</note>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T175350Z">
+        <seg>URL till Moses-server:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10694,8 +10693,7 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"multiple"
-</note>
+      <note>"multiple"</note>
       <tuv lang="EN">
         <seg>Multiple Translations</seg>
       </tuv>
@@ -10784,13 +10782,11 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-neural maskin</note>
       <tuv lang="EN">
         <seg>Neural machine translation</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T175213Z">
-        <seg>Neural machine översättning</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T175319Z">
+        <seg>Neural maskinöversättning</seg>
       </tuv>
     </tu>
     <tu>
@@ -13208,9 +13204,7 @@ performed on --&gt; performed in</note>
       </tuv>
     </tu>
     <tu>
-      <note>Why "set empty" and "register identical"?
-
-</note>
+      <note>Why "set empty" but "register identical"?</note>
       <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
@@ -14868,8 +14862,8 @@ Visas i fönstret "Skriptverktyg"</note>
       <tuv lang="EN">
         <seg>Show Find Search Bar</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171122T190737Z">
-        <seg>Visa Sök-listen</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T175450Z">
+        <seg>Visa Söklisten</seg>
       </tuv>
     </tu>
     <tu>
@@ -17489,7 +17483,7 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>defined --&gt; "specified"</note>
+      <note>defined --&gt; "specified", location -&gt; path</note>
       <tuv lang="EN">
         <seg>Translated files location not defined</seg>
       </tuv>
