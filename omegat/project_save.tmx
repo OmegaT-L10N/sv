@@ -9839,6 +9839,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Limburgish, Limburgan, Limburger</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T142826Z" creationid="Dorothy" creationdate="20180502T142826Z">
+        <seg>limburgiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Line length:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T180926Z">
@@ -10016,6 +10024,22 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T124641Z">
         <seg>Logg:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Luganda</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T142757Z" creationid="Dorothy" creationdate="20180502T142757Z">
+        <seg>luganda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Luxembourgish, Letzeburgesch</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T142741Z" creationid="Dorothy" creationdate="20180502T142741Z">
+        <seg>luxemburgiska</seg>
       </tuv>
     </tu>
     <tu>
