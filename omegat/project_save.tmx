@@ -2490,8 +2490,8 @@ Aktuell inställning är {0}MB;</seg>
       <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170719T081909Z">
-        <seg>När du har gett projektet ett namn, kommer dialogen &lt;g0&gt;Skapa nytt projekt&lt;/g0&gt; att öppnas.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T163241Z">
+        <seg>När du gett projektet ett namn, kommer dialogen &lt;g0&gt;Skapa nytt projekt&lt;/g0&gt; att öppnas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11326,13 +11326,12 @@ Not OK</note>
     </tu>
     <tu>
       <note>In source:
-also --&gt; still
-</note>
+also --&gt; still</note>
       <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170806T122320Z">
-        <seg>Dokument har också ofta taggar som inte har något med formatering att göra, men som ändå är viktiga i källdokument (och i de översatta filerna).</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T163256Z">
+        <seg>Dokument innehåller också ofta taggar som inte har något med formatering att göra, men som ändå är viktiga i källdokument (och i de översatta filerna).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11521,7 +11520,7 @@ Not OK
     </tu>
     <tu>
       <note>vad betyder "leveraging into updated projects"?
- </note>
+</note>
       <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
@@ -11775,13 +11774,12 @@ installeras i ditt system.</seg>
     <tu>
       <note>generera
 create/generate 
-consistency?
-</note>
+consistency?</note>
       <tuv lang="EN">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170801T070308Z">
-        <seg>När du har sett till att det inte finns några taggfel i din översättning, tryck &lt;k0&gt;CTRL + D&lt;/k0&gt; för att skapa målfilerna, vilka kommer att skapas i undermappen &lt;f1&gt;/target/&lt;/f1&gt; i din projektmapp.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T163318Z">
+        <seg>När du sett till att det inte finns några taggfel i din översättning, tryck &lt;k0&gt;CTRL + D&lt;/k0&gt; för att skapa målfilerna, vilka kommer att skapas i undermappen &lt;f1&gt;/target/&lt;/f1&gt; i din projektmapp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16921,8 +16919,6 @@ konfigurationsmapp bestämmas säkert.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>These translation memories can be very useful when a document that has already been translated needs to be updated.</seg>
       </tuv>
@@ -17512,8 +17508,7 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>defined --&gt; "specified"
-</note>
+      <note>defined --&gt; "specified"</note>
       <tuv lang="EN">
         <seg>Translated files location not defined</seg>
       </tuv>
@@ -17914,13 +17909,11 @@ Exakta sökningar matchar hela söksträngen.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171210T110904Z">
-        <seg>Meningar som inte har ändrats översätts automatiskt, medan uppdaterade meningar visas med översättningen av den mest lika, äldre meningen.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T163220Z">
+        <seg>Meningar som inte ändrats översätts automatiskt, medan uppdaterade meningar visas med översättningen av den mest lika, äldre meningen.</seg>
       </tuv>
     </tu>
     <tu>
