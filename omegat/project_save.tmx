@@ -81,8 +81,8 @@
       <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171122T054259Z">
-        <seg>Tillåt &amp;att översättning är detsamma som källtext</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T174318Z">
+        <seg>Tillåt &amp;att översättningen är densamma som källtexten</seg>
       </tuv>
     </tu>
     <tu>
@@ -5507,9 +5507,7 @@ kolla "det andra" (nästföljande) segmentet</note>
 
 Do not translate the content of tags with the following attribute key-value pairs (separate with commas): a match in the list of key-value pairs will cause the content of tags to be ignored
 
-It is sometimes useful to be able make some tags untranslatable based on the value of attributes. For example, &lt;div class="hide"&gt; &lt;span translate="no"&gt; You can define key-value pairs for tags to be left untranslated. For the example above, the field would contain: class=hide, translate=no
-
-</note>
+It is sometimes useful to be able make some tags untranslatable based on the value of attributes. For example, &lt;div class="hide"&gt; &lt;span translate="no"&gt; You can define key-value pairs for tags to be left untranslated. For the example above, the field would contain: class=hide, translate=no</note>
       <tuv lang="EN">
         <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
@@ -6376,8 +6374,7 @@ inte "fixa"
       </tuv>
     </tu>
     <tu>
-      <note>"rules configuration" or just "rules"?
-</note>
+      <note>"rules configuration" or just "rules"?</note>
       <tuv lang="EN">
         <seg>Error saving segmentation rules configuration:</seg>
       </tuv>
@@ -8076,8 +8073,8 @@ history historik
       <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171113T210121Z">
-        <seg>Om HTML-filen har kodningsdeklarationen, kommer denna att användas utan hänsyn till det värde du anger i denna dialog.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T174140Z">
+        <seg>Om HTML-filen innehåller kodningsdeklarationen, kommer denna att användas utan hänsyn till det värde du anger i denna dialog.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17119,21 +17116,13 @@ från servern.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T174059Z">
-        <seg>7Programmet distribueras i hopp om att det ska vara användbart, men UTAN NÅGON GARANTI; inte ens the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
-      </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T172613Z">
-        <seg>Detta program är fri programvara; du kan [redistribute] det och eller modifiera det enligt villkoren i GNU General Public License som publicerats av Free Software Foundation; antingen version 3 av licensen eller valfri senare version.</seg>
       </tuv>
     </tu>
     <tu>
