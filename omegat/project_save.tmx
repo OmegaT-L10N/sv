@@ -9221,6 +9221,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kanuri</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T141551Z" creationid="Dorothy" creationdate="20180502T141551Z">
+        <seg>kanuri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kashmiri</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T202548Z" creationid="Dorothy" creationdate="20180501T202548Z">
@@ -9341,6 +9349,14 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T202616Z" creationid="Dorothy" creationdate="20180501T202616Z">
         <seg>kambodjanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kikuyu, Gikuyu</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T141623Z" creationid="Dorothy" creationdate="20180502T141623Z">
+        <seg>kikuyu, gikuyu</seg>
       </tuv>
     </tu>
     <tu>
