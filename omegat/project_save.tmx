@@ -15215,8 +15215,8 @@ GlossaryAutoCompleterOptionsPanel.java: 108
       <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T155424Z">
-        <seg>Källfiler har checkats in</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T160726Z">
+        <seg>Källfiler checkades in</seg>
       </tuv>
     </tu>
     <tu>
@@ -15919,8 +15919,8 @@ till skillnad från internt minne
       <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153147Z" creationid="mini-me" creationdate="20171208T192019Z">
-        <seg>Ändringar i mållfiler har checkats in</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T160753Z" creationid="mini-me" creationdate="20171208T192019Z">
+        <seg>Mållfiler checkades in</seg>
       </tuv>
     </tu>
     <tu>
@@ -16703,6 +16703,14 @@ här heter det "memory"
 </note>
       <tuv lang="EN">
         <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T161804Z" creationid="Dorothy" creationdate="20180502T161804Z">
+        <seg>Servern behåller informationen om utcheckningar, så att senare incheckningar (se nedan) kan utföras under ordnade former.</seg>
       </tuv>
     </tu>
     <tu>
