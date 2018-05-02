@@ -12058,8 +12058,8 @@ consistency?</note>
       <tuv lang="EN">
         <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170802T115217Z">
-        <seg>Övriga bidrag finns antecknade i filen readme.txt</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T173014Z">
+        <seg>Övriga bidrag finns dokumenterade i filen readme.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -17122,6 +17122,9 @@ från servern.</seg>
       <note>Not OK</note>
       <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T172716Z">
+        <seg>Detta program distribueras i hopp om att det ska vara användbartuseful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
     </tu>
     <tu>
