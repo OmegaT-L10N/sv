@@ -4309,8 +4309,8 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T183429Z">
-        <seg>Protokollför ('&amp;commit') ändringar i källfiler</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152816Z">
+        <seg>Checka in ändringar i källfiler</seg>
       </tuv>
     </tu>
     <tu>
@@ -4335,8 +4335,8 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T185616Z">
-        <seg>Protokollför ('commit') ändringar i källfiler</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152859Z">
+        <seg>Checka in ändringar i källfiler</seg>
       </tuv>
     </tu>
     <tu>
@@ -6840,16 +6840,16 @@ efterbearbetning	  91 k
       <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T185341Z" creationid="mini-me" creationdate="20171208T180235Z">
-        <seg>Det gick inte att protokollföra ('commit') ändringar i källfiler!</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152837Z" creationid="mini-me" creationdate="20171208T180235Z">
+        <seg>Det gick inte att checka in ändringar i källfiler!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T185529Z" creationid="mini-me" creationdate="20171208T180258Z">
-        <seg>Det gick inte att protokollföra ('commit') ändringar i målfiler!</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152849Z" creationid="mini-me" creationdate="20171208T180258Z">
+        <seg>Det gick inte att checka in ändringar i målfiler!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15207,8 +15207,8 @@ GlossaryAutoCompleterOptionsPanel.java: 108
       <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T191931Z">
-        <seg>Ändringar i källfiler har protokollförts ('commit')</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153118Z">
+        <seg>Ändringar i källfiler har checkats in</seg>
       </tuv>
     </tu>
     <tu>
