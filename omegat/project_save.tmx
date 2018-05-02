@@ -4309,42 +4309,41 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152816Z">
-        <seg>Checka in ändringar i källfiler</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153239Z">
+        <seg>Checka in källfiler</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Saknar &amp;
-</note>
+      <note>Saknar &amp;</note>
       <tuv lang="EN">
         <seg>Commit Target Files</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152742Z" creationid="mini-me" creationdate="20171208T105242Z">
-        <seg>Checka in ändringar i målfiler</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153259Z" creationid="mini-me" creationdate="20171208T105242Z">
+        <seg>Checka in målfiler</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T192112Z">
-        <seg>Det gick inte att protokollföra ("commit") ändringar eftersom någon annan har ändrat fjärröversättningen.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153200Z">
+        <seg>Det gick inte att checka in ändringar eftersom någon annan har ändrat fjärröversättningen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152859Z">
-        <seg>Checka in ändringar i källfiler</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153329Z">
+        <seg>Checka in källfiler</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T191959Z" creationid="mini-me" creationdate="20171208T181558Z">
-        <seg>Ändringar i målfiler har protokollförts ('commit')</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153131Z" creationid="mini-me" creationdate="20171208T181558Z">
+        <seg>Ändringar i målfiler har checkats in</seg>
       </tuv>
     </tu>
     <tu>
@@ -6840,16 +6839,16 @@ efterbearbetning	  91 k
       <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152837Z" creationid="mini-me" creationdate="20171208T180235Z">
-        <seg>Det gick inte att checka in ändringar i källfiler!</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153323Z" creationid="mini-me" creationdate="20171208T180235Z">
+        <seg>Det gick inte att checka in källfiler!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152849Z" creationid="mini-me" creationdate="20171208T180258Z">
-        <seg>Det gick inte att checka in ändringar i målfiler!</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153325Z" creationid="mini-me" creationdate="20171208T180258Z">
+        <seg>Det gick inte att checka in målfiler!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12248,9 +12247,9 @@ consistency?
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152702Z">
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153224Z">
         <seg>Placera källfiler i ./source och tilläggsmaterial
-i ./tm, ./glossary och ./dictionary efter behov, och checka sedan in ('commit') alla ändringar.</seg>
+i ./tm, ./glossary och ./dictionary efter behov, och checka sedan in ('commit') allting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15207,8 +15206,8 @@ GlossaryAutoCompleterOptionsPanel.java: 108
       <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153118Z">
-        <seg>Ändringar i källfiler har checkats in</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T155424Z">
+        <seg>Källfiler har checkats in</seg>
       </tuv>
     </tu>
     <tu>
@@ -15911,8 +15910,8 @@ till skillnad från internt minne
       <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T192019Z" creationid="mini-me" creationdate="20171208T192019Z">
-        <seg>Ändringar i mållfiler har protokollförts ('commit')</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153147Z" creationid="mini-me" creationdate="20171208T192019Z">
+        <seg>Ändringar i mållfiler har checkats in</seg>
       </tuv>
     </tu>
     <tu>
