@@ -7804,13 +7804,13 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"custom locations"?
+      <note>"custom locations"?  --&gt; paths
 </note>
       <tuv lang="EN">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171115T054151Z">
-        <seg>Här kan du också ange anpassade plater för projektets undermappar.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T162503Z">
+        <seg>Här kan du också ange anpassade sökvägar för projektets undermappar.</seg>
       </tuv>
     </tu>
     <tu>
