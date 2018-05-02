@@ -13935,6 +13935,14 @@ Hittar inte denna kod</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Samoan</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143750Z" creationid="Dorothy" creationdate="20180502T143750Z">
+        <seg>samoanska</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>inte säker på denna ...</note>
       <tuv lang="EN">
         <seg>Sample Output</seg>
@@ -13964,6 +13972,14 @@ Hittar inte denna kod</note>
 </note>
       <tuv lang="EN">
         <seg>Samuel Murray: for the introductory chapter "Learn to use OmegaT in 5 minutes".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sango</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143754Z" creationid="Dorothy" creationdate="20180502T143754Z">
+        <seg>sango</seg>
       </tuv>
     </tu>
     <tu>
@@ -14085,6 +14101,14 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T140825Z">
         <seg>Omfång:
 Omfånget för en sökning är som standard projektet och kan sättas till att vara godtyckliga filer i en angiven mapphierarki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scottish Gaelic, Gaelic</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143831Z" creationid="Dorothy" creationdate="20180502T143831Z">
+        <seg>höglandsskotska</seg>
       </tuv>
     </tu>
     <tu>
@@ -14629,6 +14653,14 @@ A: finns i Redigera-menyn
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Serbian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143806Z" creationid="Dorothy" creationdate="20180502T143806Z">
+        <seg>serbiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Server (original)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T102545Z">
@@ -14753,6 +14785,14 @@ A: finns i Redigera-menyn
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shona</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143839Z" creationid="Dorothy" creationdate="20180502T143839Z">
+        <seg>shona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T070932Z">
@@ -14872,6 +14912,14 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180502T143709Z" creationid="Dorothy" creationdate="20180502T143709Z">
         <seg>sindhi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sinhala, Sinhalese</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143856Z" creationid="Dorothy" creationdate="20180502T143856Z">
+        <seg>singalesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -15215,6 +15263,14 @@ entered vs. specified
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Southern Sotho</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143927Z" creationid="Dorothy" creationdate="20180502T143927Z">
+        <seg>sotho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spanish</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T154401Z">
@@ -15521,6 +15577,16 @@ kan man skicka en flagga till OmegaT?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203501Z" creationid="Dorothy" creationdate="20180501T203501Z">
         <seg>swahili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Swazi?  
+Not OK</note>
+      <tuv lang="EN">
+        <seg>Swati</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T144010Z" creationid="Dorothy" creationdate="20180502T144010Z">
+        <seg>swazi</seg>
       </tuv>
     </tu>
     <tu>
@@ -17052,6 +17118,13 @@ från servern.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T102119Z">
         <seg>Därför ska till exempel reglerna för kanadafranska (FR-CA) ligga högre upp i listan än reglerna för franska (FR.*) och högre än standardreglerna (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>hittar inte koden
+Not OK</note>
+      <tuv lang="EN">
+        <seg>Tibetan Standard, Tibetan, Central</seg>
       </tuv>
     </tu>
     <tu>
