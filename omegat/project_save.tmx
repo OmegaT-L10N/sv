@@ -1342,17 +1342,15 @@ Properties --&gt; Settings?</note>
       </tuv>
     </tu>
     <tu>
-      <note>
-Parentes är fel
+      <note>Parentes är fel
 
-lists
-</note>
+lists</note>
       <tuv lang="EN">
         <seg>(If you think you have significantly contributed to the OmegaT Project but you
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171106T062657Z" creationid="Dorothy" creationdate="20171106T062657Z">
-        <seg>(Om du anser att du har gjort ett väsentligt bidrag till OmegaT-projektet men
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T163402Z" creationid="Dorothy" creationdate="20171106T062657Z">
+        <seg>(Om du anser att du gjort ett väsentligt bidrag till OmegaT-projektet men
 inte ser ditt namn på listan är du välkommen att höra av dig.)</seg>
       </tuv>
     </tu>
