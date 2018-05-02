@@ -9052,6 +9052,15 @@ inuti konfigurationsmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>current contents?</note>
+      <tuv lang="EN">
+        <seg>It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T160407Z" creationid="Dorothy" creationdate="20180502T160407Z">
+        <seg>Det checkar först in aktuellt innehåll till serverarkivet och uppdaterar sedan den lokala kopian av arkivet - dvs. innehållet i undermappen .svn - så att den är uppdaterad med den senaste versionen i arkivet.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -16215,8 +16224,8 @@ kommer den aktuella mappen att användas.</seg>
       <tuv lang="EN">
         <seg>The Commit window will open and show the progress of the commit command.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T155959Z" creationid="Dorothy" creationdate="20180502T155959Z">
-        <seg>Fönstret Incheckning öppnas och visar förlopper för incheckningskommandot ('commit').</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T160019Z" creationid="Dorothy" creationdate="20180502T155959Z">
+        <seg>Fönstret Incheckning öppnas och visar förloppet för incheckningskommandot ('commit').</seg>
       </tuv>
     </tu>
     <tu>
