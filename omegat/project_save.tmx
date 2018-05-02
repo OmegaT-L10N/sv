@@ -12994,12 +12994,12 @@ Why not "begin" - "end"
     </tu>
     <tu>
       <note>"project" två ggr
-</note>
+performed on --&gt; performed in</note>
       <tuv lang="EN">
         <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171118T074235Z">
-        <seg>Projektsökningar görs som standard på källa och mål, referens-TM, gloslistor, anteckningar och kommentarer i projektet.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T163539Z">
+        <seg>Projektsökningar görs som standard i källa och mål, referens-TM, gloslistor, anteckningar och kommentarer i projektet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18765,9 +18765,11 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T163713Z">
+        <seg>Vid användning av reguljära uttryck stöder ersättningssträngen referenser till grupper som definierats i söksträngen.</seg>
       </tuv>
     </tu>
     <tu>
