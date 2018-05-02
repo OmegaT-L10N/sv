@@ -2941,7 +2941,6 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Aragonese</seg>
       </tuv>
@@ -3169,7 +3168,6 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Avaric</seg>
       </tuv>
@@ -3183,6 +3181,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T045210Z">
         <seg>Genomsnittligt resultat: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avestan</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110343Z" creationid="Dorothy" creationdate="20180502T110343Z">
+        <seg>avestiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3279,6 +3285,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T204529Z">
         <seg>Ogiltigt reguljärt uttryck!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bambara</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110406Z" creationid="Dorothy" creationdate="20180502T110406Z">
+        <seg>bambara</seg>
       </tuv>
     </tu>
     <tu>
@@ -3390,6 +3404,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T221034Z" creationid="mini-me" creationdate="20171209T221034Z">
         <seg>Böcker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bosnian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110446Z" creationid="Dorothy" creationdate="20180502T110446Z">
+        <seg>bosniska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3689,6 +3711,14 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T185519Z">
         <seg>katalanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chamorro</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110555Z" creationid="Dorothy" creationdate="20180502T110555Z">
+        <seg>chamorro</seg>
       </tuv>
     </tu>
     <tu>
