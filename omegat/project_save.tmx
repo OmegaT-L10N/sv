@@ -5443,8 +5443,7 @@ lite längre ner "show"</note>
       </tuv>
     </tu>
     <tu>
-      <note>selected --&gt; enabled?
-</note>
+      <note>selected --&gt; enabled?</note>
       <tuv lang="EN">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
@@ -5490,8 +5489,7 @@ nyckel-värdepar i attribut
 
 följande värde på ... ???
 
-kolla "det andra" (nästföljande) segmentet
-</note>
+kolla "det andra" (nästföljande) segmentet</note>
       <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
@@ -6125,13 +6123,12 @@ Här är det &lt;b&gt; runt referensen, inte på andra platser?</note>
     </tu>
     <tu>
       <note>avslutande block?
-ska det vara tag, som lite längre upp?
-</note>
+ska det vara tag, som lite längre upp?</note>
       <tuv lang="EN">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171119T074058Z">
-        <seg>Slutet på dataströmmen har nåtts utan att hitta stängande block!</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T162945Z">
+        <seg>Slutet på dataströmmen nåddes utan att hitta stängande block!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10410,13 +10407,12 @@ Not OK
     </tu>
     <tu>
       <note>global: current
-Det skulle kunna översättas med "pågående"
-</note>
+Det skulle kunna översättas med "pågående"</note>
       <tuv lang="EN">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171121T072459Z">
-        <seg>Matchningar kan hittas i din pågående översättning eller i de TMX-filer som du har lagt i mappen /tm/.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T163008Z">
+        <seg>Matchningar kan hittas i din pågående översättning eller i de TMX-filer som du lagt i mappen /tm/.</seg>
       </tuv>
     </tu>
     <tu>
