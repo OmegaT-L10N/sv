@@ -4334,16 +4334,16 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153329Z">
-        <seg>Checka in källfiler</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T160504Z">
+        <seg>Checkar in källfiler</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T153131Z" creationid="mini-me" creationdate="20171208T181558Z">
-        <seg>Ändringar i målfiler har checkats in</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T160638Z" creationid="mini-me" creationdate="20171208T181558Z">
+        <seg>Checkar in målfiler</seg>
       </tuv>
     </tu>
     <tu>
