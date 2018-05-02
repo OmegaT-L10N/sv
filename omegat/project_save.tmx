@@ -11053,6 +11053,13 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>kolla upp den koden
+Not OK</note>
+      <tuv lang="EN">
+        <seg>Northern Sami</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Norwegian</seg>
       </tuv>
@@ -11318,6 +11325,14 @@ also --&gt; still
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180502T143356Z" creationid="Dorothy" creationdate="20180502T143356Z">
         <seg>ojibwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143503Z" creationid="Dorothy" creationdate="20180502T143503Z">
+        <seg>fornkyrkslaviska</seg>
       </tuv>
     </tu>
     <tu>
@@ -11986,6 +12001,14 @@ consistency?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T055941Z">
         <seg>Föräldralös</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ossetian, Ossetic</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143522Z" creationid="Dorothy" creationdate="20180502T143522Z">
+        <seg>ossetiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -13028,6 +13051,14 @@ Why not "begin" - "end"
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pāli</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143536Z" creationid="Dorothy" creationdate="20180502T143536Z">
+        <seg>pali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QA - Check Rules</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T212751Z">
@@ -13753,6 +13784,13 @@ kanske reload istället?
       </tuv>
     </tu>
     <tu>
+      <note>Not OK
+Hittar inte denna kod</note>
+      <tuv lang="EN">
+        <seg>Romanian, Moldavian, Moldovan</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Romansh</seg>
       </tuv>
@@ -13926,6 +13964,22 @@ kanske reload istället?
 </note>
       <tuv lang="EN">
         <seg>Samuel Murray: for the introductory chapter "Learn to use OmegaT in 5 minutes".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sanskrit (Saṁskṛta)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143644Z" creationid="Dorothy" creationdate="20180502T143644Z">
+        <seg>sanskrit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sardinian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143659Z" creationid="Dorothy" creationdate="20180502T143659Z">
+        <seg>sardiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -14810,6 +14864,14 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sindhi</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143709Z" creationid="Dorothy" creationdate="20180502T143709Z">
+        <seg>sindhi</seg>
       </tuv>
     </tu>
     <tu>
