@@ -86,8 +86,7 @@
       </tuv>
     </tu>
     <tu>
-      <note>should it be "project specific"?
-</note>
+      <note>should it be "project specific"?</note>
       <tuv lang="EN">
         <seg>&amp;Also allow per-project external commands</seg>
       </tuv>
@@ -2742,8 +2741,7 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>trying to
-</note>
+      <note>trying to</note>
       <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
@@ -3644,13 +3642,12 @@ document --&gt; file</note>
     </tu>
     <tu>
       <note>kolla hur det ser ut i menyn
-Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
-</note>
+Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?</note>
       <tuv lang="EN">
         <seg>Cancelled creating new team project</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171122T063120Z">
-        <seg>"Skapa nytt teamprojekt"' avbröts</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T175636Z">
+        <seg>"Skapa nytt teamprojekt" avbröts</seg>
       </tuv>
     </tu>
     <tu>
@@ -4671,8 +4668,7 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
-      <note>"could not save" here, "Unable to save" other place
-</note>
+      <note>"could not save" here, "Unable to save" other place</note>
       <tuv lang="EN">
         <seg>Could not save credentials to text file</seg>
       </tuv>
@@ -5416,8 +5412,7 @@ lite längre ner "show"</note>
       </tuv>
     </tu>
     <tu>
-      <note>kolla vid körning
-</note>
+      <note>kolla vid körning</note>
       <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
@@ -6278,8 +6273,7 @@ ska det vara tag, som lite längre upp?</note>
     </tu>
     <tu>
       <note>testa vid körning
-inte "fixa"
-</note>
+inte "fixa"</note>
       <tuv lang="EN">
         <seg>Error fixing tags</seg>
       </tuv>
@@ -6806,8 +6800,7 @@ efterbearbetning	  91 k
       </tuv>
     </tu>
     <tu>
-      <note>testa vid körning
-</note>
+      <note>testa vid körning</note>
       <tuv lang="EN">
         <seg>Extraneous</seg>
       </tuv>
@@ -7215,8 +7208,7 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>ska "Alternativ" finnas med i sökvägen
-</note>
+      <note>ska "Alternativ" finnas med i sökvägen</note>
       <tuv lang="EN">
         <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
       </tuv>
@@ -7560,8 +7552,7 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>global: entry, entri
-</note>
+      <note>global: entry, entri</note>
       <tuv lang="EN">
         <seg>Glossary entries</seg>
       </tuv>
@@ -7899,8 +7890,7 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <note>prediction förutsägelse
-history historik
-</note>
+history historik</note>
       <tuv lang="EN">
         <seg>History Predictions</seg>
       </tuv>
@@ -8117,8 +8107,7 @@ den fullständiga sökvägen anges.)</seg>
     </tu>
     <tu>
       <note>Den andra heter "when checked", inte "if checked"
-"first on the list"?
-</note>
+"first on the list"?</note>
       <tuv lang="EN">
         <seg>If checked, the longer entries are placed on the list first.</seg>
       </tuv>
@@ -10456,8 +10445,7 @@ Det skulle kunna översättas med "pågående"</note>
     </tu>
     <tu>
       <note>Kolla i UI för Merge
-TMX_MERGE__MINE
-</note>
+TMX_MERGE__MINE</note>
       <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
@@ -11996,8 +11984,7 @@ consistency?</note>
     </tu>
     <tu>
       <note>kolla vid körning
-ägarlös
-</note>
+ägarlös</note>
       <tuv lang="EN">
         <seg>Orphaned</seg>
       </tuv>
@@ -12061,13 +12048,12 @@ consistency?</note>
       </tuv>
     </tu>
     <tu>
-      <note>testa vid körning
-</note>
+      <note>testa vid körning</note>
       <tuv lang="EN">
         <seg>Out-of-order</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171115T055408Z">
-        <seg>ur funktion</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T175737Z">
+        <seg>Ur funktion</seg>
       </tuv>
     </tu>
     <tu>
@@ -14083,8 +14069,7 @@ Hittar inte denna kod</note>
 kolla de andra språken
 
 [ut]resultat?
-franska: résultat
-</note>
+franska: résultat</note>
       <tuv lang="EN">
         <seg>Saving and Output Options</seg>
       </tuv>
@@ -15073,8 +15058,7 @@ Not OK
     <tu>
       <note>bugg i
 
-GlossaryAutoCompleterOptionsPanel.java: 108
-</note>
+GlossaryAutoCompleterOptionsPanel.java: 108</note>
       <tuv lang="EN">
         <seg>Sort by source term &amp;alphabetically</seg>
       </tuv>
@@ -18044,8 +18028,7 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>testa vid körning
-</note>
+      <note>testa vid körning</note>
       <tuv lang="EN">
         <seg>Unspecified</seg>
       </tuv>
