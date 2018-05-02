@@ -6264,9 +6264,11 @@ ska det vara tag, som lite längre upp?</note>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T163808Z">
+        <seg>Ett fel uppstod vid ersättning med reguljärt uttryck:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6480,8 +6482,7 @@ Escaped --&gt; escape
 escapat tecken
 eskejpat tecken?
 
-"skiftat tecken"
-</note>
+"skiftat tecken"</note>
       <tuv lang="EN">
         <seg>Escaped character never terminated!</seg>
       </tuv>
