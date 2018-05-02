@@ -5465,6 +5465,14 @@ lite längre ner "show"</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Divehi, Dhivehi, Maldivian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110948Z" creationid="Dorothy" creationdate="20180502T110948Z">
+        <seg>divehi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dmitri Gabinski</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T203923Z">
@@ -6572,6 +6580,14 @@ eskejpat tecken?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ewe</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T111008Z" creationid="Dorothy" creationdate="20180502T111008Z">
+        <seg>ewe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exact match:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T211642Z">
@@ -7352,6 +7368,14 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fula, Fulah, Pulaar, Pular</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T111137Z" creationid="Dorothy" creationdate="20180502T111137Z">
+        <seg>fula, fulani</seg>
       </tuv>
     </tu>
     <tu>
