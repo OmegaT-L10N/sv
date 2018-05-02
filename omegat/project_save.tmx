@@ -15832,6 +15832,14 @@ till skillnad från internt minne
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tahitian</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T144134Z" creationid="Dorothy" creationdate="20180502T144134Z">
+        <seg>tahitiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tajik</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203547Z" creationid="Dorothy" creationdate="20180501T203547Z">
@@ -17251,6 +17259,14 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tonga (Tonga Islands)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T144111Z" creationid="Dorothy" creationdate="20180502T144111Z">
+        <seg>tonga (Tongaöarna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Too big HTML file!</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T143119Z">
@@ -18430,6 +18446,14 @@ sökbara utan prenumeration:</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Venda</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T144146Z" creationid="Dorothy" creationdate="20180502T144146Z">
+        <seg>venda</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -18511,6 +18535,14 @@ sökbara utan prenumeration:</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T200742Z">
         <seg>VARNING: all osparad data kommer att förloras
 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Walloon</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T144210Z" creationid="Dorothy" creationdate="20180502T144210Z">
+        <seg>vallonska</seg>
       </tuv>
     </tu>
     <tu>
