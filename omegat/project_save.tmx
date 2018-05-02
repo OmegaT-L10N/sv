@@ -1727,8 +1727,8 @@ Aktuell inställning är {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171209T102043Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; är ett fritt, multiplattformsvarktyg för Datorassisterad Översättning (CAT), med följande höjdpunkter:</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T180130Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; är ett fritt, multiplattformsvarktyg för Datorassisterad Översättning (CAT), med följande [höjdpunkter]:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2731,8 +2731,7 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>the TMX -&gt; The TMX file?
-</note>
+      <note>the TMX -&gt; The TMX file?</note>
       <tuv lang="EN">
         <seg>An error occurred when saving the TMX.</seg>
       </tuv>
@@ -2887,8 +2886,7 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>cfr src segment "in this location"
-</note>
+      <note>cfr src segment "in this location"</note>
       <tuv lang="EN">
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
@@ -2955,8 +2953,7 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"are you sure" konsistent? kolla
-</note>
+      <note>"are you sure" konsistent? kolla</note>
       <tuv lang="EN">
         <seg>Are you sure you want to reset all custom colours?</seg>
       </tuv>
@@ -3347,8 +3344,7 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>på annan plats "bidirectionality"
-</note>
+      <note>på annan plats "bidirectionality"</note>
       <tuv lang="EN">
         <seg>Bidirectional control characters</seg>
       </tuv>
@@ -4011,8 +4007,7 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?</note>
       </tuv>
     </tu>
     <tu>
-      <note>Kolla om verb eller substantiv
-</note>
+      <note>Kolla om verb eller substantiv</note>
       <tuv lang="EN">
         <seg>Check {0}</seg>
       </tuv>
@@ -4199,8 +4194,7 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?</note>
       </tuv>
     </tu>
     <tu>
-      <note>"does not contain" vs. "is missing"
-</note>
+      <note>"does not contain" vs. "is missing"</note>
       <tuv lang="EN">
         <seg>Command does not contain "{0}"</seg>
       </tuv>
@@ -5693,8 +5687,7 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
     </tu>
     <tu>
-      <note>global: collection
-</note>
+      <note>global: collection</note>
       <tuv lang="EN">
         <seg>Download collection {0}</seg>
       </tuv>
@@ -5932,8 +5925,7 @@ laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg
     </tu>
     <tu>
       <note>kolla hur det ser ut i GUI
-global sök "highlight"
-</note>
+global sök "highlight"</note>
       <tuv lang="EN">
         <seg>Edit Highlight Pattern</seg>
       </tuv>
@@ -6445,8 +6437,7 @@ reading --&gt; loading?</note>
       </tuv>
     </tu>
     <tu>
-      <note>verb eller substantiv eller adjektiv?
-</note>
+      <note>verb eller substantiv eller adjektiv?</note>
       <tuv lang="EN">
         <seg>Escape</seg>
       </tuv>
@@ -7314,8 +7305,7 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>hittar inte vad ICE står för
-</note>
+      <note>hittar inte vad ICE står för</note>
       <tuv lang="EN">
         <seg>From ICE memory</seg>
       </tuv>
@@ -10334,8 +10324,7 @@ Not OK
       </tuv>
     </tu>
     <tu>
-      <note>testa i GUI
-</note>
+      <note>testa i GUI</note>
       <tuv lang="EN">
         <seg>Matches Changed</seg>
       </tuv>
@@ -12751,8 +12740,7 @@ ett lokalt projekt utan teamfunktioner.</seg>
     </tu>
     <tu>
       <note>"Arbetar", bearbetar ?
-När kör det?
-</note>
+När kör det?</note>
       <tuv lang="EN">
         <seg>Processing...</seg>
       </tuv>
@@ -12841,8 +12829,7 @@ När kör det?
       </tuv>
     </tu>
     <tu>
-      <note>"project specific"?
-</note>
+      <note>"project specific"?</note>
       <tuv lang="EN">
         <seg>Project commands are disabled for security reasons.</seg>
       </tuv>
@@ -14702,8 +14689,7 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
-      <note>Mellanslag efter "&amp;" / &amp; -&gt; "och"?
-</note>
+      <note>Mellanslag efter "&amp;" / &amp; -&gt; "och"?</note>
       <tuv lang="EN">
         <seg>Set &amp; Stored</seg>
       </tuv>
@@ -14712,8 +14698,7 @@ A: finns i Redigera-menyn
       </tuv>
     </tu>
     <tu>
-      <note>"Specify"?
-</note>
+      <note>"Specify"?</note>
       <tuv lang="EN">
         <seg>Set My Own Password</seg>
       </tuv>
@@ -15150,8 +15135,7 @@ GlossaryAutoCompleterOptionsPanel.java: 108</note>
       </tuv>
     </tu>
     <tu>
-      <note>kolla i GUI (TaaS)
-</note>
+      <note>kolla i GUI (TaaS)</note>
       <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
@@ -15857,8 +15841,7 @@ till skillnad från internt minne
       </tuv>
     </tu>
     <tu>
-      <note>Kolla i GUI (TaaS)
-</note>
+      <note>Kolla i GUI (TaaS)</note>
       <tuv lang="EN">
         <seg>Target count</seg>
       </tuv>
