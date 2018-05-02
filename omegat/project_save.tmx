@@ -4305,8 +4305,7 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       </tuv>
     </tu>
     <tu>
-      <note>denna har inget &amp; i Source
-</note>
+      <note>denna har inget &amp; i Source</note>
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
@@ -4320,8 +4319,8 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?
       <tuv lang="EN">
         <seg>Commit Target Files</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T184620Z" creationid="mini-me" creationdate="20171208T105242Z">
-        <seg>Protokollför ('commit') ändringar i målfiler</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152742Z" creationid="mini-me" creationdate="20171208T105242Z">
+        <seg>Checka in ändringar i målfiler</seg>
       </tuv>
     </tu>
     <tu>
@@ -12243,14 +12242,15 @@ consistency?
       </tuv>
     </tu>
     <tu>
+      <note>"supplemental"?</note>
       <tuv lang="EN">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171208T191538Z">
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152702Z">
         <seg>Placera källfiler i ./source och tilläggsmaterial
-i ./tm, ./glossary och ./dictionary efter behov, och protokollför ("commit") sedan alla ändringar.</seg>
+i ./tm, ./glossary och ./dictionary efter behov, och checka sedan in ('commit') alla ändringar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12546,6 +12546,9 @@ ytterligare åtgärder behöver vidtas.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T152502Z">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
     </tu>
