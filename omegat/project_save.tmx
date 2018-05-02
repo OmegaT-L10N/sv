@@ -17369,6 +17369,14 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T162317Z" creationid="Dorothy" creationdate="20180502T162317Z">
+        <seg>Sammanlagt:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
