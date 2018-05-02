@@ -8066,6 +8066,14 @@ history historik
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Ido</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T141526Z" creationid="Dorothy" creationdate="20180502T141526Z">
+        <seg>ido</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>"... the HTML file ..."</note>
       <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
@@ -8367,6 +8375,14 @@ click on that shortcut.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T165811Z">
         <seg>Om du skapade en genväg på skrivbordet vid installationen, dubbelklicka
 på den genvägen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Igbo</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180502T141307Z" creationid="Dorothy" creationdate="20180502T141307Z">
+        <seg>igbo</seg>
       </tuv>
     </tu>
     <tu>
