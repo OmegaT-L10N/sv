@@ -11636,10 +11636,11 @@ installeras i ditt system.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180522T141200Z">
+        <seg>OmegaT använder standardfilformatet TMX för att lagra och komma åt översättningsminnen, vilket gör att du kan dela ditt översättningsmaterial med andra CAT-verktyg som stödjer detta filformat.</seg>
       </tuv>
     </tu>
     <tu>
