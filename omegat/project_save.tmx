@@ -17063,6 +17063,9 @@ från servern.</seg>
       <tuv lang="EN">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180522T133945Z">
+        <seg>Detta är fri programvara som du kan vidarebefordra och/eller modifiera under licensvillkoren i GNU General Public License som publiceras av Free Software Foundation; antingen version 3 av licensen eller (valfritt) någon senare version.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
