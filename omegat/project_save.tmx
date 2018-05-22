@@ -1887,10 +1887,11 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180522T141440Z">
+        <seg>&lt;e0&gt;Terminologihantering&lt;/e0&gt;: Terminologihantering är viktig för konsekvent översättning.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11619,10 +11620,11 @@ installeras i ditt system.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180522T142107Z">
+        <seg>OmegaT använder gloslistor med översättningar av enstaka ord eller kortare fraser: en enkel tvåspråkig ordbok för en viss domän.</seg>
       </tuv>
     </tu>
     <tu>
