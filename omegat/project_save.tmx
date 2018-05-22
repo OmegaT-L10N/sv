@@ -17055,8 +17055,16 @@ från servern.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>
+
+
+
+</note>
       <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180522T140842Z">
+        <seg>Programmet distribueras i hopp om att det ska vara användbart, men UTAN NÅGON GARANTI; inte ens en underförstådd garanti om SÄLJBARHET eller LÄMPLIGHET FÖR ETT VISST SYFTE.</seg>
       </tuv>
     </tu>
     <tu>
