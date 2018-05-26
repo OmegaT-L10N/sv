@@ -1924,6 +1924,9 @@ Aktuell inställning är {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
       </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180526T144014Z">
+        <seg>&lt;e0&gt;Översättningsprocess:&lt;/e0&gt; Föreställ dig att du ska översätta något, det kan vara en enstaka fil till en hel mapp som innehåller undermappar som var och en innehåller diverse filer i olika format.</seg>
+      </tuv>
     </tu>
     <tu>
       <note>Not OK
@@ -7262,6 +7265,9 @@ skript (omegat.kaptn).</seg>
 </note>
       <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180526T143830Z">
+        <seg>Som referens visar OmegaT översättningen av alla ord som finns både i segmentet och är registrerade i gloslistan.</seg>
       </tuv>
     </tu>
     <tu>
