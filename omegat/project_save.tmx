@@ -527,11 +527,14 @@ unescape</note>
       </tuv>
     </tu>
     <tu>
+      <note>Todo: kolla att det är den mappen
+
+</note>
       <tuv lang="EN">
         <seg>&amp;Go To Downloads</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180605T070540Z" creationid="Dorothy" creationdate="20180605T070540Z">
-        <seg>&amp;Gå till Nedladdningar</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T070625Z" creationid="Dorothy" creationdate="20180605T070540Z">
+        <seg>&amp;Gå till Hämtade filer</seg>
       </tuv>
     </tu>
     <tu>
@@ -16278,9 +16281,11 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T070855Z">
+        <seg>Via Skriptfönstret kan du läsa in ett befintligt skript i textområdet och köra det mot det aktuella projektet.</seg>
       </tuv>
     </tu>
     <tu>
