@@ -7109,10 +7109,26 @@ efterbearbetning	  91 k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073233Z" creationid="Dorothy" creationdate="20180605T073233Z">
+        <seg>Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T080632Z">
         <seg>Filter '{0}' kunde inte läsas in från '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073240Z" creationid="Dorothy" creationdate="20180605T073240Z">
+        <seg>Filter:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19943,6 +19959,14 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T212226Z">
         <seg>{0}:	cleanup färdigt!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073223Z" creationid="Dorothy" creationdate="20180605T073223Z">
+        <seg>{0}_{1}</seg>
       </tuv>
     </tu>
     <tu>
