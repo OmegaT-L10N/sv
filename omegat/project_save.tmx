@@ -6886,8 +6886,8 @@ efterbearbetning	  91 k
       <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180605T070011Z">
-        <seg>Angivet projekt kunde inte läsas in!</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T071735Z">
+        <seg>Det gick inte att läsa in angivet projekt!</seg>
       </tuv>
     </tu>
     <tu>
