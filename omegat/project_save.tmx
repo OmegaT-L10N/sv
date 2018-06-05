@@ -3687,8 +3687,7 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?</note>
       </tuv>
     </tu>
     <tu>
-      <note>cannot / could not?
-</note>
+      <note>cannot / could not?</note>
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
@@ -4689,6 +4688,15 @@ Not OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>repo: dir vs. folder</note>
+      <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T072029Z" creationid="Dorothy" creationdate="20180605T071851Z">
+        <seg>Det gick inte att skapa projektmapp i {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
@@ -5245,8 +5253,7 @@ Not OK</note>
       </tuv>
     </tu>
     <tu>
-      <note>dictionary vs. glossary
-</note>
+      <note>dictionary vs. glossary</note>
       <tuv lang="EN">
         <seg>Dictionary Files Folder</seg>
       </tuv>
@@ -7165,8 +7172,7 @@ efterbearbetning	  91 k
       </tuv>
     </tu>
     <tu>
-      <note>"team mode project" vs. "team project"
-</note>
+      <note>"team mode project" vs. "team project"</note>
       <tuv lang="EN">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
@@ -8754,6 +8760,15 @@ på den genvägen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170717T080424Z">
         <seg>Snabbstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>repo: dir -&gt; folder</note>
+      <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T072147Z" creationid="Dorothy" creationdate="20180605T072147Z">
+        <seg>Otillräcklig behörighet för projektmapp {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -15174,8 +15189,7 @@ GlossaryAutoCompleterOptionsPanel.java: 108</note>
       </tuv>
     </tu>
     <tu>
-      <note>cfr. med andra program
-</note>
+      <note>cfr. med andra program</note>
       <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
@@ -15217,8 +15231,7 @@ GlossaryAutoCompleterOptionsPanel.java: 108</note>
     </tu>
     <tu>
       <note>global "specified" - lägg till i gloslista
-entered vs. specified
-</note>
+entered vs. specified</note>
       <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
@@ -17518,8 +17531,7 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>transdir instead of target dir?
-</note>
+      <note>transdir instead of target dir?</note>
       <tuv lang="EN">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
@@ -17591,8 +17603,7 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>minne vs. filer
-</note>
+      <note>minne vs. filer</note>
       <tuv lang="EN">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
