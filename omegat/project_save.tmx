@@ -1477,6 +1477,23 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- It is easy to learn&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T071550Z" creationid="Dorothy" creationdate="20180605T071550Z">
+        <seg>- Det är lätt att lära sig&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>repo: "freely available"</note>
+      <tuv lang="EN">
+        <seg>- It is free&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T071623Z" creationid="Dorothy" creationdate="20180605T071623Z">
+        <seg>- Det är fritt&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170729T080539Z">
@@ -12782,6 +12799,14 @@ När kör det?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Programming in tcl/tk</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T071600Z" creationid="Dorothy" creationdate="20180605T071600Z">
+        <seg>Programmering i tcl/tk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project &amp;Files...</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T181835Z">
@@ -15938,6 +15963,14 @@ till skillnad från internt minne
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tcl/tk has a number of advantages as a scripting language:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T071533Z" creationid="Dorothy" creationdate="20180605T071533Z">
+        <seg>Tcl/tk har flera fördelar som skriptspråk:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T081839Z">
@@ -18422,10 +18455,12 @@ sökbara utan prenumeration:</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
+      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Using the OmegaT text export function (scripting interface).</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T071648Z">
+        <seg>the OmegaT text export function (scripting interface).</seg>
       </tuv>
     </tu>
     <tu>
