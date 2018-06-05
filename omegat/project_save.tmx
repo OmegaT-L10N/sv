@@ -636,8 +636,7 @@ unescape</note>
       </tuv>
     </tu>
     <tu>
-      <note>var dyker denna upp?
-</note>
+      <note>var dyker denna upp?</note>
       <tuv lang="EN">
         <seg>&amp;Language Checker</seg>
       </tuv>
@@ -2026,6 +2025,14 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075816Z" creationid="Dorothy" creationdate="20180605T075816Z">
+        <seg>&lt;html&gt;Aktuell version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>should it be "project specific"?
 </note>
       <tuv lang="EN">
@@ -2057,6 +2064,14 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170724T194138Z">
         <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Gloslistor:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075836Z" creationid="Dorothy" creationdate="20180605T075836Z">
+        <seg>&lt;html&gt;Uppdateringskanal: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3232,6 +3247,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075932Z" creationid="Dorothy" creationdate="20180605T075932Z">
+        <seg>Sök automatiskt efter uppdateringar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180605T075321Z" creationid="Dorothy" creationdate="20180605T075321Z">
@@ -3940,6 +3963,14 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075754Z" creationid="Dorothy" creationdate="20180605T075754Z">
+        <seg>Kontrollera &amp;automatiskt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T203555Z">
@@ -3960,6 +3991,14 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T104336Z">
         <seg>Kontrollera LanguageTool-regler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075936Z" creationid="Dorothy" creationdate="20180605T075936Z">
+        <seg>Sök nu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12143,6 +12182,14 @@ installeras i ditt system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075717Z" creationid="Dorothy" creationdate="20180605T075717Z">
+        <seg>OmegaT {0} är nu tillgänglig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T081433Z">
@@ -15922,6 +15969,14 @@ entered vs. specified</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Stable</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075843Z" creationid="Dorothy" creationdate="20180605T075843Z">
+        <seg>Stabil</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>bug: kan inte registrera identisk översättning</note>
       <tuv lang="EN">
         <seg>Standard</seg>
@@ -18711,6 +18766,14 @@ på rad {1}, kolumn {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075807Z" creationid="Dorothy" creationdate="20180605T075807Z">
+        <seg>Uppdateringar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Upgrading...</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T193029Z">
@@ -19887,6 +19950,14 @@ att använda installations-skriptet (linux-install.sh).</seg>
       <note>Not OK</note>
       <tuv lang="EN">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075736Z" creationid="Dorothy" creationdate="20180605T075736Z">
+        <seg>Du har för närvarande {1}.</seg>
       </tuv>
     </tu>
     <tu>
