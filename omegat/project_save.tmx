@@ -9910,9 +9910,11 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T071011Z">
+        <seg>Läs in ett skript i editorn genom att klicka på dess namn i listan i vänsterpanelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16281,11 +16283,12 @@ kommer den aktuella mappen att användas.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>fönstret -&gt; dialogen?</note>
       <tuv lang="EN">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180605T070855Z">
-        <seg>Via Skriptfönstret kan du läsa in ett befintligt skript i textområdet och köra det mot det aktuella projektet.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T071052Z">
+        <seg>Via fönstret Skriptverktyg kan du läsa in ett befintligt skript i textområdet och köra det mot det aktuella projektet.</seg>
       </tuv>
     </tu>
     <tu>
