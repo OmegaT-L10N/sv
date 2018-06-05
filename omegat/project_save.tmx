@@ -234,8 +234,8 @@
       <tuv lang="EN">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180605T065316Z" creationid="Dorothy" creationdate="20180605T065253Z">
-        <seg>&amp;Sök efter Uppdateringar…</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T065330Z" creationid="Dorothy" creationdate="20180605T065253Z">
+        <seg>&amp;Sök efter uppdateringar…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6864,8 +6864,8 @@ efterbearbetning	  91 k
       <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171112T212210Z">
-        <seg>Kunde inte läsa översättningsminne {0} för projektet!</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T065855Z">
+        <seg>Det gick inte att läsa in översättningsminne {0} för projektet!</seg>
       </tuv>
     </tu>
     <tu>
