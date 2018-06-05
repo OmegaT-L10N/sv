@@ -2975,6 +2975,12 @@ TMX-filen kommer inte att läsas in.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>bug: registrera identisk</note>
+      <tuv lang="EN">
+        <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
@@ -3397,6 +3403,12 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T185353Z" creationid="Dorothy" creationdate="20180501T185353Z">
         <seg>vitryska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>bug: registrera identisk</note>
+      <tuv lang="EN">
+        <seg>Belazar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5090,6 +5102,14 @@ Not OK</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T185810Z" creationid="Dorothy" creationdate="20180501T185810Z">
         <seg>danska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073929Z" creationid="Dorothy" creationdate="20180605T073929Z">
+        <seg>DeepL</seg>
       </tuv>
     </tu>
     <tu>
@@ -8136,6 +8156,22 @@ history historik</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073932Z" creationid="Dorothy" creationdate="20180605T073932Z">
+        <seg>IBM Watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075307Z" creationid="Dorothy" creationdate="20180605T075307Z">
+        <seg>IBM Watson är inte tillgänglig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IGNORED:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T204144Z">
@@ -10701,6 +10737,12 @@ Det skulle kunna översättas med "pågående"</note>
       </tuv>
     </tu>
     <tu>
+      <note>bug: registrera identisk</note>
+      <tuv lang="EN">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Microsoft Translator Subscription Key not available.</seg>
       </tuv>
@@ -10835,6 +10877,14 @@ ViewOptionsPanel.java: 113</note>
 </note>
       <tuv lang="EN">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073924Z" creationid="Dorothy" creationdate="20180605T073924Z">
+        <seg>Moses</seg>
       </tuv>
     </tu>
     <tu>
@@ -11040,6 +11090,14 @@ lämplig plats såsom Programmappen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203114Z" creationid="Dorothy" creationdate="20180501T203114Z">
         <seg>nepali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Neural Machine Translation</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T074002Z" creationid="Dorothy" creationdate="20180605T074002Z">
+        <seg>Neural Machine Translation</seg>
       </tuv>
     </tu>
     <tu>
@@ -12416,6 +12474,15 @@ consistency?</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203256Z" creationid="Dorothy" creationdate="20180501T203256Z">
         <seg>pashto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>repo: superfluous space</note>
+      <tuv lang="EN">
+        <seg>Password :</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T074000Z" creationid="Dorothy" creationdate="20180605T074000Z">
+        <seg>Lösenord:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18794,6 +18861,14 @@ sökbara utan prenumeration:</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073942Z" creationid="Dorothy" creationdate="20180605T073942Z">
+        <seg>Användarnamn:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -19517,6 +19592,12 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203842Z" creationid="Dorothy" creationdate="20180501T203842Z">
         <seg>xhosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>bug: registrera identisk</note>
+      <tuv lang="EN">
+        <seg>Yandex Translate</seg>
       </tuv>
     </tu>
     <tu>
