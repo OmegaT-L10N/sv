@@ -1812,8 +1812,7 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
+      <note>Not OK</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Appendices&lt;/e0&gt; contain the following information</seg>
       </tuv>
@@ -1896,8 +1895,7 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
+      <note>Not OK</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Languages:&lt;/e0&gt; the ISO list of languages and language codes is provided</seg>
       </tuv>
@@ -1910,15 +1908,13 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
+      <note>Not OK</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
+      <note>Not OK</note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;OmegaT on the web:&lt;/e0&gt; information regarding on-line OmegaT resources</seg>
       </tuv>
@@ -8449,8 +8445,7 @@ till standard som följd av platsändringen.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
+      <note>Not OK</note>
       <tuv lang="EN">
         <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
       </tuv>
@@ -17155,8 +17150,7 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
+      <note>Not OK</note>
       <tuv lang="EN">
         <seg>The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
       </tuv>
