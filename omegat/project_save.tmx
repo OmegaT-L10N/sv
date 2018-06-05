@@ -11476,6 +11476,14 @@ also --&gt; still</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T072329Z" creationid="Dorothy" creationdate="20180605T072329Z">
+        <seg>OmegaT har inte läs- och skrivbehörighet till denna mapp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T175243Z">
