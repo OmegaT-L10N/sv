@@ -3685,8 +3685,7 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?</note>
       </tuv>
     </tu>
     <tu>
-      <note>Cannot vs. could not vs. Error when
-</note>
+      <note>Cannot vs. could not vs. Error when</note>
       <tuv lang="EN">
         <seg>Cannot load specified XML file!</seg>
       </tuv>
@@ -6312,8 +6311,7 @@ inte "fixa"</note>
       </tuv>
     </tu>
     <tu>
-      <note>"error loading"
-</note>
+      <note>"error loading"</note>
       <tuv lang="EN">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
@@ -6856,8 +6854,8 @@ efterbearbetning	  91 k
       <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170709T200801Z">
-        <seg>Angivet projekt kunde inte öppnas!</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T070011Z">
+        <seg>Angivet projekt kunde inte läsas in!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8580,8 +8578,8 @@ på den genvägen.</seg>
       <tuv lang="EN">
         <seg>Initially load this many segments:</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171121T065804Z">
-        <seg>Läs in så här många segment från till att börja med:</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T070149Z">
+        <seg>Läs in så här många segment till att börja med:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13465,8 +13463,7 @@ och filen heter "replace_strip" och inte "remove_strip"
       </tuv>
     </tu>
     <tu>
-      <note>open the project vs. load the project?
-</note>
+      <note>open the project vs. load the project?</note>
       <tuv lang="EN">
         <seg>Reopen the project now?</seg>
       </tuv>
@@ -18701,8 +18698,8 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
       <tuv lang="EN">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171117T064453Z">
-        <seg>När en enda fil har fler segment än detta, kommer ytterligare segment att läsas in efter hand när du rullar.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T070430Z">
+        <seg>När en fil har fler segment än detta, kommer ytterligare segment att läsas in efter hand när du rullar.</seg>
       </tuv>
     </tu>
     <tu>
