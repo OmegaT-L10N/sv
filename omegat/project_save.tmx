@@ -4134,13 +4134,13 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?</note>
       </tuv>
     </tu>
     <tu>
-      <note>ellips saknas
+      <note>ellips saknas i source
 Not OK</note>
       <tuv lang="EN">
         <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180605T071351Z">
-        <seg>Genom att klicka på &lt;g0&gt;Verktyg &gt; &lt;/g0&gt;&lt;g1&gt;Skriptverktyg...&lt;/g1&gt; öppnas fönstret Skriptverktyg:&lt;s2&gt; &lt;s3&gt;Skriptverktyg&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T071449Z">
+        <seg>Genom att klicka på &lt;g0&gt;Verktyg &gt; &lt;/g0&gt;&lt;g1&gt;Skriptverktyg…&lt;/g1&gt; öppnas fönstret Skriptverktyg:&lt;s2&gt; &lt;s3&gt;Skriptverktyg&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
