@@ -1484,6 +1484,12 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       </tuv>
     </tu>
     <tu>
+      <note>bug: registrera identisk</note>
+      <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>- It is easy to learn&lt;br0/&gt;</seg>
       </tuv>
@@ -1789,6 +1795,14 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220203Z" creationid="Kos Ivantsov" creationdate="20171204T220203Z">
         <seg>&lt;auto&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075631Z" creationid="Dorothy" creationdate="20180605T075631Z">
+        <seg>&lt;br&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7949,6 +7963,14 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075440Z" creationid="Dorothy" creationdate="20180605T075440Z">
+        <seg>Heapwise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hebrew (modern)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T190201Z" creationid="Dorothy" creationdate="20180501T190201Z">
@@ -11399,6 +11421,14 @@ lämplig plats såsom Programmappen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075452Z" creationid="Dorothy" creationdate="20180605T075452Z">
+        <seg>Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>North Ndebele</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180502T143215Z" creationid="Dorothy" creationdate="20180502T143215Z">
@@ -12508,6 +12538,14 @@ consistency?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075443Z" creationid="Dorothy" creationdate="20180605T075443Z">
+        <seg>Parsewise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pashto, Pushto</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203256Z" creationid="Dorothy" creationdate="20180501T203256Z">
@@ -12919,6 +12957,14 @@ ytterligare åtgärder behöver vidtas.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T111817Z">
         <seg>Plugin-program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075457Z" creationid="Dorothy" creationdate="20180605T075457Z">
+        <seg>Poisson</seg>
       </tuv>
     </tu>
     <tu>
@@ -19117,6 +19163,14 @@ sökbara utan prenumeration:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075448Z" creationid="Dorothy" creationdate="20180605T075448Z">
+        <seg>Viterbi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Volapük</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203806Z" creationid="Dorothy" creationdate="20180501T203806Z">
@@ -19668,6 +19722,14 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203900Z" creationid="Dorothy" creationdate="20180501T203900Z">
         <seg>yoruba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075706Z" creationid="Dorothy" creationdate="20180605T075706Z">
+        <seg>Du har redan den senaste versionen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20478,6 +20540,14 @@ Men kan inte förstå varför i SRC code
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075504Z" creationid="Dorothy" creationdate="20180605T075504Z">
+        <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} +{1} more</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T063125Z">
@@ -20525,6 +20595,12 @@ Men kan inte förstå varför i SRC code
       </tuv>
     </tu>
     <tu>
+      <note>bug: registrera identisk</note>
+      <tuv lang="EN">
+        <seg>{0} x{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>{0} {1}</seg>
       </tuv>
@@ -20546,6 +20622,14 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220144Z" creationid="Kos Ivantsov" creationdate="20171204T220144Z">
         <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075610Z" creationid="Dorothy" creationdate="20180605T075610Z">
+        <seg>{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20590,10 +20674,50 @@ Men kan inte förstå varför i SRC code
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075628Z" creationid="Dorothy" creationdate="20180605T075628Z">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075557Z" creationid="Dorothy" creationdate="20180605T075557Z">
+        <seg>“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075601Z" creationid="Dorothy" creationdate="20180605T075601Z">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>← Back</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T114404Z">
         <seg>← Tillbaka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075419Z" creationid="Dorothy" creationdate="20180605T075419Z">
+        <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T075434Z" creationid="Dorothy" creationdate="20180605T075434Z">
+        <seg>▼</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
