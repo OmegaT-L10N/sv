@@ -7331,6 +7331,14 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073431Z" creationid="Dorothy" creationdate="20180605T073431Z">
+        <seg>Format:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>ska det vara ellips?</note>
       <tuv lang="EN">
         <seg>Forward in history...</seg>
@@ -7524,6 +7532,14 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T043141Z" creationid="Dorothy" creationdate="20180501T043141Z">
         <seg>Kom igång med OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073308Z" creationid="Dorothy" creationdate="20180605T073308Z">
+        <seg>Git</seg>
       </tuv>
     </tu>
     <tu>
@@ -7773,6 +7789,14 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T203131Z">
         <seg>HTMLParser 1.6 av Somik Raha, Derrick Oswald m.fl. (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTTP(S)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073318Z" creationid="Dorothy" creationdate="20180605T073318Z">
+        <seg>HTTP(S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9204,6 +9228,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java Properties XML</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073537Z" creationid="Dorothy" creationdate="20180605T073537Z">
+        <seg>Java Properties XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T204310Z">
@@ -9481,6 +9513,14 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171110T204446Z">
         <seg>LÄRDA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LaTeX</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073422Z" creationid="Dorothy" creationdate="20180605T073422Z">
+        <seg>LaTeX</seg>
       </tuv>
     </tu>
     <tu>
@@ -10727,6 +10767,14 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T175502Z">
         <seg>Flytta mappen till en
 lämplig plats såsom Programmappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073503Z" creationid="Dorothy" creationdate="20180605T073503Z">
+        <seg>Mozilla DTD</seg>
       </tuv>
     </tu>
     <tu>
@@ -12143,6 +12191,14 @@ consistency?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PO</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073426Z" creationid="Dorothy" creationdate="20180605T073426Z">
+        <seg>PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO Filter Options</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T170630Z">
@@ -13140,6 +13196,14 @@ performed on --&gt; performed in</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073507Z" creationid="Dorothy" creationdate="20180605T073507Z">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quechua</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203313Z" creationid="Dorothy" creationdate="20180501T203313Z">
@@ -13160,6 +13224,14 @@ performed on --&gt; performed in</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T154508Z">
         <seg>&amp;Ersätt med matchning eller markering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RELAX NG</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073545Z" creationid="Dorothy" creationdate="20180605T073545Z">
+        <seg>RELAX NG</seg>
       </tuv>
     </tu>
     <tu>
@@ -13751,6 +13823,14 @@ kanske reload istället?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ResX</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073533Z" creationid="Dorothy" creationdate="20180605T073533Z">
+        <seg>ResX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T172044Z">
@@ -14174,6 +14254,14 @@ franska: résultat</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T093907Z">
         <seg>Sparar projektet…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schematron</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073542Z" creationid="Dorothy" creationdate="20180605T073542Z">
+        <seg>Schematron</seg>
       </tuv>
     </tu>
     <tu>
@@ -15469,6 +15557,12 @@ entered vs. specified</note>
       </tuv>
     </tu>
     <tu>
+      <note>bug: kan inte registrera identisk översättning</note>
+      <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -15610,6 +15704,14 @@ kan man skicka en flagga till OmegaT?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T213416Z">
         <seg>Prenumerationsnyckel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073314Z" creationid="Dorothy" creationdate="20180605T073314Z">
+        <seg>Subversion</seg>
       </tuv>
     </tu>
     <tu>
@@ -17801,10 +17903,32 @@ Exakta sökningar matchar hela söksträngen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073550Z" creationid="Dorothy" creationdate="20180605T073550Z">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073554Z" creationid="Dorothy" creationdate="20180605T073554Z">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T205226Z">
         <seg>E&amp;j översatta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Bug: doesn't let me register empty translation</note>
+      <tuv lang="EN">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -18567,6 +18691,14 @@ sökbara utan prenumeration:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073416Z" creationid="Dorothy" creationdate="20180605T073416Z">
+        <seg>Version: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T043148Z" creationid="Dorothy" creationdate="20180501T043148Z">
@@ -18906,6 +19038,14 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WiX Localization</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180605T073558Z" creationid="Dorothy" creationdate="20180605T073558Z">
+        <seg>WiX Localization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
@@ -19073,6 +19213,12 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T171253Z">
         <seg>Alternativ för XHTML-filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>bug: registrera identisk</note>
+      <tuv lang="EN">
+        <seg>XLIFF</seg>
       </tuv>
     </tu>
     <tu>
