@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10408M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1485,6 +1485,9 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
     <tu>
       <note>bug: registrera identisk</note>
       <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194242Z">
         <seg>,</seg>
       </tuv>
     </tu>
@@ -3012,6 +3015,9 @@ TMX-filen kommer inte att läsas in.</seg>
       <tuv lang="EN">
         <seg>Apertium</seg>
       </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194234Z">
+        <seg>Apertium</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -3457,6 +3463,9 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
     <tu>
       <note>bug: registrera identisk</note>
       <tuv lang="EN">
+        <seg>Belazar</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194233Z">
         <seg>Belazar</seg>
       </tuv>
     </tu>
@@ -8248,6 +8257,9 @@ history historik</note>
       <tuv lang="EN">
         <seg>ID</seg>
       </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194241Z">
+        <seg>ID</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -9810,6 +9822,9 @@ vid första körningen.</seg>
       <tuv lang="EN">
         <seg>LanguageTool</seg>
       </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194230Z">
+        <seg>LanguageTool</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -10825,6 +10840,9 @@ Det skulle kunna översättas med "pågående"</note>
     <tu>
       <note>bug: registrera identisk</note>
       <tuv lang="EN">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194235Z">
         <seg>Microsoft Translator</seg>
       </tuv>
     </tu>
@@ -15976,6 +15994,9 @@ entered vs. specified</note>
       <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194222Z">
+        <seg>Standard</seg>
+      </tuv>
     </tu>
     <tu>
       <note>Not OK
@@ -18360,6 +18381,9 @@ Exakta sökningar matchar hela söksträngen.</seg>
       <tuv lang="EN">
         <seg>URL</seg>
       </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194219Z">
+        <seg>URL</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -18399,6 +18423,14 @@ Exakta sökningar matchar hela söksträngen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170723T191441Z">
         <seg>URL till ordlistor online:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194228Z" creationid="Kos Ivantsov" creationdate="20180606T194228Z">
+        <seg>URL:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19614,6 +19646,9 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       <tuv lang="EN">
         <seg>Word</seg>
       </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194227Z">
+        <seg>Word</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -19626,6 +19661,9 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
     <tu>
       <note>bug: registrera identisk</note>
       <tuv lang="EN">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194226Z">
         <seg>Wordfast TXML</seg>
       </tuv>
     </tu>
@@ -19726,6 +19764,9 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       <tuv lang="EN">
         <seg>XLIFF</seg>
       </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194225Z">
+        <seg>XLIFF</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -19754,6 +19795,9 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
     <tu>
       <note>bug: registrera identisk</note>
       <tuv lang="EN">
+        <seg>Yandex Translate</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194239Z">
         <seg>Yandex Translate</seg>
       </tuv>
     </tu>
@@ -20662,6 +20706,9 @@ Men kan inte förstå varför i SRC code
     <tu>
       <note>bug: registrera identisk</note>
       <tuv lang="EN">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20180606T194247Z">
         <seg>{0} x{1}</seg>
       </tuv>
     </tu>
