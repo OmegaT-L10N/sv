@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10408M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18956,6 +18956,14 @@ på rad {1}, kolumn {2}.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170709T065347Z">
         <seg>Använd installationsspråket i OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use these Help texts to get started.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180607T140846Z" creationid="Dorothy" creationdate="20180607T140846Z">
+        <seg>Använd dessa hjälptexter för att komma igång.</seg>
       </tuv>
     </tu>
     <tu>
