@@ -8619,6 +8619,14 @@ installera OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180607T141721Z" creationid="Dorothy" creationdate="20180607T141721Z">
+        <seg>Om du är programmerare och råkar kunna Java, kolla gärna dokumentationen i &lt;a0&gt;källkoden&lt;/a0&gt; under /docs_devel för information om hur du kommer igång.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T155935Z">
