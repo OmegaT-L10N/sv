@@ -3631,6 +3631,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But I can't program at all, I hear you say.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180607T142013Z" creationid="Dorothy" creationdate="20180607T142013Z">
+        <seg>Men jag kan inte programmera över huvud taget, hör jag dig säga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T221107Z" creationid="mini-me" creationdate="20171209T221107Z">
@@ -5797,6 +5805,14 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171116T134727Z">
         <seg>Fråga inte före varje körning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180607T141823Z" creationid="Dorothy" creationdate="20180607T141823Z">
+        <seg>Donationer</seg>
       </tuv>
     </tu>
     <tu>
@@ -8547,6 +8563,14 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171121T064946Z">
         <seg>Om du använder en autentiserad proxy, ange ditt användarnamn och lösenord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can program in another language, you can write code to support the core application.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180607T141928Z" creationid="Dorothy" creationdate="20180607T141928Z">
+        <seg>Om du kan programmera i något annat språk kan du skriva kod som hjälper kärnprogrammet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12029,6 +12053,14 @@ att startas.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is written in Java.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180607T141733Z" creationid="Dorothy" creationdate="20180607T141733Z">
+        <seg>OmegaT är skrivet i Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT license</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T105318Z">
@@ -13291,6 +13323,22 @@ När kör det?</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T213928Z">
         <seg>Bearbetar…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming (Java)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180607T141816Z" creationid="Dorothy" creationdate="20180607T141816Z">
+        <seg>Programmering (Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming (not Java)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180607T141832Z" creationid="Dorothy" creationdate="20180607T141832Z">
+        <seg>Programmering (inte Java)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19392,6 +19440,14 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
 </note>
       <tuv lang="EN">
         <seg>Website manager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Well, have you considered learning?</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180607T142030Z" creationid="Dorothy" creationdate="20180607T142030Z">
+        <seg>Har du funderat på att lära dig?</seg>
       </tuv>
     </tu>
     <tu>
