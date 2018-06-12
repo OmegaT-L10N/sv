@@ -18248,8 +18248,8 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       <tuv lang="EN">
         <seg>Translation Memory Folder:</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170724T191637Z">
-        <seg>Mapp för översättningsminne:</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180612T172857Z">
+        <seg>Mapp för översättningsminnen:</seg>
       </tuv>
     </tu>
     <tu>
