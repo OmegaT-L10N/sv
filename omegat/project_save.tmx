@@ -1260,8 +1260,8 @@ Properties --&gt; Settings?</note>
       <tuv lang="EN">
         <seg>&amp;Translated Files Language:</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170709T195112Z">
-        <seg>&amp;Målspråk:</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T143445Z">
+        <seg>&amp;Språk för översatta filer:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2942,8 +2942,8 @@ processing = behandling?</note>
       <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171118T073950Z">
-        <seg>Ett fel uppstod när en ny mapp skapades!</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T143504Z">
+        <seg>Ett fel uppstod när en ny mapp skapades</seg>
       </tuv>
     </tu>
     <tu>
@@ -14946,8 +14946,8 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       <tuv lang="EN">
         <seg>Search Project...</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T041707Z" creationid="Dorothy" creationdate="20180501T041707Z">
-        <seg>Sök…</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T143251Z" creationid="Dorothy" creationdate="20180501T041707Z">
+        <seg>Sök i projektet…</seg>
       </tuv>
     </tu>
     <tu>
@@ -15138,8 +15138,8 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170808T174017Z">
-        <seg>Segment {0,nummer,#}</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T143411Z">
+        <seg>Segment {0, nummer, #}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16008,8 +16008,8 @@ entered vs. specified</note>
       <tuv lang="EN">
         <seg>Spanish, Castilian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203442Z" creationid="Dorothy" creationdate="20180501T203442Z">
-        <seg>spanska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T143306Z" creationid="Dorothy" creationdate="20180501T203442Z">
+        <seg>spanska, kastiljanska</seg>
       </tuv>
     </tu>
     <tu>
