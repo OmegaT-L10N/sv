@@ -2042,6 +2042,14 @@ Aktuell inställning är {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160711Z" creationid="Dorothy" creationdate="20180624T160711Z">
+        <seg>&lt;f0&gt;alignDir &lt;/f0&gt;måste innehålla en översättning på projektets målspråk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;alignDir&lt;/f0&gt; must contain a translation in the target language of the project.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T155849Z" creationid="Dorothy" creationdate="20180624T155849Z">
@@ -3324,6 +3332,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T060529Z">
         <seg>Autotext-fil (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatic Java Properties Aligner</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160458Z" creationid="Dorothy" creationdate="20180624T160458Z">
+        <seg>Automatisk linjering för Java Properties-filer</seg>
       </tuv>
     </tu>
     <tu>
@@ -9320,8 +9336,8 @@ på den genvägen.</seg>
       <tuv lang="EN">
         <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170805T201025Z">
-        <seg>Det behöver konverteras till ett nytt teamprojekt, men detta kan inte göras i konsol-läge.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160539Z">
+        <seg>Det behöver konverteras till ett nytt teamprojekt, men detta kan inte göras i konsolläge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11760,6 +11776,14 @@ also --&gt; still</note>
 </note>
       <tuv lang="EN">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT can align Java .properties in console mode.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160536Z" creationid="Dorothy" creationdate="20180624T160536Z">
+        <seg>OmegaT kan linjera Java .properties i konsolläge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15985,8 +16009,8 @@ entered vs. specified</note>
       <tuv lang="EN">
         <seg>Starting in console mode</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180624T154726Z" creationid="Dorothy" creationdate="20180624T154726Z">
-        <seg>Starta i konsol-läge</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160545Z" creationid="Dorothy" creationdate="20180624T154726Z">
+        <seg>Starta i konsolläge</seg>
       </tuv>
     </tu>
     <tu>
@@ -17836,8 +17860,8 @@ finns inget menu entry called that
       <tuv lang="EN">
         <seg>To start &lt;a0&gt;OmegaT&lt;/a0&gt; in console mode, some extra parameters have to be passed to it on startup.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180624T154824Z" creationid="Dorothy" creationdate="20180624T154824Z">
-        <seg>För att starta &lt;a0&gt;OmegaT&lt;/a0&gt; i konsol-läge måste några extra parametrar skickas till programmet vid uppstart.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160551Z" creationid="Dorothy" creationdate="20180624T154824Z">
+        <seg>För att starta &lt;a0&gt;OmegaT&lt;/a0&gt; i konsolläge måste några extra parametrar skickas till programmet vid uppstart.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19383,6 +19407,14 @@ att bespara sig besväret med att välja, ladda ner och installera den.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When this parameter is added, tag validation is done prior to translation/aligning.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160436Z" creationid="Dorothy" creationdate="20180624T160436Z">
+        <seg>När denna parameter läggs till utförs taggvalidering före översättning/linjering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171120T065750Z">
@@ -20267,6 +20299,14 @@ Men kan inte förstå varför i SRC code
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T154951Z" creationid="Dorothy" creationdate="20180624T154951Z">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /sökväg/till/projekt \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar --mode=console-align /my-project-dir --alignDir=/translatedFiles/</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160644Z" creationid="Dorothy" creationdate="20180624T160644Z">
+        <seg>java -jar OmegaT.jar --mode=console-align /min-projektmapp --alignDir=/översattaFiler/</seg>
       </tuv>
     </tu>
     <tu>
