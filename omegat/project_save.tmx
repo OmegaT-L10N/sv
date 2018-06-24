@@ -2175,6 +2175,14 @@ Aktuell inställning är {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T153913Z" creationid="Dorothy" creationdate="20180624T153849Z">
+        <seg>&lt;p0&gt;Källfiler&lt;/p0&gt; &lt;s1&gt;Filer i klartext&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T153533Z" creationid="Dorothy" creationdate="20180624T153533Z">
@@ -2185,8 +2193,8 @@ Aktuell inställning är {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180624T153827Z" creationid="Dorothy" creationdate="20180624T153827Z">
-        <seg>&lt;p0&gt;Målfiler&lt;/p0&gt; &lt;s1&gt;File i klartext&lt;/s1&gt;</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T153906Z" creationid="Dorothy" creationdate="20180624T153827Z">
+        <seg>&lt;p0&gt;Målfiler&lt;/p0&gt; &lt;s1&gt;Filer i klartext&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12590,6 +12598,14 @@ i ./tm, ./glossary och ./dictionary efter behov, och checka sedan in ('commit') 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plain text files</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T153918Z" creationid="Dorothy" creationdate="20180624T153918Z">
+        <seg>Filer i klartext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plain text files contain text only, so their translation is as simple as typing the translation.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T140455Z" creationid="Dorothy" creationdate="20180624T140455Z">
@@ -17277,6 +17293,7 @@ translated -&gt; target
       </tuv>
     </tu>
     <tu>
+      <note>kanske inte klartext ändå</note>
       <tuv lang="EN">
         <seg>There are basically two types of file formats, plain text and formatted text.</seg>
       </tuv>
