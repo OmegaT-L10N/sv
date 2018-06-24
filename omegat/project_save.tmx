@@ -5200,6 +5200,14 @@ Not OK</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DTD files (*.DTD)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142631Z" creationid="Dorothy" creationdate="20180624T142631Z">
+        <seg>DTD-filer (*.DTD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Danish</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T185810Z" creationid="Dorothy" creationdate="20180501T185810Z">
@@ -5801,6 +5809,14 @@ It is sometimes useful to be able make some tags untranslatable based on the val
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T064337Z">
         <seg>DokuWiki-filer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DokuWiki files (*.txt)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142639Z" creationid="Dorothy" creationdate="20180624T142639Z">
+        <seg>DokuWiki-filer (*.txt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8322,6 +8338,14 @@ history historik</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>INI (key=value) files (*.ini)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142621Z" creationid="Dorothy" creationdate="20180624T142621Z">
+        <seg>INI (nyckel=värde) -filer (*.ini)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Here: encountered, annan plats "occurred"
 </note>
       <tuv lang="EN">
@@ -8847,6 +8871,14 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, OmegaT will align the Java properties files found in the&lt;l0&gt; /source/ &lt;/l0&gt;folder of the project to the contents found at the specified location.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142803Z" creationid="Dorothy" creationdate="20180624T142803Z">
+        <seg>I detta läge linjerar OmegaT de Java .properties-filer som finns i &lt;l0&gt; /source/ &lt;/l0&gt;folder of the project to the contents found at the specified location.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9538,6 +9570,14 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171113T204310Z">
         <seg>Alternativ för filter för Java Resource Bundle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java resource bundles (*.properties)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142551Z" creationid="Dorothy" creationdate="20180624T142551Z">
+        <seg>Java-resurspaket (*.properties)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12631,6 +12671,14 @@ consistency?</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T170630Z">
         <seg>Alternativ för PO-filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO files (*.po)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142559Z" creationid="Dorothy" creationdate="20180624T142559Z">
+        <seg>PO-filer (*.po)</seg>
       </tuv>
     </tu>
     <tu>
