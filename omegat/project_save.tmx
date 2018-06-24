@@ -14952,12 +14952,12 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
     </tu>
     <tu>
-      <note>saknas ellips</note>
+      <note>repo: saknas ellips</note>
       <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171122T061528Z">
-        <seg>Se "Hjälp &gt; Användarmanual" för mer information.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T135758Z">
+        <seg>Se "Hjälp &gt; Användarmanual…" för mer information.</seg>
       </tuv>
     </tu>
     <tu>
