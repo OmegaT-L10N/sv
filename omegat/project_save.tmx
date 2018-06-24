@@ -7205,6 +7205,14 @@ efterbearbetning	  91 k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files to translate</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T153506Z" creationid="Dorothy" creationdate="20180624T153506Z">
+        <seg>Filer att översätta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180605T073233Z" creationid="Dorothy" creationdate="20180605T073233Z">
