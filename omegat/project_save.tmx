@@ -1548,6 +1548,14 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--alignDir={location of translated files}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T155806Z" creationid="Dorothy" creationdate="20180624T155806Z">
+        <seg>--alignDir={plats för översatta filer}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-dir=/path/to/config-files/ \</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T155141Z" creationid="Dorothy" creationdate="20180624T155141Z">
@@ -2030,6 +2038,14 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Working with plain text&lt;/e0&gt; and &lt;e1&gt;Working with formatted text&lt;/e1&gt;: these two chapters explain certain important points concerning texts to be translated, such as the encoding set (in the case of plain text files) and tag handling (in the case of formatted text).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T155849Z" creationid="Dorothy" creationdate="20180624T155849Z">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; måste innehålla en översättning på projektets målspråk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7488,6 +7504,14 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T221510Z" creationid="mini-me" creationdate="20171209T221510Z">
         <seg>För installation på andra operativsystem (som FreeBSD och Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, if the project is EN-&gt;FR, alignDir must contain a bundle ending with _fr.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T155935Z" creationid="Dorothy" creationdate="20180624T155935Z">
+        <seg>Om till exempel projektet är EN-&gt;FR måste alignDir innehålla en bundle som slutar på _fr.</seg>
       </tuv>
     </tu>
     <tu>
