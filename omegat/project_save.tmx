@@ -7728,6 +7728,15 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>TM files</note>
+      <tuv lang="EN">
+        <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T161407Z" creationid="Dorothy" creationdate="20180624T161407Z">
+        <seg>Grafiskt linjeringsverktyg för att skapa översättningsminnen från äldre texter och deras översättningar.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Galician</seg>
       </tuv>
@@ -10858,6 +10867,14 @@ TMX_MERGE__MINE</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170724T193544Z">
         <seg>Saknade taggar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T161449Z" creationid="Dorothy" creationdate="20180624T161449Z">
+        <seg>Modell-ID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19723,6 +19740,14 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T161105Z" creationid="Dorothy" creationdate="20180624T161105Z">
         <seg>Skrivet i Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python/Perl.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T161234Z" creationid="Dorothy" creationdate="20180624T161234Z">
+        <seg>Skrivet i Python/Perl.</seg>
       </tuv>
     </tu>
     <tu>
