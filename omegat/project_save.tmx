@@ -3453,14 +3453,6 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Bislama</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185417Z" creationid="Dorothy" creationdate="20180501T185417Z">
-        <seg>bislama</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
       <tuv lang="SV" changeid="mini-me" changedate="20171209T221159Z" creationid="mini-me" creationdate="20171209T221159Z">
@@ -3495,8 +3487,8 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <tuv lang="EN">
         <seg>Bosnian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110446Z" creationid="Dorothy" creationdate="20180502T110446Z">
-        <seg>bosniska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145507Z" creationid="Dorothy" creationdate="20180502T110446Z">
+        <seg>Bosniska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3519,8 +3511,8 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <tuv lang="EN">
         <seg>Breton</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185441Z" creationid="Dorothy" creationdate="20180501T185441Z">
-        <seg>bretonska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145511Z" creationid="Dorothy" creationdate="20180501T185441Z">
+        <seg>Bretonska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3574,16 +3566,16 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <tuv lang="EN">
         <seg>Bulgarian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185453Z" creationid="Dorothy" creationdate="20180501T185453Z">
-        <seg>bulgariska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145515Z" creationid="Dorothy" creationdate="20180501T185453Z">
+        <seg>Bulgariska</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Burmese</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185511Z" creationid="Dorothy" creationdate="20180501T185511Z">
-        <seg>burmesiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145521Z" creationid="Dorothy" creationdate="20180501T185511Z">
+        <seg>Burmesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3804,14 +3796,6 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?</note>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Chamorro</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110555Z" creationid="Dorothy" creationdate="20180502T110555Z">
-        <seg>chamorro</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Change date</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T214235Z">
@@ -3910,8 +3894,8 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?</note>
       <tuv lang="EN">
         <seg>Chechen</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110719Z" creationid="Dorothy" creationdate="20180502T110719Z">
-        <seg>tjetjenska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145527Z" creationid="Dorothy" creationdate="20180502T110719Z">
+        <seg>Tjetjenska</seg>
       </tuv>
     </tu>
     <tu>
@@ -4137,14 +4121,6 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?</note>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Chichewa, Chewa, Nyanja</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185613Z" creationid="Dorothy" creationdate="20180501T185613Z">
-        <seg>chichewa, chewa, nyanja</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T144027Z">
@@ -4187,8 +4163,8 @@ Var dyker det upp i GUI, i.e hur startar man "skapa nytt team-projekt"?</note>
       <tuv lang="EN">
         <seg>Chuvash</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185647Z" creationid="Dorothy" creationdate="20180501T185647Z">
-        <seg>tjuvasjiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145542Z" creationid="Dorothy" creationdate="20180501T185647Z">
+        <seg>Tjuvasjiska</seg>
       </tuv>
     </tu>
     <tu>
