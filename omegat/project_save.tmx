@@ -1692,8 +1692,8 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170709T174826Z">
-        <seg>1) Minska antalet källfiler och översätt i flera steg.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142908Z">
+        <seg>1) Minska antalet källfiler och översätt i flera steg:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8490,9 +8490,9 @@ den fullständiga sökvägen anges.)</seg>
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171118T072905Z">
-        <seg>Om anropet sker i ett git-arbetsträd eller svn-utchecking kommer
-		resultatet att bli staged/added.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142844Z">
+        <seg>Om anropet sker i ett git-arbetsträd eller svn-utchecking blir
+		resultatet staged/added.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12139,8 +12139,8 @@ att startas.</seg>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170709T174613Z">
-        <seg>OmegaT fick slut på minne och kommer avslutas när du trycker på OK.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142857Z">
+        <seg>OmegaT fick slut på minne och avslutas när du trycker på OK.</seg>
       </tuv>
     </tu>
     <tu>
