@@ -2936,10 +2936,10 @@ processing = behandling?</note>
 {0}
 The TMX file will not be loaded.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170716T152515Z">
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T152740Z">
         <seg>Ett undantag inträffade under parsning av TMX-filen
 {0}
-TMX-filen kommer inte att läsas in.</seg>
+TMX-filen läses inte in.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6445,8 +6445,7 @@ inte "fixa"</note>
       </tuv>
     </tu>
     <tu>
-      <note>detta tycks vara enda stället ordet "marker" förekommer
-</note>
+      <note>detta tycks vara enda stället ordet "marker" förekommer</note>
       <tuv lang="EN">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
@@ -17051,8 +17050,8 @@ här heter det "memory"
       <tuv lang="EN">
         <seg>The script will quit now.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171110T204903Z">
-        <seg>Skriptet kommer nu att avslutas.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T152833Z">
+        <seg>Skriptet avslutas nu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18915,8 +18914,8 @@ sökbara utan prenumeration:</seg>
       <tuv lang="EN">
         <seg>Variants in the following languages will be displayed: {0}</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171112T183244Z">
-        <seg>Varianter i följande språk kommer visas: {0}</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T152724Z">
+        <seg>Varianter i följande språk visas: {0}</seg>
       </tuv>
     </tu>
     <tu>
