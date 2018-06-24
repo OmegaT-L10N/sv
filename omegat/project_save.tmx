@@ -2327,6 +2327,14 @@ Aktuell inställning är {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII text (.txt, etc.)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142508Z" creationid="Dorothy" creationdate="20180624T142508Z">
+        <seg>ASCII-text (.txt, osv.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aaron Madlon-Kay (integration manager)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T123718Z">
@@ -5102,6 +5110,14 @@ Not OK</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Currently, &lt;a1&gt;OmegaT&lt;/a1&gt; supports the following plain text formats:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142457Z" creationid="Dorothy" creationdate="20180624T142457Z">
+        <seg>För närvarande stödjer &lt;a1&gt;OmegaT&lt;/a1&gt; följande format för klartext:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cursor lock off</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171117T214331Z">
@@ -6281,6 +6297,14 @@ Här är det &lt;b&gt; runt referensen, inte på andra platser?</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T080923Z">
         <seg>Aktiverad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoded text (*.UTF8)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142517Z" creationid="Dorothy" creationdate="20180624T142517Z">
+        <seg>Kodad text (*.UTF8)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17627,6 +17651,14 @@ konfigurationsmapp bestämmas säkert.</seg>
 </note>
       <tuv lang="EN">
         <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are not able to contain or retain information regarding the color, font etc of the text.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142411Z" creationid="Dorothy" creationdate="20180624T142411Z">
+        <seg>De kan inte innehålla eller behålla någon information avseende texten som gäller färg, teckensnitt osv.</seg>
       </tuv>
     </tu>
     <tu>
