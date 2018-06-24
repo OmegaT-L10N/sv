@@ -2037,8 +2037,8 @@ Aktuell inställning är {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171113T062852Z">
-        <seg>&lt;html&gt;Projektspecifika externa kommandon är inaktiverade och kommer inte att köras.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T152717Z">
+        <seg>&lt;html&gt;Projektspecifika externa kommandon är inaktiverade och körs inte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17468,8 +17468,8 @@ från servern.</seg>
       <tuv lang="EN">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171117T101434Z">
-        <seg>Så här kommer texten att se ut när den visas.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T152433Z">
+        <seg>Så här ser texten ut när den visas.</seg>
       </tuv>
     </tu>
     <tu>
