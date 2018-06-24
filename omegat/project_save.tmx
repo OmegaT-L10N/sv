@@ -9568,14 +9568,6 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Kirundi</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203340Z" creationid="Dorothy" creationdate="20180501T203340Z">
-        <seg>kirundi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Kongo</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T145922Z">
@@ -14332,8 +14324,8 @@ Hittar inte denna kod</note>
       <tuv lang="EN">
         <seg>Samoan</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143750Z" creationid="Dorothy" creationdate="20180502T143750Z">
-        <seg>samoanska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T150206Z" creationid="Dorothy" creationdate="20180502T143750Z">
+        <seg>Samoanska</seg>
       </tuv>
     </tu>
     <tu>
@@ -14370,26 +14362,18 @@ Hittar inte denna kod</note>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Sango</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143754Z" creationid="Dorothy" creationdate="20180502T143754Z">
-        <seg>sango</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Sanskrit (Saṁskṛta)</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143644Z" creationid="Dorothy" creationdate="20180502T143644Z">
-        <seg>sanskrit</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T150155Z" creationid="Dorothy" creationdate="20180502T143644Z">
+        <seg>Sanskrit</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Sardinian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143659Z" creationid="Dorothy" creationdate="20180502T143659Z">
-        <seg>sardiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T150158Z" creationid="Dorothy" creationdate="20180502T143659Z">
+        <seg>Sardiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -14508,8 +14492,8 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       <tuv lang="EN">
         <seg>Scottish Gaelic, Gaelic</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143831Z" creationid="Dorothy" creationdate="20180502T143831Z">
-        <seg>höglandsskotska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T150214Z" creationid="Dorothy" creationdate="20180502T143831Z">
+        <seg>Höglandsskotska</seg>
       </tuv>
     </tu>
     <tu>
@@ -15072,8 +15056,8 @@ A: finns i Redigera-menyn
       <tuv lang="EN">
         <seg>Serbian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143806Z" creationid="Dorothy" creationdate="20180502T143806Z">
-        <seg>serbiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T150211Z" creationid="Dorothy" creationdate="20180502T143806Z">
+        <seg>Serbiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -15199,14 +15183,6 @@ A: finns i Redigera-menyn
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Shona</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143839Z" creationid="Dorothy" creationdate="20180502T143839Z">
-        <seg>shona</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170711T070932Z">
@@ -15322,18 +15298,10 @@ Not OK
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Sindhi</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143709Z" creationid="Dorothy" creationdate="20180502T143709Z">
-        <seg>sindhi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Sinhala, Sinhalese</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143856Z" creationid="Dorothy" creationdate="20180502T143856Z">
-        <seg>singalesiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T150218Z" creationid="Dorothy" creationdate="20180502T143856Z">
+        <seg>Singalesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -15388,24 +15356,24 @@ Not OK
       <tuv lang="EN">
         <seg>Slovak</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203402Z" creationid="Dorothy" creationdate="20180501T203402Z">
-        <seg>slovakiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T150219Z" creationid="Dorothy" creationdate="20180501T203402Z">
+        <seg>Slovakiska</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Slovene</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203411Z" creationid="Dorothy" creationdate="20180501T203411Z">
-        <seg>slovenska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T150221Z" creationid="Dorothy" creationdate="20180501T203411Z">
+        <seg>Slovenska</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Somali</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203419Z" creationid="Dorothy" creationdate="20180501T203419Z">
-        <seg>somaliska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T150223Z" creationid="Dorothy" creationdate="20180501T203419Z">
+        <seg>Somaliska</seg>
       </tuv>
     </tu>
     <tu>
@@ -15674,8 +15642,8 @@ entered vs. specified</note>
       <tuv lang="EN">
         <seg>Southern Sotho</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143927Z" creationid="Dorothy" creationdate="20180502T143927Z">
-        <seg>sotho</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T150224Z" creationid="Dorothy" creationdate="20180502T143927Z">
+        <seg>Sotho</seg>
       </tuv>
     </tu>
     <tu>
@@ -15690,8 +15658,8 @@ entered vs. specified</note>
       <tuv lang="EN">
         <seg>Spanish, Castilian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180624T143306Z" creationid="Dorothy" creationdate="20180501T203442Z">
-        <seg>spanska, kastiljanska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T150239Z" creationid="Dorothy" creationdate="20180501T203442Z">
+        <seg>Spanska, Kastiljanska</seg>
       </tuv>
     </tu>
     <tu>
@@ -15999,8 +15967,8 @@ kan man skicka en flagga till OmegaT?
       <tuv lang="EN">
         <seg>Sundanese</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203453Z" creationid="Dorothy" creationdate="20180501T203453Z">
-        <seg>sundanesiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T150243Z" creationid="Dorothy" creationdate="20180501T203453Z">
+        <seg>Sundanesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -16020,21 +15988,13 @@ kan man skicka en flagga till OmegaT?
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Swahili</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203501Z" creationid="Dorothy" creationdate="20180501T203501Z">
-        <seg>swahili</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>Swazi?  
 Not OK</note>
       <tuv lang="EN">
         <seg>Swati</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T144010Z" creationid="Dorothy" creationdate="20180502T144010Z">
-        <seg>swazi</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T150253Z" creationid="Dorothy" creationdate="20180502T144010Z">
+        <seg>Swazi</seg>
       </tuv>
     </tu>
     <tu>
@@ -16298,14 +16258,6 @@ till skillnad från internt minne
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T203547Z" creationid="Dorothy" creationdate="20180501T203547Z">
         <seg>tadzjikiska</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Tamil</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T203516Z" creationid="Dorothy" creationdate="20180501T203516Z">
-        <seg>tamil</seg>
       </tuv>
     </tu>
     <tu>
