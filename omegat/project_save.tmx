@@ -17549,6 +17549,15 @@ translated -&gt; target
       </tuv>
     </tu>
     <tu>
+      <note>repo: method to specify</note>
+      <tuv lang="EN">
+        <seg>There are several methods to specify the file's encoding so that its contents are not garbled when opened in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T141312Z" creationid="Dorothy" creationdate="20180624T141312Z">
+        <seg>Det finns flera sätt att ange kodningen för en fil så att dess innehåll inte blir förvrängt när filen öppnas i &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
