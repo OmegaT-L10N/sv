@@ -1793,6 +1793,14 @@ Aktuell inställning är {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;You can use OmegaT&lt;/a0&gt; to translate files in a number of file formats.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T153609Z" creationid="Dorothy" creationdate="20180624T153609Z">
+        <seg>&lt;a0&gt;Du kan använda OmegaT&lt;/a0&gt; för att översätta filer i ett flertal filformat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220203Z" creationid="Kos Ivantsov" creationdate="20171204T220203Z">
@@ -2155,6 +2163,30 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T183920Z">
         <seg>&lt;p0&gt;Projekt&lt;/p0&gt; &lt;s1&gt;Inställningar&lt;/s1&gt; &lt;s2&gt;Språk&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T153522Z" creationid="Dorothy" creationdate="20180624T153522Z">
+        <seg>&lt;p0&gt;Källfiler&lt;/p0&gt; &lt;s1&gt;Filformat&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;File formats&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T153533Z" creationid="Dorothy" creationdate="20180624T153533Z">
+        <seg>&lt;p0&gt;Målfiler&lt;/p0&gt; &lt;s1&gt;Filformat&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T153827Z" creationid="Dorothy" creationdate="20180624T153827Z">
+        <seg>&lt;p0&gt;Målfiler&lt;/p0&gt; &lt;s1&gt;File i klartext&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7131,6 +7163,14 @@ efterbearbetning	  91 k
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T133430Z">
         <seg>Filnamn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File formats</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T153540Z" creationid="Dorothy" creationdate="20180624T153540Z">
+        <seg>Filformat</seg>
       </tuv>
     </tu>
     <tu>
@@ -17234,6 +17274,14 @@ translated -&gt; target
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T164649Z">
         <seg>När du sedan översätter från kanadafranska kommer ditt projekt använda alla regler som definierats för hela språkkedjan i rätt ordning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are basically two types of file formats, plain text and formatted text.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T153652Z" creationid="Dorothy" creationdate="20180624T153652Z">
+        <seg>Det finns väsentligen två typer av filformat: klartext och formaterad text.</seg>
       </tuv>
     </tu>
     <tu>
