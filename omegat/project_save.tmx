@@ -3073,6 +3073,15 @@ TMX-filen läses inte in.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>repo: extra -&gt; optional</note>
+      <tuv lang="EN">
+        <seg>Another extra command line parameter specific to console mode: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; When this parameter is added, tag validation is done prior to translation/aligning.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160331Z" creationid="Dorothy" creationdate="20180624T160331Z">
+        <seg>En ytterligare extra kommandoradsparameter som bara gäller för konsolläge: &lt;l0&gt;--tag-validation=[abort|warn].&lt;/l0&gt; När denna parameter läggs till utförs taggvalidering före översättning/linjering.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
