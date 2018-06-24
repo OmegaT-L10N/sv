@@ -4724,16 +4724,16 @@ Not OK</note>
       <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110754Z" creationid="Dorothy" creationdate="20180502T110754Z">
-        <seg>korniska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145545Z" creationid="Dorothy" creationdate="20180502T110754Z">
+        <seg>Korniska</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Corsican</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185708Z" creationid="Dorothy" creationdate="20180501T185708Z">
-        <seg>korsikanska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145549Z" creationid="Dorothy" creationdate="20180501T185708Z">
+        <seg>Korsikanska</seg>
       </tuv>
     </tu>
     <tu>
@@ -4925,18 +4925,10 @@ Not OK</note>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Cree</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110909Z" creationid="Dorothy" creationdate="20180502T110909Z">
-        <seg>cree</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Croatian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185726Z" creationid="Dorothy" creationdate="20180501T185726Z">
-        <seg>kroatiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145555Z" creationid="Dorothy" creationdate="20180501T185726Z">
+        <seg>Kroatiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -5105,8 +5097,8 @@ Not OK</note>
       <tuv lang="EN">
         <seg>Czech</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185759Z" creationid="Dorothy" creationdate="20180501T185759Z">
-        <seg>tjeckiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145559Z" creationid="Dorothy" creationdate="20180501T185759Z">
+        <seg>Tjeckiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -5129,8 +5121,8 @@ Not OK</note>
       <tuv lang="EN">
         <seg>Danish</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185810Z" creationid="Dorothy" creationdate="20180501T185810Z">
-        <seg>danska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145602Z" creationid="Dorothy" creationdate="20180501T185810Z">
+        <seg>Danska</seg>
       </tuv>
     </tu>
     <tu>
@@ -5590,8 +5582,8 @@ lite längre ner "show"</note>
       <tuv lang="EN">
         <seg>Divehi, Dhivehi, Maldivian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110948Z" creationid="Dorothy" creationdate="20180502T110948Z">
-        <seg>divehi</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145605Z" creationid="Dorothy" creationdate="20180502T110948Z">
+        <seg>Divehi</seg>
       </tuv>
     </tu>
     <tu>
@@ -5963,14 +5955,6 @@ laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T144020Z">
         <seg>Nederländska</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Dzongkha</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185845Z" creationid="Dorothy" creationdate="20180501T185845Z">
-        <seg>dzongkha</seg>
       </tuv>
     </tu>
     <tu>
@@ -6649,18 +6633,10 @@ eskejpat tecken?
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Esperanto</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185856Z" creationid="Dorothy" creationdate="20180501T185856Z">
-        <seg>esperanto</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Estonian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185908Z" creationid="Dorothy" creationdate="20180501T185908Z">
-        <seg>estniska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145615Z" creationid="Dorothy" creationdate="20180501T185908Z">
+        <seg>Estniska</seg>
       </tuv>
     </tu>
     <tu>
@@ -6717,14 +6693,6 @@ eskejpat tecken?
 </note>
       <tuv lang="EN">
         <seg>Every three minutes by default, an updated version of data shared is available to the rest of the team</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Ewe</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T111008Z" creationid="Dorothy" creationdate="20180502T111008Z">
-        <seg>ewe</seg>
       </tuv>
     </tu>
     <tu>
@@ -7046,8 +7014,8 @@ efterbearbetning	  91 k
       <tuv lang="EN">
         <seg>Faroese</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185939Z" creationid="Dorothy" creationdate="20180501T185939Z">
-        <seg>färöiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145620Z" creationid="Dorothy" creationdate="20180501T185939Z">
+        <seg>Färöiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7098,8 +7066,8 @@ efterbearbetning	  91 k
       <tuv lang="EN">
         <seg>Fijian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185953Z" creationid="Dorothy" creationdate="20180501T185953Z">
-        <seg>fijianska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145623Z" creationid="Dorothy" creationdate="20180501T185953Z">
+        <seg>Fijianska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7544,8 +7512,8 @@ skript (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Fula, Fulah, Pulaar, Pular</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T111137Z" creationid="Dorothy" creationdate="20180502T111137Z">
-        <seg>fula, fulani</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145630Z" creationid="Dorothy" creationdate="20180502T111137Z">
+        <seg>Fula, Fulani</seg>
       </tuv>
     </tu>
     <tu>
@@ -7603,8 +7571,8 @@ skript (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Galician</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190034Z" creationid="Dorothy" creationdate="20180501T190034Z">
-        <seg>galiciska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145634Z" creationid="Dorothy" creationdate="20180501T190034Z">
+        <seg>Galiciska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7635,8 +7603,8 @@ skript (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Georgian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190050Z" creationid="Dorothy" creationdate="20180501T190050Z">
-        <seg>georgiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145637Z" creationid="Dorothy" creationdate="20180501T190050Z">
+        <seg>Georgiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7854,8 +7822,8 @@ skript (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Greek, Modern</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190116Z" creationid="Dorothy" creationdate="20180501T190116Z">
-        <seg>grekiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145641Z" creationid="Dorothy" creationdate="20180501T190116Z">
+        <seg>Grekiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7878,16 +7846,8 @@ skript (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Guaraní</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190130Z" creationid="Dorothy" creationdate="20180501T190130Z">
-        <seg>guarani</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Gujarati</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190136Z" creationid="Dorothy" creationdate="20180501T190136Z">
-        <seg>gujarati</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145644Z" creationid="Dorothy" creationdate="20180501T190130Z">
+        <seg>Guarani</seg>
       </tuv>
     </tu>
     <tu>
@@ -7956,8 +7916,8 @@ skript (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Haitian, Haitian Creole</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T140603Z" creationid="Dorothy" creationdate="20180502T140550Z">
-        <seg>haitiisk kreol, haitiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145652Z" creationid="Dorothy" creationdate="20180502T140550Z">
+        <seg>Haitiisk kreol, Haitiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -7966,14 +7926,6 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T115528Z">
         <seg>Har anteckning</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Hausa</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190148Z" creationid="Dorothy" creationdate="20180501T190148Z">
-        <seg>hausa</seg>
       </tuv>
     </tu>
     <tu>
@@ -7996,8 +7948,8 @@ skript (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Hebrew (modern)</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190201Z" creationid="Dorothy" creationdate="20180501T190201Z">
-        <seg>hebreiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145656Z" creationid="Dorothy" creationdate="20180501T190201Z">
+        <seg>Hebreiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -8044,14 +7996,6 @@ skript (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Herero</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T140631Z" creationid="Dorothy" creationdate="20180502T140631Z">
-        <seg>herero</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170723T194325Z">
@@ -8080,22 +8024,6 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171122T062901Z">
         <seg>Mönster för markering…</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Hindi</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190212Z" creationid="Dorothy" creationdate="20180501T190212Z">
-        <seg>hindi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Hiri Motu</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T140654Z" creationid="Dorothy" creationdate="20180502T140654Z">
-        <seg>hiri motu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8187,8 +8115,8 @@ history historik</note>
       <tuv lang="EN">
         <seg>Hungarian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190224Z" creationid="Dorothy" creationdate="20180501T190224Z">
-        <seg>ungerska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145712Z" creationid="Dorothy" creationdate="20180501T190224Z">
+        <seg>Ungerska</seg>
       </tuv>
     </tu>
     <tu>
@@ -8294,8 +8222,8 @@ history historik</note>
       <tuv lang="EN">
         <seg>Icelandic</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202357Z" creationid="Dorothy" creationdate="20180501T202357Z">
-        <seg>isländska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145735Z" creationid="Dorothy" creationdate="20180501T202357Z">
+        <seg>Isländska</seg>
       </tuv>
     </tu>
     <tu>
@@ -8311,14 +8239,6 @@ history historik</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171120T063358Z">
         <seg>Identifierare att använda för alternativa översättningar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Ido</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T141526Z" creationid="Dorothy" creationdate="20180502T141526Z">
-        <seg>ido</seg>
       </tuv>
     </tu>
     <tu>
@@ -8640,14 +8560,6 @@ på den genvägen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Igbo</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T141307Z" creationid="Dorothy" creationdate="20180502T141307Z">
-        <seg>igbo</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Ignore</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T124051Z">
@@ -8842,8 +8754,8 @@ på den genvägen.</seg>
       <tuv lang="EN">
         <seg>Indonesian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190258Z" creationid="Dorothy" creationdate="20180501T190237Z">
-        <seg>indonesiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145716Z" creationid="Dorothy" creationdate="20180501T190237Z">
+        <seg>Indonesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -9060,22 +8972,6 @@ på den genvägen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Interlingua</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190232Z" creationid="Dorothy" creationdate="20180501T190232Z">
-        <seg>interlingua</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Interlingue</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190328Z" creationid="Dorothy" creationdate="20180501T190328Z">
-        <seg>interlingue</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180501T040744Z" creationid="Dorothy" creationdate="20180501T040744Z">
@@ -9087,22 +8983,6 @@ på den genvägen.</seg>
 </note>
       <tuv lang="EN">
         <seg>Introduction to tokenizers and scripts</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Inuktitut</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202410Z" creationid="Dorothy" creationdate="20180501T202410Z">
-        <seg>inuktitut</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Inupiaq</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202336Z" creationid="Dorothy" creationdate="20180501T202336Z">
-        <seg>inupiaq</seg>
       </tuv>
     </tu>
     <tu>
@@ -9149,8 +9029,8 @@ på den genvägen.</seg>
       <tuv lang="EN">
         <seg>Irish</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T190350Z" creationid="Dorothy" creationdate="20180501T190350Z">
-        <seg>iriska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145725Z" creationid="Dorothy" creationdate="20180501T190350Z">
+        <seg>Iriska</seg>
       </tuv>
     </tu>
     <tu>
@@ -9519,8 +9399,8 @@ vid första körningen.</seg>
       <tuv lang="EN">
         <seg>Javanese</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202424Z" creationid="Dorothy" creationdate="20180501T202424Z">
-        <seg>javanesiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145742Z" creationid="Dorothy" creationdate="20180501T202424Z">
+        <seg>Javanesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -9558,40 +9438,16 @@ vid första körningen.</seg>
       <tuv lang="EN">
         <seg>Kalaallisut, Greenlandic</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202450Z" creationid="Dorothy" creationdate="20180501T202450Z">
-        <seg>grönländska</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Kannada</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202455Z" creationid="Dorothy" creationdate="20180501T202455Z">
-        <seg>kannada</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Kanuri</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T141551Z" creationid="Dorothy" creationdate="20180502T141551Z">
-        <seg>kanuri</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Kashmiri</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202548Z" creationid="Dorothy" creationdate="20180501T202548Z">
-        <seg>kashmiri</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145744Z" creationid="Dorothy" creationdate="20180501T202450Z">
+        <seg>Grönländska</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Kazakh</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202602Z" creationid="Dorothy" creationdate="20180501T202602Z">
-        <seg>kazakiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145754Z" creationid="Dorothy" creationdate="20180501T202602Z">
+        <seg>Kazakiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -9698,32 +9554,16 @@ vid första körningen.</seg>
       <tuv lang="EN">
         <seg>Khmer</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202616Z" creationid="Dorothy" creationdate="20180501T202616Z">
-        <seg>kambodjanska</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Kikuyu, Gikuyu</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T141623Z" creationid="Dorothy" creationdate="20180502T141623Z">
-        <seg>kikuyu, gikuyu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Kinyarwanda</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202636Z" creationid="Dorothy" creationdate="20180501T202636Z">
-        <seg>kinyarwanda</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145757Z" creationid="Dorothy" creationdate="20180501T202616Z">
+        <seg>Kambodjanska</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Kirghiz, Kyrgyz</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T202657Z" creationid="Dorothy" creationdate="20180501T202657Z">
-        <seg>kirgiziska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T145810Z" creationid="Dorothy" creationdate="20180501T202657Z">
+        <seg>Kirgiziska</seg>
       </tuv>
     </tu>
     <tu>
@@ -9735,15 +9575,6 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Komi</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T142218Z" creationid="Dorothy" creationdate="20180502T142218Z">
-        <seg>komi</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Kongo</seg>
       </tuv>
