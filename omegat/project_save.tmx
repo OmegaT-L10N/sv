@@ -2646,9 +2646,7 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"align with" istället?
-
-</note>
+      <note>"align with" istället?</note>
       <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
