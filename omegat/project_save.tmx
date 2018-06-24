@@ -17179,6 +17179,14 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The resulting tmx is stored in the &lt;l1&gt;omegat&lt;/l1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160044Z" creationid="Dorothy" creationdate="20180624T160044Z">
+        <seg>Resultatet i form av en tmx-fil sparas i mappen &lt;l1&gt;omegat&lt;/l1&gt; med namnet &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
