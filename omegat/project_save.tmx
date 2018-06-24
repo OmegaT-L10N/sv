@@ -11202,8 +11202,8 @@ lämplig plats såsom Programmappen.</seg>
       <tuv lang="EN">
         <seg>Mozilla Lang</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171120T062413Z">
-        <seg>Mozilla .lang</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T143515Z">
+        <seg>Mozilla lang</seg>
       </tuv>
     </tu>
     <tu>
@@ -11605,8 +11605,8 @@ Not OK</note>
       <tuv lang="EN">
         <seg>Norwegian Bokmål</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T143149Z" creationid="Dorothy" creationdate="20180502T143149Z">
-        <seg>bokmål</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T143641Z" creationid="Dorothy" creationdate="20180502T143149Z">
+        <seg>Norskt bokmål</seg>
       </tuv>
     </tu>
     <tu>
@@ -16750,8 +16750,8 @@ till skillnad från internt minne
       <tuv lang="EN">
         <seg>Team synchronization: Saving translation in {0} s</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171115T054829Z">
-        <seg>Teamsynkronisering: Sparar översättning om {0} sek.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T143538Z">
+        <seg>Teamsynkronisering: Sparar översättning om {0} sek</seg>
       </tuv>
     </tu>
     <tu>
