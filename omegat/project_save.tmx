@@ -1548,6 +1548,14 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--config-dir=/path/to/config-files/ \</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T155141Z" creationid="Dorothy" creationdate="20180624T155141Z">
+        <seg>--config-dir=/sökväg/till/konfig-filer/ \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
@@ -1755,6 +1763,14 @@ Aktuell inställning är {0}MB;</seg>
 </note>
       <tuv lang="EN">
         <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/l2&gt;Example:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T154708Z" creationid="Dorothy" creationdate="20180624T154708Z">
+        <seg>&lt;/l2&gt;Exempel:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15909,6 +15925,14 @@ entered vs. specified</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Starting in console mode</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T154726Z" creationid="Dorothy" creationdate="20180624T154726Z">
+        <seg>Starta i konsol-läge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T134155Z">
@@ -16992,6 +17016,14 @@ här heter det "memory"
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most important is &lt;l1&gt;&lt;project-dir&gt;&lt;/l1&gt;, and optionally&lt;l2&gt; --config-dir=&lt;config-dir&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T154926Z" creationid="Dorothy" creationdate="20180624T154926Z">
+        <seg>De viktigaste är &lt;l1&gt;&lt;projektmapp&gt;&lt;/l1&gt; och valfritt&lt;l2&gt; --config-dir=&lt;konfig-mapp&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new colours have been saved.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T154153Z">
@@ -17724,6 +17756,14 @@ finns inget menu entry called that
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170728T185950Z">
         <seg>För att se en lista med filerna i projektet, öppna dialogen &lt;g1&gt;Projektfiler&lt;/g1&gt; genom att trycka &lt;k2&gt;CTRL + L&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start &lt;a0&gt;OmegaT&lt;/a0&gt; in console mode, some extra parameters have to be passed to it on startup.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T154824Z" creationid="Dorothy" creationdate="20180624T154824Z">
+        <seg>För att starta &lt;a0&gt;OmegaT&lt;/a0&gt; i konsol-läge måste några extra parametrar skickas till programmet vid uppstart.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20145,6 +20185,14 @@ Men kan inte förstå varför i SRC code
       <tuv lang="SV" changeid="Dorothy" changedate="20170809T182409Z">
         <seg>init &lt;källspråk&gt; &lt;målspråk&gt;
 		Starta ett minimalt teamprojekt med angivna språk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /path/to/project \</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T154951Z" creationid="Dorothy" creationdate="20180624T154951Z">
+        <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar /sökväg/till/projekt \</seg>
       </tuv>
     </tu>
     <tu>
