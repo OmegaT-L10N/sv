@@ -2345,8 +2345,8 @@ Aktuell inställning är {0}MB;</seg>
       <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T184911Z">
-        <seg>abchaziska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T144308Z">
+        <seg>Abchaziska</seg>
       </tuv>
     </tu>
     <tu>
@@ -2566,22 +2566,6 @@ Aktuell inställning är {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Afar</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T184941Z">
-        <seg>afar</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Afrikaans</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T184946Z">
-        <seg>afrikaans</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170715T165113Z">
@@ -2615,18 +2599,10 @@ Aktuell inställning är {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Akan</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110027Z">
-        <seg>akan</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Albanian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185045Z">
-        <seg>albanska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T144319Z">
+        <seg>Albanska</seg>
       </tuv>
     </tu>
     <tu>
@@ -2800,8 +2776,8 @@ Aktuell inställning är {0}MB;</seg>
       <tuv lang="EN">
         <seg>Amharic</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185100Z">
-        <seg>amhariska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T144321Z">
+        <seg>Amhariska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3054,16 +3030,16 @@ TMX-filen kommer inte att läsas in.</seg>
       <tuv lang="EN">
         <seg>Arabic</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185118Z">
-        <seg>arabiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T144324Z">
+        <seg>Arabiska</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Aragonese</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110233Z">
-        <seg>aragonska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T144327Z">
+        <seg>Aragonska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3095,8 +3071,8 @@ TMX-filen kommer inte att läsas in.</seg>
       <tuv lang="EN">
         <seg>Armenian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185143Z">
-        <seg>armeniska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T144330Z">
+        <seg>Armeniska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,8 +3106,8 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <tuv lang="EN">
         <seg>Assamese</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185155Z">
-        <seg>assamesiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T144334Z">
+        <seg>Assamesiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3304,8 +3280,8 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <tuv lang="EN">
         <seg>Avaric</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110257Z">
-        <seg>avariska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T144337Z">
+        <seg>Avariska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3320,8 +3296,8 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <tuv lang="EN">
         <seg>Avestan</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110343Z" creationid="Dorothy" creationdate="20180502T110343Z">
-        <seg>avestiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T144340Z" creationid="Dorothy" creationdate="20180502T110343Z">
+        <seg>Avestiska</seg>
       </tuv>
     </tu>
     <tu>
