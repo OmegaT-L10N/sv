@@ -1058,8 +1058,8 @@ Properties --&gt; Settings?</note>
       <tuv lang="EN">
         <seg>&amp;Search Project...</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170709T182643Z">
-        <seg>&amp;Sök…</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T143144Z">
+        <seg>&amp;Sök i projektet…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1276,8 +1276,8 @@ Properties --&gt; Settings?</note>
       <tuv lang="EN">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171203T182615Z">
-        <seg>&amp;Ångra</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T143126Z">
+        <seg>&amp;Ångra senaste åtgärd</seg>
       </tuv>
     </tu>
     <tu>
@@ -3734,8 +3734,7 @@ kolla </note>
       </tuv>
     </tu>
     <tu>
-      <note>
-document --&gt; file</note>
+      <note>repo: document --&gt; file</note>
       <tuv lang="EN">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
