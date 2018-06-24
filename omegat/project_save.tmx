@@ -6106,6 +6106,14 @@ laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E.g., if the project is EN-&gt;FR, alignDir must contain a bundle ending with _fr.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160743Z" creationid="Dorothy" creationdate="20180624T160743Z">
+        <seg>Om till exempel projektet är EN-&gt;FR måste alignDir innehålla en bundle som slutar på _fr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171114T061223Z">
@@ -17209,6 +17217,14 @@ här heter det "memory"
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T155708Z" creationid="Dorothy" creationdate="20180624T155708Z">
         <seg>Resultatet är en TMX-fil som hamnar i mappen &lt;f1&gt;/omegat/&lt;/f1&gt; med namnet &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The resulting tmx is stored in the &lt;l1&gt;omegat &lt;/l1&gt;folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160821Z" creationid="Dorothy" creationdate="20180624T160821Z">
+        <seg>Resultatet i form av en tmx-fil sparas i mappen &lt;l1&gt;omegat &lt;/l1&gt;med namnet &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
