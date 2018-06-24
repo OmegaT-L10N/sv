@@ -1555,6 +1555,15 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       </tuv>
     </tu>
     <tu>
+      <note>repo: ta bort slash</note>
+      <tuv lang="EN">
+        <seg>--config-file=/path/to/config-file/ \</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T155218Z" creationid="Dorothy" creationdate="20180624T155218Z">
+        <seg>--config-file=/sökväg/till/konfig-fil \</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
@@ -6877,6 +6886,14 @@ eskejpat tecken?
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Explanation:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T155301Z" creationid="Dorothy" creationdate="20180624T155301Z">
+        <seg>Förklaring:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -11415,6 +11432,14 @@ Not OK</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T114434Z">
         <seg>Anteckning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that all parameters start with a double - character.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T155255Z" creationid="Dorothy" creationdate="20180624T155255Z">
+        <seg>Observera att alla parametrar börjar med ett dubbelt - tecken.</seg>
       </tuv>
     </tu>
     <tu>
