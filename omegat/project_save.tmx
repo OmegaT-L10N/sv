@@ -16220,6 +16220,14 @@ kan man skicka en flagga till OmegaT?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such files do not contain any formatting information beyond the "white space" used to align text, indicate paragraphs or insert page breaks.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T142256Z" creationid="Dorothy" creationdate="20180624T142256Z">
+        <seg>Sådana filer innehåller ingen formateringsinformation utöver det "tomma utrymme" som används för att justera text, ange styckeindelning eller infoga sidbrytningar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Summary</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T093753Z">
