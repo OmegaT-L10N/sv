@@ -3302,18 +3302,10 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Aymara</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185216Z" creationid="Dorothy" creationdate="20180501T185216Z">
-        <seg>aymara</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Azerbaijani</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185247Z" creationid="Dorothy" creationdate="20180501T185247Z">
-        <seg>azerbajdzjanska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T144346Z" creationid="Dorothy" creationdate="20180501T185247Z">
+        <seg>Azerbajdzjanska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3398,14 +3390,6 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Bambara</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180502T110406Z" creationid="Dorothy" creationdate="20180502T110406Z">
-        <seg>bambara</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170710T202106Z">
@@ -3423,16 +3407,16 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <tuv lang="EN">
         <seg>Bashkir</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185325Z" creationid="Dorothy" creationdate="20180501T185325Z">
-        <seg>basjkiriska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T144353Z" creationid="Dorothy" creationdate="20180501T185325Z">
+        <seg>Basjkiriska</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Basque</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185343Z" creationid="Dorothy" creationdate="20180501T185343Z">
-        <seg>baskiska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T144355Z" creationid="Dorothy" creationdate="20180501T185343Z">
+        <seg>Baskiska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3445,8 +3429,8 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       <tuv lang="EN">
         <seg>Belarusian</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185353Z" creationid="Dorothy" creationdate="20180501T185353Z">
-        <seg>vitryska</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T144358Z" creationid="Dorothy" creationdate="20180501T185353Z">
+        <seg>Vitryska</seg>
       </tuv>
     </tu>
     <tu>
@@ -3459,28 +3443,12 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Bengali</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185404Z" creationid="Dorothy" creationdate="20180501T185404Z">
-        <seg>bengali</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>på annan plats "bidirectionality"</note>
       <tuv lang="EN">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171115T225000Z">
         <seg>Dubbelriktade kontrolltecken</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Bihari</seg>
-      </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180501T185411Z" creationid="Dorothy" creationdate="20180501T185411Z">
-        <seg>bihari</seg>
       </tuv>
     </tu>
     <tu>
