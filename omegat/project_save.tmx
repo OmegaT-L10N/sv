@@ -6108,8 +6108,8 @@ laddades project_save.tmx aldrig upp och SVN växlade till instabil status.</seg
       <tuv lang="EN">
         <seg>E.g., if the project is EN-&gt;FR, alignDir must contain a bundle ending with _fr.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160743Z" creationid="Dorothy" creationdate="20180624T160743Z">
-        <seg>Om till exempel projektet är EN-&gt;FR måste alignDir innehålla en bundle som slutar på _fr.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160903Z" creationid="Dorothy" creationdate="20180624T160743Z">
+        <seg>Om projektet till exempel är EN-&gt;FR måste alignDir innehålla en bundle som slutar på _fr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7543,8 +7543,8 @@ skript (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For instance, if the project is EN-&gt;FR, alignDir must contain a bundle ending with _fr.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180624T155935Z" creationid="Dorothy" creationdate="20180624T155935Z">
-        <seg>Om till exempel projektet är EN-&gt;FR måste alignDir innehålla en bundle som slutar på _fr.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T160851Z" creationid="Dorothy" creationdate="20180624T155935Z">
+        <seg>Om projektet till exempel är EN-&gt;FR måste alignDir innehålla en bundle som slutar på _fr.</seg>
       </tuv>
     </tu>
     <tu>
