@@ -2353,8 +2353,8 @@ Aktuell inställning är {0}MB;</seg>
       <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171107T201153Z">
-        <seg>abort: Avsluta med ett felmeddelande om taggar är ogiltiga.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T152058Z">
+        <seg>Abort: Avsluta med ett felmeddelande om taggar är ogiltiga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19038,8 +19038,8 @@ sökbara utan prenumeration:</seg>
       <tuv lang="EN">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171107T203604Z">
-        <seg>warn: Rapportera ogiltiga taggar till stdout.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T152105Z">
+        <seg>Warn: Rapportera ogiltiga taggar till stdout.</seg>
       </tuv>
     </tu>
     <tu>
