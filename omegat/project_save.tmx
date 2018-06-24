@@ -5,6 +5,22 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <tuv lang="EN">
+        <seg>"Aligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T161043Z" creationid="Dorothy" creationdate="20180624T161043Z">
+        <seg>Linjeringshjälpmedlet "Aligner"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Bligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T161052Z" creationid="Dorothy" creationdate="20180624T161052Z">
+        <seg>Linjeringshjälpmedlet "Bligner"</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="EN">
@@ -1366,7 +1382,6 @@ Properties --&gt; Settings?</note>
     </tu>
     <tu>
       <note>Parentes är fel
-
 lists</note>
       <tuv lang="EN">
         <seg>(If you think you have significantly contributed to the OmegaT Project but you
@@ -9997,8 +10012,7 @@ vid första körningen.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
+      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
       </tuv>
@@ -19091,6 +19105,14 @@ sökbara utan prenumeration:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Utilities</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T161059Z" creationid="Dorothy" creationdate="20180624T161059Z">
+        <seg>Hjälpmedel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uzbek</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T151608Z" creationid="Dorothy" creationdate="20180501T203745Z">
@@ -19697,6 +19719,14 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Written in Python.</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180624T161105Z" creationid="Dorothy" creationdate="20180624T161105Z">
+        <seg>Skrivet i Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wrong authentication</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170730T110328Z">
@@ -19983,12 +20013,8 @@ att använda installations-skriptet (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>
-"läsa in på nytt"
-
-konsistens
-
-</note>
+      <note>"läsa in på nytt"
+konsekvens</note>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
