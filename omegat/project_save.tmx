@@ -4616,9 +4616,7 @@ Not OK</note>
       </tuv>
     </tu>
     <tu>
-      <note>directory --&gt; folder?
-repo: align ?
-cfr console-translate vs. console-align</note>
+      <note>directory --&gt; folder?</note>
       <tuv lang="EN">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
