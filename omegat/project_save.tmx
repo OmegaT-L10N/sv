@@ -1434,6 +1434,14 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180823T141516Z" creationid="Dorothy" creationdate="20180823T141516Z">
+        <seg>(Lämna Lösenordet tomt om du använder en API-nyckel.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170808T174521Z">
@@ -19062,6 +19070,14 @@ sökbara utan prenumeration:</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T170443Z">
         <seg>Användarnamn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180823T141435Z" creationid="Dorothy" creationdate="20180823T141435Z">
+        <seg>Användarnamn eller API-nyckel:</seg>
       </tuv>
     </tu>
     <tu>
