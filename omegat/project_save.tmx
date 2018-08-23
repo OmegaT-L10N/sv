@@ -1436,8 +1436,8 @@ För att lägga till filer i projektet, klicka på knappen "Kopiera filer till k
       <tuv lang="EN">
         <seg>(Leave the Password empty if you are using an API Key.)</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180823T141516Z" creationid="Dorothy" creationdate="20180823T141516Z">
-        <seg>(Lämna Lösenordet tomt om du använder en API-nyckel.)</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180823T142015Z" creationid="Dorothy" creationdate="20180823T141516Z">
+        <seg>(Lämna fältet Lösenord tomt om du använder en API-nyckel.)</seg>
       </tuv>
     </tu>
     <tu>
