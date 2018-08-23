@@ -7132,6 +7132,14 @@ efterbearbetning	  91 k
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20180823T141647Z" creationid="Dorothy" creationdate="20180823T141647Z">
+        <seg>Det gick inte att hämta info om senaste versionen: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180605T071735Z">
