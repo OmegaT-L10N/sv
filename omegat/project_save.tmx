@@ -10967,6 +10967,22 @@ ViewOptionsPanel.java: 113</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190118T104034Z" creationid="Dorothy" creationdate="20190118T104034Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190118T104016Z" creationid="Dorothy" creationdate="20190118T104016Z">
+        <seg>Alternativ för Moodle PHP-Filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170716T131954Z">
@@ -13895,6 +13911,12 @@ performed on --&gt; performed in</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171111T212409Z">
         <seg>Fjärrarkiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="EN">
+        <seg>Remote repository network communication error: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16851,6 +16873,14 @@ kommer den aktuella mappen att användas.</seg>
 </note>
       <tuv lang="EN">
         <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190118T104122Z" creationid="Dorothy" creationdate="20190118T104122Z">
+        <seg>Moodle PHP-filtret kastade ett undantag:</seg>
       </tuv>
     </tu>
     <tu>
