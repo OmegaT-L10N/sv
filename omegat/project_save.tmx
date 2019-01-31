@@ -13931,8 +13931,8 @@ performed on --&gt; performed in</note>
       <tuv lang="EN">
         <seg>Remove &amp;leading and trailing tags</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20170731T200113Z">
-        <seg>Ta bort &amp;inledande and avslutande taggar</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190131T192432Z">
+        <seg>Ta bort &amp;inledande och avslutande taggar</seg>
       </tuv>
     </tu>
     <tu>
