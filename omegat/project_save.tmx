@@ -466,8 +466,8 @@ unescape</note>
       <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
-      <tuv lang="SV" changeid="Kos Ivantsov" changedate="20171204T220157Z" creationid="Kos Ivantsov" creationdate="20171204T220157Z">
-        <seg>&amp;Filter</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190131T191818Z" creationid="Kos Ivantsov" creationdate="20171204T220157Z">
+        <seg>&amp;Filtrera</seg>
       </tuv>
     </tu>
     <tu>
@@ -18598,8 +18598,8 @@ Exakta sökningar matchar hela söksträngen.</seg>
       <tuv lang="EN">
         <seg>Unable to save filters configuration file</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171114T060136Z">
-        <seg>Det gick inte att spara konfigurationsfil för filter"</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190131T191855Z">
+        <seg>Det gick inte att spara konfigurationsfil för filter</seg>
       </tuv>
     </tu>
     <tu>
