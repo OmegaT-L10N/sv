@@ -13914,9 +13914,11 @@ performed on --&gt; performed in</note>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="EN">
         <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190211T141441Z">
+        <seg>Nätverksfel vid kommunikation med fjärrarkivet: {0}</seg>
       </tuv>
     </tu>
     <tu>
