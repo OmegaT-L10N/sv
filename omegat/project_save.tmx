@@ -3122,6 +3122,14 @@ TMX-filen läses inte in.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anthony Baldwin (localisation manager)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190507T145426Z" creationid="Dorothy" creationdate="20190507T145426Z">
+        <seg>Anthony Baldwin (lokalieringsansvarig)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180605T073800Z" creationid="Dorothy" creationdate="20180605T073800Z">
@@ -3650,6 +3658,14 @@ vilket kan leda till oväntat, men korrekt beteende.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T145511Z" creationid="Dorothy" creationdate="20180501T185441Z">
         <seg>Bretonska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Briac Pilpré (webmaster)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190507T145325Z" creationid="Dorothy" creationdate="20190507T145325Z">
+        <seg>Briac Pilpré (webbadministratör)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10453,6 +10469,14 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180605T073757Z" creationid="Dorothy" creationdate="20180605T073757Z">
         <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190507T145404Z" creationid="Dorothy" creationdate="20190507T145404Z">
+        <seg>Lucie Vecerova (ansvarar för Facebook-communityn)</seg>
       </tuv>
     </tu>
     <tu>
