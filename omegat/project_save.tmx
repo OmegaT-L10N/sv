@@ -4883,6 +4883,14 @@ Not OK</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190507T150248Z" creationid="Dorothy" creationdate="20190507T150248Z">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk med flera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T145545Z" creationid="Dorothy" creationdate="20180502T110754Z">
@@ -6967,6 +6975,14 @@ eskejpat tecken?
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170802T081816Z">
         <seg>Kör externt kommando…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190507T150419Z" creationid="Dorothy" creationdate="20190507T150419Z">
+        <seg>Kör skript {0} (händelse {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -15656,6 +15672,14 @@ Not OK
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171112T211319Z">
         <seg>Hoppa över text som matchar det reguljära uttrycket:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190507T150229Z" creationid="Dorothy" creationdate="20190507T150229Z">
+        <seg>Hoppar över redan inläst plugin från klass '{0}'</seg>
       </tuv>
     </tu>
     <tu>
