@@ -9608,6 +9608,14 @@ vid första körningen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190507T145239Z" creationid="Dorothy" creationdate="20190507T145239Z">
+        <seg>Jean-Christophe Helary (ansvarar för Twitter-communityn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (localization manager)</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170806T123744Z">
@@ -9783,6 +9791,14 @@ vid första körningen.</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T145926Z" creationid="Dorothy" creationdate="20180501T202716Z">
         <seg>Koreanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kos Ivantsof (localisation manager)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190507T145306Z" creationid="Dorothy" creationdate="20190507T145254Z">
+        <seg>Kos Ivantsof (lokaliseringsansvarig)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10578,6 +10594,14 @@ Not OK
 </note>
       <tuv lang="EN">
         <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marco Cevoli (Telegram community manager)</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190507T145212Z" creationid="Dorothy" creationdate="20190507T145120Z">
+        <seg>Marco Cevoli (ansvarar för Telegram-communityn)</seg>
       </tuv>
     </tu>
     <tu>
