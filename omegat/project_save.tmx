@@ -5225,6 +5225,22 @@ Not OK</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190519T123047Z" creationid="Dorothy" creationdate="20190519T123047Z">
+        <seg>Markör låst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190519T123108Z" creationid="Dorothy" creationdate="20190519T123105Z">
+        <seg>Markör olåst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20170731T153048Z">
@@ -5614,8 +5630,8 @@ lite längre ner "show"</note>
       <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20171115T225110Z">
-        <seg>Visa &amp;inga</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190519T122907Z">
+        <seg>Visa &amp;ingen</seg>
       </tuv>
     </tu>
     <tu>
