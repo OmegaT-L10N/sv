@@ -10679,6 +10679,14 @@ Not OK
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190519T122759Z" creationid="Dorothy" creationdate="20190519T122759Z">
+        <seg>Markera &amp;styckeavgränsare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T164528Z">
