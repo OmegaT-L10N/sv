@@ -9082,6 +9082,14 @@ på den genvägen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190519T123137Z" creationid="Dorothy" creationdate="20190519T123137Z">
+        <seg>Infogningsläge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171203T183404Z">
@@ -12662,6 +12670,14 @@ consistency?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190519T123126Z" creationid="Dorothy" creationdate="20190519T123126Z">
+        <seg>Överskrivningsläge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDF Input</seg>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20171119T081235Z">
@@ -12714,6 +12730,12 @@ consistency?</note>
       </tuv>
       <tuv lang="SV" changeid="Dorothy" changedate="20180624T150121Z" creationid="Dorothy" creationdate="20180501T203226Z">
         <seg>Punjabi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>delimitation or delimiter?</note>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation</seg>
       </tuv>
     </tu>
     <tu>
