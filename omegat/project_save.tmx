@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7627,13 +7627,11 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Not OK
-</note>
       <tuv lang="EN">
         <seg>For installation on Windows System.</seg>
       </tuv>
-      <tuv lang="SV" changeid="mini-me" changedate="20171209T221409Z" creationid="mini-me" creationdate="20171209T221409Z">
-        <seg>För installation på Windows System.</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190924T093658Z" creationid="mini-me" creationdate="20171209T221409Z">
+        <seg>För installation på Windowssystemet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14387,8 +14385,7 @@ kanske reload istället?</note>
       </tuv>
     </tu>
     <tu>
-      <note>"Förbättringsönskemål"?
-</note>
+      <note>"Förbättringsönskemål"?</note>
       <tuv lang="EN">
         <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
       </tuv>
