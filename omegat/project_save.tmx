@@ -549,8 +549,8 @@ unescape</note>
       <tuv lang="EN">
         <seg>&amp;Go To Downloads</seg>
       </tuv>
-      <tuv lang="SV" changeid="Dorothy" changedate="20180605T070625Z" creationid="Dorothy" creationdate="20180605T070540Z">
-        <seg>&amp;Gå till Hämtade filer</seg>
+      <tuv lang="SV" changeid="Dorothy" changedate="20190924T094005Z" creationid="Dorothy" creationdate="20180605T070540Z">
+        <seg>&amp;Gå till Nedladdningar</seg>
       </tuv>
     </tu>
     <tu>
