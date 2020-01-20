@@ -12746,6 +12746,14 @@ consistency?</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="sv" changeid="jvb" changedate="20200120T093148Z" creationid="jvb" creationdate="20200120T093148Z">
+        <seg>Styckeavgränsningsformat:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Not OK
 </note>
       <tuv lang="en">
@@ -12847,6 +12855,14 @@ consistency?</note>
       </tuv>
       <tuv lang="sv" changeid="Dorothy" changedate="20170731T165405Z">
         <seg>Mönster…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="sv" changeid="jvb" changedate="20200120T093116Z" creationid="jvb" creationdate="20200120T093116Z">
+        <seg>Avdrag för matchningar på andra språk:</seg>
       </tuv>
     </tu>
     <tu>
