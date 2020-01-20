@@ -175,6 +175,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Back</seg>
       </tuv>
