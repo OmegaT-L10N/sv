@@ -5752,6 +5752,12 @@ lite längre ner "show"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>kolla vid körning</note>
       <tuv lang="en">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
@@ -6783,6 +6789,12 @@ inte "fixa"</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>Error updating repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>inläsning?
 reading --&gt; loading?</note>
       <tuv lang="en">
@@ -6814,6 +6826,12 @@ reading --&gt; loading?</note>
       </tuv>
       <tuv lang="sv" changeid="Dorothy" changedate="20170802T160435Z">
         <seg>Fel {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>Error: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -15798,6 +15816,12 @@ Not OK
       </tuv>
       <tuv lang="sv" changeid="Dorothy" changedate="20190507T150229Z" creationid="Dorothy" creationdate="20190507T150229Z">
         <seg>Hoppar över redan inläst plugin från klass '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>Skipping.</seg>
       </tuv>
     </tu>
     <tu>
