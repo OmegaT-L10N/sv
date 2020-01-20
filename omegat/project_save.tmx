@@ -18471,16 +18471,16 @@ och skriptet linux-install.sh, och kör skriptet med ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
-      <tuv lang="sv" changeid="Dorothy" changedate="20171119T211607Z">
-        <seg>Översättningsenhet påträffad före TMX-huvud.</seg>
+      <tuv lang="sv" changeid="jvb" changedate="20200120T085742Z">
+        <seg>Översättningsenhet påträffades före TMX-huvud.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Translation unit variant encountered outside translation unit.</seg>
       </tuv>
-      <tuv lang="sv" changeid="Dorothy" changedate="20171117T070919Z">
-        <seg>Översättningsenhetsvariant påträffad utanför översättningsenhet.</seg>
+      <tuv lang="sv" changeid="jvb" changedate="20200120T085749Z">
+        <seg>Översättningsenhetsvariant påträffades utanför översättningsenhet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18908,9 +18908,7 @@ en fil med dokumentation samt OmegaT-programmet.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"fatal" vs. "unrecoverable"
-
-</note>
+      <note>"fatal" vs. "unrecoverable"</note>
       <tuv lang="en">
         <seg>Unrecoverable error while parsing TMX file
 {0}
