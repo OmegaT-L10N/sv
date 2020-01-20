@@ -175,9 +175,11 @@
       </tuv>
     </tu>
     <tu>
-      <note>Not OK</note>
       <tuv lang="en">
         <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="sv" changeid="jvb" changedate="20200120T092357Z">
+        <seg>&amp;Sök automatiskt efter segmenttext i ordlista</seg>
       </tuv>
     </tu>
     <tu>
