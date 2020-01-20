@@ -7963,8 +7963,7 @@ skript (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
-      <note>glosfiler?
-</note>
+      <note>glosfiler?</note>
       <tuv lang="en">
         <seg>Glossary Files Folder</seg>
       </tuv>
@@ -19944,8 +19943,7 @@ Båda exakt sökning och nyckelordssökning stödjer jokertecknen * och ?.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>file?
-</note>
+      <note>file?</note>
       <tuv lang="en">
         <seg>Writeable Glossary File</seg>
       </tuv>
