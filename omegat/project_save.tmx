@@ -5186,8 +5186,8 @@ Not OK</note>
       <tuv lang="en">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
-      <tuv lang="sv" changeid="Dorothy" changedate="20170709T175620Z">
-        <seg>Nuvarade minnesanvändning av VM: {0}MB; varav ledigt minne: {1}MB; max. tillgängligt: {2}MB</seg>
+      <tuv lang="sv" changeid="jvb" changedate="20200120T093841Z">
+        <seg>Aktuell minnesanvändning av VM: {0}MB; varav ledigt minne: {1}MB; max. tillgängligt: {2}MB</seg>
       </tuv>
     </tu>
     <tu>
@@ -7741,6 +7741,14 @@ skript (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="sv" changeid="Dorothy" changedate="20171117T103849Z">
         <seg>Från auto-minne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="sv" changeid="jvb" changedate="20200120T093715Z" creationid="jvb" creationdate="20200120T093715Z">
+        <seg>Från tvingande minne</seg>
       </tuv>
     </tu>
     <tu>
@@ -10897,13 +10905,11 @@ Not OK
       </tuv>
     </tu>
     <tu>
-      <note>global: current
-Det skulle kunna översättas med "pågående"</note>
       <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="sv" changeid="Dorothy" changedate="20180502T163008Z">
-        <seg>Matchningar kan hittas i din pågående översättning eller i de TMX-filer som du lagt i mappen /tm/.</seg>
+      <tuv lang="sv" changeid="jvb" changedate="20200120T093913Z">
+        <seg>Matchningar kan hittas i din aktuella översättning eller i de TMX-filer som du lagt i mappen /tm/.</seg>
       </tuv>
     </tu>
     <tu>
