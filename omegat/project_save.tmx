@@ -8981,6 +8981,14 @@ på den genvägen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="sv" changeid="jvb" changedate="20200120T092705Z" creationid="jvb" creationdate="20200120T092705Z">
+        <seg>Inkludera matchningar från &amp;andra språk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="sv" changeid="Dorothy" changedate="20171112T161642Z">
