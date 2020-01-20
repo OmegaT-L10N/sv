@@ -2427,6 +2427,12 @@ Aktuell inställning är {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
@@ -4705,6 +4711,12 @@ Not OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
@@ -5264,6 +5276,12 @@ Not OK</note>
       </tuv>
       <tuv lang="sv" changeid="Dorothy" changedate="20180501T042101Z" creationid="Dorothy" creationdate="20180501T042101Z">
         <seg>Anpassade färger…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>Custom server URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -6501,6 +6519,18 @@ ska det vara tag, som lite längre upp?</note>
 </note>
       <tuv lang="en">
         <seg>English version translators</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15023,11 +15053,23 @@ Omfånget för en sökning är som standard projektet och kan sättas till att v
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>Search Found Mark</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Search Project...</seg>
       </tuv>
       <tuv lang="sv" changeid="Dorothy" changedate="20180624T143251Z" creationid="Dorothy" creationdate="20180501T041707Z">
         <seg>Sök i projektet…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>Search Replaced Mark</seg>
       </tuv>
     </tu>
     <tu>
@@ -17533,6 +17575,12 @@ här heter det "memory"
       </tuv>
     </tu>
     <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
       </tuv>
@@ -18718,6 +18766,12 @@ Exakta sökningar matchar hela söksträngen.</seg>
       </tuv>
       <tuv lang="sv" changeid="Dorothy" changedate="20170729T084437Z">
         <seg>Det gick inte att skapa ny TMX-fil!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Not OK</note>
+      <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
       </tuv>
     </tu>
     <tu>
