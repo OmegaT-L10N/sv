@@ -12744,6 +12744,9 @@ consistency?</note>
       <tuv lang="en">
         <seg>Paragraph delimitation</seg>
       </tuv>
+      <tuv lang="sv" changeid="jvb" changedate="20200120T093247Z">
+        <seg>Styckeavgränsning</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="en">
